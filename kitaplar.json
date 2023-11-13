@@ -578,8 +578,8 @@
   {
     "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
     "yazar": "Jostein Gaarder",
-    "fiyat": "153,01",
-    "eski_fiyat": "275,00",
+    "fiyat": "227,50",
+    "eski_fiyat": "350,00",
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783714/wi:500/wh:true"
@@ -772,15 +772,6 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "Murder on the Orient Express | 9780112873976 | TÜRKÇE | 256 | Karton Kapak | 3. Hm. Kağıt 2023-08-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5558946/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kardeşimin Hikayesi",
-    "yazar": "Zülfü Livaneli",
-    "fiyat": "93,25",
-    "eski_fiyat": "135,00",
-    "yayinevi": "İNKILAP KİTABEVİ",
-    "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11455589/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çavdar Tarlasında Çocuklar",
