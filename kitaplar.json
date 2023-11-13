@@ -3951,15 +3951,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11675020/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Mavi Tarlalardan Yürü",
-    "yazar": "Claire Keegan",
-    "fiyat": "47,88",
-    "eski_fiyat": "60,00",
-    "yayinevi": "YÜZ KİTAP",
-    "kitap_hakkinda": "Walk The Blue Fields | 9786056492051 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2017-04-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3896655/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Korku (Cep Boy) (Tam Metin)",
     "yazar": "Stefan Zweig",
     "fiyat": "8,90",
@@ -4354,6 +4345,15 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "The Time Machine an Invention | 9786052952528 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2022-07-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4904215/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Oblomov",
+    "yazar": "İvan Gonçarov",
+    "fiyat": "92,40",
+    "eski_fiyat": "140,00",
+    "yayinevi": "YORDAM KİTAP",
+    "kitap_hakkinda": "Обломов - Oblomov | 9786051722405 | TÜRKÇE | 700 | Karton Kapak | Kitap Kağıdı 2020-03-26",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711735/wi:500/wh:true"
   },
   {
     "kitap_adi": "Vahşetin Çağrısı (Cep Boy) (Tam Metin)",
