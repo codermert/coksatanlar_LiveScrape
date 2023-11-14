@@ -245,7 +245,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "134,02",
+    "fiyat": "134,12",
     "eski_fiyat": "249,00",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -335,7 +335,7 @@
   {
     "kitap_adi": "Hain",
     "yazar": "Dr. Selim Erdoğan",
-    "fiyat": "71,47",
+    "fiyat": "71,50",
     "eski_fiyat": "120,00",
     "yayinevi": "KRONİK KİTAP",
     "kitap_hakkinda": "9786256989962 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-10-16",
@@ -389,7 +389,7 @@
   {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
-    "fiyat": "65,21",
+    "fiyat": "65,31",
     "eski_fiyat": "116,00",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -1136,7 +1136,7 @@
   {
     "kitap_adi": "Uçabileceğini Hayal Eden Tavuk",
     "yazar": "Sun-Mı Hwang",
-    "fiyat": "40,90",
+    "fiyat": "41,30",
     "eski_fiyat": "60,00",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050833942 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2022-04-15",
@@ -1325,7 +1325,7 @@
   {
     "kitap_adi": "Mektub",
     "yazar": "Paulo Coelho",
-    "fiyat": "77,08",
+    "fiyat": "77,10",
     "eski_fiyat": "130,00",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750761829 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-09-05",
@@ -3175,15 +3175,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Der Zauberberg | 9789750739842 | TÜRKÇE | 888 | Karton Kapak | 3. Hm. Kağıt 2020-07-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435001/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bin Muhteşem Güneş",
-    "yazar": "Khaled Hosseini",
-    "fiyat": "140,40",
-    "eski_fiyat": "195,00",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11324696/wi:500/wh:true"
   },
   {
     "kitap_adi": "Anayurt Oteli",
