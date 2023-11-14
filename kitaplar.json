@@ -587,7 +587,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "146,80",
+    "fiyat": "143,65",
     "eski_fiyat": "250,00",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2023-10-07",
@@ -1818,6 +1818,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11390613/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Seyir",
+    "yazar": "Piraye",
+    "fiyat": "140,40",
+    "eski_fiyat": "195,00",
+    "yayinevi": "MONA KİTAP",
+    "kitap_hakkinda": "9786052182734 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-01-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11707321/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Satranç",
     "yazar": "Stefan Zweig",
     "fiyat": "14,90",
@@ -2986,6 +2995,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "9786059681407 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2016-07-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4908579/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kadınlar Ülkesi",
+    "yazar": "Charlotte Perkins Gilman",
+    "fiyat": "43,20",
+    "eski_fiyat": "60,00",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Herland | 9786053758723 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2023-04-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11707324/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sevgili Arsız Ölüm",
