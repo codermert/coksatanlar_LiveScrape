@@ -461,7 +461,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "78,44",
+    "fiyat": "78,56",
     "eski_fiyat": "145,00",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -3373,6 +3373,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953560 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2012-10-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:96328/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bin Muhteşem Güneş",
+    "yazar": "Khaled Hosseini",
+    "fiyat": "140,40",
+    "eski_fiyat": "195,00",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11324696/wi:500/wh:true"
   },
   {
     "kitap_adi": "Unutma Beni Apartmanı",
