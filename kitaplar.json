@@ -3566,7 +3566,7 @@
   {
     "kitap_adi": "Babil Kulesi Kitabı & Kelime ve Kavramların Dilden Dile Yolculukları",
     "yazar": "Mahir Ünsal Eriş",
-    "fiyat": "134,31",
+    "fiyat": "128,93",
     "eski_fiyat": "188,50",
     "yayinevi": "KAFKA KİTAP",
     "kitap_hakkinda": "9786257994828 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2023-07-31",
@@ -3652,6 +3652,15 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9786053609308 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2019-03-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:129979/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Frankenstein ya da Modern Prometheus (Karton Kapak)",
+    "yazar": "Mary Shelley",
+    "fiyat": "43,56",
+    "eski_fiyat": "66,00",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "Frankenstein or the Modern Prometheus | 9786053327325 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-05-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1174157/wi:500/wh:true"
   },
   {
     "kitap_adi": "Anayurt Oteli",
