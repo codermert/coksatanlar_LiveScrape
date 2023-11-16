@@ -38,7 +38,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "105,30",
+    "fiyat": "87,09",
     "eski_fiyat": "135,00",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -4327,6 +4327,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257419598 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2021-09-17",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11455576/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Huzursuzluğun Kitabı",
+    "yazar": "Fernando Pessoa",
+    "fiyat": "86,40",
+    "eski_fiyat": "120,00",
+    "yayinevi": "AYRINTI YAYINLARI",
+    "kitap_hakkinda": "Livro do Desassossego / The Book of Disquiet | 9786053145905 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-07-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742797/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağır Ceza Mahkemesi Anıları (Cep Boy) (Tam Metin)",
