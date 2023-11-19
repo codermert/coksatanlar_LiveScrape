@@ -803,7 +803,7 @@
   {
     "kitap_adi": "Bavula Sığmayan",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "55,20",
+    "fiyat": "60,72",
     "eski_fiyat": "92,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051924991 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2022-12-08",
@@ -1262,7 +1262,7 @@
   {
     "kitap_adi": "Dokunmadan",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "72,00",
+    "fiyat": "79,20",
     "eski_fiyat": "120,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920429 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2022-11-15",
@@ -1640,7 +1640,7 @@
   {
     "kitap_adi": "Unutma Beni Apartmanı",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "90,00",
+    "fiyat": "99,00",
     "eski_fiyat": "150,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920849 | TÜRKÇE | 424 | Karton Kapak | Kitap Kağıdı 2022-02-03",
@@ -2261,7 +2261,7 @@
   {
     "kitap_adi": "Rüyalar Anlatılmaz",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "75,00",
+    "fiyat": "82,50",
     "eski_fiyat": "125,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920856 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2021-07-30",
@@ -2441,7 +2441,7 @@
   {
     "kitap_adi": "Unutma Dersleri",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "72,00",
+    "fiyat": "79,20",
     "eski_fiyat": "120,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051923758 | TÜRKÇE | 312 | Karton Kapak | Kitap Kağıdı 2021-01-04",
@@ -3035,7 +3035,7 @@
   {
     "kitap_adi": "Saklı Bahçeler Haritası",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "78,00",
+    "fiyat": "85,80",
     "eski_fiyat": "130,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051922478 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2021-10-26",
@@ -3420,15 +3420,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11614738/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Güneşin İki Yüzü",
-    "yazar": "Bahar Eriş",
-    "fiyat": "79,20",
-    "eski_fiyat": "110,00",
-    "yayinevi": "ALFA YAYINLARI",
-    "kitap_hakkinda": "9786254496998 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711831/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Icebreaker",
     "yazar": "Hannah Grace",
     "fiyat": "98,15",
@@ -3566,7 +3557,7 @@
   {
     "kitap_adi": "Misafir",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "75,00",
+    "fiyat": "82,50",
     "eski_fiyat": "125,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051922454 | TÜRKÇE | 332 | Karton Kapak | Kitap Kağıdı 2018-11-03",
@@ -3647,7 +3638,7 @@
   {
     "kitap_adi": "Ev",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "96,00",
+    "fiyat": "105,60",
     "eski_fiyat": "160,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051923994 | TÜRKÇE | 456 | Karton Kapak | Kitap Kağıdı 2020-11-03",
@@ -3755,7 +3746,7 @@
   {
     "kitap_adi": "İliklerine Kadar Yazmak",
     "yazar": "Natalie Goldberg",
-    "fiyat": "66,00",
+    "fiyat": "75,63",
     "eski_fiyat": "110,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051925127 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2023-08-01",
@@ -4151,7 +4142,7 @@
   {
     "kitap_adi": "İliklerine Kadar Yazmak: İçindeki Yazarı Özgür Bırakmak İçin 60 Kart",
     "yazar": "Natalie Goldberg",
-    "fiyat": "156,00",
+    "fiyat": "178,75",
     "eski_fiyat": "260,00",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051925295 | TÜRKÇE | 60 | Karton Kapak | Kitap Kağıdı 2023-11-14",
