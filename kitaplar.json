@@ -110,7 +110,7 @@
   {
     "kitap_adi": "Simyacı (Ciltsiz)",
     "yazar": "Paulo Coelho",
-    "fiyat": "69,80",
+    "fiyat": "69,90",
     "eski_fiyat": "125,00",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
@@ -119,7 +119,7 @@
   {
     "kitap_adi": "Kayıp Ağaçlar Adası",
     "yazar": "Elif Şafak",
-    "fiyat": "105,24",
+    "fiyat": "105,34",
     "eski_fiyat": "195,00",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "The Island of Missing Trees | 9786256843158 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-07-21",
@@ -200,7 +200,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "125,30",
+    "fiyat": "125,40",
     "eski_fiyat": "249,00",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -209,7 +209,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "53,79",
+    "fiyat": "53,89",
     "eski_fiyat": "90,00",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -218,7 +218,7 @@
   {
     "kitap_adi": "Serenad",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "103,37",
+    "fiyat": "103,47",
     "eski_fiyat": "165,00",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042668 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -380,7 +380,7 @@
   {
     "kitap_adi": "Fahrenheit 451",
     "yazar": "Ray Bradbury",
-    "fiyat": "82,20",
+    "fiyat": "82,30",
     "eski_fiyat": "150,00",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786053757818 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -515,7 +515,7 @@
   {
     "kitap_adi": "Sol Ayağım",
     "yazar": "Christy Brown",
-    "fiyat": "71,80",
+    "fiyat": "66,75",
     "eski_fiyat": "119,00",
     "yayinevi": "NORA KİTAP",
     "kitap_hakkinda": "9786257359740 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2017-08-25",
@@ -875,7 +875,7 @@
   {
     "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
     "yazar": "Jostein Gaarder",
-    "fiyat": "183,16",
+    "fiyat": "183,26",
     "eski_fiyat": "350,00",
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
@@ -2446,15 +2446,6 @@
     "yayinevi": "KOLEKTİF KİTAP",
     "kitap_hakkinda": "9786052205259 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2018-12-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7604529/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Botter Apartmanı",
-    "yazar": "Ayşe Övür",
-    "fiyat": "69,50",
-    "eski_fiyat": "100,00",
-    "yayinevi": "REMZİ KİTABEVİ",
-    "kitap_hakkinda": "9789751418975 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-06-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8589264/wi:500/wh:true"
   },
   {
     "kitap_adi": "Seyir",
