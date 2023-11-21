@@ -2970,6 +2970,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795646/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Mülksüzler",
+    "yazar": "Ursula K. Le Guin",
+    "fiyat": "137,62",
+    "eski_fiyat": "188,00",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11612179/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İmkansızın Şarkısı",
     "yazar": "Haruki Murakami",
     "fiyat": "111,88",
@@ -3157,15 +3166,6 @@
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051925295 | TÜRKÇE | 60 | Karton Kapak | Kitap Kağıdı 2023-11-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11798487/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Mülksüzler",
-    "yazar": "Ursula K. Le Guin",
-    "fiyat": "137,62",
-    "eski_fiyat": "188,00",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11612179/wi:500/wh:true"
   },
   {
     "kitap_adi": "Görme Biçimleri",
