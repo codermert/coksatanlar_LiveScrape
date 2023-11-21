@@ -479,7 +479,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "95,72",
+    "fiyat": "95,84",
     "eski_fiyat": "250,00",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -713,7 +713,7 @@
   {
     "kitap_adi": "Dünyanın En Kötü Oteli Nerede? & Pazar Sohbetleri 4",
     "yazar": "Sevan Nişanyan",
-    "fiyat": "132,60",
+    "fiyat": "121,04",
     "eski_fiyat": "170,00",
     "yayinevi": "LİBERUS",
     "kitap_hakkinda": "9786256982819 | TÜRKÇE | 324 | Karton Kapak | Kitap Kağıdı 2023-11-13",
@@ -1771,6 +1771,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Pandora no hako | 9786052650493 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2023-11-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713738/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Güneşteki Adamlar",
+    "yazar": "Gassan Kanafani",
+    "fiyat": "51,24",
+    "eski_fiyat": "70,00",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "Ricâlun fi’ş-Şems | 9786053162773 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2023-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711433/wi:500/wh:true"
   },
   {
     "kitap_adi": "Demirciler Çarşısı Cinayeti / Akçasazın Ağaları 1",
@@ -4084,6 +4093,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "For Whom the Bell Tolls | 9789752201699 | TÜRKÇE | 636 | Karton Kapak | Kitap Kağıdı 2018-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7672924/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Uzun Sürmüş Bir Günün Akşamı",
+    "yazar": "Bilge Karasu",
+    "fiyat": "68,81",
+    "eski_fiyat": "94,00",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "9789753422260 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-09-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9643468/wi:500/wh:true"
   },
   {
     "kitap_adi": "Asılacak Kadın",
