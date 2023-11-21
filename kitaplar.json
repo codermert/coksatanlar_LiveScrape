@@ -2106,6 +2106,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11789087/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Koku (Ciltsiz)",
+    "yazar": "Patrick Süskind",
+    "fiyat": "94,25",
+    "eski_fiyat": "145,00",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750737992 | TÜRKÇE | 264 | Karton Kapak | 3. Hm. Kağıt 2023-08-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755781/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
     "yazar": "Orhan Veli Kanık",
     "fiyat": "24,30",
@@ -2266,15 +2275,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753639019 | TÜRKÇE | 161 | Karton Kapak | Kitap Kağıdı 2020-07-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:76484/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Koku (Ciltsiz)",
-    "yazar": "Patrick Süskind",
-    "fiyat": "94,25",
-    "eski_fiyat": "145,00",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750737992 | TÜRKÇE | 264 | Karton Kapak | 3. Hm. Kağıt 2023-08-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755781/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsancıklar",
@@ -3634,6 +3634,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "9786258462180 | TÜRKÇE | 94 | Karton Kapak | Kitap Kağıdı 2021-12-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11502135/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Huzursuzluğun Kitabı",
+    "yazar": "Fernando Pessoa",
+    "fiyat": "86,40",
+    "eski_fiyat": "120,00",
+    "yayinevi": "AYRINTI YAYINLARI",
+    "kitap_hakkinda": "Livro do Desassossego / The Book of Disquiet | 9786053145905 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-07-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742797/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yeraltından Notlar (Ciltli, İplik Dikişli)",
