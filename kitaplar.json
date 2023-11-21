@@ -2106,6 +2106,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11789087/wi:500/wh:true"
   },
   {
+    "kitap_adi": "1984",
+    "yazar": "George Orwell",
+    "fiyat": "52,50",
+    "eski_fiyat": "80,00",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Koku (Ciltsiz)",
     "yazar": "Patrick Süskind",
     "fiyat": "94,25",
@@ -4032,6 +4041,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795110/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Acı Kahve",
+    "yazar": "Agatha Christie",
+    "fiyat": "46,90",
+    "eski_fiyat": "72,00",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Black Coffee | 9789754058789 | TÜRKÇE | 152 | Karton Kapak | 3. Hm. Kağıt 2023-02-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11676580/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Çanlar Kimin İçin Çalıyor",
     "yazar": "Ernest Hemingway",
     "fiyat": "165,31",
@@ -4255,6 +4273,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257361729 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-04-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11404527/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Tebeşir Tozu",
+    "yazar": "Sezer Ortadağ",
+    "fiyat": "97,13",
+    "eski_fiyat": "142,00",
+    "yayinevi": "NEMESİS KİTAP",
+    "kitap_hakkinda": "9786257359511 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2021-10-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11461224/wi:500/wh:true"
   },
   {
     "kitap_adi": "Huzursuzluk",
