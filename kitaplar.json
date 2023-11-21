@@ -1746,6 +1746,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7129911/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Saç Örgüsü",
+    "yazar": "Laetitia Colombani",
+    "fiyat": "82,80",
+    "eski_fiyat": "115,00",
+    "yayinevi": "YAN PASAJ",
+    "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2023-09-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11637593/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Ay Işığı Sokağı",
     "yazar": "Stefan Zweig",
     "fiyat": "13,33",
@@ -4120,6 +4129,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750732980 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2022-04-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11411527/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Toza Sor",
+    "yazar": "John Fante",
+    "fiyat": "50,40",
+    "eski_fiyat": "70,00",
+    "yayinevi": "PARANTEZ YAYINLARI",
+    "kitap_hakkinda": "Ask The Dust | 9789758441068 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2018-02-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11703013/wi:500/wh:true"
   },
   {
     "kitap_adi": "Suskunlar",
