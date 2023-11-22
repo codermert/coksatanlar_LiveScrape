@@ -47,7 +47,7 @@
   {
     "kitap_adi": "Suyu Arayan Adam",
     "yazar": "Şevket Süreyya Aydemir",
-    "fiyat": "125,20",
+    "fiyat": "133,38",
     "eski_fiyat": "180,00",
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
@@ -119,7 +119,7 @@
   {
     "kitap_adi": "Kayıp Ağaçlar Adası",
     "yazar": "Elif Şafak",
-    "fiyat": "105,74",
+    "fiyat": "105,84",
     "eski_fiyat": "195,00",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "The Island of Missing Trees | 9786256843158 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-07-21",
@@ -3913,6 +3913,15 @@
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751404756 | TÜRKÇE | 303 | Karton Kapak | Kitap Kağıdı 2019-11-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10282905/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Bilim Adamının Romanı / Bütün Eserleri 5",
+    "yazar": "Oğuz Atay",
+    "fiyat": "103,94",
+    "eski_fiyat": "142,00",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700671 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2021-06-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11223160/wi:500/wh:true"
   },
   {
     "kitap_adi": "Rüzgarı Dizginleyen Çocuk",
