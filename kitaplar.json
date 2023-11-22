@@ -659,7 +659,7 @@
   {
     "kitap_adi": "Çavdar Tarlasında Çocuklar",
     "yazar": "J. D. Salinger",
-    "fiyat": "49,30",
+    "fiyat": "49,40",
     "eski_fiyat": "85,00",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
@@ -803,7 +803,7 @@
   {
     "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
     "yazar": "Jostein Gaarder",
-    "fiyat": "183,37",
+    "fiyat": "183,47",
     "eski_fiyat": "350,00",
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
@@ -884,7 +884,7 @@
   {
     "kitap_adi": "Kalk Yerine Yat",
     "yazar": "Şermin Yaşar",
-    "fiyat": "67,33",
+    "fiyat": "67,43",
     "eski_fiyat": "110,00",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786258036107 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2021-11-25",
@@ -1082,7 +1082,7 @@
   {
     "kitap_adi": "Kırlangıç Çığlığı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "81,30",
+    "fiyat": "81,40",
     "eski_fiyat": "135,00",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750845857 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-09-28",
@@ -1685,7 +1685,7 @@
   {
     "kitap_adi": "Göçüp Gidenler Koleksiyoncusu",
     "yazar": "Şermin Yaşar",
-    "fiyat": "65,89",
+    "fiyat": "65,99",
     "eski_fiyat": "110,00",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050955453 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2018-12-27",
@@ -2716,6 +2716,15 @@
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920856 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2021-07-30",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11438403/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Özgürlüğün Fecri",
+    "yazar": "Abdullah Galib Bergusi",
+    "fiyat": "78,00",
+    "eski_fiyat": "100,00",
+    "yayinevi": "EKİN YAYINLARI",
+    "kitap_hakkinda": "9786055146696 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2021-12-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11491810/wi:500/wh:true"
   },
   {
     "kitap_adi": "Düşler Atlası",
