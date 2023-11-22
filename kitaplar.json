@@ -3348,6 +3348,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Dörtlükler (Karton Kapak) & Rubailer",
+    "yazar": "Ömer Hayyam",
+    "fiyat": "29,04",
+    "eski_fiyat": "44,00",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "9789754586923 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2019-09-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6490607/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sabır Taşı",
     "yazar": "Atiq Rahimi",
     "fiyat": "43,88",
@@ -4192,6 +4201,15 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9789944887427 | TÜRKÇE | 365 | Karton Kapak | Kitap Kağıdı 2018-05-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:288763/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gençlerle Başbaşa",
+    "yazar": "Ord. Prof. Dr. Ali Fuad Başgil",
+    "fiyat": "24,50",
+    "eski_fiyat": "35,00",
+    "yayinevi": "YAĞMUR YAYINLARI",
+    "kitap_hakkinda": "9789757747116 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2021-03-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11381715/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dul",
