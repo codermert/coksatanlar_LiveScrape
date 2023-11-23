@@ -236,7 +236,7 @@
   {
     "kitap_adi": "Sağlıklı, Ahlaklı ve Mutlu Kız Çocuğu Yetiştirmek",
     "yazar": "Hatice Kübra Tongar",
-    "fiyat": "84,50",
+    "fiyat": "84,07",
     "eski_fiyat": "130,00",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259897912 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-10-11",
@@ -4021,6 +4021,15 @@
     "yayinevi": "NEMESİS KİTAP",
     "kitap_hakkinda": "9786257359511 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2021-10-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11461224/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Huzursuzluk",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "81,84",
+    "eski_fiyat": "110,00",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751042675 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-11-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11482999/wi:500/wh:true"
   },
   {
     "kitap_adi": "Nikola Tesla’nın İlginç Yaşamı (Cep Boy) (Tam Metin)",
