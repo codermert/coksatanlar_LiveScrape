@@ -173,7 +173,7 @@
   {
     "kitap_adi": "Kıl Niyazi",
     "yazar": "Hatice Kübra Tongar",
-    "fiyat": "39,00",
+    "fiyat": "38,53",
     "eski_fiyat": "60,00",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259897905 | TÜRKÇE | 56 | Karton Kapak | Kitap Kağıdı 2023-10-11",
@@ -3517,6 +3517,15 @@
     "yayinevi": "PANAMA YAYINCILIK",
     "kitap_hakkinda": "9789752444959 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-07-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11592121/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Özgürlüğün Fecri",
+    "yazar": "Abdullah Galib Bergusi",
+    "fiyat": "72,00",
+    "eski_fiyat": "100,00",
+    "yayinevi": "EKİN YAYINLARI",
+    "kitap_hakkinda": "9786055146696 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2021-12-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11491810/wi:500/wh:true"
   },
   {
     "kitap_adi": "Anna Karenina (2 Cilt Takım)",
