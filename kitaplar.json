@@ -1377,6 +1377,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11781199/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Küçük Ağaç'ın Eğitimi",
+    "yazar": "Forrest Carter",
+    "fiyat": "108,00",
+    "eski_fiyat": "150,00",
+    "yayinevi": "SAY YAYINLARI",
+    "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
     "fiyat": "63,63",
@@ -1528,15 +1537,6 @@
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786257027014 | TÜRKÇE | 105 | Karton Kapak | Kitap Kağıdı 2021-11-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10837358/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Küçük Ağaç'ın Eğitimi",
-    "yazar": "Forrest Carter",
-    "fiyat": "108,00",
-    "eski_fiyat": "150,00",
-    "yayinevi": "SAY YAYINLARI",
-    "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sergüzeşt",
@@ -3555,6 +3555,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11772007/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Tehlikeli Oyunlar / Bütün Eserleri 2",
+    "yazar": "Oğuz Atay",
+    "fiyat": "145,67",
+    "eski_fiyat": "199,00",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kızıl Nehirler",
     "yazar": "Jean Christophe Grange",
     "fiyat": "121,68",
@@ -3796,15 +3805,6 @@
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "Livro do Desassossego / The Book of Disquiet | 9786053145905 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-07-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742797/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Tehlikeli Oyunlar / Bütün Eserleri 2",
-    "yazar": "Oğuz Atay",
-    "fiyat": "145,67",
-    "eski_fiyat": "199,00",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
   },
   {
     "kitap_adi": "Öğrenci Kız",
