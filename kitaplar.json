@@ -3420,15 +3420,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345526/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Zorba (Ciltsiz)",
-    "yazar": "Nikos Kazancakis",
-    "fiyat": "112,10",
-    "eski_fiyat": "170,00",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789755101613 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2019-07-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784603/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Değirmen",
     "yazar": "Sabahattin Ali",
     "fiyat": "12,85",
@@ -3825,15 +3816,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713735/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Drina Köprüsü",
-    "yazar": "İvo Andriç",
-    "fiyat": "159,58",
-    "eski_fiyat": "218,00",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "Na Drini Cuprija | 9789754707823 | TÜRKÇE | 354 | Karton Kapak | Kitap Kağıdı 2023-03-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:91162/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Sihirli Ağaç Evi -Çizgi Roman- 2: Gizemli Şövalye",
     "yazar": "Mary Pope Osborne",
     "fiyat": "56,10",
@@ -3985,6 +3967,15 @@
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9789754370539 | TÜRKÇE | 413 | Karton Kapak | 3. Hm. Kağıt 2020-12-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633742/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Drina Köprüsü",
+    "yazar": "İvo Andriç",
+    "fiyat": "159,58",
+    "eski_fiyat": "218,00",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "Na Drini Cuprija | 9789754707823 | TÜRKÇE | 354 | Karton Kapak | Kitap Kağıdı 2023-03-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:91162/wi:500/wh:true"
   },
   {
     "kitap_adi": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca",
@@ -4372,6 +4363,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953126 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2016-01-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6376052/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Korkuyu Beklerken / Bütün Eserleri 4",
+    "yazar": "Oğuz Atay",
+    "fiyat": "83,45",
+    "eski_fiyat": "114,00",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754701586 | TÜRKÇE | 202 | Karton Kapak | 3. Hm. Kağıt 2022-01-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11451946/wi:500/wh:true"
   },
   {
     "kitap_adi": "Karısını Şapka Sanan Adam",
