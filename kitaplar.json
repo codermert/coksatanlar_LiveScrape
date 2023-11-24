@@ -765,15 +765,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:60346/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
-    "yazar": "William Golding",
-    "fiyat": "42,31",
-    "eski_fiyat": "66,00",
-    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
-    "kitap_hakkinda": "Lord of the Flies | 9789754582901 | TÜRKÇE | 261 | Karton Kapak | Kitap Kağıdı 2019-07-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4060201/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Nar Ağacı",
     "yazar": "Prof. Dr. Nazan Bekiroğlu",
     "fiyat": "165,00",
@@ -871,6 +862,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750531170 | TÜRKÇE | 540 | Karton Kapak | Kitap Kağıdı 2021-12-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11429321/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
+    "yazar": "William Golding",
+    "fiyat": "42,31",
+    "eski_fiyat": "66,00",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "Lord of the Flies | 9789754582901 | TÜRKÇE | 261 | Karton Kapak | Kitap Kağıdı 2019-07-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4060201/wi:500/wh:true"
   },
   {
     "kitap_adi": "Masal Masal İçinde",
@@ -1422,15 +1422,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487269/wi:500/wh:true"
   },
   {
-    "kitap_adi": "1984",
-    "yazar": "George Orwell",
-    "fiyat": "52,50",
-    "eski_fiyat": "80,00",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Güneşteki Adamlar",
     "yazar": "Gassan Kanafani",
     "fiyat": "51,24",
@@ -1456,6 +1447,15 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Woman at Point Zero | 9789753421959 | TÜRKÇE | 112 | Karton Kapak | 3. Hm. Kağıt 2023-05-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711429/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "1984",
+    "yazar": "George Orwell",
+    "fiyat": "52,50",
+    "eski_fiyat": "80,00",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sokrates’in Savunması",
@@ -3114,15 +3114,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3473516/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Uzun Sürmüş Bir Günün Akşamı",
-    "yazar": "Bilge Karasu",
-    "fiyat": "68,81",
-    "eski_fiyat": "94,00",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "9789753422260 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-09-21",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9643468/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Rüyalar Anlatılmaz",
     "yazar": "Nermin Yıldırım",
     "fiyat": "82,50",
@@ -4354,6 +4345,15 @@
     "yayinevi": "İZ YAYINCILIK",
     "kitap_hakkinda": "9789753551663 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708603/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Acı Kahve",
+    "yazar": "Agatha Christie",
+    "fiyat": "46,90",
+    "eski_fiyat": "72,00",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Black Coffee | 9789754058789 | TÜRKÇE | 152 | Karton Kapak | 3. Hm. Kağıt 2023-02-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11676580/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çanlar Kimin İçin Çalıyor",
