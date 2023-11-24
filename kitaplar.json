@@ -2160,15 +2160,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:12211/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Mülksüzler",
-    "yazar": "Ursula K. Le Guin",
-    "fiyat": "137,62",
-    "eski_fiyat": "188,00",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11612179/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kabil",
     "yazar": "Jose Saramago",
     "fiyat": "82,20",
@@ -2583,6 +2574,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11774546/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Mülksüzler",
+    "yazar": "Ursula K. Le Guin",
+    "fiyat": "137,62",
+    "eski_fiyat": "188,00",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11612179/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Huzursuzluğun Kitabı",
     "yazar": "Fernando Pessoa",
     "fiyat": "123,50",
@@ -2860,6 +2860,15 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kambur",
+    "yazar": "Şule Gürbüz",
+    "fiyat": "43,19",
+    "eski_fiyat": "59,00",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754703139 | TÜRKÇE | 92 | Karton Kapak | Kitap Kağıdı 2019-02-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:202444/wi:500/wh:true"
   },
   {
     "kitap_adi": "Lavinia - Aşk Şiirleri",
@@ -4372,6 +4381,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754701586 | TÜRKÇE | 202 | Karton Kapak | 3. Hm. Kağıt 2022-01-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11451946/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Bilim Adamının Romanı / Bütün Eserleri 5",
+    "yazar": "Oğuz Atay",
+    "fiyat": "103,94",
+    "eski_fiyat": "142,00",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700671 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2021-06-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11223160/wi:500/wh:true"
   },
   {
     "kitap_adi": "Karısını Şapka Sanan Adam",
