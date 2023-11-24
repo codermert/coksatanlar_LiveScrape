@@ -3456,15 +3456,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11440152/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kör Baykuş",
-    "yazar": "Sadık Hidayet",
-    "fiyat": "34,38",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "Buf-i Kur | 9789750803024 | TÜRKÇE | 95 | Karton Kapak | 3. Hm. Kağıt 2019-05-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11209319/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Mürebbiye",
     "yazar": "Hüseyin Rahmi Gürpınar",
     "fiyat": "12,88",
@@ -4390,6 +4381,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700671 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2021-06-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11223160/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kör Baykuş",
+    "yazar": "Sadık Hidayet",
+    "fiyat": "34,38",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "Buf-i Kur | 9789750803024 | TÜRKÇE | 95 | Karton Kapak | 3. Hm. Kağıt 2019-05-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11209319/wi:500/wh:true"
   },
   {
     "kitap_adi": "Karısını Şapka Sanan Adam",
