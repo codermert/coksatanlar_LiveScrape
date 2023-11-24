@@ -3141,15 +3141,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11592015/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Satranç (Ciltsiz)",
-    "yazar": "Stefan Zweig",
-    "fiyat": "24,70",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750725708 | TÜRKÇE | 71 | Karton Kapak | 3. Hm. Kağıt 2019-09-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11468326/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kadınlar Ülkesi",
     "yazar": "Charlotte Perkins Gilman",
     "fiyat": "43,20",
@@ -3337,6 +3328,15 @@
     "yayinevi": "VAKIFBANK KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9786256385832 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-11-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11802898/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Satranç (Ciltsiz)",
+    "yazar": "Stefan Zweig",
+    "fiyat": "24,70",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750725708 | TÜRKÇE | 71 | Karton Kapak | 3. Hm. Kağıt 2019-09-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11468326/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gün Doğmadan",
