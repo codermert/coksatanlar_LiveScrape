@@ -3348,15 +3348,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11590299/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Gün Doğmadan",
-    "yazar": "Sezai Karakoç",
-    "fiyat": "126,00",
-    "eski_fiyat": "",
-    "yayinevi": "DİRİLİŞ YAYINLARI",
-    "kitap_hakkinda": "9786057144072 | TÜRKÇE | 686 | Karton Kapak | Kitap Kağıdı 2020-12-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1107187/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Toz ve Hayaller Kitapçısı",
     "yazar": "Mindy Thompson",
     "fiyat": "98,10",
@@ -3805,6 +3796,15 @@
     "yayinevi": "PARANTEZ YAYINLARI",
     "kitap_hakkinda": "Ask The Dust | 9789758441068 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2018-02-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11703013/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gün Doğmadan",
+    "yazar": "Sezai Karakoç",
+    "fiyat": "126,00",
+    "eski_fiyat": "",
+    "yayinevi": "DİRİLİŞ YAYINLARI",
+    "kitap_hakkinda": "9786057144072 | TÜRKÇE | 686 | Karton Kapak | Kitap Kağıdı 2020-12-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1107187/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sinekli Bakkal",
