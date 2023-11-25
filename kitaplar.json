@@ -1010,7 +1010,7 @@
   {
     "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
     "yazar": "William Golding",
-    "fiyat": "42,34",
+    "fiyat": "41,35",
     "eski_fiyat": "",
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "Lord of the Flies | 9789754582901 | TÜRKÇE | 261 | Karton Kapak | Kitap Kağıdı 2019-07-25",
@@ -3033,15 +3033,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11427968/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Şeytanın Çırağı",
-    "yazar": "Şiro Hamao",
-    "fiyat": "40,32",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Akuma no deshi | 9786258475418 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-05-12",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713736/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Böyle Küçük Şeyler",
     "yazar": "Claire Keegan",
     "fiyat": "46,50",
@@ -4104,6 +4095,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:91162/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kör Baykuş",
+    "yazar": "Sadık Hidayet",
+    "fiyat": "34,38",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "Buf-i Kur | 9789750803024 | TÜRKÇE | 95 | Karton Kapak | 3. Hm. Kağıt 2019-05-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11209319/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Karısını Şapka Sanan Adam",
     "yazar": "Oliver Sacks",
     "fiyat": "72,10",
@@ -4381,15 +4381,6 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700671 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2021-06-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11223160/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kör Baykuş",
-    "yazar": "Sadık Hidayet",
-    "fiyat": "34,38",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "Buf-i Kur | 9789750803024 | TÜRKÇE | 95 | Karton Kapak | 3. Hm. Kağıt 2019-05-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11209319/wi:500/wh:true"
   },
   {
     "kitap_adi": "Afili Hafiye",
