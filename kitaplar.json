@@ -236,7 +236,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "17,50",
+    "fiyat": "17,21",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -3105,15 +3105,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742708/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Çakıcı'nın İlk Kurşunu",
-    "yazar": "Sabahattin Ali",
-    "fiyat": "24,48",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750803505 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2019-03-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:296020/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Çarpık Yalanlar / Twisted Serisi 4. Kitap",
     "yazar": "Ana Huang",
     "fiyat": "95,00",
@@ -3193,6 +3184,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Çakıcı'nın İlk Kurşunu",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "24,48",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750803505 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2019-03-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:296020/wi:500/wh:true"
   },
   {
     "kitap_adi": "Az",
