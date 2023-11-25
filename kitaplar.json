@@ -1386,15 +1386,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345505/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Siddhartha (Ciltsiz)",
-    "yazar": "Hermann Hesse",
-    "fiyat": "63,63",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11260682/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "İnsan Neyle Yaşar?",
     "yazar": "Lev N. Tolstoy",
     "fiyat": "13,00",
@@ -1681,6 +1672,15 @@
     "yayinevi": "SİREN YAYINLARI",
     "kitap_hakkinda": "9786057260130 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2023-10-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783379/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Siddhartha (Ciltsiz)",
+    "yazar": "Hermann Hesse",
+    "fiyat": "63,63",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11260682/wi:500/wh:true"
   },
   {
     "kitap_adi": "Deli Tarla",
