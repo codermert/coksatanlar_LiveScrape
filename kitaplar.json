@@ -3609,15 +3609,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345359/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Toza Sor",
-    "yazar": "John Fante",
-    "fiyat": "50,40",
-    "eski_fiyat": "",
-    "yayinevi": "PARANTEZ YAYINLARI",
-    "kitap_hakkinda": "Ask The Dust | 9789758441068 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2018-02-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11703013/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Görünmez Adam",
     "yazar": "Herbert George Wells",
     "fiyat": "12,90",
@@ -3805,6 +3796,15 @@
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9789754370539 | TÜRKÇE | 413 | Karton Kapak | 3. Hm. Kağıt 2020-12-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633742/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Toza Sor",
+    "yazar": "John Fante",
+    "fiyat": "50,40",
+    "eski_fiyat": "",
+    "yayinevi": "PARANTEZ YAYINLARI",
+    "kitap_hakkinda": "Ask The Dust | 9789758441068 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2018-02-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11703013/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sinekli Bakkal",
