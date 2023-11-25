@@ -2835,15 +2835,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11361994/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Demirciler Çarşısı Cinayeti / Akçasazın Ağaları 1",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "95,70",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807367 | TÜRKÇE | 572 | Karton Kapak | Kitap Kağıdı 2019-03-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11607146/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Dorian Gray'in Portresi (Ciltli, İplik Dikişli)",
     "yazar": "Oscar Wilde",
     "fiyat": "29,90",
@@ -2923,6 +2914,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97154/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Demirciler Çarşısı Cinayeti / Akçasazın Ağaları 1",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "95,70",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807367 | TÜRKÇE | 572 | Karton Kapak | Kitap Kağıdı 2019-03-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11607146/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kapak Kızı",
