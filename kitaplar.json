@@ -3465,15 +3465,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "145,20",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750806735 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-07-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97152/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Ateşten Gömlek",
     "yazar": "Halide Edib Adıvar",
     "fiyat": "87,78",
@@ -3823,6 +3814,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "For Whom the Bell Tolls | 9789752201699 | TÜRKÇE | 636 | Karton Kapak | Kitap Kağıdı 2018-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7672924/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "145,20",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750806735 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-07-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97152/wi:500/wh:true"
   },
   {
     "kitap_adi": "Aziz Bey Hadisesi",
