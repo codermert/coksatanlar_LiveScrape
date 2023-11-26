@@ -1944,6 +1944,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kinyas ve Kayra",
+    "yazar": "Hakan Günday",
+    "fiyat": "185,26",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784545/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Ağrıdağı Efsanesi",
     "yazar": "Yaşar Kemal",
     "fiyat": "54,45",
@@ -2005,15 +2014,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784269 | TÜRKÇE | 56 | Karton Kapak | Kitap Kağıdı 2020-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332538/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kinyas ve Kayra",
-    "yazar": "Hakan Günday",
-    "fiyat": "185,26",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784545/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kuyucaklı Yusuf",
