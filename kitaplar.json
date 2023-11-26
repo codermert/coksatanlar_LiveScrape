@@ -461,7 +461,7 @@
   {
     "kitap_adi": "Sol Ayağım",
     "yazar": "Christy Brown",
-    "fiyat": "66,86",
+    "fiyat": "66,97",
     "eski_fiyat": "",
     "yayinevi": "NORA KİTAP",
     "kitap_hakkinda": "9786257359740 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2017-08-25",
@@ -3816,15 +3816,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776333/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Gün Olur Asra Bedel",
-    "yazar": "Cengiz Aytmatov",
-    "fiyat": "101,79",
-    "eski_fiyat": "",
-    "yayinevi": "ÖTÜKEN NEŞRİYAT",
-    "kitap_hakkinda": "9789754370539 | TÜRKÇE | 413 | Karton Kapak | 3. Hm. Kağıt 2020-12-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633742/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Gökçen 1: Unutulan Çiçekler (Ciltli)",
     "yazar": "Loresima",
     "fiyat": "160,16",
@@ -4165,6 +4156,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "Buf-i Kur | 9789750803024 | TÜRKÇE | 95 | Karton Kapak | 3. Hm. Kağıt 2019-05-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11209319/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gün Olur Asra Bedel",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "101,79",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9789754370539 | TÜRKÇE | 413 | Karton Kapak | 3. Hm. Kağıt 2020-12-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633742/wi:500/wh:true"
   },
   {
     "kitap_adi": "Karısını Şapka Sanan Adam",
