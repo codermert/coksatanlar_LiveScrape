@@ -2196,6 +2196,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11782130/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Eşekli Kütüphaneci",
+    "yazar": "Fakir Baykurt",
+    "fiyat": "84,18",
+    "eski_fiyat": "",
+    "yayinevi": "LİTERATÜR YAYINLARI",
+    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Hasretinden Prangalar Eskittim",
     "yazar": "Ahmed Arif",
     "fiyat": "79,06",
@@ -2383,15 +2392,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784597 | TÜRKÇE | 52 | Karton Kapak | Kitap Kağıdı 2020-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332413/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Eşekli Kütüphaneci",
-    "yazar": "Fakir Baykurt",
-    "fiyat": "84,18",
-    "eski_fiyat": "",
-    "yayinevi": "LİTERATÜR YAYINLARI",
-    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dede Korkut Hikayeleri",
