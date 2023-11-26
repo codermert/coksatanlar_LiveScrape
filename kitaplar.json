@@ -2709,15 +2709,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11620430/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
-    "yazar": "Orhan Veli Kanık",
-    "fiyat": "24,30",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kumarbaz (Cep Boy) (Tam Metin)",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "8,90",
@@ -3463,6 +3454,15 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "Les Riviéres pourpres | 9789759914615 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2016-01-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:201031/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
+    "yazar": "Orhan Veli Kanık",
+    "fiyat": "24,30",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
   },
   {
     "kitap_adi": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca",
