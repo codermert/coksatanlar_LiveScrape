@@ -4068,15 +4068,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11740085/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Bu Böyledir",
-    "yazar": "Mustafa Kutlu",
-    "fiyat": "51,00",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759953119 | TÜRKÇE | 90 | Karton Kapak | Kitap Kağıdı 2012-08-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:111182/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Uzakların Şarkısı",
     "yazar": "Kaan Murat Yanık",
     "fiyat": "64,68",
@@ -4111,6 +4102,15 @@
     "yayinevi": "MÜPTELA",
     "kitap_hakkinda": "9786258446654 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-11-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788566/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bu Böyledir",
+    "yazar": "Mustafa Kutlu",
+    "fiyat": "51,00",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759953119 | TÜRKÇE | 90 | Karton Kapak | Kitap Kağıdı 2012-08-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:111182/wi:500/wh:true"
   },
   {
     "kitap_adi": "Koku (Ciltsiz)",
