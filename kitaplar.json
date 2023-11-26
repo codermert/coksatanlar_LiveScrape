@@ -1260,15 +1260,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:183239/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İki Dirhem Bir Çekirdek",
-    "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "71,62",
-    "eski_fiyat": "",
-    "yayinevi": "KAPI YAYINLARI",
-    "kitap_hakkinda": "9789758950379 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2023-11-22",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11777921/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Görmek",
     "yazar": "Jose Saramago",
     "fiyat": "90,82",
@@ -1645,6 +1636,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İki Dirhem Bir Çekirdek",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "71,62",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9789758950379 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2023-11-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11777921/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir İdam Mahkumunun Son Günü (Cep Boy) (Tam Metin)",
