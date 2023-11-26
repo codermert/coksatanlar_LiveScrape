@@ -1602,15 +1602,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10650659/wi:500/wh:true"
   },
   {
-    "kitap_adi": "1984",
-    "yazar": "George Orwell",
-    "fiyat": "52,50",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Suda Kaybolmak",
     "yazar": "Vladimir Tumanov",
     "fiyat": "84,60",
@@ -1942,6 +1933,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955748 | TÜRKÇE | 419 | Karton Kapak | Kitap Kağıdı 2013-09-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "1984",
+    "yazar": "George Orwell",
+    "fiyat": "52,50",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kinyas ve Kayra",
@@ -2898,15 +2898,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11790590/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yılanı Öldürseler",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "54,59",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97154/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Müslümanca Düşünme Üzerine Denemeler",
     "yazar": "Rasim Özdenören",
     "fiyat": "79,80",
@@ -3067,6 +3058,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786052652558 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2023-11-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11796590/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yılanı Öldürseler",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "54,59",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97154/wi:500/wh:true"
   },
   {
     "kitap_adi": "Demirciler Çarşısı Cinayeti / Akçasazın Ağaları 1",
