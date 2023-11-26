@@ -2457,6 +2457,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11802898/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Mavi Kuş",
+    "yazar": "Mustafa Kutlu",
+    "fiyat": "104,20",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Huzursuzluğun Kitabı",
     "yazar": "Fernando Pessoa",
     "fiyat": "123,50",
@@ -2851,15 +2860,6 @@
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "The Four Winds | 9786254101861 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11789075/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Mavi Kuş",
-    "yazar": "Mustafa Kutlu",
-    "fiyat": "104,20",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dişi Domuz",
