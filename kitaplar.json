@@ -576,15 +576,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11356189/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Otomatik Portakal (Ciltsiz)",
-    "yazar": "Anthony Burgess",
-    "fiyat": "25,30",
-    "eski_fiyat": "",
-    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
-    "kitap_hakkinda": "A Clockwork Orange | 9786052957929 | TÜRKÇE | 171 | Karton Kapak | Kitap Kağıdı 2019-09-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8539346/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Melankoli",
     "yazar": "Jon Fosse",
     "fiyat": "96,20",
@@ -601,6 +592,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "Murder on the Orient Express | 9780112873976 | TÜRKÇE | 256 | Karton Kapak | 3. Hm. Kağıt 2023-08-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5558946/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Otomatik Portakal (Ciltsiz)",
+    "yazar": "Anthony Burgess",
+    "fiyat": "25,30",
+    "eski_fiyat": "",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "A Clockwork Orange | 9786052957929 | TÜRKÇE | 171 | Karton Kapak | Kitap Kağıdı 2019-09-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8539346/wi:500/wh:true"
   },
   {
     "kitap_adi": "İtiraflarım",
@@ -2223,15 +2223,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:16293/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Huzursuzluğun Kitabı",
-    "yazar": "Fernando Pessoa",
-    "fiyat": "123,50",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "Livro do desassossego | 9789750736865 | TÜRKÇE | 675 | Karton Kapak | Kitap Kağıdı 2021-09-21",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11417065/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Dokunmadan",
     "yazar": "Nermin Yıldırım",
     "fiyat": "79,20",
@@ -2482,6 +2473,15 @@
     "yayinevi": "VAKIFBANK KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9786256385832 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-11-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11802898/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Huzursuzluğun Kitabı",
+    "yazar": "Fernando Pessoa",
+    "fiyat": "123,50",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Livro do desassossego | 9789750736865 | TÜRKÇE | 675 | Karton Kapak | Kitap Kağıdı 2021-09-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11417065/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çankaya (Ciltli - Özel Baskı Büyük Boy)",
