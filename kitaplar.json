@@ -3816,15 +3816,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787005/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Gün Olur Asra Bedel",
-    "yazar": "Cengiz Aytmatov",
-    "fiyat": "101,79",
-    "eski_fiyat": "",
-    "yayinevi": "ÖTÜKEN NEŞRİYAT",
-    "kitap_hakkinda": "9789754370539 | TÜRKÇE | 413 | Karton Kapak | 3. Hm. Kağıt 2020-12-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633742/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kırık Nisan",
     "yazar": "İsmail Kadare",
     "fiyat": "64,60",
@@ -3832,6 +3823,15 @@
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786257027427 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2023-10-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776333/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gün Olur Asra Bedel",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "101,79",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9789754370539 | TÜRKÇE | 413 | Karton Kapak | 3. Hm. Kağıt 2020-12-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633742/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gökçen 1: Unutulan Çiçekler (Ciltli)",
