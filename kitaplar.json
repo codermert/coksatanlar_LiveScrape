@@ -3069,6 +3069,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11607146/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Olasılıksız",
+    "yazar": "Adam Fawer",
+    "fiyat": "112,80",
+    "eski_fiyat": "",
+    "yayinevi": "APRIL YAYINCILIK",
+    "kitap_hakkinda": "9789756006054 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-09-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11765595/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Hay Bin Yakzan",
     "yazar": "İbn Tufeyl  İbni Sina",
     "fiyat": "44,94",
@@ -3481,15 +3490,6 @@
     "yayinevi": "PANAMA YAYINCILIK",
     "kitap_hakkinda": "9786256546028 | TÜRKÇE | 228 | Karton Kapak | Kitap Kağıdı 2023-11-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793475/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Olasılıksız",
-    "yazar": "Adam Fawer",
-    "fiyat": "112,80",
-    "eski_fiyat": "",
-    "yayinevi": "APRIL YAYINCILIK",
-    "kitap_hakkinda": "9789756006054 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-09-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11765595/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kara Kitap",
