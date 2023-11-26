@@ -3501,15 +3501,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:49812/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Aziz Bey Hadisesi",
-    "yazar": "Ayfer Tunç",
-    "fiyat": "50,70",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750721762 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2019-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11437415/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "İtiraflarım",
     "yazar": "Lev N. Tolstoy",
     "fiyat": "31,45",
@@ -3832,6 +3823,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "For Whom the Bell Tolls | 9789752201699 | TÜRKÇE | 636 | Karton Kapak | Kitap Kağıdı 2018-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7672924/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Aziz Bey Hadisesi",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "50,70",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750721762 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2019-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11437415/wi:500/wh:true"
   },
   {
     "kitap_adi": "Asla Kimseyi Öldürmedi Benim Babam",
