@@ -3429,15 +3429,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11790040/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Noelde Cinayet",
-    "yazar": "Agatha Christie",
-    "fiyat": "57,20",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Murder for Chrıstmas | 9789754052718 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2023-10-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787010/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "İnsanlığımı Yitirirken",
     "yazar": "Osamu Dazai",
     "fiyat": "9,90",
@@ -3445,6 +3436,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786256475892 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2023-11-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11801746/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Noelde Cinayet",
+    "yazar": "Agatha Christie",
+    "fiyat": "57,20",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Murder for Chrıstmas | 9789754052718 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2023-10-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787010/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çanlar Kimin İçin Çalıyor",
@@ -4131,15 +4131,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11751777/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kiralık Konak Bütün Eserleri 4",
-    "yazar": "Yakup Kadri Karaosmanoğlu",
-    "fiyat": "81,98",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Niye Geldik Cihane?",
     "yazar": "Hayati İnanç",
     "fiyat": "82,50",
@@ -4147,6 +4138,15 @@
     "yayinevi": "PROFİL KİTAP",
     "kitap_hakkinda": "9786258498820 | TÜRKÇE | 125 | Karton Kapak | Kitap Kağıdı 2023-09-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11767566/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kiralık Konak Bütün Eserleri 4",
+    "yazar": "Yakup Kadri Karaosmanoğlu",
+    "fiyat": "81,98",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Bilim Adamının Romanı / Bütün Eserleri 5",
