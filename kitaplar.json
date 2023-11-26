@@ -56,7 +56,7 @@
   {
     "kitap_adi": "Suyu Arayan Adam",
     "yazar": "Şevket Süreyya Aydemir",
-    "fiyat": "153,76",
+    "fiyat": "141,93",
     "eski_fiyat": "",
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
@@ -587,7 +587,7 @@
   {
     "kitap_adi": "Melankoli",
     "yazar": "Jon Fosse",
-    "fiyat": "97,50",
+    "fiyat": "96,20",
     "eski_fiyat": "",
     "yayinevi": "MONOKL YAYINLARI",
     "kitap_hakkinda": "9786057200952 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-10-13",
@@ -1800,6 +1800,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11658308/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Toprak Ana",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "45,24",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737232/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Pia Mater",
     "yazar": "Serkan Karaismailoğlu",
     "fiyat": "109,63",
@@ -1825,15 +1834,6 @@
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041630 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2021-03-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11380333/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Toprak Ana",
-    "yazar": "Cengiz Aytmatov",
-    "fiyat": "45,24",
-    "eski_fiyat": "",
-    "yayinevi": "ÖTÜKEN NEŞRİYAT",
-    "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737232/wi:500/wh:true"
   },
   {
     "kitap_adi": "İlk Öğretmenim",
