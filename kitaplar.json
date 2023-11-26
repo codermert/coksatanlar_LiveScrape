@@ -452,7 +452,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "85,36",
+    "fiyat": "85,48",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -3816,15 +3816,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11703013/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Gün Doğmadan",
-    "yazar": "Sezai Karakoç",
-    "fiyat": "126,00",
-    "eski_fiyat": "",
-    "yayinevi": "DİRİLİŞ YAYINLARI",
-    "kitap_hakkinda": "9786057144072 | TÜRKÇE | 686 | Karton Kapak | Kitap Kağıdı 2020-12-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1107187/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Gül Yetiştiren Adam",
     "yazar": "Rasim Özdenören",
     "fiyat": "68,00",
@@ -4174,6 +4165,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "975220127x | TÜRKÇE | 748 | Karton Kapak | Kitap Kağıdı 2016-08-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7597684/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gün Doğmadan",
+    "yazar": "Sezai Karakoç",
+    "fiyat": "126,00",
+    "eski_fiyat": "",
+    "yayinevi": "DİRİLİŞ YAYINLARI",
+    "kitap_hakkinda": "9786057144072 | TÜRKÇE | 686 | Karton Kapak | Kitap Kağıdı 2020-12-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1107187/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sinekli Bakkal",
