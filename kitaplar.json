@@ -2187,6 +2187,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11782130/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yeni Dünya",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "17,55",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750806612 | TÜRKÇE | 124 | Karton Kapak | 3. Hm. Kağıt 2019-05-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:61548/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Eşekli Kütüphaneci",
     "yazar": "Fakir Baykurt",
     "fiyat": "84,18",
@@ -2527,15 +2536,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846083 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2021-10-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10083709/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Yeni Dünya",
-    "yazar": "Sabahattin Ali",
-    "fiyat": "17,55",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750806612 | TÜRKÇE | 124 | Karton Kapak | 3. Hm. Kağıt 2019-05-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:61548/wi:500/wh:true"
   },
   {
     "kitap_adi": "Filistin",
