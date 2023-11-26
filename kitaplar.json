@@ -4131,15 +4131,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11751777/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kiralık Konak Bütün Eserleri 4",
-    "yazar": "Yakup Kadri Karaosmanoğlu",
-    "fiyat": "81,98",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Niye Geldik Cihane?",
     "yazar": "Hayati İnanç",
     "fiyat": "82,50",
@@ -4147,6 +4138,15 @@
     "yayinevi": "PROFİL KİTAP",
     "kitap_hakkinda": "9786258498820 | TÜRKÇE | 125 | Karton Kapak | Kitap Kağıdı 2023-09-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11767566/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kiralık Konak Bütün Eserleri 4",
+    "yazar": "Yakup Kadri Karaosmanoğlu",
+    "fiyat": "81,98",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Bilim Adamının Romanı / Bütün Eserleri 5",
