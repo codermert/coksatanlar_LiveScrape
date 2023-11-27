@@ -1476,6 +1476,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:106052/wi:500/wh:true"
   },
   {
+    "kitap_adi": "İki Dirhem Bir Çekirdek",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "71,62",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9789758950379 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2023-11-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11777921/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Aylak Adam",
     "yazar": "Yusuf Atılgan",
     "fiyat": "72,10",
@@ -1609,15 +1618,6 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786052651995 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2023-08-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737757/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "İki Dirhem Bir Çekirdek",
-    "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "71,62",
-    "eski_fiyat": "",
-    "yayinevi": "KAPI YAYINLARI",
-    "kitap_hakkinda": "9789758950379 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2023-11-22",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11777921/wi:500/wh:true"
   },
   {
     "kitap_adi": "Asude Bahçe",
@@ -2583,6 +2583,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11765595/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sinekli Bakkal",
+    "yazar": "Halide Edib Adıvar",
+    "fiyat": "130,00",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750721663 | TÜRKÇE | 476 | Karton Kapak | Kitap Kağıdı 2022-11-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11469493/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Az",
     "yazar": "Hakan Günday",
     "fiyat": "103,11",
@@ -2968,6 +2977,15 @@
     "yayinevi": "İZ YAYINCILIK",
     "kitap_hakkinda": "9789753551663 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708603/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
+    "yazar": "Orhan Veli Kanık",
+    "fiyat": "24,30",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gençlerle Başbaşa",
@@ -3420,15 +3438,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11694117/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kızıl Nehirler",
-    "yazar": "Jean Christophe Grange",
-    "fiyat": "121,68",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "Les Riviéres pourpres | 9789759914615 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2016-01-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:201031/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Peri  Masalı",
     "yazar": "Stephen King",
     "fiyat": "172,23",
@@ -3436,15 +3445,6 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "Fairy Tale | 9789752128378 | TÜRKÇE | 704 | Karton Kapak | Kitap Kağıdı 2023-07-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742708/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
-    "yazar": "Orhan Veli Kanık",
-    "fiyat": "24,30",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
   },
   {
     "kitap_adi": "Mona Lisa Senfonisi",
@@ -4131,6 +4131,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755781/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Drina Köprüsü",
+    "yazar": "İvo Andriç",
+    "fiyat": "159,58",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "Na Drini Cuprija | 9789754707823 | TÜRKÇE | 354 | Karton Kapak | Kitap Kağıdı 2023-03-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:91162/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Cerrah",
     "yazar": "Tess Gerritsen",
     "fiyat": "115,44",
@@ -4138,15 +4147,6 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "THE SURGEON | 9786050977417 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2018-02-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5505522/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Sinekli Bakkal",
-    "yazar": "Halide Edib Adıvar",
-    "fiyat": "130,00",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750721663 | TÜRKÇE | 476 | Karton Kapak | Kitap Kağıdı 2022-11-22",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11469493/wi:500/wh:true"
   },
   {
     "kitap_adi": "Asla Kimseyi Öldürmedi Benim Babam",
