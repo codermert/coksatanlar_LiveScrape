@@ -3231,15 +3231,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11607146/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Şu Çılgın Türkler",
-    "yazar": "Turgut Özakman",
-    "fiyat": "175,10",
-    "eski_fiyat": "",
-    "yayinevi": "BİLGİ YAYINEVİ",
-    "kitap_hakkinda": "975220127x | TÜRKÇE | 748 | Karton Kapak | Kitap Kağıdı 2016-08-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7597684/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Hasretinden Prangalar Eskittim",
     "yazar": "Ahmed Arif",
     "fiyat": "79,06",
@@ -3852,15 +3843,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776333/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Aziz Bey Hadisesi",
-    "yazar": "Ayfer Tunç",
-    "fiyat": "50,70",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750721762 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2019-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11437415/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Ingeborg’un Tollak’ı",
     "yazar": "Tore  Renberg",
     "fiyat": "98,10",
@@ -4174,6 +4156,15 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "THE SURGEON | 9786050977417 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2018-02-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5505522/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Medine Müdafaası / Çöl Kaplanı Fahrettin Paşa",
+    "yazar": "İsmail Bilgin",
+    "fiyat": "112,20",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ YAYINLARI",
+    "kitap_hakkinda": "9789752634961 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2019-10-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11361645/wi:500/wh:true"
   },
   {
     "kitap_adi": "Asla Kimseyi Öldürmedi Benim Babam",
