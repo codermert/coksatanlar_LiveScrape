@@ -2988,6 +2988,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Ateşten Gömlek",
+    "yazar": "Halide Edib Adıvar",
+    "fiyat": "87,78",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750723322 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2019-06-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481508/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Gençlerle Başbaşa",
     "yazar": "Ord. Prof. Dr. Ali Fuad Başgil",
     "fiyat": "24,50",
@@ -3463,15 +3472,6 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050847840 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-08-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11749333/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ateşten Gömlek",
-    "yazar": "Halide Edib Adıvar",
-    "fiyat": "87,78",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750723322 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2019-06-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481508/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bulantı",
