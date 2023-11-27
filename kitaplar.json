@@ -3060,15 +3060,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372200/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Demirciler Çarşısı Cinayeti / Akçasazın Ağaları 1",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "95,70",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807367 | TÜRKÇE | 572 | Karton Kapak | Kitap Kağıdı 2019-03-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11607146/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Dava (Cep Boy) (Tam Metin)",
     "yazar": "Franz Kafka",
     "fiyat": "8,90",
@@ -3211,6 +3202,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953157 | TÜRKÇE | 124 | Karton Kapak | Kitap Kağıdı 2013-02-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:285160/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Demirciler Çarşısı Cinayeti / Akçasazın Ağaları 1",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "95,70",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807367 | TÜRKÇE | 572 | Karton Kapak | Kitap Kağıdı 2019-03-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11607146/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hasretinden Prangalar Eskittim",
