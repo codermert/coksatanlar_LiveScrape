@@ -1631,7 +1631,7 @@
   {
     "kitap_adi": "Asude Bahçe",
     "yazar": "Funda Uçuk Er",
-    "fiyat": "74,58",
+    "fiyat": "77,69",
     "eski_fiyat": "",
     "yayinevi": "CEZVE KİTAP",
     "kitap_hakkinda": "9786052297926 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2021-06-09",
@@ -3877,6 +3877,15 @@
     "yayinevi": "ALFA YAYINLARI",
     "kitap_hakkinda": "9786254498602 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-11-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11792720/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kiralık Konak Bütün Eserleri 4",
+    "yazar": "Yakup Kadri Karaosmanoğlu",
+    "fiyat": "81,98",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çakıcı'nın İlk Kurşunu",
