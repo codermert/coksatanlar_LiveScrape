@@ -3825,15 +3825,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11751777/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "145,20",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750806735 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-07-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97152/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Niye Geldik Cihane?",
     "yazar": "Hayati İnanç",
     "fiyat": "82,50",
@@ -3895,6 +3886,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "145,20",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750806735 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-07-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97152/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bütün Şiirleri / Sabahattin Ali",
