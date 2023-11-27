@@ -1323,6 +1323,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784830/wi:500/wh:true"
   },
   {
+    "kitap_adi": "1984",
+    "yazar": "George Orwell",
+    "fiyat": "52,50",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Malamander",
     "yazar": "Thomas Taylor",
     "fiyat": "100,80",
@@ -1933,15 +1942,6 @@
     "yayinevi": "GÜNIŞIĞI KİTAPLIĞI",
     "kitap_hakkinda": "9789944717656 | TÜRKÇE | 92 | Karton Kapak | Kuşe Kağıt 2019-10-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:16293/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "1984",
-    "yazar": "George Orwell",
-    "fiyat": "52,50",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sabahtan Akşama",
@@ -4129,6 +4129,15 @@
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "9786256462212 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-10-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11790590/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "O Ve Ben (kod6)",
+    "yazar": "Necip Fazıl Kısakürek",
+    "fiyat": "59,62",
+    "eski_fiyat": "",
+    "yayinevi": "BÜYÜK DOĞU YAYINLARI",
+    "kitap_hakkinda": "975818024X | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2013-02-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3103027/wi:500/wh:true"
   },
   {
     "kitap_adi": "Koku (Ciltsiz)",
