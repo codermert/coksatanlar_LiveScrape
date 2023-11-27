@@ -1377,6 +1377,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711429/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Siddhartha (Ciltsiz)",
+    "yazar": "Hermann Hesse",
+    "fiyat": "63,63",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11260682/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Eylül",
     "yazar": "Mehmed Rauf",
     "fiyat": "19,04",
@@ -1537,15 +1546,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11437413/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Siddhartha (Ciltsiz)",
-    "yazar": "Hermann Hesse",
-    "fiyat": "63,63",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11260682/wi:500/wh:true"
   },
   {
     "kitap_adi": "Küçük Ağaç'ın Eğitimi",
@@ -1818,6 +1818,24 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788233/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kinyas ve Kayra",
+    "yazar": "Hakan Günday",
+    "fiyat": "185,26",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784545/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Eşekli Kütüphaneci",
+    "yazar": "Fakir Baykurt",
+    "fiyat": "84,18",
+    "eski_fiyat": "",
+    "yayinevi": "LİTERATÜR YAYINLARI",
+    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Mesnevi (Ciltsiz)",
     "yazar": "Mevlana",
     "fiyat": "120,25",
@@ -1924,15 +1942,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kinyas ve Kayra",
-    "yazar": "Hakan Günday",
-    "fiyat": "185,26",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784545/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sabahtan Akşama",
@@ -2194,15 +2203,6 @@
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786055360726 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2012-02-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:19316/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Eşekli Kütüphaneci",
-    "yazar": "Fakir Baykurt",
-    "fiyat": "84,18",
-    "eski_fiyat": "",
-    "yayinevi": "LİTERATÜR YAYINLARI",
-    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
   },
   {
     "kitap_adi": "Erbain & Kırk Yılın Şiirleri",
@@ -4462,14 +4462,5 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750533594 | TÜRKÇE | 84 | Karton Kapak | Kitap Kağıdı 2022-08-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11585992/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Yerdeniz Büyücüsü - Yerdeniz 1",
-    "yazar": "Ursula K. Le Guin",
-    "fiyat": "83,45",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "A Wizard of Earthsea | 9789753420570 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2023-03-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11683424/wi:500/wh:true"
   }
 ]
