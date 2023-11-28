@@ -2358,15 +2358,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11680436/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yeni Dünya",
-    "yazar": "Sabahattin Ali",
-    "fiyat": "17,55",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750806612 | TÜRKÇE | 124 | Karton Kapak | 3. Hm. Kağıt 2019-05-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:61548/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "İslam’ın Rengi",
     "yazar": "Jenny Molendyk Divleli",
     "fiyat": "66,66",
@@ -2932,6 +2923,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955748 | TÜRKÇE | 419 | Karton Kapak | Kitap Kağıdı 2013-09-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yeni Dünya",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "17,55",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750806612 | TÜRKÇE | 124 | Karton Kapak | 3. Hm. Kağıt 2019-05-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:61548/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağrıdağı Efsanesi",
