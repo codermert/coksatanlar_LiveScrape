@@ -479,7 +479,7 @@
   {
     "kitap_adi": "Dansa Davet",
     "yazar": "Jean Teule",
-    "fiyat": "55,00",
+    "fiyat": "52,80",
     "eski_fiyat": "",
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "Entrez dans la danse Yazar: Jean Teulé | 9786057728456 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2022-12-01",
@@ -2243,7 +2243,7 @@
   {
     "kitap_adi": "Iza’nın Şarkısı",
     "yazar": "Magda Szabo",
-    "fiyat": "82,50",
+    "fiyat": "79,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750840333 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-01",
@@ -3690,6 +3690,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788566/wi:500/wh:true"
   },
   {
+    "kitap_adi": "O Ve Ben (kod6)",
+    "yazar": "Necip Fazıl Kısakürek",
+    "fiyat": "59,62",
+    "eski_fiyat": "",
+    "yayinevi": "BÜYÜK DOĞU YAYINLARI",
+    "kitap_hakkinda": "975818024X | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2013-02-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3103027/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Ya Tahammül Ya Sefer",
     "yazar": "Mustafa Kutlu",
     "fiyat": "63,35",
@@ -4057,15 +4066,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806735 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-07-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97152/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "O Ve Ben (kod6)",
-    "yazar": "Necip Fazıl Kısakürek",
-    "fiyat": "59,62",
-    "eski_fiyat": "",
-    "yayinevi": "BÜYÜK DOĞU YAYINLARI",
-    "kitap_hakkinda": "975818024X | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2013-02-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3103027/wi:500/wh:true"
   },
   {
     "kitap_adi": "Suskunlar",
