@@ -29,7 +29,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "81,50",
+    "fiyat": "81,60",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -1591,6 +1591,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258076806 | TÜRKÇE | 250 | Ciltli | Kitap Kağıdı 2022-07-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11589493/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Güneşteki Adamlar",
+    "yazar": "Gassan Kanafani",
+    "fiyat": "51,24",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "Ricâlun fi’ş-Şems | 9786053162773 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2023-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711433/wi:500/wh:true"
   },
   {
     "kitap_adi": "Derz (Hakan Günday Tasarımı Kolaj Sticker Hediyeli)",
@@ -4068,6 +4077,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Korkuyu Beklerken / Bütün Eserleri 4",
+    "yazar": "Oğuz Atay",
+    "fiyat": "83,45",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754701586 | TÜRKÇE | 202 | Karton Kapak | 3. Hm. Kağıt 2022-01-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11451946/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Drina Köprüsü",
     "yazar": "İvo Andriç",
     "fiyat": "159,58",
@@ -4102,6 +4120,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754703139 | TÜRKÇE | 92 | Karton Kapak | Kitap Kağıdı 2019-02-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:202444/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ah'lar Ağacı",
+    "yazar": "Didem Madak",
+    "fiyat": "51,24",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "9789753428750 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2020-09-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11501991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dul",
