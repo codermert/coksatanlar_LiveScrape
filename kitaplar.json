@@ -2142,15 +2142,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Beş Şehir",
-    "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "104,40",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Orta Zekalılar Cenneti",
     "yazar": "Zülfü Livaneli",
     "fiyat": "83,94",
@@ -2633,7 +2624,7 @@
     "fiyat": "75,60",
     "eski_fiyat": "",
     "yayinevi": "AŞİNA",
-    "kitap_hakkinda": "9786058245396 | TÜRKÇE | 106 | Karton Kapak | Kitap Kağıdı 2018-11-09",
+    "kitap_hakkinda": "9786058245396 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2018-11-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795520/wi:500/wh:true"
   },
   {
@@ -2743,6 +2734,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "Murder for Chrıstmas | 9789754052718 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2023-10-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787010/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Beş Şehir",
+    "yazar": "Ahmet Hamdi Tanpınar",
+    "fiyat": "104,40",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:500/wh:true"
   },
   {
     "kitap_adi": "Güneşi Uyandıralım",
