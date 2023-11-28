@@ -594,15 +594,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11431526/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Doğu Ekspresinde Cinayet",
-    "yazar": "Agatha Christie",
-    "fiyat": "80,05",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Murder on the Orient Express | 9780112873976 | TÜRKÇE | 256 | Karton Kapak | 3. Hm. Kağıt 2023-08-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5558946/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Fareler ve İnsanlar",
     "yazar": "John Steinbeck",
     "fiyat": "66,60",
@@ -664,6 +655,15 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "A Clockwork Orange | 9786052957929 | TÜRKÇE | 171 | Karton Kapak | Kitap Kağıdı 2019-09-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8539346/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Doğu Ekspresinde Cinayet",
+    "yazar": "Agatha Christie",
+    "fiyat": "80,05",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Murder on the Orient Express | 9780112873976 | TÜRKÇE | 256 | Karton Kapak | 3. Hm. Kağıt 2023-08-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5558946/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hayvan Çiftliği (Ciltsiz)",
@@ -2016,6 +2016,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795310/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Tehlikeli Oyunlar / Bütün Eserleri 2",
+    "yazar": "Oğuz Atay",
+    "fiyat": "145,67",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Koleksiyoncu",
     "yazar": "John Fowles",
     "fiyat": "97,92",
@@ -2790,15 +2799,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11424676/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Tehlikeli Oyunlar / Bütün Eserleri 2",
-    "yazar": "Oğuz Atay",
-    "fiyat": "145,67",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kürk Mantolu Madonna (Cep Boy) (Tam Metin)",
     "yazar": "Sabahattin Ali",
     "fiyat": "8,90",
@@ -2907,15 +2907,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11781199/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Direnişin Melankolisi",
-    "yazar": "Laszlo Krasznahorkai",
-    "fiyat": "143,00",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750761874 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2023-11-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11790040/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Enkaz",
     "yazar": "Kahraman Tazeoğlu",
     "fiyat": "79,45",
@@ -2943,6 +2934,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11799415/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Gül Yetiştiren Adam",
+    "yazar": "Rasim Özdenören",
+    "fiyat": "68,00",
+    "eski_fiyat": "",
+    "yayinevi": "İZ YAYINCILIK",
+    "kitap_hakkinda": "9789753551663 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708603/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Ağrıdağı Efsanesi",
     "yazar": "Yaşar Kemal",
     "fiyat": "54,45",
@@ -2959,15 +2959,6 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "975220127x | TÜRKÇE | 748 | Karton Kapak | Kitap Kağıdı 2016-08-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7597684/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Gül Yetiştiren Adam",
-    "yazar": "Rasim Özdenören",
-    "fiyat": "68,00",
-    "eski_fiyat": "",
-    "yayinevi": "İZ YAYINCILIK",
-    "kitap_hakkinda": "9789753551663 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708603/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sinekli Bakkal",
@@ -3391,6 +3382,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9786256839489 | TÜRKÇE | 168 | Karton Kapak | 3. Hm. Kağıt 2023-11-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793098/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Çakıcı'nın İlk Kurşunu",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "24,48",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750803505 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2019-03-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:296020/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bütün Şiirleri / Sabahattin Ali",
@@ -3832,15 +3832,6 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "The Wonderful Wizard of Oz | 9786257867733 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2020-07-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11446945/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Çakıcı'nın İlk Kurşunu",
-    "yazar": "Sabahattin Ali",
-    "fiyat": "24,48",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750803505 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2019-03-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:296020/wi:500/wh:true"
   },
   {
     "kitap_adi": "Muhteşem Gatsby",
