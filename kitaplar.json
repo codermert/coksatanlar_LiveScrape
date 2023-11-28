@@ -137,7 +137,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "76,30",
+    "fiyat": "76,40",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -3661,6 +3661,15 @@
     "yayinevi": "ALFA YAYINLARI",
     "kitap_hakkinda": "9786254498602 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-11-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11792720/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Tanrı ve Memeli Hayvanlar",
+    "yazar": "Zeynep Kaçar",
+    "fiyat": "68,98",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786256570139 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-10-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11780913/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsanlığın Çocukları",
