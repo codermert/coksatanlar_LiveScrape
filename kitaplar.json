@@ -630,15 +630,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11778617/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Otomatik Portakal (Ciltsiz)",
-    "yazar": "Anthony Burgess",
-    "fiyat": "25,30",
-    "eski_fiyat": "",
-    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
-    "kitap_hakkinda": "A Clockwork Orange | 9786052957929 | TÜRKÇE | 171 | Karton Kapak | Kitap Kağıdı 2019-09-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8539346/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Gazap Üzümleri",
     "yazar": "John Steinbeck",
     "fiyat": "133,62",
@@ -664,6 +655,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "And Then There None | 9789752126169 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11356189/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Otomatik Portakal (Ciltsiz)",
+    "yazar": "Anthony Burgess",
+    "fiyat": "25,30",
+    "eski_fiyat": "",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "A Clockwork Orange | 9786052957929 | TÜRKÇE | 171 | Karton Kapak | Kitap Kağıdı 2019-09-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8539346/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hayvan Çiftliği (Ciltsiz)",
@@ -1071,6 +1071,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11692013/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Uzun Hikaye",
+    "yazar": "Mustafa Kutlu",
+    "fiyat": "50,03",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:60346/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Milena’ya Mektuplar",
     "yazar": "Franz Kafka",
     "fiyat": "19,04",
@@ -1078,15 +1087,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257419055 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2021-05-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11419336/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Değirmen",
-    "yazar": "Sabahattin Ali",
-    "fiyat": "14,26",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750806605 | TÜRKÇE | 137 | Karton Kapak | Kitap Kağıdı 2019-10-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:56776/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dul Ölümsüz Eş Arıyor",
@@ -1105,6 +1105,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Değirmen",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "14,26",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750806605 | TÜRKÇE | 137 | Karton Kapak | Kitap Kağıdı 2019-10-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:56776/wi:500/wh:true"
   },
   {
     "kitap_adi": "Benliğini Arayan Çocuk",
@@ -1159,15 +1168,6 @@
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042903 | TÜRKÇE | 172 | Karton Kapak | Kitap Kağıdı 2021-12-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11490879/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Uzun Hikaye",
-    "yazar": "Mustafa Kutlu",
-    "fiyat": "50,03",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:60346/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kırlangıç Çığlığı",
@@ -2403,15 +2403,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11710636/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Ağrıdağı Efsanesi",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "54,45",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807411 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-06-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:92931/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Mektub",
     "yazar": "Paulo Coelho",
     "fiyat": "77,50",
@@ -2763,6 +2754,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11261075/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Mavi Kuş",
+    "yazar": "Mustafa Kutlu",
+    "fiyat": "104,20",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İnsan Neyle Yaşar?",
     "yazar": "Lev N. Tolstoy",
     "fiyat": "13,00",
@@ -2932,6 +2932,24 @@
     "yayinevi": "DEX KİTAP",
     "kitap_hakkinda": "Someone Else's Shoes | 9786258492262 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-11-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11799415/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ağrıdağı Efsanesi",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "54,45",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807411 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-06-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:92931/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Şu Çılgın Türkler",
+    "yazar": "Turgut Özakman",
+    "fiyat": "175,10",
+    "eski_fiyat": "",
+    "yayinevi": "BİLGİ YAYINEVİ",
+    "kitap_hakkinda": "975220127x | TÜRKÇE | 748 | Karton Kapak | Kitap Kağıdı 2016-08-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7597684/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gül Yetiştiren Adam",
@@ -3157,15 +3175,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97154/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ya Tahammül Ya Sefer",
-    "yazar": "Mustafa Kutlu",
-    "fiyat": "63,35",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759953157 | TÜRKÇE | 124 | Karton Kapak | Kitap Kağıdı 2013-02-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:285160/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çankaya (Ciltli - Özel Baskı Büyük Boy)",
@@ -3690,6 +3699,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788566/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Ya Tahammül Ya Sefer",
+    "yazar": "Mustafa Kutlu",
+    "fiyat": "63,35",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759953157 | TÜRKÇE | 124 | Karton Kapak | Kitap Kağıdı 2013-02-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:285160/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Karısını Şapka Sanan Adam",
     "yazar": "Oliver Sacks",
     "fiyat": "72,10",
@@ -3823,15 +3841,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750803505 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2019-03-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:296020/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Mavi Kuş",
-    "yazar": "Mustafa Kutlu",
-    "fiyat": "104,20",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
   },
   {
     "kitap_adi": "Muhteşem Gatsby",
