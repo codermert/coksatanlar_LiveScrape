@@ -540,15 +540,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9998220/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Semerkant",
-    "yazar": "Amin Maalouf",
-    "fiyat": "69,21",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1135132/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Palyatif Toplum & Günümüzde Acı",
     "yazar": "Byung-Chul Han",
     "fiyat": "51,10",
@@ -619,6 +610,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050848274 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2023-10-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11778617/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Semerkant",
+    "yazar": "Amin Maalouf",
+    "fiyat": "69,21",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1135132/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gazap Üzümleri",
@@ -891,15 +891,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11517287/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yaban Bütün Eserleri 1",
-    "yazar": "Yakup Kadri Karaosmanoğlu",
-    "fiyat": "76,27",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439037/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Atatürk’ün Hatıraları",
     "yazar": "Falih Rıfkı Atay",
     "fiyat": "44,69",
@@ -934,6 +925,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6532396/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yaban Bütün Eserleri 1",
+    "yazar": "Yakup Kadri Karaosmanoğlu",
+    "fiyat": "76,27",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439037/wi:500/wh:true"
   },
   {
     "kitap_adi": "Görmek",
@@ -1591,15 +1591,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258076806 | TÜRKÇE | 250 | Ciltli | Kitap Kağıdı 2022-07-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11589493/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Güneşteki Adamlar",
-    "yazar": "Gassan Kanafani",
-    "fiyat": "51,24",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "Ricâlun fi’ş-Şems | 9786053162773 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2023-05-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711433/wi:500/wh:true"
   },
   {
     "kitap_adi": "Derz (Hakan Günday Tasarımı Kolaj Sticker Hediyeli)",
@@ -2592,15 +2583,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11371470/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Müslümanca Düşünme Üzerine Denemeler",
-    "yazar": "Rasim Özdenören",
-    "fiyat": "79,80",
-    "eski_fiyat": "",
-    "yayinevi": "İZ YAYINCILIK",
-    "kitap_hakkinda": "9786053267959 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11772007/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Hasretinden Prangalar Eskittim",
     "yazar": "Ahmed Arif",
     "fiyat": "79,06",
@@ -2941,6 +2923,15 @@
     "yayinevi": "İZ YAYINCILIK",
     "kitap_hakkinda": "9789753551663 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708603/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Müslümanca Düşünme Üzerine Denemeler",
+    "yazar": "Rasim Özdenören",
+    "fiyat": "79,80",
+    "eski_fiyat": "",
+    "yayinevi": "İZ YAYINCILIK",
+    "kitap_hakkinda": "9786053267959 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11772007/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağrıdağı Efsanesi",
@@ -3807,15 +3798,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11472268/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kiralık Konak Bütün Eserleri 4",
-    "yazar": "Yakup Kadri Karaosmanoğlu",
-    "fiyat": "81,98",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Gelirken Ekmek Al",
     "yazar": "Şermin Yaşar",
     "fiyat": "73,90",
@@ -4048,6 +4030,15 @@
     "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
     "kitap_hakkinda": "9789754499988 | TÜRKÇE | 180 | Karton Kapak | Kitap Kağıdı 2023-11-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11803821/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kiralık Konak Bütün Eserleri 4",
+    "yazar": "Yakup Kadri Karaosmanoğlu",
+    "fiyat": "81,98",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
   },
   {
     "kitap_adi": "Drina Köprüsü",
