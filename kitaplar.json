@@ -110,7 +110,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "55,09",
+    "fiyat": "55,19",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -191,7 +191,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "121,23",
+    "fiyat": "121,33",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -200,7 +200,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "77,40",
+    "fiyat": "77,45",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -389,7 +389,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "85,72",
+    "fiyat": "85,84",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -398,7 +398,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "96,60",
+    "fiyat": "96,69",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -641,7 +641,7 @@
   {
     "kitap_adi": "On Kişiydiler (On Küçük Zenci)",
     "yazar": "Agatha Christie",
-    "fiyat": "59,19",
+    "fiyat": "59,30",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "And Then There None | 9789752126169 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -2608,6 +2608,15 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9786254054372 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-05-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11409634/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kudüs Yazıları",
+    "yazar": "Taha Kılınç",
+    "fiyat": "75,60",
+    "eski_fiyat": "",
+    "yayinevi": "AŞİNA",
+    "kitap_hakkinda": "9786058245396 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2018-11-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795520/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağaçlar",
