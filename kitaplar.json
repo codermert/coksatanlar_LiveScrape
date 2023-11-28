@@ -1827,15 +1827,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11450732/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kinyas ve Kayra",
-    "yazar": "Hakan Günday",
-    "fiyat": "185,26",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784545/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Duygusuz",
     "yazar": "Celia Aaron",
     "fiyat": "116,19",
@@ -1843,6 +1834,15 @@
     "yayinevi": "PUKKA YAYINLARI",
     "kitap_hakkinda": "9786259961170 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-10-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788233/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kinyas ve Kayra",
+    "yazar": "Hakan Günday",
+    "fiyat": "185,26",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784545/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnce Memed 3",
@@ -2421,6 +2421,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795112/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
+    "yazar": "Orhan Veli Kanık",
+    "fiyat": "24,30",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İnsancıklar",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "47,40",
@@ -2968,15 +2977,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721663 | TÜRKÇE | 476 | Karton Kapak | Kitap Kağıdı 2022-11-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11469493/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
-    "yazar": "Orhan Veli Kanık",
-    "fiyat": "24,30",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kar",
