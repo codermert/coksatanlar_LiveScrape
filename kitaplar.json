@@ -747,6 +747,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783714/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Bu Ülke",
+    "yazar": "Cemil Meriç",
+    "fiyat": "100,99",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754702811 | TÜRKÇE | 339 | Karton Kapak | 3. Hm. Kağıt 2021-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11460549/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
     "yazar": "William Golding",
     "fiyat": "41,41",
@@ -817,15 +826,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784160 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2020-11-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318950/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bu Ülke",
-    "yazar": "Cemil Meriç",
-    "fiyat": "100,99",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754702811 | TÜRKÇE | 339 | Karton Kapak | 3. Hm. Kağıt 2021-10-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11460549/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ebedi Ev",
@@ -1782,15 +1782,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11404527/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Tatar Çölü",
-    "yazar": "Dino Buzzati",
-    "fiyat": "114,00",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754701258 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-08-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10330721/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Toprak Ana",
     "yazar": "Cengiz Aytmatov",
     "fiyat": "40,80",
@@ -1944,6 +1935,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11753491/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Tatar Çölü",
+    "yazar": "Dino Buzzati",
+    "fiyat": "114,00",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754701258 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-08-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10330721/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Gençlerle Başbaşa",
     "yazar": "Ord. Prof. Dr. Ali Fuad Başgil",
     "fiyat": "24,50",
@@ -2023,6 +2023,15 @@
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786050848434 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-11-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795310/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Koleksiyoncu",
+    "yazar": "John Fowles",
+    "fiyat": "97,92",
+    "eski_fiyat": "",
+    "yayinevi": "AYRINTI YAYINLARI",
+    "kitap_hakkinda": "The Collector | 9789755393087 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742792/wi:500/wh:true"
   },
   {
     "kitap_adi": "Huzursuzluğun Kitabı",
@@ -2770,15 +2779,6 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Koleksiyoncu",
-    "yazar": "John Fowles",
-    "fiyat": "97,92",
-    "eski_fiyat": "",
-    "yayinevi": "AYRINTI YAYINLARI",
-    "kitap_hakkinda": "The Collector | 9789755393087 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-10-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742792/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kürk Mantolu Madonna (Cep Boy) (Tam Metin)",
