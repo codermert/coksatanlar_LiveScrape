@@ -2133,15 +2133,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11359191/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Huzur",
-    "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "194,90",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759955748 | TÜRKÇE | 419 | Karton Kapak | Kitap Kağıdı 2013-09-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Orta Zekalılar Cenneti",
     "yazar": "Zülfü Livaneli",
     "fiyat": "83,94",
@@ -2347,15 +2338,6 @@
     "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
     "kitap_hakkinda": "9786254201783 | TÜRKÇE | 108 | Karton Kapak | Kitap Kağıdı 2022-05-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11569895/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Acı Kahve",
-    "yazar": "Agatha Christie",
-    "fiyat": "46,90",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Black Coffee | 9789754058789 | TÜRKÇE | 152 | Karton Kapak | 3. Hm. Kağıt 2023-02-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11676580/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yeraltından Notlar (Ciltli, İplik Dikişli)",
@@ -2583,15 +2565,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11733752/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Görme Biçimleri",
-    "yazar": "John Berger",
-    "fiyat": "74,66",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "Ways of Seeing | 9789753420839 | TÜRKÇE | 166 | Karton Kapak | 1. Hm. Kağıt 2019-05-16",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11247508/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Az",
     "yazar": "Hakan Günday",
     "fiyat": "103,11",
@@ -2743,6 +2716,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Görme Biçimleri",
+    "yazar": "John Berger",
+    "fiyat": "74,66",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "Ways of Seeing | 9789753420839 | TÜRKÇE | 166 | Karton Kapak | 1. Hm. Kağıt 2019-05-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11247508/wi:500/wh:true"
   },
   {
     "kitap_adi": "Güneşi Uyandıralım",
@@ -2941,6 +2923,15 @@
     "yayinevi": "İZ YAYINCILIK",
     "kitap_hakkinda": "9786053267959 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11772007/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Huzur",
+    "yazar": "Ahmet Hamdi Tanpınar",
+    "fiyat": "194,90",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759955748 | TÜRKÇE | 419 | Karton Kapak | Kitap Kağıdı 2013-09-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağrıdağı Efsanesi",
@@ -3157,6 +3148,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750859366 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2023-11-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11801276/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Acı Kahve",
+    "yazar": "Agatha Christie",
+    "fiyat": "46,90",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Black Coffee | 9789754058789 | TÜRKÇE | 152 | Karton Kapak | 3. Hm. Kağıt 2023-02-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11676580/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yılanı Öldürseler",
