@@ -837,15 +837,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793096/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Sırça Köşk",
-    "yazar": "Sabahattin Ali",
-    "fiyat": "16,38",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750806629 | TÜRKÇE | 141 | Karton Kapak | 3. Hm. Kağıt 2021-09-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1105934/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Beyaz Gemi",
     "yazar": "Cengiz Aytmatov",
     "fiyat": "40,40",
@@ -853,6 +844,15 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786257303880 | TÜRKÇE | 180 | Karton Kapak | Kitap Kağıdı 2021-06-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422255/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sırça Köşk",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "16,38",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750806629 | TÜRKÇE | 141 | Karton Kapak | 3. Hm. Kağıt 2021-09-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1105934/wi:500/wh:true"
   },
   {
     "kitap_adi": "Böyle Buyurdu Zerdüşt",
@@ -1143,15 +1143,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11349917/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İnce Memed 2",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "137,53",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807176 | TÜRKÇE | 459 | Karton Kapak | Kitap Kağıdı 2020-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:100877/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kızıl Veba",
     "yazar": "Jack London",
     "fiyat": "14,90",
@@ -1258,6 +1249,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9786256839519 | TÜRKÇE | 488 | Karton Kapak | Kitap Kağıdı 2023-11-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11799710/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnce Memed 2",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "137,53",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807176 | TÜRKÇE | 459 | Karton Kapak | Kitap Kağıdı 2020-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:100877/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çankaya",
@@ -1492,15 +1492,6 @@
     "yayinevi": "KOLEKTİF KİTAP",
     "kitap_hakkinda": "9786256896116 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2023-10-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783124/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "İnce Memed 3",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "165,03",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:106052/wi:500/wh:true"
   },
   {
     "kitap_adi": "Doğunun Limanları",
@@ -1746,15 +1737,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345519/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İnce Memed 4",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "165,03",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750806995 | TÜRKÇE | 639 | Karton Kapak | Kitap Kağıdı 2020-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:100878/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Bir Kedi, Bir Adam, Bir Ölüm",
     "yazar": "Zülfü Livaneli",
     "fiyat": "85,56",
@@ -1861,6 +1843,15 @@
     "yayinevi": "PUKKA YAYINLARI",
     "kitap_hakkinda": "9786259961170 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-10-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788233/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnce Memed 3",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "165,03",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:106052/wi:500/wh:true"
   },
   {
     "kitap_adi": "Eşekli Kütüphaneci",
@@ -2221,6 +2212,15 @@
     "yayinevi": "DİYOJEN YAYINCILIK",
     "kitap_hakkinda": "All the Light We Cannot See | 9786259918570 | TÜRKÇE | 576 | Ciltli | Kitap Kağıdı 2023-10-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11782130/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnce Memed 4",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "165,03",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750806995 | TÜRKÇE | 639 | Karton Kapak | Kitap Kağıdı 2020-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:100878/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsancıklar",
