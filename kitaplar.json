@@ -189,6 +189,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11778629/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Nietzsche Ağladığında",
+    "yazar": "Irvin D. Yalom",
+    "fiyat": "121,13",
+    "eski_fiyat": "",
+    "yayinevi": "AYRINTI YAYINLARI",
+    "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11771471/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
     "fiyat": "17,30",
@@ -214,15 +223,6 @@
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631025/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Nietzsche Ağladığında",
-    "yazar": "Irvin D. Yalom",
-    "fiyat": "121,13",
-    "eski_fiyat": "",
-    "yayinevi": "AYRINTI YAYINLARI",
-    "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11771471/wi:500/wh:true"
   },
   {
     "kitap_adi": "Açlık",
@@ -666,15 +666,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11356189/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
-    "yazar": "Jostein Gaarder",
-    "fiyat": "184,17",
-    "eski_fiyat": "",
-    "yayinevi": "PAN YAYINCILIK",
-    "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783714/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "İnsancıklar",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "19,04",
@@ -736,6 +727,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751520 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2021-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345523/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
+    "yazar": "Jostein Gaarder",
+    "fiyat": "184,17",
+    "eski_fiyat": "",
+    "yayinevi": "PAN YAYINCILIK",
+    "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783714/wi:500/wh:true"
   },
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
@@ -1368,6 +1368,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788192/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Küçük Ağaç'ın Eğitimi",
+    "yazar": "Forrest Carter",
+    "fiyat": "108,00",
+    "eski_fiyat": "",
+    "yayinevi": "SAY YAYINLARI",
+    "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Eylül",
     "yazar": "Mehmed Rauf",
     "fiyat": "19,04",
@@ -1582,15 +1591,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300018 | TÜRKÇE | 87 | Karton Kapak | Kitap Kağıdı 2021-04-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11401989/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Küçük Ağaç'ın Eğitimi",
-    "yazar": "Forrest Carter",
-    "fiyat": "108,00",
-    "eski_fiyat": "",
-    "yayinevi": "SAY YAYINLARI",
-    "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bütün Şiirleri (Ciltli, İplik Dikişli)",
@@ -3220,15 +3220,6 @@
     "yayinevi": "YORDAM KİTAP",
     "kitap_hakkinda": "Обломов - Oblomov | 9786051722405 | TÜRKÇE | 700 | Karton Kapak | Kitap Kağıdı 2020-03-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711735/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Demirciler Çarşısı Cinayeti / Akçasazın Ağaları 1",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "95,70",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807367 | TÜRKÇE | 572 | Karton Kapak | Kitap Kağıdı 2019-03-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11607146/wi:500/wh:true"
   },
   {
     "kitap_adi": "Benim Küçük Dostlarım",
