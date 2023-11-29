@@ -126,15 +126,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11436084/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Nietzsche Ağladığında",
-    "yazar": "Irvin D. Yalom",
-    "fiyat": "121,33",
-    "eski_fiyat": "",
-    "yayinevi": "AYRINTI YAYINLARI",
-    "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11771471/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
     "fiyat": "76,50",
@@ -142,6 +133,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481517/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Nietzsche Ağladığında",
+    "yazar": "Irvin D. Yalom",
+    "fiyat": "121,33",
+    "eski_fiyat": "",
+    "yayinevi": "AYRINTI YAYINLARI",
+    "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11771471/wi:500/wh:true"
   },
   {
     "kitap_adi": "Körlük",
@@ -738,6 +738,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783714/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
+    "yazar": "Oğuz Atay",
+    "fiyat": "200,98",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462655/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
     "yazar": "William Golding",
     "fiyat": "41,41",
@@ -790,15 +799,6 @@
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "Jonathan Livingston Seagull | 9789944829670 | TÜRKÇE | 152 | Karton Kapak | 1. Hm. Kağıt 2015-01-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7528415/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
-    "yazar": "Oğuz Atay",
-    "fiyat": "200,98",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462655/wi:500/wh:true"
   },
   {
     "kitap_adi": "Uçabileceğini Hayal Eden Tavuk",
@@ -2763,15 +2763,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4908579/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Mavi Kuş",
-    "yazar": "Mustafa Kutlu",
-    "fiyat": "104,20",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Körburun",
     "yazar": "Hikmet Hükümenoğlu",
     "fiyat": "168,30",
@@ -3256,6 +3247,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "Black Coffee | 9789754058789 | TÜRKÇE | 152 | Karton Kapak | 3. Hm. Kağıt 2023-02-23",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11676580/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Mavi Kuş",
+    "yazar": "Mustafa Kutlu",
+    "fiyat": "104,20",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sinekli Bakkal",
@@ -4210,6 +4210,15 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050955453 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2018-12-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7129911/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Botter Apartmanı",
+    "yazar": "Ayşe Övür",
+    "fiyat": "69,10",
+    "eski_fiyat": "",
+    "yayinevi": "REMZİ KİTABEVİ",
+    "kitap_hakkinda": "9789751418975 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-06-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8589264/wi:500/wh:true"
   },
   {
     "kitap_adi": "Olağanüstü Bir Gece (Cep Boy) (Tam Metin)",
