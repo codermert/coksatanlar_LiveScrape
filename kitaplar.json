@@ -3861,6 +3861,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11588078/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kağıt Ev",
+    "yazar": "Carlos Maria Dominguez",
+    "fiyat": "45,00",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056501944 | TÜRKÇE | 94 | Karton Kapak | Kitap Kağıdı 2017-07-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1001934/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Dede Korkut Hikayeleri (Karton Kapak) & Kitab-ı Dedem Korkut",
     "yazar": "Anonim",
     "fiyat": "39,20",
@@ -4057,6 +4066,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yüzük Kardeşliği Yüzüklerin Efendisi 1",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "199,10",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Fellowship of the Ring | 9789753425988 | TÜRKÇE | 520 | Karton Kapak | 3. Hm. Kağıt 2019-08-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11269315/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Çift Yürek",
