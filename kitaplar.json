@@ -1665,15 +1665,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11401989/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Sana Gül Bahçesi Vadetmedim",
-    "yazar": "Joanne Greenberg",
-    "fiyat": "116,45",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "I Never Promised You a Rose Garden | 9789753424080 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-05-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708981/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Suda Kaybolmak",
     "yazar": "Vladimir Tumanov",
     "fiyat": "84,60",
@@ -2212,6 +2203,15 @@
     "yayinevi": "İZ YAYINCILIK",
     "kitap_hakkinda": "9789753551663 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708603/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sana Gül Bahçesi Vadetmedim",
+    "yazar": "Joanne Greenberg",
+    "fiyat": "116,45",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "I Never Promised You a Rose Garden | 9789753424080 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-05-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708981/wi:500/wh:true"
   },
   {
     "kitap_adi": "Güneşi Uyandıralım",
