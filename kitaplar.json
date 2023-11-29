@@ -153,15 +153,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11778629/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Suyu Arayan Adam",
-    "yazar": "Şevket Süreyya Aydemir",
-    "fiyat": "141,93",
-    "eski_fiyat": "",
-    "yayinevi": "REMZİ KİTABEVİ",
-    "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8468433/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
     "fiyat": "77,45",
@@ -169,6 +160,15 @@
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1013537/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Suyu Arayan Adam",
+    "yazar": "Şevket Süreyya Aydemir",
+    "fiyat": "141,93",
+    "eski_fiyat": "",
+    "yayinevi": "REMZİ KİTABEVİ",
+    "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8468433/wi:500/wh:true"
   },
   {
     "kitap_adi": "Momo",
@@ -1044,6 +1044,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11490879/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Küçük Ağaç'ın Eğitimi",
+    "yazar": "Forrest Carter",
+    "fiyat": "108,00",
+    "eski_fiyat": "",
+    "yayinevi": "SAY YAYINLARI",
+    "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Bir Kimya Meselesi",
     "yazar": "Bonnie Garmus",
     "fiyat": "99,22",
@@ -1368,15 +1377,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783124/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Küçük Ağaç'ın Eğitimi",
-    "yazar": "Forrest Carter",
-    "fiyat": "108,00",
-    "eski_fiyat": "",
-    "yayinevi": "SAY YAYINLARI",
-    "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Hacı Murat",
     "yazar": "Lev N. Tolstoy",
     "fiyat": "12,85",
@@ -1438,6 +1438,15 @@
     "yayinevi": "LİBERUS",
     "kitap_hakkinda": "9786256982802 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-10-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11786716/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Toprak Ana",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "45,24",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737232/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsan Nedir? (Cep Boy) (Tam Metin)",
@@ -1933,15 +1942,6 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11612179/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Toprak Ana",
-    "yazar": "Cengiz Aytmatov",
-    "fiyat": "45,24",
-    "eski_fiyat": "",
-    "yayinevi": "ÖTÜKEN NEŞRİYAT",
-    "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737232/wi:500/wh:true"
   },
   {
     "kitap_adi": "Babalar ve Oğullar",
@@ -2653,6 +2653,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050846379 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2022-12-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11637997/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dokuzuncu Hariciye Koğuşu",
+    "yazar": "Peyami Safa",
+    "fiyat": "52,78",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9786254085086 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-02-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713956/wi:500/wh:true"
   },
   {
     "kitap_adi": "Olay",
@@ -3735,15 +3744,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11611179/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Ya Tahammül Ya Sefer",
-    "yazar": "Mustafa Kutlu",
-    "fiyat": "63,35",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759953157 | TÜRKÇE | 124 | Karton Kapak | Kitap Kağıdı 2013-02-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:285160/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Sihirli Ağaç Evi - Çizgi Roman 3: Piramidin Sırrı",
     "yazar": "Mary Pope Osborne",
     "fiyat": "56,10",
@@ -3841,6 +3841,24 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "The History of Napoleon Buonaparte | 9786052652565 | TÜRKÇE | 624 | Karton Kapak | Kitap Kağıdı 2023-11-23",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11800319/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ya Tahammül Ya Sefer",
+    "yazar": "Mustafa Kutlu",
+    "fiyat": "63,35",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759953157 | TÜRKÇE | 124 | Karton Kapak | Kitap Kağıdı 2013-02-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:285160/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gün Olur Asra Bedel",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "101,79",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9789754370539 | TÜRKÇE | 413 | Karton Kapak | 3. Hm. Kağıt 2020-12-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633742/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ene & Sus Ey Nefsim!",
