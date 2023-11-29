@@ -360,6 +360,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11792615/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Puslu Kıtalar Atlası",
+    "yazar": "İhsan Oktay Anar",
+    "fiyat": "103,24",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422412/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Bir İdam Mahkumunun Son Günü",
     "yazar": "Victor Hugo",
     "fiyat": "27,55",
@@ -376,15 +385,6 @@
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "9786050833607 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2020-08-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11474006/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Puslu Kıtalar Atlası",
-    "yazar": "İhsan Oktay Anar",
-    "fiyat": "103,24",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422412/wi:500/wh:true"
   },
   {
     "kitap_adi": "Mai ve Siyah",
@@ -828,6 +828,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11803611/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaban Bütün Eserleri 1",
+    "yazar": "Yakup Kadri Karaosmanoğlu",
+    "fiyat": "76,27",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439037/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Bir Borsa Spekülatörünün Anıları",
     "yazar": "Edvin Lefevre",
     "fiyat": "61,75",
@@ -916,15 +925,6 @@
     "yayinevi": "PANAMA YAYINCILIK",
     "kitap_hakkinda": "9786059371261 | TÜRKÇE | 592 | Karton Kapak | Kitap Kağıdı 2018-12-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11486993/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Yaban Bütün Eserleri 1",
-    "yazar": "Yakup Kadri Karaosmanoğlu",
-    "fiyat": "76,27",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439037/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kalk Yerine Yat",
