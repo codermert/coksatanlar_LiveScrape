@@ -297,6 +297,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788428/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Cesur Yeni Dünya",
+    "yazar": "Aldous Huxley",
+    "fiyat": "82,60",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11643404/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
     "fiyat": "15,15",
@@ -340,15 +349,6 @@
     "yayinevi": "OLİMPOS YAYINLARI",
     "kitap_hakkinda": "9786256411623 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2023-10-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787254/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Cesur Yeni Dünya",
-    "yazar": "Aldous Huxley",
-    "fiyat": "82,60",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11643404/wi:500/wh:true"
   },
   {
     "kitap_adi": "İyileşme Zamanı",
@@ -549,6 +549,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11643403/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Hayvan Çiftliği (Ciltsiz)",
+    "yazar": "George Orwell",
+    "fiyat": "29,10",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Animall Farm | 9789750719387 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11447395/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sol Ayağım",
     "yazar": "Christy Brown",
     "fiyat": "67,84",
@@ -657,15 +666,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711430/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Hayvan Çiftliği (Ciltsiz)",
-    "yazar": "George Orwell",
-    "fiyat": "29,10",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "Animall Farm | 9789750719387 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-10-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11447395/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Otomatik Portakal (Ciltsiz)",
     "yazar": "Anthony Burgess",
     "fiyat": "25,30",
@@ -693,13 +693,13 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11794407/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Martı Jonathan Livingston",
-    "yazar": "Richard Bach",
-    "fiyat": "70,44",
+    "kitap_adi": "Bu Ülke",
+    "yazar": "Cemil Meriç",
+    "fiyat": "100,99",
     "eski_fiyat": "",
-    "yayinevi": "EPSİLON YAYINEVİ",
-    "kitap_hakkinda": "Jonathan Livingston Seagull | 9789944829670 | TÜRKÇE | 152 | Karton Kapak | 1. Hm. Kağıt 2015-01-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7528415/wi:500/wh:true"
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754702811 | TÜRKÇE | 339 | Karton Kapak | 3. Hm. Kağıt 2021-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11460549/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beyaz Diş",
@@ -738,13 +738,13 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783714/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Bu Ülke",
-    "yazar": "Cemil Meriç",
-    "fiyat": "100,99",
+    "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
+    "yazar": "William Golding",
+    "fiyat": "41,41",
     "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754702811 | TÜRKÇE | 339 | Karton Kapak | 3. Hm. Kağıt 2021-10-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11460549/wi:500/wh:true"
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "Lord of the Flies | 9789754582901 | TÜRKÇE | 261 | Karton Kapak | Kitap Kağıdı 2019-07-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4060201/wi:500/wh:true"
   },
   {
     "kitap_adi": "Uçaktaki Yabancı",
@@ -754,15 +754,6 @@
     "yayinevi": "MARTI YAYINLARI",
     "kitap_hakkinda": "9786253660932 | TÜRKÇE | 480 | Karton Kapak | Kitap Kağıdı 2023-11-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11791998/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
-    "yazar": "William Golding",
-    "fiyat": "41,41",
-    "eski_fiyat": "",
-    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
-    "kitap_hakkinda": "Lord of the Flies | 9789754582901 | TÜRKÇE | 261 | Karton Kapak | Kitap Kağıdı 2019-07-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4060201/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sırça Köşk",
@@ -790,6 +781,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784757 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2021-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345520/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Martı Jonathan Livingston",
+    "yazar": "Richard Bach",
+    "fiyat": "70,44",
+    "eski_fiyat": "",
+    "yayinevi": "EPSİLON YAYINEVİ",
+    "kitap_hakkinda": "Jonathan Livingston Seagull | 9789944829670 | TÜRKÇE | 152 | Karton Kapak | 1. Hm. Kağıt 2015-01-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7528415/wi:500/wh:true"
   },
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
@@ -2367,6 +2367,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795310/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
+    "yazar": "Orhan Veli Kanık",
+    "fiyat": "24,30",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Dörtlükler (Karton Kapak) & Rubailer",
     "yazar": "Ömer Hayyam",
     "fiyat": "29,04",
@@ -2410,15 +2419,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300766 | TÜRKÇE | 52 | Karton Kapak | Kitap Kağıdı 2021-02-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11359191/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
-    "yazar": "Orhan Veli Kanık",
-    "fiyat": "24,30",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
   },
   {
     "kitap_adi": "Aşk-ı Memnu",
@@ -2491,6 +2491,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786259892719 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-11-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795112/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Huzur",
+    "yazar": "Ahmet Hamdi Tanpınar",
+    "fiyat": "194,90",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759955748 | TÜRKÇE | 419 | Karton Kapak | Kitap Kağıdı 2013-09-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağrıdağı Efsanesi",
@@ -2979,15 +2988,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11690626/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Huzur",
-    "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "194,90",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759955748 | TÜRKÇE | 419 | Karton Kapak | Kitap Kağıdı 2013-09-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Afili Hafiye",
     "yazar": "Murat Menteş",
     "fiyat": "84,99",
@@ -3222,15 +3222,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11694117/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Acı Kahve",
-    "yazar": "Agatha Christie",
-    "fiyat": "46,90",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Black Coffee | 9789754058789 | TÜRKÇE | 152 | Karton Kapak | 3. Hm. Kağıt 2023-02-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11676580/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kayıp Balina",
     "yazar": "Hannah Gold",
     "fiyat": "79,20",
@@ -3265,6 +3256,15 @@
     "yayinevi": "ŞULE YAYINLARI",
     "kitap_hakkinda": "9786258062830 | TÜRKÇE | 165 | Karton Kapak | Kitap Kağıdı 2023-10-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11780856/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Acı Kahve",
+    "yazar": "Agatha Christie",
+    "fiyat": "46,90",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Black Coffee | 9789754058789 | TÜRKÇE | 152 | Karton Kapak | 3. Hm. Kağıt 2023-02-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11676580/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sinekli Bakkal",
