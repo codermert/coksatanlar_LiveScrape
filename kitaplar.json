@@ -2070,15 +2070,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8863916/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Koleksiyoncu",
-    "yazar": "John Fowles",
-    "fiyat": "97,92",
-    "eski_fiyat": "",
-    "yayinevi": "AYRINTI YAYINLARI",
-    "kitap_hakkinda": "The Collector | 9789755393087 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-10-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742792/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Satranç",
     "yazar": "Stefan Zweig",
     "fiyat": "14,90",
@@ -2212,6 +2203,15 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9786254295584 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-10-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788437/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Güneşi Uyandıralım",
+    "yazar": "Jose Mauro De Vasconcelos",
+    "fiyat": "105,60",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Vamós Aquecer o Sol | 9789750739071 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-08-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11261075/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kapak Kızı",
@@ -2493,6 +2493,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795112/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Noelde Cinayet",
+    "yazar": "Agatha Christie",
+    "fiyat": "57,20",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Murder for Chrıstmas | 9789754052718 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2023-10-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787010/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Huzur",
     "yazar": "Ahmet Hamdi Tanpınar",
     "fiyat": "194,90",
@@ -2700,13 +2709,22 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788566/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Noelde Cinayet",
-    "yazar": "Agatha Christie",
-    "fiyat": "57,20",
+    "kitap_adi": "Görme Biçimleri",
+    "yazar": "John Berger",
+    "fiyat": "74,66",
     "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Murder for Chrıstmas | 9789754052718 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2023-10-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787010/wi:500/wh:true"
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "Ways of Seeing | 9789753420839 | TÜRKÇE | 166 | Karton Kapak | 1. Hm. Kağıt 2019-05-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11247508/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Koleksiyoncu",
+    "yazar": "John Fowles",
+    "fiyat": "97,92",
+    "eski_fiyat": "",
+    "yayinevi": "AYRINTI YAYINLARI",
+    "kitap_hakkinda": "The Collector | 9789755393087 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742792/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hasretinden Prangalar Eskittim",
@@ -2718,15 +2736,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11733752/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Görme Biçimleri",
-    "yazar": "John Berger",
-    "fiyat": "74,66",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "Ways of Seeing | 9789753420839 | TÜRKÇE | 166 | Karton Kapak | 1. Hm. Kağıt 2019-05-16",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11247508/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Son Kuşlar",
     "yazar": "Sait Faik Abasıyanık",
     "fiyat": "35,64",
@@ -2734,15 +2743,6 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9786254054372 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-05-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11409634/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Güneşi Uyandıralım",
-    "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "105,60",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "Vamós Aquecer o Sol | 9789750739071 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-08-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11261075/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kar",
