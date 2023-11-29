@@ -999,6 +999,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11778626/wi:500/wh:true"
   },
   {
+    "kitap_adi": "1984",
+    "yazar": "George Orwell",
+    "fiyat": "52,50",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Ay’a Yolculuk",
     "yazar": "Jules Verne",
     "fiyat": "9,90",
@@ -1087,15 +1096,6 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "Malamander | 9786050833775 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-08-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11467764/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "1984",
-    "yazar": "George Orwell",
-    "fiyat": "52,50",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dorian Gray'in Portresi",
