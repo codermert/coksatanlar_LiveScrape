@@ -1053,15 +1053,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Bir Kimya Meselesi",
-    "yazar": "Bonnie Garmus",
-    "fiyat": "99,22",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "9789752128354 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-06-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11781235/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Uzun Hikaye",
     "yazar": "Mustafa Kutlu",
     "fiyat": "50,13",
@@ -1069,6 +1060,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:60346/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Kimya Meselesi",
+    "yazar": "Bonnie Garmus",
+    "fiyat": "99,22",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "9789752128354 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-06-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11781235/wi:500/wh:true"
   },
   {
     "kitap_adi": "Olasılıksız",
@@ -2709,15 +2709,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787010/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Beş Şehir",
-    "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "104,40",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Hasretinden Prangalar Eskittim",
     "yazar": "Ahmed Arif",
     "fiyat": "79,06",
@@ -3535,6 +3526,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786052652558 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2023-11-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11796590/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Beş Şehir",
+    "yazar": "Ahmet Hamdi Tanpınar",
+    "fiyat": "104,40",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:500/wh:true"
   },
   {
     "kitap_adi": "Demirciler Çarşısı Cinayeti / Akçasazın Ağaları 1",
