@@ -1935,15 +1935,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372350/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Mülksüzler",
-    "yazar": "Ursula K. Le Guin",
-    "fiyat": "137,62",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11612179/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Babalar ve Oğullar",
     "yazar": "Ivan Sergeyeviç Turgenyev",
     "fiyat": "14,90",
@@ -2518,6 +2509,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955748 | TÜRKÇE | 419 | Karton Kapak | Kitap Kağıdı 2013-09-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Mülksüzler",
+    "yazar": "Ursula K. Le Guin",
+    "fiyat": "137,62",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11612179/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağrıdağı Efsanesi",
