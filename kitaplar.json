@@ -126,6 +126,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11436084/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Nietzsche Ağladığında",
+    "yazar": "Irvin D. Yalom",
+    "fiyat": "121,33",
+    "eski_fiyat": "",
+    "yayinevi": "AYRINTI YAYINLARI",
+    "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11771471/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
     "fiyat": "76,50",
@@ -164,7 +173,7 @@
   {
     "kitap_adi": "Suyu Arayan Adam",
     "yazar": "Şevket Süreyya Aydemir",
-    "fiyat": "141,93",
+    "fiyat": "147,84",
     "eski_fiyat": "",
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
@@ -187,15 +196,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11431393/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Nietzsche Ağladığında",
-    "yazar": "Irvin D. Yalom",
-    "fiyat": "121,33",
-    "eski_fiyat": "",
-    "yayinevi": "AYRINTI YAYINLARI",
-    "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11771471/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yeraltından Notlar",
@@ -648,15 +648,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11398685/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Doğu Ekspresinde Cinayet",
-    "yazar": "Agatha Christie",
-    "fiyat": "80,05",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Murder on the Orient Express | 9780112873976 | TÜRKÇE | 256 | Karton Kapak | 3. Hm. Kağıt 2023-08-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5558946/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Palyatif Toplum & Günümüzde Acı",
     "yazar": "Byung-Chul Han",
     "fiyat": "51,10",
@@ -664,6 +655,15 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Palliativgesellschaft | 9786053162599 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2022-07-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711430/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Doğu Ekspresinde Cinayet",
+    "yazar": "Agatha Christie",
+    "fiyat": "80,05",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Murder on the Orient Express | 9780112873976 | TÜRKÇE | 256 | Karton Kapak | 3. Hm. Kağıt 2023-08-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5558946/wi:500/wh:true"
   },
   {
     "kitap_adi": "Otomatik Portakal (Ciltsiz)",
@@ -918,15 +918,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11486993/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Çavdar Tarlasında Çocuklar",
-    "yazar": "J. D. Salinger",
-    "fiyat": "49,40",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6532396/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Yaban Bütün Eserleri 1",
     "yazar": "Yakup Kadri Karaosmanoğlu",
     "fiyat": "76,27",
@@ -1042,6 +1033,15 @@
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042903 | TÜRKÇE | 172 | Karton Kapak | Kitap Kağıdı 2021-12-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11490879/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Çavdar Tarlasında Çocuklar",
+    "yazar": "J. D. Salinger",
+    "fiyat": "49,40",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6532396/wi:500/wh:true"
   },
   {
     "kitap_adi": "Küçük Ağaç'ın Eğitimi",
