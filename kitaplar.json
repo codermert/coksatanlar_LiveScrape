@@ -1224,15 +1224,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11419336/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Afrikalı Leo",
-    "yazar": "Amin Maalouf",
-    "fiyat": "72,10",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789753631570 | TÜRKÇE | 374 | Karton Kapak | Kitap Kağıdı 2019-10-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1138970/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Son Ada",
     "yazar": "Zülfü Livaneli",
     "fiyat": "70,60",
@@ -1312,6 +1303,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9786256839519 | TÜRKÇE | 488 | Karton Kapak | Kitap Kağıdı 2023-11-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11799710/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Afrikalı Leo",
+    "yazar": "Amin Maalouf",
+    "fiyat": "72,10",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789753631570 | TÜRKÇE | 374 | Karton Kapak | Kitap Kağıdı 2019-10-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1138970/wi:500/wh:true"
   },
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
@@ -1872,6 +1872,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11768467/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Tehlikeli Oyunlar / Bütün Eserleri 2",
+    "yazar": "Oğuz Atay",
+    "fiyat": "145,67",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İki Dirhem Bir Çekirdek",
     "yazar": "Prof. Dr. İskender Pala",
     "fiyat": "71,62",
@@ -2052,15 +2061,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11390613/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Tehlikeli Oyunlar / Bütün Eserleri 2",
-    "yazar": "Oğuz Atay",
-    "fiyat": "145,67",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Pia Mater",
     "yazar": "Serkan Karaismailoğlu",
     "fiyat": "109,63",
@@ -2203,6 +2203,15 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9786254295584 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-10-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788437/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gül Yetiştiren Adam",
+    "yazar": "Rasim Özdenören",
+    "fiyat": "68,00",
+    "eski_fiyat": "",
+    "yayinevi": "İZ YAYINCILIK",
+    "kitap_hakkinda": "9789753551663 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708603/wi:500/wh:true"
   },
   {
     "kitap_adi": "Güneşi Uyandıralım",
@@ -2932,15 +2941,6 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786258215960 | TÜRKÇE | 312 | Karton Kapak | Kitap Kağıdı 2023-01-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11656155/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Gül Yetiştiren Adam",
-    "yazar": "Rasim Özdenören",
-    "fiyat": "68,00",
-    "eski_fiyat": "",
-    "yayinevi": "İZ YAYINCILIK",
-    "kitap_hakkinda": "9789753551663 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708603/wi:500/wh:true"
   },
   {
     "kitap_adi": "Pal Sokağı Çocukları",
@@ -4021,15 +4021,6 @@
     "yayinevi": "YAKA YAYINLARI",
     "kitap_hakkinda": "9786057466433 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2023-09-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11775908/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Dişi Domuz",
-    "yazar": "Marie Darrieussecq",
-    "fiyat": "75,63",
-    "eski_fiyat": "",
-    "yayinevi": "SEL YAYINCILIK",
-    "kitap_hakkinda": "9786256462212 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-10-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11790590/wi:500/wh:true"
   },
   {
     "kitap_adi": "Üstesinden Gelemediğimiz Şeyler",
