@@ -182,7 +182,7 @@
   {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
-    "fiyat": "115,70",
+    "fiyat": "115,80",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
@@ -200,7 +200,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "121,64",
+    "fiyat": "121,74",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -515,7 +515,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "69,31",
+    "fiyat": "69,36",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -551,7 +551,7 @@
   {
     "kitap_adi": "On Kişiydiler (On Küçük Zenci)",
     "yazar": "Agatha Christie",
-    "fiyat": "59,71",
+    "fiyat": "59,81",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "And Then There None | 9789752126169 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -1494,6 +1494,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11753491/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Duvar",
+    "yazar": "Marlen Haushofer",
+    "fiyat": "107,25",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750859366 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2023-11-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11801276/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İki Dirhem Bir Çekirdek",
     "yazar": "Prof. Dr. İskender Pala",
     "fiyat": "71,62",
@@ -1901,7 +1910,7 @@
   {
     "kitap_adi": "Fon",
     "yazar": "Mahfi Eğilmez",
-    "fiyat": "97,20",
+    "fiyat": "112,82",
     "eski_fiyat": "",
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751421449 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2023-06-16",
@@ -3611,7 +3620,7 @@
   {
     "kitap_adi": "Botter Apartmanı",
     "yazar": "Ayşe Övür",
-    "fiyat": "69,10",
+    "fiyat": "82,92",
     "eski_fiyat": "",
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751418975 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-06-17",
@@ -3944,7 +3953,7 @@
   {
     "kitap_adi": "Aşkın Celladı",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "106,02",
+    "fiyat": "123,12",
     "eski_fiyat": "",
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751404756 | TÜRKÇE | 303 | Karton Kapak | Kitap Kağıdı 2019-11-19",
