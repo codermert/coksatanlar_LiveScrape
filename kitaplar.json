@@ -254,7 +254,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "17,22",
+    "fiyat": "17,30",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -344,7 +344,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "96,69",
+    "fiyat": "96,78",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -2286,15 +2286,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11476735/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Mutlu Olma Sanatı (Kısa Klasik)",
-    "yazar": "Arthur Schopenhauer",
-    "fiyat": "29,70",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750741203 | TÜRKÇE | 56 | Karton Kapak | Kitap Kağıdı 2019-10-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481518/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek",
     "yazar": "Erich Fromm",
     "fiyat": "90,00",
@@ -3580,15 +3571,6 @@
     "yayinevi": "PANAMA YAYINCILIK",
     "kitap_hakkinda": "9789752444959 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-07-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11592121/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Dede Korkut Hikayeleri (Karton Kapak) & Kitab-ı Dedem Korkut",
-    "yazar": "Anonim",
-    "fiyat": "39,20",
-    "eski_fiyat": "",
-    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
-    "kitap_hakkinda": "9786052954270 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-11-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5786728/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kadınlar Ülkesi",
