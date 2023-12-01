@@ -2484,15 +2484,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4908579/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Iza’nın Şarkısı",
-    "yazar": "Magda Szabo",
-    "fiyat": "79,20",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750840333 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10917254/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kudüs Yazıları",
     "yazar": "Taha Kılınç",
     "fiyat": "75,60",
@@ -2707,6 +2698,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bin Muhteşem Güneş",
+    "yazar": "Khaled Hosseini",
+    "fiyat": "140,40",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11324696/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kar",
