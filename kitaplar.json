@@ -1926,15 +1926,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:100878/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Eşekli Kütüphaneci",
-    "yazar": "Fakir Baykurt",
-    "fiyat": "84,18",
-    "eski_fiyat": "",
-    "yayinevi": "LİTERATÜR YAYINLARI",
-    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kırlangıç Çığlığı",
     "yazar": "Ahmet Ümit",
     "fiyat": "81,40",
@@ -3094,6 +3085,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784603 | TÜRKÇE | 72 | Karton Kapak | Kitap Kağıdı 2020-11-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318904/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Kedi, Bir Adam, Bir Ölüm",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "79,05",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751041708 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-03-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11385542/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gargantis",
