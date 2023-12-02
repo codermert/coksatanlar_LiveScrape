@@ -56,7 +56,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "70,40",
+    "fiyat": "70,50",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Senin Cahilliğin Benim Yaşamımı Etkiliyor",
     "yazar": "A. M. Celal Şengör",
-    "fiyat": "97,80",
+    "fiyat": "97,90",
     "eski_fiyat": "",
     "yayinevi": "MASA KİTAP",
     "kitap_hakkinda": "9786057301857 | TÜRKÇE | 260 | Karton Kapak | Kitap Kağıdı 2023-08-01",
@@ -155,7 +155,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "77,55",
+    "fiyat": "77,20",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -182,7 +182,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "77,65",
+    "fiyat": "77,75",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -308,7 +308,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "103,80",
+    "fiyat": "103,90",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -407,7 +407,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "103,92",
+    "fiyat": "104,02",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -461,7 +461,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "80,70",
+    "fiyat": "80,80",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -497,7 +497,7 @@
   {
     "kitap_adi": "Oh Ne Ala Memleket",
     "yazar": "Şermin Yaşar",
-    "fiyat": "108,59",
+    "fiyat": "108,69",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN EGMONT ÇOCUK KİTAPLARI",
     "kitap_hakkinda": "9786050980325 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2020-07-22",
@@ -506,7 +506,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "125,03",
+    "fiyat": "119,95",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -596,7 +596,7 @@
   {
     "kitap_adi": "Hain",
     "yazar": "Dr. Selim Erdoğan",
-    "fiyat": "84,42",
+    "fiyat": "84,52",
     "eski_fiyat": "",
     "yayinevi": "KRONİK KİTAP",
     "kitap_hakkinda": "9786256989962 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-10-16",
@@ -659,7 +659,7 @@
   {
     "kitap_adi": "Gazap Üzümleri",
     "yazar": "John Steinbeck",
-    "fiyat": "133,62",
+    "fiyat": "122,56",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750531170 | TÜRKÇE | 540 | Karton Kapak | Kitap Kağıdı 2021-12-28",
@@ -1082,7 +1082,7 @@
   {
     "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
     "yazar": "Jostein Gaarder",
-    "fiyat": "184,17",
+    "fiyat": "140,13",
     "eski_fiyat": "",
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
@@ -1366,6 +1366,15 @@
     "yayinevi": "SAHİ KİTAP",
     "kitap_hakkinda": "9786057232939 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-04-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700871/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Duvar",
+    "yazar": "Marlen Haushofer",
+    "fiyat": "107,25",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750859366 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2023-11-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11801276/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir İdam Mahkumunun Son Günü (Cep Boy) (Tam Metin)",
