@@ -650,7 +650,7 @@
   {
     "kitap_adi": "Son Sürat",
     "yazar": "Emma  Scott",
-    "fiyat": "100,10",
+    "fiyat": "100,22",
     "eski_fiyat": "",
     "yayinevi": "LAPİS YAYINCILIK",
     "kitap_hakkinda": "9786259937106 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2023-08-28",
@@ -1915,15 +1915,6 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786256843639 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-08-17",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11753491/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Mülksüzler",
-    "yazar": "Ursula K. Le Guin",
-    "fiyat": "137,62",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11612179/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
