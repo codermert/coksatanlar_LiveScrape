@@ -488,7 +488,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "119,95",
+    "fiyat": "120,07",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -875,7 +875,7 @@
   {
     "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
     "yazar": "Jostein Gaarder",
-    "fiyat": "140,13",
+    "fiyat": "140,26",
     "eski_fiyat": "",
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
@@ -2743,15 +2743,6 @@
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9786050207941 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2022-02-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11648370/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Osman",
-    "yazar": "Ayfer Tunç",
-    "fiyat": "143,00",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
   },
   {
     "kitap_adi": "Vahşetin Çağrısı",
