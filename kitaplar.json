@@ -11,7 +11,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "82,20",
+    "fiyat": "82,30",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -191,7 +191,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "122,64",
+    "fiyat": "122,74",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -236,7 +236,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "17,80",
+    "fiyat": "17,90",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -254,7 +254,7 @@
   {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
-    "fiyat": "63,91",
+    "fiyat": "64,01",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -380,7 +380,7 @@
   {
     "kitap_adi": "Kaplanın Sırtında",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "91,50",
+    "fiyat": "91,60",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751044600 | TÜRKÇE | 324 | Karton Kapak | Kitap Kağıdı 2023-01-09",
@@ -407,7 +407,7 @@
   {
     "kitap_adi": "Oh Ne Ala Memleket",
     "yazar": "Şermin Yaşar",
-    "fiyat": "108,79",
+    "fiyat": "108,89",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN EGMONT ÇOCUK KİTAPLARI",
     "kitap_hakkinda": "9786050980325 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2020-07-22",
@@ -461,7 +461,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "81,87",
+    "fiyat": "81,97",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -470,7 +470,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "104,40",
+    "fiyat": "104,50",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -506,7 +506,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "104,52",
+    "fiyat": "104,62",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -515,7 +515,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "15,55",
+    "fiyat": "15,65",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -569,7 +569,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "81,20",
+    "fiyat": "81,30",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -830,7 +830,7 @@
   {
     "kitap_adi": "Hain",
     "yazar": "Dr. Selim Erdoğan",
-    "fiyat": "84,82",
+    "fiyat": "84,92",
     "eski_fiyat": "",
     "yayinevi": "KRONİK KİTAP",
     "kitap_hakkinda": "9786256989962 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-10-16",
@@ -4050,6 +4050,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784603/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yüzüklerin Efendisi (Tek Cilt)",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "402,60",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Lord of The Rings | 9789753423472 | TÜRKÇE | 1026 | Ciltli | Kitap Kağıdı 2022-01-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11718457/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Şu Çılgın Türkler",
     "yazar": "Turgut Özakman",
     "fiyat": "150,00",
@@ -4255,15 +4264,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258076493 | TÜRKÇE | 96 | Ciltli | Kitap Kağıdı 2022-07-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11589478/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Harika Bir Hayat",
-    "yazar": "Hikmet Hükümenoğlu",
-    "fiyat": "93,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750731594 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2023-01-19",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11656555/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Borsa Spekülatörünün Anıları",
