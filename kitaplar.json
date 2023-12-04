@@ -65,7 +65,7 @@
   {
     "kitap_adi": "Simyacı (Ciltsiz)",
     "yazar": "Paulo Coelho",
-    "fiyat": "72,40",
+    "fiyat": "72,50",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "126,80",
+    "fiyat": "126,90",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "97,33",
+    "fiyat": "97,42",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -308,7 +308,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "69,97",
+    "fiyat": "70,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -830,7 +830,7 @@
   {
     "kitap_adi": "Hain",
     "yazar": "Dr. Selim Erdoğan",
-    "fiyat": "84,92",
+    "fiyat": "85,02",
     "eski_fiyat": "",
     "yayinevi": "KRONİK KİTAP",
     "kitap_hakkinda": "9786256989962 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-10-16",
@@ -1906,15 +1906,6 @@
     "yayinevi": "APRIL YAYINCILIK",
     "kitap_hakkinda": "The Burnt Sugar  | 9786256756021 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2023-10-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11790729/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Çekmece",
-    "yazar": "Hasan Kılıç",
-    "fiyat": "67,38",
-    "eski_fiyat": "",
-    "yayinevi": "PARMA KİTAP",
-    "kitap_hakkinda": "9786057746955 | TÜRKÇE | 74 | Karton Kapak | Kitap Kağıdı 2023-11-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795048/wi:500/wh:true"
   },
   {
     "kitap_adi": "Tehlikeli Oyunlar / Bütün Eserleri 2",
