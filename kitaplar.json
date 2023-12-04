@@ -1559,11 +1559,11 @@
   {
     "kitap_adi": "Uzakların Şarkısı",
     "yazar": "Kaan Murat Yanık",
-    "fiyat": "57,90",
+    "fiyat": "88,03",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256495500 | TÜRKÇE | 392 | Karton Kapak | Kitap Kağıdı 2023-08-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11751777/wi:500/wh:true"
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11810503/wi:500/wh:true"
   },
   {
     "kitap_adi": "Satranç",
@@ -2500,6 +2500,15 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999138 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-12-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641420/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Kadın",
+    "yazar": "Annie Ernaux",
+    "fiyat": "48,18",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750760594 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2023-04-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11690626/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnci",
