@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "127,00",
+    "fiyat": "127,10",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -326,7 +326,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "97,51",
+    "fiyat": "97,60",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -1136,7 +1136,7 @@
   {
     "kitap_adi": "Hain",
     "yazar": "Dr. Selim Erdoğan",
-    "fiyat": "85,02",
+    "fiyat": "85,12",
     "eski_fiyat": "",
     "yayinevi": "KRONİK KİTAP",
     "kitap_hakkinda": "9786256989962 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-10-16",
@@ -3337,6 +3337,15 @@
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041944 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2021-06-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11430793/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Katilin Güncesi",
+    "yazar": "Kim Young-Ha",
+    "fiyat": "74,40",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ YAYINLARI",
+    "kitap_hakkinda": "9786050839142 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2022-02-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11676239/wi:500/wh:true"
   },
   {
     "kitap_adi": "Türk Masalları",
