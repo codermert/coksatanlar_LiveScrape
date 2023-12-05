@@ -11,7 +11,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "82,40",
+    "fiyat": "82,50",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -164,7 +164,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "123,04",
+    "fiyat": "123,14",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -497,7 +497,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "81,60",
+    "fiyat": "81,70",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -524,7 +524,7 @@
   {
     "kitap_adi": "Uzun Hikaye",
     "yazar": "Mustafa Kutlu",
-    "fiyat": "51,03",
+    "fiyat": "51,13",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
@@ -2583,6 +2583,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Hasretinden Prangalar Eskittim",
+    "yazar": "Ahmed Arif",
+    "fiyat": "79,06",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "9789753426527 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2023-06-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11733752/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İnsan Neyle Yaşar?",
     "yazar": "Lev N. Tolstoy",
     "fiyat": "13,00",
@@ -3132,6 +3141,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793098/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Korkuyu Beklerken / Bütün Eserleri 4",
+    "yazar": "Oğuz Atay",
+    "fiyat": "83,45",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754701586 | TÜRKÇE | 202 | Karton Kapak | 3. Hm. Kağıt 2022-01-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11451946/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Şu Çılgın Türkler",
     "yazar": "Turgut Özakman",
     "fiyat": "150,00",
@@ -3184,6 +3202,15 @@
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9786051553900 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2020-06-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11592838/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dede Korkut Hikayeleri (Karton Kapak) & Kitab-ı Dedem Korkut",
+    "yazar": "Anonim",
+    "fiyat": "39,20",
+    "eski_fiyat": "",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "9786052954270 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-11-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5786728/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sevgili Arsız Ölüm",
@@ -3931,6 +3958,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750813870 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-10-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5192419/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zincire Vurulmuş Prometheus (Karton Kapak)",
+    "yazar": "Aiskhylos",
+    "fiyat": "17,98",
+    "eski_fiyat": "",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "9789754582062 | TÜRKÇE | 78 | Karton Kapak | Kitap Kağıdı 2019-08-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:119584/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sabahın İlk Işıkları",
