@@ -1359,15 +1359,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11777921/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Seyir",
-    "yazar": "Piraye",
-    "fiyat": "140,40",
-    "eski_fiyat": "",
-    "yayinevi": "MONA KİTAP",
-    "kitap_hakkinda": "9786052182734 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-01-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11707321/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Çocukluk & Kopenhag Üçlemesi",
     "yazar": "Tove Ditlevsen",
     "fiyat": "53,90",
@@ -2275,6 +2266,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dörtlükler (Karton Kapak) & Rubailer",
+    "yazar": "Ömer Hayyam",
+    "fiyat": "29,04",
+    "eski_fiyat": "",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "9789754586923 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2019-09-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6490607/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gılgamış Destanı (Karton Kapak)",
@@ -3796,15 +3796,6 @@
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "The Complete Story of Sadako Sasaki: and the Thousand Paper Cranes | 9786254102653 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2022-01-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11507316/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bu Hikaye Senden Uzun Osman",
-    "yazar": "Aylin Balboa",
-    "fiyat": "71,74",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789750533327 | TÜRKÇE | 129 | Karton Kapak | Kitap Kağıdı 2022-11-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11575369/wi:500/wh:true"
   },
   {
     "kitap_adi": "Esir Şehrin Mahpusu",
