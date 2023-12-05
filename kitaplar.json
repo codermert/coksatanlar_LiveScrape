@@ -758,7 +758,7 @@
   {
     "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
     "yazar": "Jostein Gaarder",
-    "fiyat": "140,52",
+    "fiyat": "130,13",
     "eski_fiyat": "",
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
@@ -3742,6 +3742,15 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050946314 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2018-12-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4658090/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zaman Makinesi & Bir Buluş",
+    "yazar": "Herbert George Wells",
+    "fiyat": "18,48",
+    "eski_fiyat": "",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "The Time Machine an Invention | 9786052952528 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2022-07-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4904215/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bilinmeyen Bir Kadının Mektubu (Cep Boy) (Tam Metin)",
