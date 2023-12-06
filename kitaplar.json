@@ -677,7 +677,7 @@
   {
     "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
     "yazar": "Jostein Gaarder",
-    "fiyat": "130,65",
+    "fiyat": "157,53",
     "eski_fiyat": "",
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
@@ -3562,6 +3562,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750761829 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-09-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11761360/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Tanrı ve Memeli Hayvanlar",
+    "yazar": "Zeynep Kaçar",
+    "fiyat": "66,22",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786256570139 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-10-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11780913/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yaz Yağmuru",
