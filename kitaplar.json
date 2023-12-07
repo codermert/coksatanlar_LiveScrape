@@ -1325,7 +1325,7 @@
   {
     "kitap_adi": "Hain",
     "yazar": "Dr. Selim Erdoğan",
-    "fiyat": "85,12",
+    "fiyat": "85,22",
     "eski_fiyat": "",
     "yayinevi": "KRONİK KİTAP",
     "kitap_hakkinda": "9786256989962 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-10-16",
@@ -3796,15 +3796,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750761980 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2023-10-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11774546/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Tanrı ve Memeli Hayvanlar",
-    "yazar": "Zeynep Kaçar",
-    "fiyat": "66,22",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786256570139 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-10-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11780913/wi:500/wh:true"
   },
   {
     "kitap_adi": "Duygusuz",
