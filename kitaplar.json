@@ -954,15 +954,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11690336/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Ortadan Kaybolan Fil",
-    "yazar": "Haruki Murakami",
-    "fiyat": "156,24",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "The Elephant Vanishes (Zō no Shōmetsu) | 9786256570528 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2023-11-30",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11803611/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Palyatif Toplum & Günümüzde Acı",
     "yazar": "Byung-Chul Han",
     "fiyat": "50,50",
@@ -3402,6 +3393,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11350312/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Denizler Altında Yirmi Bin Fersah",
+    "yazar": "Jules Verne",
+    "fiyat": "37,90",
+    "eski_fiyat": "",
+    "yayinevi": "MUNDİ",
+    "kitap_hakkinda": "9786257491150 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2022-06-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11576909/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Dorian Gray'in Portresi (Ciltli, İplik Dikişli)",
     "yazar": "Oscar Wilde",
     "fiyat": "29,90",
@@ -3481,15 +3481,6 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9789754586923 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2019-09-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6490607/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bin Muhteşem Güneş",
-    "yazar": "Khaled Hosseini",
-    "fiyat": "140,40",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11324696/wi:500/wh:true"
   },
   {
     "kitap_adi": "Son Kuşlar",
