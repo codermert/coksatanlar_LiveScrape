@@ -3411,6 +3411,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11590399/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Olay",
+    "yazar": "Annie Ernaux",
+    "fiyat": "39,60",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750760587 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2023-04-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11690625/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İslam’ın Rengi",
     "yazar": "Jenny Molendyk Divleli",
     "fiyat": "65,55",
@@ -4408,6 +4417,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953003 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2012-05-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:111189/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zorba (Ciltsiz)",
+    "yazar": "Nikos Kazancakis",
+    "fiyat": "112,10",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789755101613 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2019-07-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784603/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ölümcül Kimlikler",
