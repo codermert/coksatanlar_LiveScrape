@@ -2907,15 +2907,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:12211/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Oblomov",
-    "yazar": "İvan Gonçarov",
-    "fiyat": "92,40",
-    "eski_fiyat": "",
-    "yayinevi": "YORDAM KİTAP",
-    "kitap_hakkinda": "Обломов - Oblomov | 9786051722405 | TÜRKÇE | 700 | Karton Kapak | Kitap Kağıdı 2020-03-26",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711735/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Palto",
     "yazar": "Nikolay Vasilievich Gogol",
     "fiyat": "14,90",
@@ -3463,6 +3454,15 @@
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041883 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-06-23",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11430790/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Huzursuzluk",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "76,00",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751042675 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-11-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11482999/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sırça Köşk (Ciltli, İplik Dikişli)",
