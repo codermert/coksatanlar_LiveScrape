@@ -272,7 +272,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "19,44",
+    "fiyat": "19,70",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -2779,6 +2779,15 @@
     "yayinevi": "PANAMA YAYINCILIK",
     "kitap_hakkinda": "9786059371261 | TÜRKÇE | 592 | Karton Kapak | Kitap Kağıdı 2018-12-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11486993/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Oblomov",
+    "yazar": "İvan Gonçarov",
+    "fiyat": "92,40",
+    "eski_fiyat": "",
+    "yayinevi": "YORDAM KİTAP",
+    "kitap_hakkinda": "Обломов - Oblomov | 9786051722405 | TÜRKÇE | 700 | Karton Kapak | Kitap Kağıdı 2020-03-26",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711735/wi:500/wh:true"
   },
   {
     "kitap_adi": "Suç ve Ceza (3 Cilt) (Cep Boy) (Tam Metin)",
