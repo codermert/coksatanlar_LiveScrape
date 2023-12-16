@@ -1073,7 +1073,7 @@
   {
     "kitap_adi": "Eşekli Kütüphaneci",
     "yazar": "Fakir Baykurt",
-    "fiyat": "78,30",
+    "fiyat": "85,11",
     "eski_fiyat": "",
     "yayinevi": "LİTERATÜR YAYINLARI",
     "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-28",
@@ -4075,6 +4075,15 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9789944887427 | TÜRKÇE | 365 | Karton Kapak | Kitap Kağıdı 2018-05-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:288763/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Aklından Bir Sayı Tut",
+    "yazar": "John Verdon",
+    "fiyat": "103,69",
+    "eski_fiyat": "",
+    "yayinevi": "KORİDOR YAYINCILIK",
+    "kitap_hakkinda": "9786054188710 | TÜRKÇE | 480 | Karton Kapak | Kitap Kağıdı 2011-04-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:38806/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kabil",
