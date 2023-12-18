@@ -4122,15 +4122,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318983/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Mutluluk",
-    "yazar": "Zülfü Livaneli",
-    "fiyat": "96,50",
-    "eski_fiyat": "",
-    "yayinevi": "İNKILAP KİTABEVİ",
-    "kitap_hakkinda": "9789751041487 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2020-12-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11324076/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Seneler",
     "yazar": "Annie Ernaux",
     "fiyat": "87,75",
@@ -4327,6 +4318,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "9789752202474 | TÜRKÇE | 688 | Karton Kapak | Kitap Kağıdı 2016-10-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5638011/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Son Kuşlar",
+    "yazar": "Sait Faik Abasıyanık",
+    "fiyat": "41,85",
+    "eski_fiyat": "",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "9786254054372 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-05-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11409634/wi:500/wh:true"
   },
   {
     "kitap_adi": "Fakat Müzeyyen Bu Derin Bir Tutku",
