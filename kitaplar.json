@@ -227,7 +227,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "76,30",
+    "fiyat": "75,90",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -254,7 +254,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "137,69",
+    "fiyat": "135,83",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2023-10-07",
@@ -3337,15 +3337,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750859366 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2023-11-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11801276/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Fragmanlar (Thales) (Karton Kapak)",
-    "yazar": "Thales",
-    "fiyat": "38,75",
-    "eski_fiyat": "",
-    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
-    "kitap_hakkinda": "Fragmenta Thaletis | 9786254296154 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-12-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11809570/wi:500/wh:true"
   },
   {
     "kitap_adi": "O Ve Ben (kod6)",
