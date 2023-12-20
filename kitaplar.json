@@ -749,7 +749,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "130,65",
+    "fiyat": "130,88",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -3022,6 +3022,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750748196 | TÜRKÇE | 472 | Karton Kapak | Kitap Kağıdı 2022-04-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452857/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Az",
+    "yazar": "Hakan Günday",
+    "fiyat": "139,50",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Suzan Defter",
