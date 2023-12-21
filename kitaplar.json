@@ -335,7 +335,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "99,85",
+    "fiyat": "99,94",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -605,7 +605,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "84,97",
+    "fiyat": "85,07",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -902,7 +902,7 @@
   {
     "kitap_adi": "Uçabileceğini Hayal Eden Tavuk",
     "yazar": "Sun-Mı Hwang",
-    "fiyat": "40,60",
+    "fiyat": "40,70",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050833942 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2022-04-15",
@@ -1780,6 +1780,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Pandora no hako | 9786052650493 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2023-11-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713738/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ebedi Ev",
+    "yazar": "William Gay",
+    "fiyat": "75,00",
+    "eski_fiyat": "",
+    "yayinevi": "HOLDEN KİTAP",
+    "kitap_hakkinda": "The Long Home | 9786259993041 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2023-11-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793096/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kinyas ve Kayra",
