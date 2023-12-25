@@ -101,7 +101,7 @@
   {
     "kitap_adi": "Sille",
     "yazar": "Hüma Çalışkan",
-    "fiyat": "36,00",
+    "fiyat": "36,10",
     "eski_fiyat": "",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259938493 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-10-11",
@@ -218,7 +218,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "104,00",
+    "fiyat": "104,10",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -308,7 +308,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "55,39",
+    "fiyat": "55,60",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -353,7 +353,7 @@
   {
     "kitap_adi": "Kürk Mantolu Madonna",
     "yazar": "Sabahattin Ali",
-    "fiyat": "13,50",
+    "fiyat": "13,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
@@ -560,7 +560,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "53,00",
+    "fiyat": "53,10",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
@@ -4012,15 +4012,6 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Fellowship of the Ring | 9789753425988 | TÜRKÇE | 520 | Karton Kapak | 3. Hm. Kağıt 2019-08-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11269315/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Toza Sor",
-    "yazar": "John Fante",
-    "fiyat": "50,40",
-    "eski_fiyat": "",
-    "yayinevi": "PARANTEZ YAYINLARI",
-    "kitap_hakkinda": "Ask The Dust | 9789758441068 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2018-02-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11703013/wi:500/wh:true"
   },
   {
     "kitap_adi": "Suskunlar",
