@@ -686,7 +686,7 @@
   {
     "kitap_adi": "Mırıldanan Çocuk",
     "yazar": "Gabriele Clima",
-    "fiyat": "58,04",
+    "fiyat": "58,14",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "9786050833607 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2020-08-12",
@@ -2482,15 +2482,6 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9786256839489 | TÜRKÇE | 168 | Karton Kapak | 3. Hm. Kağıt 2023-11-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793098/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Koleksiyoncu",
-    "yazar": "John Fowles",
-    "fiyat": "96,62",
-    "eski_fiyat": "",
-    "yayinevi": "AYRINTI YAYINLARI",
-    "kitap_hakkinda": "The Collector | 9789755393087 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-10-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742792/wi:500/wh:true"
   },
   {
     "kitap_adi": "Körburun",
