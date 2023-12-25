@@ -209,7 +209,7 @@
   {
     "kitap_adi": "Senin Cahilliğin Benim Yaşamımı Etkiliyor",
     "yazar": "A. M. Celal Şengör",
-    "fiyat": "93,30",
+    "fiyat": "93,40",
     "eski_fiyat": "",
     "yayinevi": "MASA KİTAP",
     "kitap_hakkinda": "9786057301857 | TÜRKÇE | 260 | Karton Kapak | Kitap Kağıdı 2023-08-01",
@@ -218,7 +218,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "104,10",
+    "fiyat": "104,20",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -434,7 +434,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "16,21",
+    "fiyat": "16,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -479,7 +479,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "100,57",
+    "fiyat": "100,66",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -587,7 +587,7 @@
   {
     "kitap_adi": "On Kişiydiler (On Küçük Zenci)",
     "yazar": "Agatha Christie",
-    "fiyat": "60,21",
+    "fiyat": "60,31",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "And Then There None | 9789752126169 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -677,7 +677,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "85,75",
+    "fiyat": "85,85",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -911,7 +911,7 @@
   {
     "kitap_adi": "Martı Jonathan Livingston",
     "yazar": "Richard Bach",
-    "fiyat": "70,53",
+    "fiyat": "70,62",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "Jonathan Livingston Seagull | 9789944829670 | TÜRKÇE | 152 | Karton Kapak | 1. Hm. Kağıt 2015-01-01",
@@ -1091,7 +1091,7 @@
   {
     "kitap_adi": "Serenad",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "103,70",
+    "fiyat": "103,80",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042668 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -3796,6 +3796,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97154/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gençlerle Başbaşa",
+    "yazar": "Ord. Prof. Dr. Ali Fuad Başgil",
+    "fiyat": "24,50",
+    "eski_fiyat": "",
+    "yayinevi": "YAĞMUR YAYINLARI",
+    "kitap_hakkinda": "9789757747116 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2021-03-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11381715/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsancıklar",
