@@ -317,7 +317,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "137,53",
+    "fiyat": "137,63",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2023-10-07",
@@ -371,7 +371,7 @@
   {
     "kitap_adi": "Yaşlı Adam ve Deniz",
     "yazar": "Ernest Hemingway",
-    "fiyat": "45,00",
+    "fiyat": "66,00",
     "eski_fiyat": "",
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "9789752201682 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2019-04-01",
@@ -1109,7 +1109,7 @@
   {
     "kitap_adi": "Ölü Ozanlar Derneği",
     "yazar": "N. H. Kleinbaum",
-    "fiyat": "44,20",
+    "fiyat": "57,16",
     "eski_fiyat": "",
     "yayinevi": "BİLGE KÜLTÜR SANAT",
     "kitap_hakkinda": "Dead Poets Society | 9786055261122 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2022-10-21",
@@ -1874,7 +1874,7 @@
   {
     "kitap_adi": "Şu Çılgın Türkler",
     "yazar": "Turgut Özakman",
-    "fiyat": "150,00",
+    "fiyat": "210,00",
     "eski_fiyat": "",
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "975220127x | TÜRKÇE | 748 | Karton Kapak | Kitap Kağıdı 2016-08-01",
@@ -2266,15 +2266,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751766 | TÜRKÇE | 167 | Karton Kapak | Kitap Kağıdı 2021-11-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487329/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Öğrenci Kız",
-    "yazar": "Osamu Dazai",
-    "fiyat": "25,20",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Joseito (女生徒) | 9786258401462 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2023-08-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713735/wi:500/wh:true"
   },
   {
     "kitap_adi": "Soytarı Çiçekleri",
