@@ -164,7 +164,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "124,71",
+    "fiyat": "124,81",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -416,7 +416,7 @@
   {
     "kitap_adi": "Serenad",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "103,24",
+    "fiyat": "103,34",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042668 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -452,7 +452,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "16,81",
+    "fiyat": "16,88",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -632,7 +632,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "101,11",
+    "fiyat": "101,20",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -2266,15 +2266,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751766 | TÜRKÇE | 167 | Karton Kapak | Kitap Kağıdı 2021-11-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487329/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Öğrenci Kız",
-    "yazar": "Osamu Dazai",
-    "fiyat": "31,50",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Joseito (女生徒) | 9786258401462 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2023-08-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713735/wi:500/wh:true"
   },
   {
     "kitap_adi": "Soytarı Çiçekleri",
