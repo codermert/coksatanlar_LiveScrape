@@ -227,7 +227,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "83,20",
+    "fiyat": "83,30",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -272,7 +272,7 @@
   {
     "kitap_adi": "Serenad",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "103,84",
+    "fiyat": "103,94",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042668 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -776,7 +776,7 @@
   {
     "kitap_adi": "Beş Şehir",
     "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "104,40",
+    "fiyat": "113,10",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
@@ -1721,7 +1721,7 @@
   {
     "kitap_adi": "Iza’nın Şarkısı",
     "yazar": "Magda Szabo",
-    "fiyat": "108,80",
+    "fiyat": "112,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750840333 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-12-15",
@@ -1748,7 +1748,7 @@
   {
     "kitap_adi": "Erbain & Kırk Yılın Şiirleri",
     "yazar": "İsmet Özel",
-    "fiyat": "123,63",
+    "fiyat": "130,00",
     "eski_fiyat": "",
     "yayinevi": "TİYO YAYINLARI",
     "kitap_hakkinda": "9786056323942 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2013-06-01",
@@ -2549,7 +2549,7 @@
   {
     "kitap_adi": "Kehribar Geçidi",
     "yazar": "Prof. Dr. Nazan Bekiroğlu",
-    "fiyat": "180,62",
+    "fiyat": "191,00",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786050838091 | TÜRKÇE | 608 | Karton Kapak | Kitap Kağıdı 2021-11-29",
@@ -3053,7 +3053,7 @@
   {
     "kitap_adi": "İnce Memed 1-2-3-4 (Delta)",
     "yazar": "Yaşar Kemal",
-    "fiyat": "520,22",
+    "fiyat": "536,25",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750824906 | TÜRKÇE | 2142 | Ciltli | Kitap Kağıdı 2020-02-27",
@@ -3071,7 +3071,7 @@
   {
     "kitap_adi": "Üç Zor Mesele & Teknik-Medeniyet-Yabancılaşma",
     "yazar": "İsmet Özel",
-    "fiyat": "215,63",
+    "fiyat": "232,18",
     "eski_fiyat": "",
     "yayinevi": "TİYO YAYINLARI",
     "kitap_hakkinda": "9786054893003 | TÜRKÇE | 584 | Karton Kapak | Kitap Kağıdı 2014-02-20",
@@ -3692,7 +3692,7 @@
   {
     "kitap_adi": "Yoksulluk İçimizde",
     "yazar": "Mustafa Kutlu",
-    "fiyat": "63,15",
+    "fiyat": "66,30",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953126 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2016-01-01",
@@ -4066,15 +4066,6 @@
     "yayinevi": "İZ YAYINCILIK",
     "kitap_hakkinda": "9786053267959 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11772007/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "O Ve Ben (kod6)",
-    "yazar": "Necip Fazıl Kısakürek",
-    "fiyat": "56,20",
-    "eski_fiyat": "",
-    "yayinevi": "BÜYÜK DOĞU YAYINLARI",
-    "kitap_hakkinda": "975818024X | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2013-02-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3103027/wi:500/wh:true"
   },
   {
     "kitap_adi": "Cinayetler Oteli",
