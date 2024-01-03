@@ -3764,7 +3764,7 @@
   {
     "kitap_adi": "Çakıcı'nın İlk Kurşunu",
     "yazar": "Sabahattin Ali",
-    "fiyat": "24,48",
+    "fiyat": "31,47",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750803505 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2019-03-11",
@@ -4309,6 +4309,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Der Zauberberg | 9789750739842 | TÜRKÇE | 888 | Karton Kapak | 3. Hm. Kağıt 2020-07-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435001/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İmkansızın Şarkısı",
+    "yazar": "Haruki Murakami",
+    "fiyat": "128,34",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "Noruvei no mori) | 9786050929812 | TÜRKÇE | 349 | Karton Kapak | Kitap Kağıdı 2015-12-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1113480/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beton",
