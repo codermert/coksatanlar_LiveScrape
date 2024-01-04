@@ -56,7 +56,7 @@
   {
     "kitap_adi": "Herkes O’nu Anlatıyor 1 / Ailesi",
     "yazar": "Hatice Kübra Tongar",
-    "fiyat": "75,05",
+    "fiyat": "75,15",
     "eski_fiyat": "",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259938400 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2023-09-16",
@@ -308,7 +308,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "78,10",
+    "fiyat": "78,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -4237,6 +4237,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257419086 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-06-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422538/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Lizbon'a Gece Treni",
+    "yazar": "Pascal Mercier",
+    "fiyat": "72,50",
+    "eski_fiyat": "",
+    "yayinevi": "SİA KİTAP",
+    "kitap_hakkinda": "9786257266666 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-03-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11810302/wi:500/wh:true"
   },
   {
     "kitap_adi": "On Birinci Roman, On Sekizinci Kitap",
