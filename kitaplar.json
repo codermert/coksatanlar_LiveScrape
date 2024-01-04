@@ -290,7 +290,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "102,40",
+    "fiyat": "102,30",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -1406,7 +1406,7 @@
   {
     "kitap_adi": "Oh Ne Ala Memleket",
     "yazar": "Şermin Yaşar",
-    "fiyat": "107,53",
+    "fiyat": "107,37",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN EGMONT ÇOCUK KİTAPLARI",
     "kitap_hakkinda": "9786050980325 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2020-07-22",
@@ -3913,15 +3913,6 @@
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9786051858425 | TÜRKÇE | 236 | Karton Kapak | Kitap Kağıdı 2023-03-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11596366/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Senden Bir Tane Daha Yok",
-    "yazar": "Miraç Çağrı Aktaş",
-    "fiyat": "91,98",
-    "eski_fiyat": "",
-    "yayinevi": "İNDİGO KİTAP",
-    "kitap_hakkinda": "9786256372016 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2022-12-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638569/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yuva",
