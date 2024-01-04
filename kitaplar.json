@@ -2304,6 +2304,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8667864/wi:500/wh:true"
   },
   {
+    "kitap_adi": "İşin Aslı, Judit ve Sonrası",
+    "yazar": "Sandor Marai",
+    "fiyat": "146,25",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750846304 | TÜRKÇE | 308 | Karton Kapak | Kitap Kağıdı 2023-09-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10368363/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Olay",
     "yazar": "Annie Ernaux",
     "fiyat": "37,95",
@@ -4381,6 +4390,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721663 | TÜRKÇE | 476 | Karton Kapak | Kitap Kağıdı 2022-11-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11469493/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kapı",
+    "yazar": "Magda Szabo",
+    "fiyat": "97,50",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750812620 | TÜRKÇE | 260 | Karton Kapak | Kitap Kağıdı 2019-03-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11403043/wi:500/wh:true"
   },
   {
     "kitap_adi": "La & Sonsuzluk Hecesi",
