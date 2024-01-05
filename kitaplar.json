@@ -371,7 +371,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "101,20",
+    "fiyat": "135,14",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -947,7 +947,7 @@
   {
     "kitap_adi": "Martı Jonathan Livingston",
     "yazar": "Richard Bach",
-    "fiyat": "71,19",
+    "fiyat": "89,22",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "Jonathan Livingston Seagull | 9789944829670 | TÜRKÇE | 152 | Karton Kapak | 1. Hm. Kağıt 2015-01-01",
@@ -1460,7 +1460,7 @@
   {
     "kitap_adi": "Alaska Tatili",
     "yazar": "Debbie Macomber",
-    "fiyat": "98,68",
+    "fiyat": "127,18",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "Alaskan Holiday | 9786254145087 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2023-12-25",
@@ -2059,6 +2059,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9786256839472 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-11-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11802059/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Beyaz Gemi",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "52,78",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9789754370430 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2023-10-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11779396/wi:500/wh:true"
   },
   {
     "kitap_adi": "Aziz Bey Hadisesi",
