@@ -83,7 +83,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "64,60",
+    "fiyat": "64,81",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -299,7 +299,7 @@
   {
     "kitap_adi": "Kürk Mantolu Madonna",
     "yazar": "Sabahattin Ali",
-    "fiyat": "14,86",
+    "fiyat": "14,96",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
@@ -313,6 +313,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "And Then There None | 9789752126169 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11356189/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnsanlığımı Yitirirken",
+    "yazar": "Osamu Dazai",
+    "fiyat": "49,10",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Ningen Şikkaku (人間失格) | 9786258401479 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-12-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11650050/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yeraltından Notlar",
@@ -425,7 +434,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "55,06",
+    "fiyat": "55,27",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
