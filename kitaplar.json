@@ -137,7 +137,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "80,46",
+    "fiyat": "80,68",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -3267,6 +3267,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713956/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Batan Güneş",
+    "yazar": "Osamu Dazai",
+    "fiyat": "36,30",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Şayo | 9786052652008 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-08-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737758/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Gerçek Duyguların Saati",
     "yazar": "Peter Handke",
     "fiyat": "45,10",
@@ -4048,6 +4057,15 @@
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "Wonder | 9786053437451 | TÜRKÇE | 336 | Ciltli | Kitap Kağıdı 2017-10-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1185587/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Oblomov",
+    "yazar": "İvan Gonçarov",
+    "fiyat": "120,12",
+    "eski_fiyat": "",
+    "yayinevi": "YORDAM KİTAP",
+    "kitap_hakkinda": "Обломов - Oblomov | 9786051722405 | TÜRKÇE | 700 | Karton Kapak | Kitap Kağıdı 2020-03-26",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711735/wi:500/wh:true"
   },
   {
     "kitap_adi": "Özgürlüğün Fecri",
