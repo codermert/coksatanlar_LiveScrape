@@ -380,7 +380,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "84,60",
+    "fiyat": "84,70",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -4201,6 +4201,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750511547 | TÜRKÇE | 479 | Karton Kapak | Kitap Kağıdı 2023-11-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11796803/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Taşları Yemek Yasak",
+    "yazar": "İsmet Özel",
+    "fiyat": "138,00",
+    "eski_fiyat": "",
+    "yayinevi": "TİYO YAYINLARI",
+    "kitap_hakkinda": "9786056323997 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2013-03-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11358705/wi:500/wh:true"
   },
   {
     "kitap_adi": "Cemile",
