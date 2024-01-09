@@ -83,7 +83,7 @@
   {
     "kitap_adi": "Saatleri Ayarlama Enstitüsü",
     "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "165,00",
+    "fiyat": "163,20",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955762 | TÜRKÇE | 382 | Karton Kapak | Kitap Kağıdı 2017-09-15",
@@ -1647,6 +1647,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332538/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Cennetin Doğusu",
+    "yazar": "John Steinbeck",
+    "fiyat": "206,85",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750531200 | TÜRKÇE | 644 | Karton Kapak | Kitap Kağıdı 2021-06-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11429327/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Huzursuzluk",
     "yazar": "Zülfü Livaneli",
     "fiyat": "76,55",
@@ -2563,6 +2572,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751759 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2021-11-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487328/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bu Hikaye Senden Uzun Osman",
+    "yazar": "Aylin Balboa",
+    "fiyat": "70,76",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750533327 | TÜRKÇE | 129 | Karton Kapak | Kitap Kağıdı 2022-11-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11575369/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Kadın",
