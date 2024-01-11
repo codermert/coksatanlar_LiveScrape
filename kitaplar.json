@@ -461,7 +461,7 @@
   {
     "kitap_adi": "İnsanlığımı Yitirirken",
     "yazar": "Osamu Dazai",
-    "fiyat": "49,20",
+    "fiyat": "52,50",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Ningen Şikkaku (人間失格) | 9786258401479 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-12-28",
@@ -2045,7 +2045,7 @@
   {
     "kitap_adi": "Kırmızı Pelerin",
     "yazar": "Dr. Gülseren Budayıcıoğlu",
-    "fiyat": "104,90",
+    "fiyat": "104,20",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786258215618 | TÜRKÇE | 424 | Karton Kapak | Kitap Kağıdı 2022-11-16",
@@ -3535,6 +3535,15 @@
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980942 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2020-09-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11291174/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Akşam Yıldızı",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "96,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786057838407 | TÜRKÇE | 252 | Karton Kapak | Kitap Kağıdı 2022-11-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631078/wi:500/wh:true"
   },
   {
     "kitap_adi": "Perde ve Mana & Akıl Üzerine Bir Tahlil",
