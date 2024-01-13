@@ -803,7 +803,7 @@
   {
     "kitap_adi": "Kardeşimin Hikayesi",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "93,65",
+    "fiyat": "93,75",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
@@ -1118,7 +1118,7 @@
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
-    "fiyat": "64,96",
+    "fiyat": "65,17",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -3301,15 +3301,6 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786258159462 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2022-09-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11597124/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bozkırdaki Çekirdek",
-    "yazar": "Kemal Tahir",
-    "fiyat": "59,10",
-    "eski_fiyat": "",
-    "yayinevi": "KETEBE YAYINEVİ",
-    "kitap_hakkinda": "9786256999244 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2022-12-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641412/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yarın Yok",
