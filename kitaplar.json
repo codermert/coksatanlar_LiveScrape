@@ -182,7 +182,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "59,22",
+    "fiyat": "59,43",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -578,7 +578,7 @@
   {
     "kitap_adi": "Kürk Mantolu Madonna",
     "yazar": "Sabahattin Ali",
-    "fiyat": "15,96",
+    "fiyat": "16,06",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
@@ -3672,15 +3672,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1010847/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Drina Köprüsü",
-    "yazar": "İvo Andriç",
-    "fiyat": "157,06",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "Na Drini Cuprija | 9789754707823 | TÜRKÇE | 354 | Karton Kapak | Kitap Kağıdı 2023-03-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:91162/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Ölümcül Kimlikler",
     "yazar": "Amin Maalouf",
     "fiyat": "41,70",
@@ -4246,15 +4237,6 @@
     "yayinevi": "DEX KİTAP",
     "kitap_hakkinda": "9786050946895 | TÜRKÇE | 500 | Ciltli | Kitap Kağıdı 2017-11-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4947123/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Amsterdam’da Düello",
-    "yazar": "Ian McEwan",
-    "fiyat": "48,13",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750843419 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2019-03-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7072826/wi:500/wh:true"
   },
   {
     "kitap_adi": "Botter Apartmanı",
