@@ -4041,6 +4041,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345545/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kervan",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "96,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786257706063 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2021-01-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11351954/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İnönü Atatürk’ü Anlatıyor",
     "yazar": "Abdi İpekçi",
     "fiyat": "57,60",
@@ -4264,6 +4273,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846328 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-09-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10368358/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Akşam Yıldızı",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "96,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786057838407 | TÜRKÇE | 252 | Karton Kapak | Kitap Kağıdı 2022-11-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631078/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ev",
