@@ -668,7 +668,7 @@
   {
     "kitap_adi": "Yabancı",
     "yazar": "Albert Camus",
-    "fiyat": "59,95",
+    "fiyat": "60,16",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750748677 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2021-04-09",
@@ -2572,6 +2572,15 @@
     "yayinevi": "LİBERUS",
     "kitap_hakkinda": "9786256982826 | TÜRKÇE | 310 | Karton Kapak | Kitap Kağıdı 2023-12-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11822494/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Beyaz Gemi",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "52,78",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9789754370430 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2023-10-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11779396/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çankaya",
