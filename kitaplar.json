@@ -308,7 +308,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "141,83",
+    "fiyat": "141,93",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2023-10-07",
@@ -1271,7 +1271,7 @@
   {
     "kitap_adi": "Güneşi Uyandıralım",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "109,88",
+    "fiyat": "110,10",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Vamós Aquecer o Sol | 9789750739071 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -1388,7 +1388,7 @@
   {
     "kitap_adi": "Masal Masal İçinde",
     "yazar": "Ahmet Ümit",
-    "fiyat": "67,51",
+    "fiyat": "67,61",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750845864 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2023-08-03",
@@ -4230,15 +4230,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788433/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Oblomov",
-    "yazar": "İvan Gonçarov",
-    "fiyat": "118,90",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789750517884 | TÜRKÇE | 617 | Karton Kapak | Kitap Kağıdı 2015-06-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1033770/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Beyaz Kalp",
     "yazar": "Javier Marias",
     "fiyat": "63,60",
@@ -4354,6 +4345,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300650 | TÜRKÇE | 295 | Karton Kapak | Kitap Kağıdı 2021-01-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11354478/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İlk Öğretmenim",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "34,79",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786257303903 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2021-06-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621805/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sahipsizler",
