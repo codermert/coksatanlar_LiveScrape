@@ -2205,15 +2205,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11429321/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Ortadan Kaybolan Fil",
-    "yazar": "Haruki Murakami",
-    "fiyat": "165,38",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "The Elephant Vanishes (Zō no Shōmetsu) | 9786256570528 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2023-11-30",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11803611/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Beş Şehir",
     "yazar": "Ahmet Hamdi Tanpınar",
     "fiyat": "99,10",
@@ -2923,6 +2914,15 @@
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Hamnet | 9786051982304 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-05-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11572005/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Batan Güneş",
+    "yazar": "Osamu Dazai",
+    "fiyat": "36,30",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Şayo | 9786052652008 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-08-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737758/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ben, Amir & Savaşın Unutulan Çocuğu",
