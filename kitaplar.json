@@ -587,7 +587,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "46,07",
+    "fiyat": "46,28",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -641,7 +641,7 @@
   {
     "kitap_adi": "Fahrenheit 451",
     "yazar": "Ray Bradbury",
-    "fiyat": "83,63",
+    "fiyat": "83,73",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786053757818 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -2923,15 +2923,6 @@
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Hamnet | 9786051982304 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-05-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11572005/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Batan Güneş",
-    "yazar": "Osamu Dazai",
-    "fiyat": "36,30",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Şayo | 9786052652008 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-08-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737758/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ben, Amir & Savaşın Unutulan Çocuğu",
