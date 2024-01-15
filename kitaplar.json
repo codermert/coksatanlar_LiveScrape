@@ -344,7 +344,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "86,40",
+    "fiyat": "86,50",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -2374,15 +2374,6 @@
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9786050207958 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-10-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784123/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Küçük Yuvarlak Taşlar",
-    "yazar": "Melisa Kesmez",
-    "fiyat": "49,75",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789750533594 | TÜRKÇE | 84 | Karton Kapak | Kitap Kağıdı 2022-08-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11585992/wi:500/wh:true"
   },
   {
     "kitap_adi": "Pera Palas'ta Onbir Gece",
