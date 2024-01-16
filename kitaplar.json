@@ -27,15 +27,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784294/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Söyleme Bilmesinler (İmzalı)",
-    "yazar": "Şermin Yaşar",
-    "fiyat": "130,22",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "8696602032826 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2024-01-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11827968/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
     "fiyat": "117,10",
@@ -3715,6 +3706,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "9789754050134 | TÜRKÇE | 344 | Karton Kapak | 3. Hm. Kağıt 2019-03-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11818484/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Drina Köprüsü",
+    "yazar": "İvo Andriç",
+    "fiyat": "157,06",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "Na Drini Cuprija | 9789754707823 | TÜRKÇE | 354 | Karton Kapak | Kitap Kağıdı 2023-03-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:91162/wi:500/wh:true"
   },
   {
     "kitap_adi": "Mavi Kuş",
