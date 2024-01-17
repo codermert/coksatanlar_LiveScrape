@@ -1055,7 +1055,7 @@
   {
     "kitap_adi": "Uğultulu Tepeler",
     "yazar": "Emily Bronte",
-    "fiyat": "66,35",
+    "fiyat": "66,45",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738913 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2019-09-25",
@@ -4255,6 +4255,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İmkansızın Şarkısı",
+    "yazar": "Haruki Murakami",
+    "fiyat": "119,07",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "Noruvei no mori) | 9786050929812 | TÜRKÇE | 349 | Karton Kapak | Kitap Kağıdı 2015-12-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1113480/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beni Asla Bırakma",
