@@ -522,15 +522,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11296928/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Senin Cahilliğin Benim Yaşamımı Etkiliyor",
-    "yazar": "A. M. Celal Şengör",
-    "fiyat": "91,60",
-    "eski_fiyat": "",
-    "yayinevi": "MASA KİTAP",
-    "kitap_hakkinda": "9786057301857 | TÜRKÇE | 260 | Karton Kapak | Kitap Kağıdı 2023-08-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11739504/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Çöl Çiçeği",
     "yazar": "Waris Dirie",
     "fiyat": "87,60",
@@ -3033,15 +3024,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11789075/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Bay Pond’un Paradoksları (Karton Kapak)",
-    "yazar": "Gilbert K. Chesterton",
-    "fiyat": "41,85",
-    "eski_fiyat": "",
-    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
-    "kitap_hakkinda": "The Paradoxes of Mr. Pond  | 9786254296314 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2024-01-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11829930/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Bir Dinozorun Anıları",
     "yazar": "Prof.Dr. Mina Urgan",
     "fiyat": "125,09",
@@ -3526,15 +3508,6 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162940 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2023-12-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11812411/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Aforizmalar (Bernard Shaw) (Karton Kapak)",
-    "yazar": "Bernard Shaw",
-    "fiyat": "29,45",
-    "eski_fiyat": "",
-    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
-    "kitap_hakkinda": "9786254296185 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2024-01-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11829917/wi:500/wh:true"
   },
   {
     "kitap_adi": "Rüveyda",
@@ -4372,6 +4345,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750845963 | TÜRKÇE | 440 | Karton Kapak | Kitap Kağıdı 2019-11-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10083426/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Akşam Yıldızı",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "96,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786057838407 | TÜRKÇE | 252 | Karton Kapak | Kitap Kağıdı 2022-11-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631078/wi:500/wh:true"
   },
   {
     "kitap_adi": "Perde ve Mana & Akıl Üzerine Bir Tahlil",
