@@ -128,7 +128,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "95,26",
+    "fiyat": "95,36",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -2752,6 +2752,15 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Two Towers | 9789753421812 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2021-09-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11758052/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yüzüklerin Efendisi (Tek Cilt)",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "394,05",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Lord of The Rings | 9789753423472 | TÜRKÇE | 1026 | Ciltli | Kitap Kağıdı 2022-01-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11718457/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsancıklar (Cep Boy) (Tam Metin)",
