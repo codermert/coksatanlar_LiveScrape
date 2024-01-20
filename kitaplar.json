@@ -101,7 +101,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "151,47",
+    "fiyat": "151,57",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -506,7 +506,7 @@
   {
     "kitap_adi": "Fahrenheit 451",
     "yazar": "Ray Bradbury",
-    "fiyat": "84,43",
+    "fiyat": "84,53",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786053757818 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -2421,6 +2421,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11590299/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yol Ayrımı",
+    "yazar": "Kemal Tahir",
+    "fiyat": "67,30",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786256999220 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2022-12-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641425/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Gün Yıldızı",
     "yazar": "Hamdi Akyol",
     "fiyat": "113,75",
@@ -2509,6 +2518,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750852084 | TÜRKÇE | 28 | Karton Kapak | Kitap Kağıdı 2022-02-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11518715/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Esir Şehrin Mahpusu",
+    "yazar": "Kemal Tahir",
+    "fiyat": "57,20",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786256999251 | TÜRKÇE | 448 | Karton Kapak | Kitap Kağıdı 2022-12-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641416/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Kadın",
