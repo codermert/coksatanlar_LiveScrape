@@ -317,7 +317,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "87,70",
+    "fiyat": "87,80",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -362,7 +362,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "56,57",
+    "fiyat": "56,78",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
@@ -776,7 +776,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "47,50",
+    "fiyat": "47,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -3634,15 +3634,6 @@
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041548 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-01-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11337465/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kervan",
-    "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "96,85",
-    "eski_fiyat": "",
-    "yayinevi": "KAPI YAYINLARI",
-    "kitap_hakkinda": "9786257706063 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2021-01-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11351954/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kurt Gölgesi",
