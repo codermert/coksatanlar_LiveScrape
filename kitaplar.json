@@ -128,7 +128,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "95,86",
+    "fiyat": "95,96",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -3085,6 +3085,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754703139 | TÜRKÇE | 92 | Karton Kapak | Kitap Kağıdı 2019-02-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:202444/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Damızlık Kızın Öyküsü",
+    "yazar": "Margaret Atwood",
+    "fiyat": "122,38",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050940596 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2017-04-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3240120/wi:500/wh:true"
   },
   {
     "kitap_adi": "Botter Apartmanı",
