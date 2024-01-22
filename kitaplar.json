@@ -128,7 +128,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "95,80",
+    "fiyat": "95,76",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -3418,15 +3418,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750732737 | TÜRKÇE | 732 | Karton Kapak | Kitap Kağıdı 2019-09-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11373991/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kiralık Konak Bütün Eserleri 4",
-    "yazar": "Yakup Kadri Karaosmanoğlu",
-    "fiyat": "78,57",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
   },
   {
     "kitap_adi": "Martin Eden",
