@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Sıfır Noktasındaki Kadın",
     "yazar": "Neval el-Saadavi",
-    "fiyat": "61,00",
+    "fiyat": "57,80",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Woman at Point Zero | 9789753421959 | TÜRKÇE | 112 | Karton Kapak | 3. Hm. Kağıt 2023-05-09",
@@ -335,7 +335,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "144,13",
+    "fiyat": "144,23",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2023-10-07",
@@ -1638,15 +1638,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11472268/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Lal & Bir Şemseddin Sivasi Romanı",
-    "yazar": "Fatih Duman",
-    "fiyat": "104,00",
-    "eski_fiyat": "",
-    "yayinevi": "NESİL YAYINLARI",
-    "kitap_hakkinda": "9786051835792 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2020-12-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11336672/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Tek Yalnız Ben Değilim",
     "yazar": "Jean-Louis Fournier",
     "fiyat": "46,90",
@@ -2367,6 +2358,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787015/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yüzüklerin Efendisi (Tek Cilt)",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "394,05",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Lord of The Rings | 9789753423472 | TÜRKÇE | 1026 | Ciltli | Kitap Kağıdı 2022-01-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11718457/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Araba Sevdası (Cep Boy) (Tam Metin)",
     "yazar": "Recaizade Mahmut Ekrem",
     "fiyat": "9,90",
@@ -3024,15 +3024,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4264898/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Dem",
-    "yazar": "Fatih Duman",
-    "fiyat": "78,00",
-    "eski_fiyat": "",
-    "yayinevi": "NESİL YAYINLARI",
-    "kitap_hakkinda": "9786051832692 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2020-03-16",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11161809/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "İnsancıklar (Cep Boy) (Tam Metin)",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "9,90",
@@ -3319,6 +3310,15 @@
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751404756 | TÜRKÇE | 303 | Karton Kapak | Kitap Kağıdı 2019-11-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10282905/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kiralık Konak Bütün Eserleri 4",
+    "yazar": "Yakup Kadri Karaosmanoğlu",
+    "fiyat": "78,57",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700084 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2018-09-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11310867/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yeni Dünya",
