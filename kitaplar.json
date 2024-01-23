@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Sıfır Noktasındaki Kadın",
     "yazar": "Neval el-Saadavi",
-    "fiyat": "61,00",
+    "fiyat": "57,80",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Woman at Point Zero | 9789753421959 | TÜRKÇE | 112 | Karton Kapak | 3. Hm. Kağıt 2023-05-09",
@@ -3654,6 +3654,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621388/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kervan",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "96,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786257706063 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2021-01-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11351954/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Milena’ya Mektuplar",
     "yazar": "Franz Kafka",
     "fiyat": "22,85",
@@ -4021,6 +4030,15 @@
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "9786051736518 | TÜRKÇE | 217 | Karton Kapak | Kitap Kağıdı 2019-11-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10199532/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Akşam Yıldızı",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "96,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786057838407 | TÜRKÇE | 252 | Karton Kapak | Kitap Kağıdı 2022-11-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631078/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yeraltından Notlar (Cep Boy) (Tam Metin)",
