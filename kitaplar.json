@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Sıfır Noktasındaki Kadın",
     "yazar": "Neval el-Saadavi",
-    "fiyat": "57,80",
+    "fiyat": "61,00",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Woman at Point Zero | 9789753421959 | TÜRKÇE | 112 | Karton Kapak | 3. Hm. Kağıt 2023-05-09",
@@ -938,7 +938,7 @@
   {
     "kitap_adi": "Esir Şehrin İnsanları",
     "yazar": "Kemal Tahir",
-    "fiyat": "132,00",
+    "fiyat": "57,10",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999190 | TÜRKÇE | 448 | Karton Kapak | Kitap Kağıdı 2022-12-08",
@@ -1055,7 +1055,7 @@
   {
     "kitap_adi": "Devlet Ana",
     "yazar": "Kemal Tahir",
-    "fiyat": "168,24",
+    "fiyat": "114,43",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786258159776 | TÜRKÇE | 656 | Karton Kapak | Kitap Kağıdı 2022-12-08",
@@ -1208,7 +1208,7 @@
   {
     "kitap_adi": "Kurt Kanunu",
     "yazar": "Kemal Tahir",
-    "fiyat": "119,82",
+    "fiyat": "93,27",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999138 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-12-08",
@@ -1910,7 +1910,7 @@
   {
     "kitap_adi": "Esir Şehrin Mahpusu",
     "yazar": "Kemal Tahir",
-    "fiyat": "132,46",
+    "fiyat": "127,05",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999251 | TÜRKÇE | 448 | Karton Kapak | Kitap Kağıdı 2022-12-08",
@@ -2054,7 +2054,7 @@
   {
     "kitap_adi": "Yol Ayrımı",
     "yazar": "Kemal Tahir",
-    "fiyat": "171,60",
+    "fiyat": "138,60",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999220 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2022-12-08",
@@ -3152,7 +3152,7 @@
   {
     "kitap_adi": "Sular Üstünde Gökler Altında",
     "yazar": "Kaan Murat Yanık",
-    "fiyat": "68,06",
+    "fiyat": "59,50",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999749 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-03-07",
@@ -4005,6 +4005,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5971619/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Damızlık Kızın Öyküsü",
+    "yazar": "Margaret Atwood",
+    "fiyat": "122,38",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050940596 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2017-04-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3240120/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Bitmeyecek Öykü",
     "yazar": "Michael Ende",
     "fiyat": "135,20",
@@ -4088,7 +4097,7 @@
   {
     "kitap_adi": "Yaşamak",
     "yazar": "Cahit Zarifoğlu",
-    "fiyat": "76,23",
+    "fiyat": "57,17",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786258094831 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2022-06-06",
@@ -4421,7 +4430,7 @@
   {
     "kitap_adi": "Az",
     "yazar": "Hakan Günday",
-    "fiyat": "124,20",
+    "fiyat": "119,07",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
