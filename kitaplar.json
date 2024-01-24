@@ -677,7 +677,7 @@
   {
     "kitap_adi": "Bir Kimya Meselesi",
     "yazar": "Bonnie Garmus",
-    "fiyat": "93,30",
+    "fiyat": "93,52",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "9789752128354 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-06-10",
@@ -713,7 +713,7 @@
   {
     "kitap_adi": "Güneşi Uyandıralım",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "115,82",
+    "fiyat": "115,92",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Vamós Aquecer o Sol | 9789750739071 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -776,7 +776,7 @@
   {
     "kitap_adi": "Yaban Bütün Eserleri 1",
     "yazar": "Yakup Kadri Karaosmanoğlu",
-    "fiyat": "72,19",
+    "fiyat": "85,94",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
@@ -1064,7 +1064,7 @@
   {
     "kitap_adi": "Uğultulu Tepeler",
     "yazar": "Emily Bronte",
-    "fiyat": "68,45",
+    "fiyat": "68,55",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738913 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2019-09-25",
@@ -3787,6 +3787,15 @@
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755397214 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-07-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742789/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnce Memed 1-2-3-4 (Delta)",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "536,25",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750824906 | TÜRKÇE | 2142 | Ciltli | Kitap Kağıdı 2020-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:184109/wi:500/wh:true"
   },
   {
     "kitap_adi": "Varolmanın Dayanılmaz Hafifliği",
