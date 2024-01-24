@@ -1343,7 +1343,7 @@
   {
     "kitap_adi": "Kırlangıç Çığlığı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "82,02",
+    "fiyat": "128,73",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750845857 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-09-28",
@@ -3499,6 +3499,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258281439 | TÜRKÇE | 61 | Karton Kapak | Kitap Kağıdı 2023-01-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11657228/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Oman'ın Güzel Kalemi",
+    "yazar": "Doğan Gündüz",
+    "fiyat": "46,90",
+    "eski_fiyat": "",
+    "yayinevi": "CAN ÇOCUK YAYINLARI",
+    "kitap_hakkinda": "9789750759031 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2023-02-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11670099/wi:500/wh:true"
   },
   {
     "kitap_adi": "Evlilik Portresi",
