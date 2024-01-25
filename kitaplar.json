@@ -1307,7 +1307,7 @@
   {
     "kitap_adi": "Aylak Adam",
     "yazar": "Yusuf Atılgan",
-    "fiyat": "84,52",
+    "fiyat": "84,74",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750735646 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -2302,15 +2302,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750859533 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2024-01-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11828160/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Beyaz Gemi",
-    "yazar": "Cengiz Aytmatov",
-    "fiyat": "52,78",
-    "eski_fiyat": "",
-    "yayinevi": "ÖTÜKEN NEŞRİYAT",
-    "kitap_hakkinda": "9789754370430 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2023-10-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11779396/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağrıdağı Efsanesi",
