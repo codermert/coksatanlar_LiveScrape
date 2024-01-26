@@ -1881,6 +1881,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11809394/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Beyaz Gemi",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "52,78",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9789754370430 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2023-10-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11779396/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Nil'de Ölüm",
     "yazar": "Agatha Christie",
     "fiyat": "95,40",
@@ -4293,6 +4302,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11456290/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Şeytanın Çırağı",
+    "yazar": "Şiro Hamao",
+    "fiyat": "51,75",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Akuma no deshi | 9786258475418 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-05-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713736/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "On Birinci Roman, On Sekizinci Kitap",
     "yazar": "Dag Solstad",
     "fiyat": "55,00",
@@ -4372,6 +4390,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750859533 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2024-01-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11828160/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Roket 3 Bilimkurgu Öykü Seçkisi",
+    "yazar": "Kolektif",
+    "fiyat": "82,50",
+    "eski_fiyat": "",
+    "yayinevi": "ROKET KİTAP",
+    "kitap_hakkinda": "9786259421308 | TÜRKÇE | 70 | Karton Kapak | Kitap Kağıdı 2024-01-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11831353/wi:500/wh:true"
   },
   {
     "kitap_adi": "Twisted Wonderland - Heartslabyul Bölümü 1",
