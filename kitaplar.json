@@ -1017,15 +1017,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11371470/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Siddhartha (Ciltsiz)",
-    "yazar": "Hermann Hesse",
-    "fiyat": "68,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11260682/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
     "fiyat": "69,72",
@@ -1422,15 +1413,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11263781/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Mermedusa",
-    "yazar": "Thomas Taylor",
-    "fiyat": "168,44",
-    "eski_fiyat": "",
-    "yayinevi": "TİMAŞ GENÇ",
-    "kitap_hakkinda": "9786050848274 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2023-10-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11778617/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Olasılıksız",
     "yazar": "Adam Fawer",
     "fiyat": "122,43",
@@ -1438,6 +1420,15 @@
     "yayinevi": "APRIL YAYINCILIK",
     "kitap_hakkinda": "9789756006054 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-09-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11765595/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Mermedusa",
+    "yazar": "Thomas Taylor",
+    "fiyat": "168,44",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050848274 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2023-10-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11778617/wi:500/wh:true"
   },
   {
     "kitap_adi": "İtiraflarım",
@@ -2151,15 +2142,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787009/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Üç Perdelik Cinayet",
-    "yazar": "Agatha Christie",
-    "fiyat": "57,20",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Murten ın Three Acts | 9789752101890 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2023-10-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787015/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Hobbit",
     "yazar": "J. R. R. Tolkien",
     "fiyat": "94,50",
@@ -2167,6 +2149,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789752733732 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2023-12-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11819923/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Üç Perdelik Cinayet",
+    "yazar": "Agatha Christie",
+    "fiyat": "57,20",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Murten ın Three Acts | 9789752101890 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2023-10-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787015/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Delinin Hatıra Defteri - Portre",
