@@ -290,7 +290,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "145,43",
+    "fiyat": "145,53",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2023-10-07",
@@ -812,7 +812,7 @@
   {
     "kitap_adi": "Mırıldanan Çocuk",
     "yazar": "Gabriele Clima",
-    "fiyat": "59,54",
+    "fiyat": "59,75",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "9786050833607 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2020-08-12",
@@ -857,7 +857,7 @@
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
-    "fiyat": "68,76",
+    "fiyat": "68,86",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -2644,15 +2644,6 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786258215618 | TÜRKÇE | 424 | Karton Kapak | Kitap Kağıdı 2022-11-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11630527/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Köpek Adam-Toplar Kimin İçin Yuvarlanıyor",
-    "yazar": "Dav Pilkey",
-    "fiyat": "100,75",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "9789752127821 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2022-12-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11634574/wi:500/wh:true"
   },
   {
     "kitap_adi": "Aşkın Celladı",
