@@ -254,7 +254,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "64,47",
+    "fiyat": "64,68",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "145,73",
+    "fiyat": "145,83",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2023-10-07",
@@ -1091,7 +1091,7 @@
   {
     "kitap_adi": "Beyaz Gemi",
     "yazar": "Cengiz Aytmatov",
-    "fiyat": "48,13",
+    "fiyat": "50,05",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786257303880 | TÜRKÇE | 180 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -4066,15 +4066,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638326 | TÜRKÇE | 353 | Karton Kapak | 3. Hm. Kağıt 2023-09-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1010847/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kör Baykuş",
-    "yazar": "Sadık Hidayet",
-    "fiyat": "34,38",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "Buf-i Kur | 9789750803024 | TÜRKÇE | 95 | Karton Kapak | 3. Hm. Kağıt 2019-05-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11209319/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ses ve Öfke",
