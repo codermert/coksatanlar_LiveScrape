@@ -83,7 +83,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "151,80",
+    "fiyat": "151,90",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -344,7 +344,7 @@
   {
     "kitap_adi": "1984",
     "yazar": "George Orwell",
-    "fiyat": "50,47",
+    "fiyat": "50,68",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -3697,15 +3697,6 @@
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "Little Bee | 9786054263370 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2012-11-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:32254/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Az",
-    "yazar": "Hakan Günday",
-    "fiyat": "119,00",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Süt ve Bal",
