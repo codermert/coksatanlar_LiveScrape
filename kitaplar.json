@@ -2090,7 +2090,7 @@
   {
     "kitap_adi": "Selvi Boylum Al Yazmalım",
     "yazar": "Cengiz Aytmatov",
-    "fiyat": "59,40",
+    "fiyat": "65,34",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786257303859 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -4102,6 +4102,15 @@
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "The Lemon Tree | 9786055943516 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2016-10-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4441920/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Az",
+    "yazar": "Hakan Günday",
+    "fiyat": "119,00",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kabil",
