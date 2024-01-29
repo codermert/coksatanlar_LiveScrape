@@ -803,7 +803,7 @@
   {
     "kitap_adi": "Yabancı",
     "yazar": "Albert Camus",
-    "fiyat": "62,81",
+    "fiyat": "62,91",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750748677 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2021-04-09",
@@ -3715,6 +3715,15 @@
     "yayinevi": "LİVERA YAYINEVİ",
     "kitap_hakkinda": "El olvido que seremos  | 9786259423913 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-01-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11831064/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yerdeniz Büyücüsü - Yerdeniz 1",
+    "yazar": "Ursula K. Le Guin",
+    "fiyat": "103,82",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "A Wizard of Earthsea | 9789753420570 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2023-03-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11683424/wi:500/wh:true"
   },
   {
     "kitap_adi": "Fırat Suyu Kan Akıyor Baksana / Bir Ada Hikayesi 1",
