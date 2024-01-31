@@ -1244,7 +1244,7 @@
   {
     "kitap_adi": "Yaban Bütün Eserleri 1",
     "yazar": "Yakup Kadri Karaosmanoğlu",
-    "fiyat": "128,10",
+    "fiyat": "117,10",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
@@ -1523,7 +1523,7 @@
   {
     "kitap_adi": "Bu Hikaye Senden Uzun Osman",
     "yazar": "Aylin Balboa",
-    "fiyat": "70,76",
+    "fiyat": "90,26",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750533327 | TÜRKÇE | 129 | Karton Kapak | Kitap Kağıdı 2022-11-17",
@@ -2880,6 +2880,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11733752/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Körleşme",
+    "yazar": "Elias Canetti",
+    "fiyat": "221,38",
+    "eski_fiyat": "",
+    "yayinevi": "SEL YAYINCILIK",
+    "kitap_hakkinda": "9789755707044 | TÜRKÇE | 565 | Karton Kapak | Kitap Kağıdı 2024-01-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11830315/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sevgili Arsız Ölüm",
     "yazar": "Latife Tekin",
     "fiyat": "129,50",
@@ -3350,7 +3359,7 @@
   {
     "kitap_adi": "Küçük Yuvarlak Taşlar",
     "yazar": "Melisa Kesmez",
-    "fiyat": "49,75",
+    "fiyat": "70,66",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750533594 | TÜRKÇE | 84 | Karton Kapak | Kitap Kağıdı 2022-08-08",
