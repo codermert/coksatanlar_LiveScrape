@@ -470,7 +470,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "268,95",
+    "fiyat": "263,06",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -533,7 +533,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "140,53",
+    "fiyat": "136,79",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -956,7 +956,7 @@
   {
     "kitap_adi": "Gelirken Ekmek Al",
     "yazar": "Şermin Yaşar",
-    "fiyat": "90,97",
+    "fiyat": "89,70",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050966534 | TÜRKÇE | 196 | Karton Kapak | Kitap Kağıdı 2019-10-19",
@@ -1523,7 +1523,7 @@
   {
     "kitap_adi": "Bu Hikaye Senden Uzun Osman",
     "yazar": "Aylin Balboa",
-    "fiyat": "90,26",
+    "fiyat": "87,69",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750533327 | TÜRKÇE | 129 | Karton Kapak | Kitap Kağıdı 2022-11-17",
@@ -2261,7 +2261,7 @@
   {
     "kitap_adi": "Âşıklara Yer Yok",
     "yazar": "Tarık Tufan",
-    "fiyat": "101,91",
+    "fiyat": "98,67",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786258215960 | TÜRKÇE | 312 | Karton Kapak | Kitap Kağıdı 2023-01-18",
@@ -3368,7 +3368,7 @@
   {
     "kitap_adi": "Küçük Yuvarlak Taşlar",
     "yazar": "Melisa Kesmez",
-    "fiyat": "70,66",
+    "fiyat": "68,75",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750533594 | TÜRKÇE | 84 | Karton Kapak | Kitap Kağıdı 2022-08-08",
@@ -3620,7 +3620,7 @@
   {
     "kitap_adi": "Kambur",
     "yazar": "Şule Gürbüz",
-    "fiyat": "74,51",
+    "fiyat": "71,55",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754703139 | TÜRKÇE | 92 | Karton Kapak | Kitap Kağıdı 2019-02-09",
@@ -4043,7 +4043,7 @@
   {
     "kitap_adi": "Sona Kalan",
     "yazar": "Tess Gerritsen",
-    "fiyat": "112,32",
+    "fiyat": "107,64",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786256417540 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2023-05-05",
@@ -4354,6 +4354,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300964 | TÜRKÇE | 62 | Karton Kapak | Kitap Kağıdı 2021-02-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11366766/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ruh Adam",
+    "yazar": "Hüseyin Nihal Atsız",
+    "fiyat": "143,26",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9786254081613 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-08-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713962/wi:500/wh:true"
   },
   {
     "kitap_adi": "Şeytanın Çırağı",
