@@ -182,7 +182,7 @@
   {
     "kitap_adi": "Eşekli Kütüphaneci",
     "yazar": "Fakir Baykurt",
-    "fiyat": "84,91",
+    "fiyat": "84,40",
     "eski_fiyat": "",
     "yayinevi": "LİTERATÜR YAYINLARI",
     "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-28",
@@ -587,7 +587,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "49,80",
+    "fiyat": "49,90",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -785,7 +785,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "103,24",
+    "fiyat": "103,46",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -3564,15 +3564,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Ah'lar Ağacı",
-    "yazar": "Didem Madak",
-    "fiyat": "60,33",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "9789753428750 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2020-09-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11501991/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Son Evdeki Tehlike",
     "yazar": "Agatha Christie",
     "fiyat": "100,49",
@@ -3598,6 +3589,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750832208 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-01-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4745404/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Muhtelif Evhamlar Kitabı",
+    "yazar": "Ömür İklim Demir",
+    "fiyat": "37,95",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750833533 | TÜRKÇE | 108 | Karton Kapak | Kitap Kağıdı 2022-03-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1034335/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dokunmadan",
