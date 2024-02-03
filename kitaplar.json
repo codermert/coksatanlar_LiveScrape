@@ -20,7 +20,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "83,06",
+    "fiyat": "83,16",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -209,7 +209,7 @@
   {
     "kitap_adi": "Fahrenheit 451",
     "yazar": "Ray Bradbury",
-    "fiyat": "86,93",
+    "fiyat": "87,03",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786053757818 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -272,7 +272,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "131,68",
+    "fiyat": "131,78",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -3598,15 +3598,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750832208 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-01-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4745404/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Muhtelif Evhamlar Kitabı",
-    "yazar": "Ömür İklim Demir",
-    "fiyat": "37,95",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750833533 | TÜRKÇE | 108 | Karton Kapak | Kitap Kağıdı 2022-03-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1034335/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dokunmadan",
