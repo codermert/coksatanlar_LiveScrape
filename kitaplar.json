@@ -362,7 +362,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "60,92",
+    "fiyat": "61,13",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
@@ -371,7 +371,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "77,60",
+    "fiyat": "77,70",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -668,7 +668,7 @@
   {
     "kitap_adi": "İnce Memed 4",
     "yazar": "Yaşar Kemal",
-    "fiyat": "169,17",
+    "fiyat": "169,27",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806995 | TÜRKÇE | 639 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -686,7 +686,7 @@
   {
     "kitap_adi": "Fedailerin Kalesi Alamut",
     "yazar": "Vladimir Bartol",
-    "fiyat": "112,01",
+    "fiyat": "112,23",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054188970 | TÜRKÇE | 510 | Karton Kapak | Kitap Kağıdı 2012-03-09",
@@ -794,7 +794,7 @@
   {
     "kitap_adi": "Sofie'nin Dünyası & Felsefe Tarihi Üzerine Bir Roman",
     "yazar": "Jostein Gaarder",
-    "fiyat": "188,88",
+    "fiyat": "188,98",
     "eski_fiyat": "",
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
@@ -857,7 +857,7 @@
   {
     "kitap_adi": "Üç Yanlış Üç Ceset",
     "yazar": "Agatha Christie",
-    "fiyat": "62,05",
+    "fiyat": "62,26",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "Hickory Dickory Dock | 9789752103160 | TÜRKÇE | 191 | Karton Kapak | 3. Hm. Kağıt 2018-01-01",
@@ -992,7 +992,7 @@
   {
     "kitap_adi": "Uçurtma Avcısı",
     "yazar": "Khaled Hosseini",
-    "fiyat": "134,47",
+    "fiyat": "134,70",
     "eski_fiyat": "",
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9789752891456 | TÜRKÇE | 375 | Karton Kapak | Kitap Kağıdı 2023-05-22",
@@ -1037,7 +1037,7 @@
   {
     "kitap_adi": "Güneşi Uyandıralım",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "116,84",
+    "fiyat": "117,06",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Vamós Aquecer o Sol | 9789750739071 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -1573,15 +1573,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "The Picture of Dorian Gray | 9786257784412 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2020-11-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318926/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Biri Hiçbiri Binlercesi",
-    "yazar": "Luigi Pirandello",
-    "fiyat": "36,20",
-    "eski_fiyat": "",
-    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
-    "kitap_hakkinda": "Uno | 9786052987360 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2020-12-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462745/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kitaplar ve Sigaralar",
