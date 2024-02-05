@@ -353,7 +353,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "61,76",
+    "fiyat": "50,56",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
@@ -362,7 +362,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "147,93",
+    "fiyat": "148,03",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2023-10-07",
@@ -731,7 +731,7 @@
   {
     "kitap_adi": "Bir Kimya Meselesi",
     "yazar": "Bonnie Garmus",
-    "fiyat": "97,71",
+    "fiyat": "97,93",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "9789752128354 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-06-10",
@@ -857,7 +857,7 @@
   {
     "kitap_adi": "Kinyas ve Kayra",
     "yazar": "Hakan Günday",
-    "fiyat": "167,57",
+    "fiyat": "167,80",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
@@ -1343,7 +1343,7 @@
   {
     "kitap_adi": "Uğultulu Tepeler",
     "yazar": "Emily Bronte",
-    "fiyat": "71,26",
+    "fiyat": "60,74",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738913 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2019-09-25",
@@ -2673,6 +2673,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318911/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Biri Hiçbiri Binlercesi",
+    "yazar": "Luigi Pirandello",
+    "fiyat": "36,20",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "Uno | 9786052987360 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2020-12-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462745/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İlk Namaz",
     "yazar": "Ömer Seyfettin",
     "fiyat": "12,88",
@@ -2873,7 +2882,7 @@
   {
     "kitap_adi": "Shadowghast - Karakasvet",
     "yazar": "Thomas Taylor",
-    "fiyat": "154,00",
+    "fiyat": "151,25",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050842937 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2021-10-07",
@@ -2963,7 +2972,7 @@
   {
     "kitap_adi": "Oblomov",
     "yazar": "İvan Gonçarov",
-    "fiyat": "120,12",
+    "fiyat": "119,15",
     "eski_fiyat": "",
     "yayinevi": "YORDAM KİTAP",
     "kitap_hakkinda": "Обломов - Oblomov | 9786051722405 | TÜRKÇE | 700 | Karton Kapak | Kitap Kağıdı 2020-03-26",
