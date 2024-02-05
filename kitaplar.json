@@ -90,15 +90,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11778629/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Değersiz Bir Hayat",
-    "yazar": "Hanya Yanagihara",
-    "fiyat": "275,63",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2022-02-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5459930/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Öze Yolculuk",
     "yazar": "İbrahim Kalın",
     "fiyat": "114,40",
@@ -812,7 +803,7 @@
   {
     "kitap_adi": "Sessiz Hasta",
     "yazar": "Alex Michaelides",
-    "fiyat": "80,10",
+    "fiyat": "80,32",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Silent Patient | 9786051981482 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2023-08-01",
