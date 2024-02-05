@@ -38,7 +38,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "83,36",
+    "fiyat": "83,46",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -479,7 +479,7 @@
   {
     "kitap_adi": "Çavdar Tarlasında Çocuklar",
     "yazar": "J. D. Salinger",
-    "fiyat": "53,43",
+    "fiyat": "53,53",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
@@ -614,7 +614,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "50,10",
+    "fiyat": "50,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -740,7 +740,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "103,90",
+    "fiyat": "104,12",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -4399,6 +4399,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Joseito (女生徒) | 9786258401462 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2023-08-17",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713735/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dem Bu Demdir Saat Bu Saat / Gönül Sadası’ndan Akisler 4",
+    "yazar": "Dr. Kemal Sayar  Sadettin Ökten",
+    "fiyat": "89,70",
+    "eski_fiyat": "",
+    "yayinevi": "TURKUVAZ KİTAP",
+    "kitap_hakkinda": "9786257548519 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2022-05-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11568398/wi:500/wh:true"
   },
   {
     "kitap_adi": "Esir Şehrin Mahpusu",
