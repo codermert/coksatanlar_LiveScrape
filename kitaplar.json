@@ -1622,7 +1622,7 @@
   {
     "kitap_adi": "Uzun Hikaye",
     "yazar": "Mustafa Kutlu",
-    "fiyat": "56,55",
+    "fiyat": "56,65",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
@@ -4372,6 +4372,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750813870 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-10-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5192419/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ah'lar Ağacı",
+    "yazar": "Didem Madak",
+    "fiyat": "61,92",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "9789753428750 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2020-09-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11501991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Körleşme",
