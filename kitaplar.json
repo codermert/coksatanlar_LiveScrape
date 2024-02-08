@@ -38,7 +38,7 @@
   {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
-    "fiyat": "47,85",
+    "fiyat": "47,95",
     "eski_fiyat": "",
     "yayinevi": "POZİTİF YAYINLARI",
     "kitap_hakkinda": "9789756461075 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-06-09",
@@ -110,7 +110,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "108,75",
+    "fiyat": "90,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -155,7 +155,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "112,38",
+    "fiyat": "93,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -216,15 +216,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345522/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Değersiz Bir Hayat",
-    "yazar": "Hanya Yanagihara",
-    "fiyat": "275,63",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2022-02-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5459930/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
     "fiyat": "137,15",
@@ -281,7 +272,7 @@
   {
     "kitap_adi": "Simyacı (Ciltsiz)",
     "yazar": "Paulo Coelho",
-    "fiyat": "108,75",
+    "fiyat": "90,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
@@ -290,7 +281,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "110,21",
+    "fiyat": "110,43",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -371,7 +362,7 @@
   {
     "kitap_adi": "Tatar Çölü",
     "yazar": "Dino Buzzati",
-    "fiyat": "110,27",
+    "fiyat": "110,49",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754701258 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-08-03",
@@ -596,7 +587,7 @@
   {
     "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
     "yazar": "William Golding",
-    "fiyat": "45,08",
+    "fiyat": "45,29",
     "eski_fiyat": "",
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "Lord of the Flies | 9789754582901 | TÜRKÇE | 261 | Karton Kapak | Kitap Kağıdı 2019-07-25",
@@ -605,7 +596,7 @@
   {
     "kitap_adi": "Fedailerin Kalesi Alamut",
     "yazar": "Vladimir Bartol",
-    "fiyat": "113,11",
+    "fiyat": "113,33",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054188970 | TÜRKÇE | 510 | Karton Kapak | Kitap Kağıdı 2012-03-09",
@@ -650,7 +641,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "164,97",
+    "fiyat": "165,07",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -677,7 +668,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "104,56",
+    "fiyat": "104,78",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -695,7 +686,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "84,44",
+    "fiyat": "84,66",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -731,7 +722,7 @@
   {
     "kitap_adi": "Martı Jonathan Livingston",
     "yazar": "Richard Bach",
-    "fiyat": "89,37",
+    "fiyat": "89,46",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "Jonathan Livingston Seagull | 9789944829670 | TÜRKÇE | 152 | Karton Kapak | 1. Hm. Kağıt 2015-01-01",
@@ -848,7 +839,7 @@
   {
     "kitap_adi": "Hayvan Çiftliği (Ciltsiz)",
     "yazar": "George Orwell",
-    "fiyat": "47,13",
+    "fiyat": "39,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Animall Farm | 9789750719387 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-10-04",
@@ -947,7 +938,7 @@
   {
     "kitap_adi": "Yabancı",
     "yazar": "Albert Camus",
-    "fiyat": "79,75",
+    "fiyat": "66,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750748677 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2021-04-09",
@@ -1091,7 +1082,7 @@
   {
     "kitap_adi": "Suyu Arayan Adam",
     "yazar": "Şevket Süreyya Aydemir",
-    "fiyat": "166,60",
+    "fiyat": "166,70",
     "eski_fiyat": "",
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
@@ -1217,7 +1208,7 @@
   {
     "kitap_adi": "Aylak Adam",
     "yazar": "Yusuf Atılgan",
-    "fiyat": "112,38",
+    "fiyat": "93,86",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750735646 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -1298,7 +1289,7 @@
   {
     "kitap_adi": "Uğultulu Tepeler",
     "yazar": "Emily Bronte",
-    "fiyat": "87,00",
+    "fiyat": "72,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738913 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2019-09-25",
@@ -1919,7 +1910,7 @@
   {
     "kitap_adi": "Önemi Yok",
     "yazar": "Agota Kristof",
-    "fiyat": "80,48",
+    "fiyat": "66,80",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750762253 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2023-11-14",
