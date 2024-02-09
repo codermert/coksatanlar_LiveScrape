@@ -1010,7 +1010,7 @@
   {
     "kitap_adi": "Kardeşimin Hikayesi",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "112,84",
+    "fiyat": "112,55",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
@@ -3319,15 +3319,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750732737 | TÜRKÇE | 732 | Karton Kapak | Kitap Kağıdı 2019-09-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11373991/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ülker Fırtınası",
-    "yazar": "Safiye Erol",
-    "fiyat": "112,00",
-    "eski_fiyat": "",
-    "yayinevi": "KUBBEALTI NEŞRİYAT",
-    "kitap_hakkinda": "9789757663799 | TÜRKÇE | 216 | Karton Kapak | 1. Hm. Kağıt 2021-08-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439397/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bütün Şiirleri / Orhan Veli Kanık",
