@@ -20,7 +20,7 @@
   {
     "kitap_adi": "Yaşamak",
     "yazar": "Yu Hua",
-    "fiyat": "72,33",
+    "fiyat": "72,43",
     "eski_fiyat": "",
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
@@ -2932,6 +2932,15 @@
     "yayinevi": "ÇINAR YAYINLARI",
     "kitap_hakkinda": "9789753482561 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2019-11-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11671013/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Koleksiyoncu",
+    "yazar": "John Fowles",
+    "fiyat": "155,25",
+    "eski_fiyat": "",
+    "yayinevi": "AYRINTI YAYINLARI",
+    "kitap_hakkinda": "The Collector | 9789755393087 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11742792/wi:500/wh:true"
   },
   {
     "kitap_adi": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca",
