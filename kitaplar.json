@@ -866,7 +866,7 @@
   {
     "kitap_adi": "Uzun Hikaye",
     "yazar": "Mustafa Kutlu",
-    "fiyat": "58,65",
+    "fiyat": "58,75",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
@@ -965,7 +965,7 @@
   {
     "kitap_adi": "Afrikalı Leo",
     "yazar": "Amin Maalouf",
-    "fiyat": "67,41",
+    "fiyat": "67,51",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753631570 | TÜRKÇE | 374 | Karton Kapak | Kitap Kağıdı 2019-10-28",
@@ -1271,7 +1271,7 @@
   {
     "kitap_adi": "Asude Bahçe",
     "yazar": "Funda Uçuk Er",
-    "fiyat": "82,70",
+    "fiyat": "82,80",
     "eski_fiyat": "",
     "yayinevi": "CEZVE KİTAP",
     "kitap_hakkinda": "9786052297926 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2021-06-09",
@@ -4318,15 +4318,6 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Buch der Enttäuschungen | 9789753426664 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2024-02-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11327377/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Az",
-    "yazar": "Hakan Günday",
-    "fiyat": "145,44",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Fakat Müzeyyen Bu Derin Bir Tutku",
