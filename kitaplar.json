@@ -162,6 +162,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11817583/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Fahrenheit 451",
+    "yazar": "Ray Bradbury",
+    "fiyat": "96,75",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "9786053757818 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2021-08-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11643403/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
     "fiyat": "93,20",
@@ -2671,6 +2680,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750859540 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-01-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11828161/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ah'lar Ağacı",
+    "yazar": "Didem Madak",
+    "fiyat": "62,80",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "9789753428750 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2020-09-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11501991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Aşkımız Eski Bir Roman",
