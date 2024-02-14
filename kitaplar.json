@@ -965,7 +965,7 @@
   {
     "kitap_adi": "Kinyas ve Kayra",
     "yazar": "Hakan Günday",
-    "fiyat": "173,32",
+    "fiyat": "173,55",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
@@ -4183,6 +4183,15 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786257303903 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2021-06-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621805/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Çok Hayal Kuran Çocuk",
+    "yazar": "Şermin Yaşar",
+    "fiyat": "92,68",
+    "eski_fiyat": "",
+    "yayinevi": "ELMA YAYINEVİ",
+    "kitap_hakkinda": "9786257343213 | TÜRKÇE | 40 | Karton Kapak | Kuşe Kağıt 2022-02-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11521045/wi:500/wh:true"
   },
   {
     "kitap_adi": "Öze Dönüş",
