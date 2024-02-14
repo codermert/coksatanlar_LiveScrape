@@ -11,7 +11,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "84,56",
+    "fiyat": "84,66",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -20,7 +20,7 @@
   {
     "kitap_adi": "Yaşamak",
     "yazar": "Yu Hua",
-    "fiyat": "73,53",
+    "fiyat": "73,63",
     "eski_fiyat": "",
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
@@ -470,7 +470,7 @@
   {
     "kitap_adi": "Kürk Mantolu Madonna",
     "yazar": "Sabahattin Ali",
-    "fiyat": "17,38",
+    "fiyat": "17,48",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
@@ -3643,15 +3643,6 @@
     "yayinevi": "REMZİ KİTABEVİ",
     "kitap_hakkinda": "9789751404756 | TÜRKÇE | 303 | Karton Kapak | Kitap Kağıdı 2019-11-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10282905/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Uzun Beyaz Bulut Gelibolu",
-    "yazar": "Buket Uzuner",
-    "fiyat": "145,95",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752890299 | TÜRKÇE | 323 | Karton Kapak | Kitap Kağıdı 2023-10-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11782123/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çankaya",
