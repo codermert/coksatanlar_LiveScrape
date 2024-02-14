@@ -101,7 +101,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "108,22",
+    "fiyat": "108,32",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Büyük Defter - Kanıt - Üçüncü Yalan",
     "yazar": "Agota Kristof",
-    "fiyat": "123,75",
+    "fiyat": "108,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750817984 | TÜRKÇE | 372 | Karton Kapak | Kitap Kağıdı 2024-01-23",
@@ -389,7 +389,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "24,98",
+    "fiyat": "21,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -488,7 +488,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "78,10",
+    "fiyat": "72,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -497,7 +497,7 @@
   {
     "kitap_adi": "Çavdar Tarlasında Çocuklar",
     "yazar": "J. D. Salinger",
-    "fiyat": "54,93",
+    "fiyat": "51,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
@@ -740,7 +740,7 @@
   {
     "kitap_adi": "Sırça Köşk",
     "yazar": "Sabahattin Ali",
-    "fiyat": "16,98",
+    "fiyat": "16,80",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806629 | TÜRKÇE | 141 | Karton Kapak | 3. Hm. Kağıt 2021-09-24",
@@ -812,7 +812,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "51,70",
+    "fiyat": "51,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -1244,7 +1244,7 @@
   {
     "kitap_adi": "Ağrıdağı Efsanesi",
     "yazar": "Yaşar Kemal",
-    "fiyat": "54,45",
+    "fiyat": "54,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807411 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-06-07",
@@ -1352,7 +1352,7 @@
   {
     "kitap_adi": "Dün",
     "yazar": "Agota Kristof",
-    "fiyat": "35,00",
+    "fiyat": "30,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750819957 | TÜRKÇE | 84 | Karton Kapak | Kitap Kağıdı 2019-06-26",
@@ -1532,7 +1532,7 @@
   {
     "kitap_adi": "Canım Aliye, Ruhum Filiz",
     "yazar": "Sabahattin Ali",
-    "fiyat": "30,20",
+    "fiyat": "27,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826672 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -1541,7 +1541,7 @@
   {
     "kitap_adi": "Iza’nın Şarkısı",
     "yazar": "Magda Szabo",
-    "fiyat": "109,60",
+    "fiyat": "96,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750840333 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-12-15",
@@ -1613,7 +1613,7 @@
   {
     "kitap_adi": "Yılanı Öldürseler",
     "yazar": "Yaşar Kemal",
-    "fiyat": "53,69",
+    "fiyat": "51,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -1820,7 +1820,7 @@
   {
     "kitap_adi": "Akim Sevgilim",
     "yazar": "Füruzan",
-    "fiyat": "47,44",
+    "fiyat": "45,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750856105 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-02-10",
@@ -1847,7 +1847,7 @@
   {
     "kitap_adi": "Sevda Dolu Bir Yaz",
     "yazar": "Füruzan",
-    "fiyat": "56,93",
+    "fiyat": "54,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800863 | TÜRKÇE | 207 | Karton Kapak | 2. Hm. Kağıt 2019-03-08",
@@ -1937,7 +1937,7 @@
   {
     "kitap_adi": "Beni Asla Bırakma",
     "yazar": "Kazuo Ishiguro",
-    "fiyat": "97,60",
+    "fiyat": "84,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750811876 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-01-29",
@@ -2099,7 +2099,7 @@
   {
     "kitap_adi": "Büyük Saat - Bütün Şiirleri",
     "yazar": "Turgut Uyar",
-    "fiyat": "177,10",
+    "fiyat": "168,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750803376 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-07",
@@ -2189,7 +2189,7 @@
   {
     "kitap_adi": "Gül Mevsimidir",
     "yazar": "Füruzan",
-    "fiyat": "44,28",
+    "fiyat": "42,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753632577 | TÜRKÇE | 86 | Karton Kapak | Kitap Kağıdı 2022-03-04",
@@ -2261,7 +2261,7 @@
   {
     "kitap_adi": "Karısını Şapka Sanan Adam",
     "yazar": "Oliver Sacks",
-    "fiyat": "72,10",
+    "fiyat": "72,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753635103 | TÜRKÇE | 263 | Karton Kapak | Kitap Kağıdı 2020-04-01",
@@ -2369,7 +2369,7 @@
   {
     "kitap_adi": "İşin Aslı, Judit ve Sonrası",
     "yazar": "Sandor Marai",
-    "fiyat": "143,25",
+    "fiyat": "135,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846304 | TÜRKÇE | 308 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -2558,7 +2558,7 @@
   {
     "kitap_adi": "Aşkımız Eski Bir Roman",
     "yazar": "Ahmet Ümit",
-    "fiyat": "94,88",
+    "fiyat": "90,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750845550 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-07",
@@ -2666,7 +2666,7 @@
   {
     "kitap_adi": "Swann'ların Tarafı / Kayıp Zamanın İzinde",
     "yazar": "Marcel Proust",
-    "fiyat": "66,00",
+    "fiyat": "60,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753639101 | TÜRKÇE | 444 | Karton Kapak | 3. Hm. Kağıt 2023-08-11",
@@ -2720,7 +2720,7 @@
   {
     "kitap_adi": "Bir Dinozorun Anıları",
     "yazar": "Prof.Dr. Mina Urgan",
-    "fiyat": "125,09",
+    "fiyat": "120,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638326 | TÜRKÇE | 353 | Karton Kapak | 3. Hm. Kağıt 2023-09-05",
@@ -2747,7 +2747,7 @@
   {
     "kitap_adi": "Lavinia - Aşk Şiirleri",
     "yazar": "Özdemir Asaf",
-    "fiyat": "50,60",
+    "fiyat": "48,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750831331 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2023-08-09",
@@ -2972,7 +2972,7 @@
   {
     "kitap_adi": "Bekleyecek Vaktim Kalmadı Artık",
     "yazar": "Jean-Louis Fournier",
-    "fiyat": "50,60",
+    "fiyat": "48,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854583 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2022-10-07",
@@ -3071,7 +3071,7 @@
   {
     "kitap_adi": "Bjørn Hansen’e Dair Üçüncü ve Son Roman",
     "yazar": "Dag Solstad",
-    "fiyat": "35,75",
+    "fiyat": "30,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750859540 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-01-12",
@@ -3107,7 +3107,7 @@
   {
     "kitap_adi": "Dul",
     "yazar": "Jean-Louis Fournier",
-    "fiyat": "63,25",
+    "fiyat": "60,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750824760 | TÜRKÇE | 116 | Karton Kapak | Kitap Kağıdı 2022-06-27",
@@ -3233,7 +3233,7 @@
   {
     "kitap_adi": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca",
     "yazar": "Yaşar Kemal",
-    "fiyat": "139,15",
+    "fiyat": "132,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806735 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-07-13",
@@ -3242,7 +3242,7 @@
   {
     "kitap_adi": "Göğe Bakma Durağı",
     "yazar": "Turgut Uyar",
-    "fiyat": "31,95",
+    "fiyat": "30,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750813870 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-10-07",
@@ -3314,7 +3314,7 @@
   {
     "kitap_adi": "Beyoğlu Rapsodisi",
     "yazar": "Ahmet Ümit",
-    "fiyat": "158,13",
+    "fiyat": "150,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846205 | TÜRKÇE | 456 | Karton Kapak | Kitap Kağıdı 2023-09-21",
@@ -3386,7 +3386,7 @@
   {
     "kitap_adi": "Dersler",
     "yazar": "Ian McEwan",
-    "fiyat": "189,75",
+    "fiyat": "180,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750857126 | TÜRKÇE | 472 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -3476,7 +3476,7 @@
   {
     "kitap_adi": "Hay Bin Yakzan",
     "yazar": "İbn Tufeyl  İbni Sina",
-    "fiyat": "44,39",
+    "fiyat": "42,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753634755 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2019-11-29",
@@ -3503,7 +3503,7 @@
   {
     "kitap_adi": "Sis ve Gece",
     "yazar": "Ahmet Ümit",
-    "fiyat": "126,50",
+    "fiyat": "120,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750845956 | TÜRKÇE | 292 | Karton Kapak | Kitap Kağıdı 2019-11-01",
@@ -3512,7 +3512,7 @@
   {
     "kitap_adi": "Olmayan Ülke",
     "yazar": "Ahmet Ümit",
-    "fiyat": "101,20",
+    "fiyat": "96,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846083 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2021-10-08",
@@ -3845,7 +3845,7 @@
   {
     "kitap_adi": "Ölümcül Kimlikler",
     "yazar": "Amin Maalouf",
-    "fiyat": "60,09",
+    "fiyat": "57,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "Les Identites Meurtrieres | 9789750801990 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2022-03-16",
@@ -3998,7 +3998,7 @@
   {
     "kitap_adi": "On Birinci Roman, On Sekizinci Kitap",
     "yazar": "Dag Solstad",
-    "fiyat": "56,00",
+    "fiyat": "48,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750853302 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2023-08-07",
@@ -4070,7 +4070,7 @@
   {
     "kitap_adi": "Gecenin Öteki Yüzü",
     "yazar": "Füruzan",
-    "fiyat": "50,60",
+    "fiyat": "48,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753635202 | TÜRKÇE | 190 | Karton Kapak | 2. Hm. Kağıt 2022-01-14",
@@ -4115,7 +4115,7 @@
   {
     "kitap_adi": "Bab-ı Esrar",
     "yazar": "Ahmet Ümit",
-    "fiyat": "126,50",
+    "fiyat": "120,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750845963 | TÜRKÇE | 440 | Karton Kapak | Kitap Kağıdı 2019-11-01",
@@ -4268,7 +4268,7 @@
   {
     "kitap_adi": "Üç Anadolu Efsanesi Köroğlu, Karacaoğlan, Alageyik",
     "yazar": "Yaşar Kemal",
-    "fiyat": "88,55",
+    "fiyat": "84,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807459 | TÜRKÇE | 222 | Karton Kapak | Kitap Kağıdı 2022-07-22",
