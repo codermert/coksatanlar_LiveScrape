@@ -2378,7 +2378,7 @@
   {
     "kitap_adi": "İşin Aslı, Judit ve Sonrası",
     "yazar": "Sandor Marai",
-    "fiyat": "143,05",
+    "fiyat": "143,15",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846304 | TÜRKÇE | 308 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -4093,6 +4093,15 @@
     "yayinevi": "NESİL YAYINLARI",
     "kitap_hakkinda": "9799757055999 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2022-11-17",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11632837/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Az",
+    "yazar": "Hakan Günday",
+    "fiyat": "145,44",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sabahtan Akşama",
