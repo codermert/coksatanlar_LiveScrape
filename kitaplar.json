@@ -83,7 +83,7 @@
   {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
-    "fiyat": "58,44",
+    "fiyat": "55,45",
     "eski_fiyat": "",
     "yayinevi": "POZİTİF YAYINLARI",
     "kitap_hakkinda": "9789756461075 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-06-09",
@@ -124,6 +124,15 @@
     "yayinevi": "LİTERATÜR YAYINLARI",
     "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Büyük Defter - Kanıt - Üçüncü Yalan",
+    "yazar": "Agota Kristof",
+    "fiyat": "123,75",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750817984 | TÜRKÇE | 372 | Karton Kapak | Kitap Kağıdı 2024-01-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:38320/wi:500/wh:true"
   },
   {
     "kitap_adi": "Öze Yolculuk",
@@ -830,7 +839,7 @@
   {
     "kitap_adi": "Fedailerin Kalesi Alamut",
     "yazar": "Vladimir Bartol",
-    "fiyat": "116,19",
+    "fiyat": "116,41",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054188970 | TÜRKÇE | 510 | Karton Kapak | Kitap Kağıdı 2012-03-09",
@@ -1055,7 +1064,7 @@
   {
     "kitap_adi": "Senin Cahilliğin Benim Yaşamımı Etkiliyor",
     "yazar": "A. M. Celal Şengör",
-    "fiyat": "92,87",
+    "fiyat": "93,09",
     "eski_fiyat": "",
     "yayinevi": "MASA KİTAP",
     "kitap_hakkinda": "9786057301857 | TÜRKÇE | 260 | Karton Kapak | Kitap Kağıdı 2023-08-01",
@@ -1368,6 +1377,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708981/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kırk Yedi'liler",
+    "yazar": "Füruzan",
+    "fiyat": "240,35",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789753635226 | TÜRKÇE | 518 | Karton Kapak | 3. Hm. Kağıt 2018-03-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:285472/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Uçurtma Avcısı",
     "yazar": "Khaled Hosseini",
     "fiyat": "138,38",
@@ -1379,7 +1397,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "107,82",
+    "fiyat": "107,92",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -1775,11 +1793,11 @@
   {
     "kitap_adi": "El Kızı",
     "yazar": "Orhan Kemal",
-    "fiyat": "173,25",
+    "fiyat": "185,85",
     "eski_fiyat": "",
     "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752894662 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2023-12-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11816875/wi:500/wh:true"
+    "kitap_hakkinda": "9789752894662 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2024-02-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11851699/wi:500/wh:true"
   },
   {
     "kitap_adi": "Osman",
