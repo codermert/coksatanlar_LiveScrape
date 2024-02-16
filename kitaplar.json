@@ -623,7 +623,7 @@
   {
     "kitap_adi": "Martı Jonathan Livingston",
     "yazar": "Richard Bach",
-    "fiyat": "90,72",
+    "fiyat": "90,81",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "Jonathan Livingston Seagull | 9789944829670 | TÜRKÇE | 152 | Karton Kapak | 1. Hm. Kağıt 2015-01-01",
@@ -668,7 +668,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "51,30",
+    "fiyat": "51,40",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -1316,7 +1316,7 @@
   {
     "kitap_adi": "Suda Kaybolmak",
     "yazar": "Vladimir Tumanov",
-    "fiyat": "76,18",
+    "fiyat": "76,28",
     "eski_fiyat": "",
     "yayinevi": "GÜNIŞIĞI KİTAPLIĞI",
     "kitap_hakkinda": "9786057797520 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2021-09-27",
@@ -1424,7 +1424,7 @@
   {
     "kitap_adi": "Kayıp Tanrılar Ülkesi",
     "yazar": "Ahmet Ümit",
-    "fiyat": "158,15",
+    "fiyat": "158,25",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750850417 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-08-09",
@@ -1568,7 +1568,7 @@
   {
     "kitap_adi": "Uçabileceğini Hayal Eden Tavuk",
     "yazar": "Sun-Mı Hwang",
-    "fiyat": "54,60",
+    "fiyat": "54,30",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050833942 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2022-04-15",
@@ -2900,7 +2900,7 @@
   {
     "kitap_adi": "Gelirken Ekmek Al",
     "yazar": "Şermin Yaşar",
-    "fiyat": "95,42",
+    "fiyat": "95,52",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050966534 | TÜRKÇE | 196 | Karton Kapak | Kitap Kağıdı 2019-10-19",
@@ -3521,7 +3521,7 @@
   {
     "kitap_adi": "Üç Yanlış Üç Ceset",
     "yazar": "Agatha Christie",
-    "fiyat": "74,37",
+    "fiyat": "74,47",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "Hickory Dickory Dock | 9789752103160 | TÜRKÇE | 191 | Karton Kapak | 3. Hm. Kağıt 2018-01-01",
@@ -3787,15 +3787,6 @@
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786054322848 | TÜRKÇE | 361 | Karton Kapak | Kitap Kağıdı 2020-09-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788433/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ah'lar Ağacı",
-    "yazar": "Didem Madak",
-    "fiyat": "62,95",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "9789753428750 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2020-09-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11501991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kafamda Bir Tuhaflık",
