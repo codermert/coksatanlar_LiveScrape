@@ -947,7 +947,7 @@
   {
     "kitap_adi": "Toprak Ana",
     "yazar": "Cengiz Aytmatov",
-    "fiyat": "44,55",
+    "fiyat": "44,29",
     "eski_fiyat": "",
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
@@ -1280,8 +1280,8 @@
   {
     "kitap_adi": "Naber Sayı 12",
     "yazar": "",
-    "fiyat": "40,63",
-    "eski_fiyat": "",
+    "fiyat": "",
+    "eski_fiyat": "50,00",
     "yayinevi": "KOMİK ŞEYLER YAYINCILIK",
     "kitap_hakkinda": "9786256449107 | TÜRKÇE | 16 | Karton Kapak | Kitap Kağıdı 2024-02-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11847349/wi:500/wh:true"
@@ -3159,6 +3159,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11842336/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Rüzgarı Dizginleyen Çocuk",
+    "yazar": "Bryan Mealer  William Kamkwamba",
+    "fiyat": "78,77",
+    "eski_fiyat": "",
+    "yayinevi": "BEYAZ BALİNA YAYINLARI",
+    "kitap_hakkinda": "9786051883878 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2018-11-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10650659/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sırça Köşk (Cep Boy) (Tam Metin)",
     "yazar": "Sabahattin Ali",
     "fiyat": "9,90",
@@ -3701,8 +3710,8 @@
   {
     "kitap_adi": "Naber Sayı: 11",
     "yazar": "",
-    "fiyat": "40,63",
-    "eski_fiyat": "",
+    "fiyat": "",
+    "eski_fiyat": "50,00",
     "yayinevi": "KOMİK ŞEYLER YAYINCILIK",
     "kitap_hakkinda": "9786256449299 | TÜRKÇE | 16 | Karton Kapak | Kitap Kağıdı 2023-09-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11767792/wi:500/wh:true"
