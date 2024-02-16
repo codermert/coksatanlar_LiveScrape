@@ -20,7 +20,7 @@
   {
     "kitap_adi": "Yaşamak",
     "yazar": "Yu Hua",
-    "fiyat": "74,23",
+    "fiyat": "74,33",
     "eski_fiyat": "",
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
@@ -353,7 +353,7 @@
   {
     "kitap_adi": "1984",
     "yazar": "George Orwell",
-    "fiyat": "51,26",
+    "fiyat": "51,47",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -695,7 +695,7 @@
   {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
-    "fiyat": "71,11",
+    "fiyat": "71,32",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -1150,6 +1150,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784627 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2020-11-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318907/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Miras",
+    "yazar": "Vigdis Hjorth",
+    "fiyat": "135,10",
+    "eski_fiyat": "",
+    "yayinevi": "SİREN YAYINLARI",
+    "kitap_hakkinda": "Arv og miljo | 9786055903886 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2023-07-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11738078/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
