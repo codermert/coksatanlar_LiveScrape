@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "108,72",
+    "fiyat": "108,82",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -182,7 +182,7 @@
   {
     "kitap_adi": "On Kişiydiler (On Küçük Zenci)",
     "yazar": "Agatha Christie",
-    "fiyat": "73,71",
+    "fiyat": "73,92",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "And Then There None | 9789752126169 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -3357,6 +3357,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1052563/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Uzun Beyaz Bulut Gelibolu",
+    "yazar": "Buket Uzuner",
+    "fiyat": "145,95",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9789752890299 | TÜRKÇE | 323 | Karton Kapak | Kitap Kağıdı 2023-10-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11782123/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Görünmez Kentler",
     "yazar": "Italo Calvino",
     "fiyat": "113,85",
@@ -4291,6 +4300,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "9786057829474 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2019-05-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372291/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bugün Kalan Hayatımın İlk Günü",
+    "yazar": "Maud Ankaoua",
+    "fiyat": "100,05",
+    "eski_fiyat": "",
+    "yayinevi": "YAN PASAJ",
+    "kitap_hakkinda": "9786058276642 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2023-06-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11733854/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çöpçüler",
