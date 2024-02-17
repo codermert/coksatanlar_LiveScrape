@@ -362,7 +362,7 @@
   {
     "kitap_adi": "1984",
     "yazar": "George Orwell",
-    "fiyat": "51,68",
+    "fiyat": "51,89",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -2302,6 +2302,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750723322 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2019-06-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481508/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gül Mevsimidir",
+    "yazar": "Füruzan",
+    "fiyat": "44,28",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789753632577 | TÜRKÇE | 86 | Karton Kapak | Kitap Kağıdı 2022-03-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1052557/wi:500/wh:true"
   },
   {
     "kitap_adi": "Uygarlıkların Batışı",
