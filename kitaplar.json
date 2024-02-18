@@ -11,7 +11,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "85,36",
+    "fiyat": "85,46",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -47,7 +47,7 @@
   {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
-    "fiyat": "117,84",
+    "fiyat": "118,06",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
@@ -245,7 +245,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "134,08",
+    "fiyat": "134,18",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -3211,15 +3211,6 @@
     "yayinevi": "SİA KİTAP",
     "kitap_hakkinda": "9786258129779 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-10-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11773811/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Uzun Beyaz Bulut Gelibolu",
-    "yazar": "Buket Uzuner",
-    "fiyat": "145,95",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752890299 | TÜRKÇE | 323 | Karton Kapak | Kitap Kağıdı 2023-10-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11782123/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yer Demir Gök Bakır / Dağın Öte Yüzü 2",
