@@ -938,7 +938,7 @@
   {
     "kitap_adi": "Değirmen",
     "yazar": "Sabahattin Ali",
-    "fiyat": "17,88",
+    "fiyat": "17,98",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806605 | TÜRKÇE | 137 | Karton Kapak | Kitap Kağıdı 2019-10-14",
@@ -3139,6 +3139,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786259892733 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-12-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11811468/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Uzun Beyaz Bulut Gelibolu",
+    "yazar": "Buket Uzuner",
+    "fiyat": "145,95",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9789752890299 | TÜRKÇE | 323 | Karton Kapak | Kitap Kağıdı 2023-10-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11782123/wi:500/wh:true"
   },
   {
     "kitap_adi": "Görünmez Kentler",
