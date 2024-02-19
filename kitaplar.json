@@ -119,7 +119,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "134,89",
+    "fiyat": "134,99",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -2806,15 +2806,6 @@
     "yayinevi": "PANAMA YAYINCILIK",
     "kitap_hakkinda": "9786258488494 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2023-03-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11691237/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Sevda Dolu Bir Yaz",
-    "yazar": "Füruzan",
-    "fiyat": "56,93",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750800863 | TÜRKÇE | 207 | Karton Kapak | 2. Hm. Kağıt 2019-03-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:206117/wi:500/wh:true"
   },
   {
     "kitap_adi": "İki Dirhem Bir Çekirdek",
