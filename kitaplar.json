@@ -758,7 +758,7 @@
   {
     "kitap_adi": "Yılanı Öldürseler",
     "yazar": "Yaşar Kemal",
-    "fiyat": "54,39",
+    "fiyat": "54,49",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -920,7 +920,7 @@
   {
     "kitap_adi": "Uzun Hikaye",
     "yazar": "Mustafa Kutlu",
-    "fiyat": "59,75",
+    "fiyat": "59,85",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
@@ -1208,7 +1208,7 @@
   {
     "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek (Modern Kapak)",
     "yazar": "Erich Fromm",
-    "fiyat": "115,65",
+    "fiyat": "115,75",
     "eski_fiyat": "",
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9786050207958 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-10-18",
@@ -1325,7 +1325,7 @@
   {
     "kitap_adi": "Suda Kaybolmak",
     "yazar": "Vladimir Tumanov",
-    "fiyat": "76,48",
+    "fiyat": "76,58",
     "eski_fiyat": "",
     "yayinevi": "GÜNIŞIĞI KİTAPLIĞI",
     "kitap_hakkinda": "9786057797520 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2021-09-27",
@@ -1919,7 +1919,7 @@
   {
     "kitap_adi": "Ben, Kirke",
     "yazar": "Madeline Miller",
-    "fiyat": "154,30",
+    "fiyat": "154,40",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Circe | 9786053759584 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2021-01-25",
@@ -2419,6 +2419,15 @@
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786050820416 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2020-01-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11382636/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Rüzgarı Dizginleyen Çocuk",
+    "yazar": "Bryan Mealer  William Kamkwamba",
+    "fiyat": "78,77",
+    "eski_fiyat": "",
+    "yayinevi": "BEYAZ BALİNA YAYINLARI",
+    "kitap_hakkinda": "9786051883878 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2018-11-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10650659/wi:500/wh:true"
   },
   {
     "kitap_adi": "Pia Mater",
