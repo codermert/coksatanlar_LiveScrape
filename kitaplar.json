@@ -533,7 +533,7 @@
   {
     "kitap_adi": "Tek Yalnız Ben Değilim",
     "yazar": "Jean-Louis Fournier",
-    "fiyat": "51,53",
+    "fiyat": "51,63",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750848834 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2023-08-01",
@@ -857,7 +857,7 @@
   {
     "kitap_adi": "Sessiz Hasta",
     "yazar": "Alex Michaelides",
-    "fiyat": "106,42",
+    "fiyat": "106,52",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Silent Patient | 9786051981482 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2023-08-01",
@@ -3346,15 +3346,6 @@
     "yayinevi": "MARTI YAYINLARI",
     "kitap_hakkinda": "Binding 13 | 9786253661151 | TÜRKÇE | 720 | Karton Kapak | Kitap Kağıdı 2024-02-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11845770/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Uzun Beyaz Bulut Gelibolu",
-    "yazar": "Buket Uzuner",
-    "fiyat": "145,95",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752890299 | TÜRKÇE | 323 | Karton Kapak | Kitap Kağıdı 2023-10-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11782123/wi:500/wh:true"
   },
   {
     "kitap_adi": "Nereye Gidiyoruz Baba?",
