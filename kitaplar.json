@@ -1226,7 +1226,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "109,42",
+    "fiyat": "109,52",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -4084,6 +4084,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258076462 | TÜRKÇE | 232 | Ciltli | Kitap Kağıdı 2022-07-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11592404/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Butimar",
+    "yazar": "Kaan Murat Yanık",
+    "fiyat": "74,50",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786258159462 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2022-09-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11597124/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ev, Kadınlar, Seks.",
