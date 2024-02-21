@@ -1298,7 +1298,7 @@
   {
     "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek (Modern Kapak)",
     "yazar": "Erich Fromm",
-    "fiyat": "115,95",
+    "fiyat": "116,05",
     "eski_fiyat": "",
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9786050207958 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-10-18",
@@ -4192,6 +4192,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "The Song of Achilles | 9786057762931 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2022-07-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11459231/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ev",
+    "yazar": "Nermin Yıldırım",
+    "fiyat": "138,60",
+    "eski_fiyat": "",
+    "yayinevi": "HEP KİTAP",
+    "kitap_hakkinda": "9786051923994 | TÜRKÇE | 456 | Karton Kapak | Kitap Kağıdı 2020-11-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11299941/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hamnet",
