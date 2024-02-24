@@ -11,7 +11,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "86,46",
+    "fiyat": "86,56",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -254,7 +254,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "19,28",
+    "fiyat": "19,38",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -416,7 +416,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "111,02",
+    "fiyat": "111,12",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -1177,6 +1177,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784160 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2020-11-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318950/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kendini Aş Haddini Aşma",
+    "yazar": "Mustafa Kutlu",
+    "fiyat": "71,25",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9786256839595 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2023-12-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11817583/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beyaz Gemi",
