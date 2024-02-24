@@ -353,7 +353,7 @@
   {
     "kitap_adi": "1984",
     "yazar": "George Orwell",
-    "fiyat": "56,00",
+    "fiyat": "56,10",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -1177,15 +1177,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784160 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2020-11-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318950/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kendini Aş Haddini Aşma",
-    "yazar": "Mustafa Kutlu",
-    "fiyat": "71,25",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9786256839595 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2023-12-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11817583/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beyaz Gemi",
