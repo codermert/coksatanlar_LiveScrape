@@ -29,7 +29,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "86,86",
+    "fiyat": "86,96",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -2700,15 +2700,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97153/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Bereketli Topraklar Üzerinde",
-    "yazar": "Orhan Kemal",
-    "fiyat": "173,25",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752895546 | TÜRKÇE | 380 | Karton Kapak | Kitap Kağıdı 2023-08-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11753252/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Benliğini Arayan Çocuk",
     "yazar": "Virginia M. Axline",
     "fiyat": "60,00",
@@ -4228,15 +4219,6 @@
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786054322374 | TÜRKÇE | 390 | Karton Kapak | Kitap Kağıdı 2023-08-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755396/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Coşkuyla Ölmek",
-    "yazar": "Şule Gürbüz",
-    "fiyat": "109,43",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789750511080 | TÜRKÇE | 191 | Karton Kapak | Kitap Kağıdı 2022-11-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11360926/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsancıklar",
