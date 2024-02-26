@@ -371,7 +371,7 @@
   {
     "kitap_adi": "1984",
     "yazar": "George Orwell",
-    "fiyat": "56,60",
+    "fiyat": "56,70",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -1163,7 +1163,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "112,38",
+    "fiyat": "136,90",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -1622,7 +1622,7 @@
   {
     "kitap_adi": "Malamander",
     "yazar": "Thomas Taylor",
-    "fiyat": "111,62",
+    "fiyat": "111,72",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "Malamander | 9786050833775 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-08-05",
@@ -4327,15 +4327,6 @@
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "Before the Coffee Gets Cold | 9786051738956 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2021-05-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11421072/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Posta Kutusundaki Mızıka",
-    "yazar": "A. Ali Ural",
-    "fiyat": "97,50",
-    "eski_fiyat": "",
-    "yayinevi": "ŞULE YAYINLARI",
-    "kitap_hakkinda": "9799756841357 | TÜRKÇE | 206 | Karton Kapak | Kitap Kağıdı 2023-09-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11772063/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kızın Hikayesi",
