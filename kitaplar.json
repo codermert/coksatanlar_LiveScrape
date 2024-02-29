@@ -56,7 +56,7 @@
   {
     "kitap_adi": "Saatleri Ayarlama Enstitüsü",
     "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "192,04",
+    "fiyat": "163,74",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955762 | TÜRKÇE | 382 | Karton Kapak | Kitap Kağıdı 2017-09-15",
@@ -1145,7 +1145,7 @@
   {
     "kitap_adi": "Suda Kaybolmak",
     "yazar": "Vladimir Tumanov",
-    "fiyat": "93,52",
+    "fiyat": "77,90",
     "eski_fiyat": "",
     "yayinevi": "GÜNIŞIĞI KİTAPLIĞI",
     "kitap_hakkinda": "9786057797520 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2021-09-27",
@@ -1208,7 +1208,7 @@
   {
     "kitap_adi": "Uzun Hikaye",
     "yazar": "Mustafa Kutlu",
-    "fiyat": "62,06",
+    "fiyat": "64,26",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
@@ -1406,7 +1406,7 @@
   {
     "kitap_adi": "Doğunun Limanları",
     "yazar": "Amin Maalouf",
-    "fiyat": "82,52",
+    "fiyat": "82,62",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750809774 | TÜRKÇE | 183 | Karton Kapak | 3. Hm. Kağıt 2019-12-04",
@@ -2158,15 +2158,6 @@
     "yayinevi": "KRONİK KİTAP",
     "kitap_hakkinda": "9786256989962 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-10-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783678/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Huzur",
-    "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "255,00",
-    "eski_fiyat": "",
-    "yayinevi": "DERGAH YAYINLARI",
-    "kitap_hakkinda": "9786256839472 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-11-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11802059/wi:500/wh:true"
   },
   {
     "kitap_adi": "On Üç’ü Bağlamak",
