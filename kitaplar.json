@@ -2,7 +2,7 @@
   {
     "kitap_adi": "Söyleme Bilmesinler",
     "yazar": "Şermin Yaşar",
-    "fiyat": "106,73",
+    "fiyat": "105,15",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786256570597 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-12-22",
@@ -128,7 +128,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "94,51",
+    "fiyat": "94,61",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -263,7 +263,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "135,40",
+    "fiyat": "135,50",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -353,7 +353,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "163,90",
+    "fiyat": "164,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -2815,6 +2815,15 @@
     "yayinevi": "DELİDOLU",
     "kitap_hakkinda": "9786257314879 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2023-06-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11735155/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Huzur",
+    "yazar": "Ahmet Hamdi Tanpınar",
+    "fiyat": "255,00",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9786256839472 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-11-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11802059/wi:500/wh:true"
   },
   {
     "kitap_adi": "Her Şeye Hakkınız Olabilir Umutsuz Olmaya Asla!",
