@@ -551,7 +551,7 @@
   {
     "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
     "yazar": "William Golding",
-    "fiyat": "52,20",
+    "fiyat": "52,30",
     "eski_fiyat": "",
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "Lord of the Flies | 9789754582901 | TÜRKÇE | 261 | Karton Kapak | Kitap Kağıdı 2019-07-25",
@@ -677,7 +677,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "88,80",
+    "fiyat": "88,90",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -740,7 +740,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "116,42",
+    "fiyat": "116,52",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -992,7 +992,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "107,10",
+    "fiyat": "107,20",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -2457,15 +2457,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11501991/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Dune",
-    "yazar": "Frank Herbert",
-    "fiyat": "245,70",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Dune | 9786053754794 | TÜRKÇE | 712 | Karton Kapak | Kitap Kağıdı 2021-09-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11494736/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Aşkımız Eski Bir Roman",
     "yazar": "Ahmet Ümit",
     "fiyat": "94,88",
@@ -3580,6 +3571,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257419086 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-06-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422538/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kıyamet Emeklisi (1.Cilt)",
+    "yazar": "Şule Gürbüz",
+    "fiyat": "190,81",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750533242 | TÜRKÇE | 401 | Karton Kapak | Kitap Kağıdı 2022-05-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11567469/wi:500/wh:true"
   },
   {
     "kitap_adi": "Boş Dolaplar",
