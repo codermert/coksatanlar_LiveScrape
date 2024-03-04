@@ -767,7 +767,7 @@
   {
     "kitap_adi": "Toprak Ana",
     "yazar": "Cengiz Aytmatov",
-    "fiyat": "42,05",
+    "fiyat": "42,10",
     "eski_fiyat": "",
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
@@ -1073,7 +1073,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "54,60",
+    "fiyat": "54,70",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -1118,11 +1118,11 @@
   {
     "kitap_adi": "Miras",
     "yazar": "Vigdis Hjorth",
-    "fiyat": "117,10",
+    "fiyat": "156,13",
     "eski_fiyat": "",
     "yayinevi": "SİREN YAYINLARI",
-    "kitap_hakkinda": "Arv og miljo | 9786055903886 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2023-07-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11738078/wi:500/wh:true"
+    "kitap_hakkinda": "Arv og miljo | 9786055903886 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2024-03-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11860680/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gülün Adı (Ciltsiz)",
@@ -2009,7 +2009,7 @@
   {
     "kitap_adi": "Karısını Şapka Sanan Adam",
     "yazar": "Oliver Sacks",
-    "fiyat": "72,30",
+    "fiyat": "72,40",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753635103 | TÜRKÇE | 263 | Karton Kapak | Kitap Kağıdı 2020-04-01",
@@ -3733,6 +3733,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750833533 | TÜRKÇE | 108 | Karton Kapak | Kitap Kağıdı 2022-03-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1034335/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dune",
+    "yazar": "Frank Herbert",
+    "fiyat": "245,70",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Dune | 9786053754794 | TÜRKÇE | 712 | Karton Kapak | Kitap Kağıdı 2021-09-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11494736/wi:500/wh:true"
   },
   {
     "kitap_adi": "Damızlık Kızın Öyküsü",
