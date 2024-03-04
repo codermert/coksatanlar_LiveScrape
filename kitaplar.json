@@ -92,7 +92,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "90,20",
+    "fiyat": "89,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -155,7 +155,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "161,45",
+    "fiyat": "161,15",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -227,7 +227,7 @@
   {
     "kitap_adi": "On Kişiydiler (On Küçük Zenci)",
     "yazar": "Agatha Christie",
-    "fiyat": "86,52",
+    "fiyat": "85,62",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "And Then There None | 9789752126169 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "19,55",
+    "fiyat": "19,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -326,7 +326,7 @@
   {
     "kitap_adi": "1984",
     "yazar": "George Orwell",
-    "fiyat": "57,10",
+    "fiyat": "56,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -389,7 +389,7 @@
   {
     "kitap_adi": "Kürk Mantolu Madonna",
     "yazar": "Sabahattin Ali",
-    "fiyat": "19,55",
+    "fiyat": "19,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
@@ -479,7 +479,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "66,10",
+    "fiyat": "65,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
@@ -488,7 +488,7 @@
   {
     "kitap_adi": "Suzan Defter",
     "yazar": "Ayfer Tunç",
-    "fiyat": "78,20",
+    "fiyat": "77,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750724220 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-05-12",
@@ -497,7 +497,7 @@
   {
     "kitap_adi": "Canım Aliye, Ruhum Filiz",
     "yazar": "Sabahattin Ali",
-    "fiyat": "29,13",
+    "fiyat": "28,85",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826672 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -776,11 +776,20 @@
   {
     "kitap_adi": "Toprak Ana",
     "yazar": "Cengiz Aytmatov",
-    "fiyat": "42,10",
+    "fiyat": "41,70",
     "eski_fiyat": "",
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737232/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Eşekli Kütüphaneci",
+    "yazar": "Fakir Baykurt",
+    "fiyat": "95,31",
+    "eski_fiyat": "",
+    "yayinevi": "LİTERATÜR YAYINLARI",
+    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
   },
   {
     "kitap_adi": "Balıkçı ve Oğlu",
@@ -821,7 +830,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "107,90",
+    "fiyat": "108,00",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -848,7 +857,7 @@
   {
     "kitap_adi": "Fedailerin Kalesi Alamut",
     "yazar": "Vladimir Bartol",
-    "fiyat": "118,62",
+    "fiyat": "118,22",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054188970 | TÜRKÇE | 510 | Karton Kapak | Kitap Kağıdı 2012-03-09",
@@ -857,7 +866,7 @@
   {
     "kitap_adi": "Sıfır Noktasındaki Kadın",
     "yazar": "Neval el-Saadavi",
-    "fiyat": "83,88",
+    "fiyat": "82,70",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Woman at Point Zero | 9789753421959 | TÜRKÇE | 112 | Karton Kapak | 3. Hm. Kağıt 2023-05-09",
