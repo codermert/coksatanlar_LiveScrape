@@ -101,7 +101,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "138,65",
+    "fiyat": "138,75",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -304,6 +304,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751353 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2021-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345522/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnsanlığımı Yitirirken",
+    "yazar": "Osamu Dazai",
+    "fiyat": "44,10",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Ningen Şikkaku (人間失格) | 9786258401479 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-12-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11650050/wi:500/wh:true"
   },
   {
     "kitap_adi": "Semerkant",
