@@ -560,7 +560,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "108,00",
+    "fiyat": "108,10",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -614,7 +614,7 @@
   {
     "kitap_adi": "Otomatik Portakal (Ciltsiz)",
     "yazar": "Anthony Burgess",
-    "fiyat": "30,11",
+    "fiyat": "27,01",
     "eski_fiyat": "",
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "A Clockwork Orange | 9786052957929 | TÜRKÇE | 171 | Karton Kapak | Kitap Kağıdı 2019-09-10",
@@ -659,7 +659,7 @@
   {
     "kitap_adi": "Sol Ayağım",
     "yazar": "Christy Brown",
-    "fiyat": "86,75",
+    "fiyat": "106,16",
     "eski_fiyat": "",
     "yayinevi": "NORA KİTAP",
     "kitap_hakkinda": "9786257359740 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2017-08-25",
@@ -936,15 +936,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11739504/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Değersiz Bir Hayat",
-    "yazar": "Hanya Yanagihara",
-    "fiyat": "245,20",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2024-02-29",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5459930/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Dönüşüm",
     "yazar": "Franz Kafka",
     "fiyat": "12,88",
@@ -1060,15 +1051,6 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953102 | TÜRKÇE | 211 | Karton Kapak | Kitap Kağıdı 2017-09-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:240545/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kardeşimin Hikayesi",
-    "yazar": "Zülfü Livaneli",
-    "fiyat": "111,04",
-    "eski_fiyat": "",
-    "yayinevi": "İNKILAP KİTABEVİ",
-    "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11455589/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Aşk Masalı",
@@ -1249,15 +1231,6 @@
     "yayinevi": "BİLGE KÜLTÜR SANAT",
     "kitap_hakkinda": "9786258274486 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-01-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11842967/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Zavallılar",
-    "yazar": "Alasdair Gray",
-    "fiyat": "180,00",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Poor Things | 9786052652633 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2024-02-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11840880/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bu Hikaye Senden Uzun Osman",
