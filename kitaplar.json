@@ -1271,7 +1271,7 @@
   {
     "kitap_adi": "Olasılıksız",
     "yazar": "Adam Fawer",
-    "fiyat": "129,57",
+    "fiyat": "130,10",
     "eski_fiyat": "",
     "yayinevi": "APRIL YAYINCILIK",
     "kitap_hakkinda": "9789756006054 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-09-07",
@@ -3202,6 +3202,15 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Ways of Seeing | 9789753420839 | TÜRKÇE | 166 | Karton Kapak | 1. Hm. Kağıt 2019-05-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11247508/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dune",
+    "yazar": "Frank Herbert",
+    "fiyat": "245,70",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Dune | 9786053754794 | TÜRKÇE | 712 | Karton Kapak | Kitap Kağıdı 2021-09-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11494736/wi:500/wh:true"
   },
   {
     "kitap_adi": "İçimizdeki Şeytan (Cep Boy) (Tam Metin)",
