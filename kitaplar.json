@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "168,00",
+    "fiyat": "168,10",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -2311,6 +2311,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784016 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2020-11-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318899/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Engereğin Gözü",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "98,21",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751041548 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-01-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11337465/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gargantis",
