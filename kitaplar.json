@@ -1109,7 +1109,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "121,22",
+    "fiyat": "121,32",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -1559,7 +1559,7 @@
   {
     "kitap_adi": "Güneşin İki Yüzü",
     "yazar": "Bahar Eriş",
-    "fiyat": "104,35",
+    "fiyat": "104,45",
     "eski_fiyat": "",
     "yayinevi": "ALFA YAYINLARI",
     "kitap_hakkinda": "9786254496998 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2024-03-05",
@@ -4318,15 +4318,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750739170 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2019-09-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487998/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Karanlık Orman",
-    "yazar": "Cixin Liu",
-    "fiyat": "345,60",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9990606/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beyaz Diş (Cep Boy) (Tam Metin)",
