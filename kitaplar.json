@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Saatleri Ayarlama Enstitüsü",
     "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "180,90",
+    "fiyat": "181,44",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955762 | TÜRKÇE | 382 | Karton Kapak | Kitap Kağıdı 2017-09-15",
@@ -189,6 +189,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11319004/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Değersiz Bir Hayat",
+    "yazar": "Hanya Yanagihara",
+    "fiyat": "231,60",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2024-02-29",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5459930/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
     "fiyat": "89,52",
@@ -236,7 +245,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "94,00",
+    "fiyat": "94,10",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -497,7 +506,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "259,90",
+    "fiyat": "260,00",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -3897,6 +3906,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:92929/wi:500/wh:true"
   },
   {
+    "kitap_adi": "İmkansızın Şarkısı",
+    "yazar": "Haruki Murakami",
+    "fiyat": "145,44",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "Noruvei no mori) | 9786050929812 | TÜRKÇE | 349 | Karton Kapak | Kitap Kağıdı 2015-12-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1113480/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Ölü Ozanlar Derneği",
     "yazar": "N. H. Kleinbaum",
     "fiyat": "61,76",
@@ -4174,15 +4192,6 @@
     "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
     "kitap_hakkinda": "9789754496819 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-02-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858987/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Üç Perdelik Cinayet",
-    "yazar": "Agatha Christie",
-    "fiyat": "71,86",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Murten ın Three Acts | 9789752101890 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2023-10-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787015/wi:500/wh:true"
   },
   {
     "kitap_adi": "İki Kule Yüzüklerin Efendisi 2",
