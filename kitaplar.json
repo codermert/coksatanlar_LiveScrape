@@ -326,7 +326,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "170,30",
+    "fiyat": "170,40",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -3080,7 +3080,7 @@
   {
     "kitap_adi": "Benliğini Arayan Çocuk",
     "yazar": "Virginia M. Axline",
-    "fiyat": "78,00",
+    "fiyat": "104,00",
     "eski_fiyat": "",
     "yayinevi": "PANAMA YAYINCILIK",
     "kitap_hakkinda": "9786052221426 | TÜRKÇE | 268 | Karton Kapak | Kitap Kağıdı 2021-07-01",
@@ -3517,6 +3517,15 @@
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920849 | TÜRKÇE | 424 | Karton Kapak | Kitap Kağıdı 2022-02-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11518131/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Oblomov",
+    "yazar": "İvan Gonçarov",
+    "fiyat": "120,12",
+    "eski_fiyat": "",
+    "yayinevi": "YORDAM KİTAP",
+    "kitap_hakkinda": "Обломов - Oblomov | 9786051722405 | TÜRKÇE | 700 | Karton Kapak | Kitap Kağıdı 2020-03-26",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711735/wi:500/wh:true"
   },
   {
     "kitap_adi": "Olmayan Ülke",
