@@ -137,7 +137,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "143,25",
+    "fiyat": "143,35",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -308,7 +308,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "87,12",
+    "fiyat": "87,64",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -659,7 +659,7 @@
   {
     "kitap_adi": "Kalk Yerine Yat",
     "yazar": "Şermin Yaşar",
-    "fiyat": "90,52",
+    "fiyat": "90,62",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786258036107 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2021-11-25",
@@ -1118,7 +1118,7 @@
   {
     "kitap_adi": "Kem Küm",
     "yazar": "Hatice Kübra Tongar",
-    "fiyat": "65,20",
+    "fiyat": "65,90",
     "eski_fiyat": "",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259897943 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2023-12-04",
@@ -4165,15 +4165,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750755750 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2024-02-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11854090/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Grapon Kağıtları",
-    "yazar": "Didem Madak",
-    "fiyat": "62,00",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "9789753428767 | TÜRKÇE | 72 | Karton Kapak | Kitap Kağıdı 2018-02-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11449120/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kar",
