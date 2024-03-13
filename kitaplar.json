@@ -1737,15 +1737,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11404521/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Bu Hikaye Senden Uzun Osman",
-    "yazar": "Aylin Balboa",
-    "fiyat": "81,17",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789750533327 | TÜRKÇE | 129 | Karton Kapak | Kitap Kağıdı 2022-11-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11575369/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kayıp Ağaçlar Adası",
     "yazar": "Elif Şafak",
     "fiyat": "165,40",
@@ -3076,6 +3067,15 @@
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9789753621885 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2022-01-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439237/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İki Kule Yüzüklerin Efendisi 2",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "202,03",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Two Towers | 9789753421812 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2021-09-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11758052/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kambur",
