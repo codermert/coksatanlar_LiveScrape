@@ -1334,7 +1334,7 @@
   {
     "kitap_adi": "Okumaz Yazmaz",
     "yazar": "Agota Kristof",
-    "fiyat": "43,00",
+    "fiyat": "43,10",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750762246 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2023-11-14",
@@ -3445,6 +3445,15 @@
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9789752895249 | TÜRKÇE | 277 | Karton Kapak | Kitap Kağıdı 2023-11-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11802205/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Şah ve Sultan",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "155,25",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786054322374 | TÜRKÇE | 390 | Karton Kapak | Kitap Kağıdı 2023-08-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755396/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ölü Ozanlar Derneği",
