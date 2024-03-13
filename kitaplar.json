@@ -785,7 +785,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "170,37",
+    "fiyat": "170,47",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -3159,6 +3159,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621805/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kıyamet Emeklisi (1.Cilt)",
+    "yazar": "Şule Gürbüz",
+    "fiyat": "190,81",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750533242 | TÜRKÇE | 401 | Karton Kapak | Kitap Kağıdı 2022-05-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11567469/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Boş Dolaplar",
     "yazar": "Annie Ernaux",
     "fiyat": "78,20",
@@ -3796,6 +3805,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "9789752126947 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-01-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11510348/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Öğrenci Kız",
+    "yazar": "Osamu Dazai",
+    "fiyat": "37,80",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Joseito (女生徒) | 9786258401462 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2023-08-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713735/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çocuk Kalbi (Ciltli, İplik Dikişli)",
