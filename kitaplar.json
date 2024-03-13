@@ -92,7 +92,7 @@
   {
     "kitap_adi": "Saatleri Ayarlama Enstitüsü",
     "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "217,91",
+    "fiyat": "196,20",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955762 | TÜRKÇE | 382 | Karton Kapak | Kitap Kağıdı 2017-09-15",
@@ -290,7 +290,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "170,60",
+    "fiyat": "170,70",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -479,7 +479,7 @@
   {
     "kitap_adi": "Hizmetçinin Sırrı",
     "yazar": "Freida Mcfadden",
-    "fiyat": "130,03",
+    "fiyat": "130,10",
     "eski_fiyat": "",
     "yayinevi": "OLİMPOS YAYINLARI",
     "kitap_hakkinda": "9786256411623 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2023-10-24",
@@ -1618,6 +1618,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kardeşimin Hikayesi",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "125,55",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11455589/wi:500/wh:true"
   },
   {
     "kitap_adi": "Öteki",
