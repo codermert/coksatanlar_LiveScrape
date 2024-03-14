@@ -1208,7 +1208,7 @@
   {
     "kitap_adi": "Sular Üstünde Gökler Altında",
     "yazar": "Kaan Murat Yanık",
-    "fiyat": "59,15",
+    "fiyat": "59,25",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999749 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-03-07",
@@ -1406,7 +1406,7 @@
   {
     "kitap_adi": "Aylak Adam",
     "yazar": "Yusuf Atılgan",
-    "fiyat": "91,22",
+    "fiyat": "91,32",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750735646 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -1811,7 +1811,7 @@
   {
     "kitap_adi": "Uçurtma Avcısı",
     "yazar": "Khaled Hosseini",
-    "fiyat": "157,30",
+    "fiyat": "157,40",
     "eski_fiyat": "",
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9789752891456 | TÜRKÇE | 375 | Karton Kapak | Kitap Kağıdı 2023-05-22",
@@ -2234,7 +2234,7 @@
   {
     "kitap_adi": "İşin Aslı, Judit ve Sonrası",
     "yazar": "Sandor Marai",
-    "fiyat": "130,29",
+    "fiyat": "130,39",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846304 | TÜRKÇE | 308 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -4084,6 +4084,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807459 | TÜRKÇE | 222 | Karton Kapak | Kitap Kağıdı 2022-07-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97153/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Oblomov",
+    "yazar": "İvan Gonçarov",
+    "fiyat": "147,32",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750517884 | TÜRKÇE | 617 | Karton Kapak | Kitap Kağıdı 2015-06-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1033770/wi:500/wh:true"
   },
   {
     "kitap_adi": "İtiraflarım",
