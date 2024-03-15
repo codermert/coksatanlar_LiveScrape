@@ -362,7 +362,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "172,00",
+    "fiyat": "172,10",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -1649,7 +1649,7 @@
   {
     "kitap_adi": "Pia Mater",
     "yazar": "Serkan Karaismailoğlu",
-    "fiyat": "119,65",
+    "fiyat": "176,29",
     "eski_fiyat": "",
     "yayinevi": "ELMA YAYINEVİ",
     "kitap_hakkinda": "9786059367509 | TÜRKÇE | 424 | Karton Kapak | Kitap Kağıdı 2019-05-28",
@@ -2896,15 +2896,6 @@
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920429 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2022-11-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11632136/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Karanlık Orman",
-    "yazar": "Cixin Liu",
-    "fiyat": "345,60",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9990606/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsancıklar",
