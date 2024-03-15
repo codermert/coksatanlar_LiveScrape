@@ -1046,7 +1046,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "124,22",
+    "fiyat": "124,32",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -3220,15 +3220,6 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Üç Yanlış Üç Ceset",
-    "yazar": "Agatha Christie",
-    "fiyat": "73,87",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Hickory Dickory Dock | 9789752103160 | TÜRKÇE | 191 | Karton Kapak | 3. Hm. Kağıt 2018-01-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11270649/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ateşten Gömlek (Sadeleştirilmiş Metin)",
