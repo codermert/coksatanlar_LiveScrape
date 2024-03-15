@@ -362,7 +362,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "172,10",
+    "fiyat": "172,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -4417,15 +4417,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807213 | TÜRKÇE | 79 | Karton Kapak | Kitap Kağıdı 2019-06-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:92929/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Od",
-    "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "155,25",
-    "eski_fiyat": "",
-    "yayinevi": "KAPI YAYINLARI",
-    "kitap_hakkinda": "9786054322848 | TÜRKÇE | 361 | Karton Kapak | Kitap Kağıdı 2020-09-19",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11788433/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ben, Robot",
