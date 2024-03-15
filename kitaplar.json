@@ -2700,6 +2700,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11683118/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Esir Şehrin Mahpusu",
+    "yazar": "Kemal Tahir",
+    "fiyat": "127,05",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786256999251 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2022-12-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641416/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Pandora’nın Kutusu",
     "yazar": "Osamu Dazai",
     "fiyat": "56,00",
@@ -3517,6 +3526,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050845723 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2022-10-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11611179/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yol Ayrımı",
+    "yazar": "Kemal Tahir",
+    "fiyat": "144,00",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786256999220 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2022-12-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641425/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Kadın",
