@@ -1046,7 +1046,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "124,32",
+    "fiyat": "124,42",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -1181,7 +1181,7 @@
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
-    "fiyat": "73,11",
+    "fiyat": "73,21",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -3652,15 +3652,6 @@
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "The Lemon Tree | 9786055943516 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2016-10-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4441920/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Şah ve Sultan",
-    "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "155,25",
-    "eski_fiyat": "",
-    "yayinevi": "KAPI YAYINLARI",
-    "kitap_hakkinda": "9786054322374 | TÜRKÇE | 390 | Karton Kapak | Kitap Kağıdı 2023-08-16",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755396/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kambur",
