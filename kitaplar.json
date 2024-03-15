@@ -1235,7 +1235,7 @@
   {
     "kitap_adi": "Bu Ülke",
     "yazar": "Cemil Meriç",
-    "fiyat": "159,08",
+    "fiyat": "159,18",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754702811 | TÜRKÇE | 339 | Karton Kapak | 3. Hm. Kağıt 2021-10-04",
@@ -3616,6 +3616,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638326 | TÜRKÇE | 353 | Karton Kapak | 3. Hm. Kağıt 2023-09-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1010847/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İki Kule Yüzüklerin Efendisi 2",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "216,00",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Two Towers | 9789753421812 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2021-09-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11758052/wi:500/wh:true"
   },
   {
     "kitap_adi": "Büyük Saat - Bütün Şiirleri",
