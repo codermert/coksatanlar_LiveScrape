@@ -407,7 +407,7 @@
   {
     "kitap_adi": "Kaplanın Sırtında",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "112,50",
+    "fiyat": "103,50",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751044600 | TÜRKÇE | 324 | Karton Kapak | Kitap Kağıdı 2023-01-09",
@@ -1577,7 +1577,7 @@
   {
     "kitap_adi": "Nar Ağacı",
     "yazar": "Prof. Dr. Nazan Bekiroğlu",
-    "fiyat": "233,55",
+    "fiyat": "233,65",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786050807073 | TÜRKÇE | 536 | Karton Kapak | Kitap Kağıdı 2019-09-05",
@@ -2851,15 +2851,6 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Hanşiçi Torimonoço | 9786052653142 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2024-03-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858639/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Gökçen 2: Geride Kalanlar (Ciltli Özel Baskı)",
-    "yazar": "Loresima",
-    "fiyat": "220,94",
-    "eski_fiyat": "",
-    "yayinevi": "EPHESUS YAYINLARI",
-    "kitap_hakkinda": "9786256476585 | TÜRKÇE | 544 | Ciltli | Kitap Kağıdı 2024-03-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11861704/wi:500/wh:true"
   },
   {
     "kitap_adi": "Rüveyda",
