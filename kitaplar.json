@@ -11,7 +11,7 @@
   {
     "kitap_adi": "Yaşamak",
     "yazar": "Yu Hua",
-    "fiyat": "76,58",
+    "fiyat": "76,68",
     "eski_fiyat": "",
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
@@ -47,7 +47,7 @@
   {
     "kitap_adi": "Kızıl Karma",
     "yazar": "Jean Christophe Grange",
-    "fiyat": "210,20",
+    "fiyat": "231,10",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786256666061 | TÜRKÇE | 584 | Karton Kapak | Kitap Kağıdı 2024-02-21",
@@ -218,7 +218,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "145,55",
+    "fiyat": "145,65",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -416,7 +416,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "172,50",
+    "fiyat": "172,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -1163,7 +1163,7 @@
   {
     "kitap_adi": "Bu Ülke",
     "yazar": "Cemil Meriç",
-    "fiyat": "159,28",
+    "fiyat": "159,38",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754702811 | TÜRKÇE | 339 | Karton Kapak | 3. Hm. Kağıt 2021-10-04",
@@ -4336,15 +4336,6 @@
     "yayinevi": "TEKİN YAYINEVİ",
     "kitap_hakkinda": "9789944612104 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2023-04-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700186/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Güneş ve Onun Çiçekleri",
-    "yazar": "Rupi Kaur",
-    "fiyat": "130,73",
-    "eski_fiyat": "",
-    "yayinevi": "PEGASUS YAYINLARI",
-    "kitap_hakkinda": "The Sun and Her Flowers | 9786052993712 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2018-01-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5240472/wi:500/wh:true"
   },
   {
     "kitap_adi": "Rüzgarı Dizginleyen Çocuk",
