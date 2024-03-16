@@ -407,7 +407,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "172,40",
+    "fiyat": "172,50",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -4318,6 +4318,15 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050940596 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2017-04-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3240120/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Savaş ve Açlar",
+    "yazar": "Hasan İzzettin Dinamo",
+    "fiyat": "182,70",
+    "eski_fiyat": "",
+    "yayinevi": "TEKİN YAYINEVİ",
+    "kitap_hakkinda": "9789944612104 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2023-04-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700186/wi:500/wh:true"
   },
   {
     "kitap_adi": "Güneş ve Onun Çiçekleri",
