@@ -47,7 +47,7 @@
   {
     "kitap_adi": "Kızıl Karma",
     "yazar": "Jean Christophe Grange",
-    "fiyat": "231,20",
+    "fiyat": "210,20",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786256666061 | TÜRKÇE | 584 | Karton Kapak | Kitap Kağıdı 2024-02-21",
@@ -3598,6 +3598,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750805288 | TÜRKÇE | 247 | Karton Kapak | 3. Hm. Kağıt 2023-03-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:175576/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kambur",
+    "yazar": "Şule Gürbüz",
+    "fiyat": "73,15",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754703139 | TÜRKÇE | 92 | Karton Kapak | Kitap Kağıdı 2019-02-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:202444/wi:500/wh:true"
   },
   {
     "kitap_adi": "Varolmanın Dayanılmaz Hafifliği",
