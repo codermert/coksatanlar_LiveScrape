@@ -83,7 +83,7 @@
   {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
-    "fiyat": "136,50",
+    "fiyat": "128,31",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
@@ -695,7 +695,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "264,10",
+    "fiyat": "264,20",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -2635,6 +2635,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Hanşiçi Torimonoço | 9786052653142 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2024-03-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858639/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İki Dirhem Bir Çekirdek",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "86,25",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9789758950379 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2023-11-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11777921/wi:500/wh:true"
   },
   {
     "kitap_adi": "Şimdiki Çocuklar Harika",
