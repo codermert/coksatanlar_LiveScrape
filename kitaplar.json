@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "87,42",
+    "fiyat": "87,52",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Simyacı (Ciltsiz)",
     "yazar": "Paulo Coelho",
-    "fiyat": "87,42",
+    "fiyat": "87,52",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
@@ -704,7 +704,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "264,60",
+    "fiyat": "264,70",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -884,7 +884,7 @@
   {
     "kitap_adi": "Aylak Adam",
     "yazar": "Yusuf Atılgan",
-    "fiyat": "92,12",
+    "fiyat": "92,22",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750735646 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -1217,7 +1217,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "126,52",
+    "fiyat": "126,62",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -1640,7 +1640,7 @@
   {
     "kitap_adi": "Son Ayı",
     "yazar": "Hannah Gold",
-    "fiyat": "80,18",
+    "fiyat": "80,28",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050843392 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -3625,15 +3625,6 @@
     "yayinevi": "APRIL YAYINCILIK",
     "kitap_hakkinda": "9786050605600 | TÜRKÇE | 304 | Karton Kapak | 1. Hm. Kağıt 2022-01-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11653131/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Konstantiniyye Oteli",
-    "yazar": "Zülfü Livaneli",
-    "fiyat": "169,26",
-    "eski_fiyat": "",
-    "yayinevi": "İNKILAP KİTABEVİ",
-    "kitap_hakkinda": "9789751040862 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2020-05-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11218412/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dune Sapkınları",
