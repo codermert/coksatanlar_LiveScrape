@@ -20,7 +20,7 @@
   {
     "kitap_adi": "Yaşamak",
     "yazar": "Yu Hua",
-    "fiyat": "77,68",
+    "fiyat": "77,78",
     "eski_fiyat": "",
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
@@ -2259,6 +2259,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:12211/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Coşkuyla Ölmek",
+    "yazar": "Şule Gürbüz",
+    "fiyat": "109,43",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750511080 | TÜRKÇE | 191 | Karton Kapak | Kitap Kağıdı 2024-03-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11360926/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İçimizdeki Şeytan (Cep Boy) (Tam Metin)",
     "yazar": "Sabahattin Ali",
     "fiyat": "9,90",
@@ -3278,7 +3287,7 @@
   {
     "kitap_adi": "On Üç’ü Bağlamak",
     "yazar": "Chloe Walsh",
-    "fiyat": "159,50",
+    "fiyat": "217,25",
     "eski_fiyat": "",
     "yayinevi": "MARTI YAYINLARI",
     "kitap_hakkinda": "Binding 13 | 9786253661151 | TÜRKÇE | 720 | Karton Kapak | Kitap Kağıdı 2024-02-06",
