@@ -227,7 +227,7 @@
   {
     "kitap_adi": "Değersiz Bir Hayat",
     "yazar": "Hanya Yanagihara",
-    "fiyat": "232,40",
+    "fiyat": "232,50",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2024-02-29",
@@ -632,7 +632,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "97,20",
+    "fiyat": "97,30",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -1811,7 +1811,7 @@
   {
     "kitap_adi": "Sessiz Hasta",
     "yazar": "Alex Michaelides",
-    "fiyat": "110,30",
+    "fiyat": "129,25",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Silent Patient | 9786051981482 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2023-08-01",
@@ -4354,15 +4354,6 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "For Whom the Bell Tolls | 9789752201699 | TÜRKÇE | 636 | Karton Kapak | Kitap Kağıdı 2018-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7672924/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Drina Köprüsü",
-    "yazar": "İvo Andriç",
-    "fiyat": "178,88",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "Na Drini Cuprija | 9789754707823 | TÜRKÇE | 354 | Karton Kapak | Kitap Kağıdı 2023-03-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:91162/wi:500/wh:true"
   },
   {
     "kitap_adi": "Koleksiyoncu",
