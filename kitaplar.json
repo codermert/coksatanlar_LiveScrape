@@ -785,7 +785,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "267,20",
+    "fiyat": "267,30",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -3150,6 +3150,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11493348/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Karanlık Orman",
+    "yazar": "Cixin Liu",
+    "fiyat": "345,60",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9990606/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Genç Werther'in Acıları (Cep Boy) (Tam Metin)",
     "yazar": "Johann Wolfgang Goethe",
     "fiyat": "9,90",
@@ -4219,6 +4228,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "The Portrait of Dorian Gray | 9786257997454 | TÜRKÇE | 312 | Karton Kapak | Kitap Kağıdı 2019-11-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435839/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ölümün Sonu",
+    "yazar": "Cixin Liu",
+    "fiyat": "315,00",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "死神永生 | 9786257737043 | TÜRKÇE | 782 | Karton Kapak | Kitap Kağıdı 2023-02-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11672479/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ateş Yakmak",
