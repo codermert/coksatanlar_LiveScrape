@@ -63,15 +63,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11857266/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yaşamak",
-    "yazar": "Yu Hua",
-    "fiyat": "76,78",
-    "eski_fiyat": "",
-    "yayinevi": "JAGUAR KİTAP",
-    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Fareler ve İnsanlar",
     "yazar": "John Steinbeck",
     "fiyat": "65,31",
@@ -1613,7 +1604,7 @@
   {
     "kitap_adi": "Uzun Hikaye",
     "yazar": "Mustafa Kutlu",
-    "fiyat": "70,76",
+    "fiyat": "70,86",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
