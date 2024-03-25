@@ -396,6 +396,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6532396/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yarının Adamı 3 & Ya İstiklal Ya Ölüm",
+    "yazar": "Con Sinov",
+    "fiyat": "180,00",
+    "eski_fiyat": "",
+    "yayinevi": "MASA KİTAP",
+    "kitap_hakkinda": "9786259454207 | TÜRKÇE | 388 | Karton Kapak | 2. Hm. Kağıt 2024-03-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858033/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
     "fiyat": "174,10",
@@ -1613,7 +1622,7 @@
   {
     "kitap_adi": "Uzun Hikaye",
     "yazar": "Mustafa Kutlu",
-    "fiyat": "70,66",
+    "fiyat": "70,76",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953331 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2012-10-01",
