@@ -209,7 +209,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "91,12",
+    "fiyat": "91,22",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -1971,6 +1971,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11419336/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Ruh Adam",
+    "yazar": "Hüseyin Nihal Atsız",
+    "fiyat": "143,26",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9786254081613 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-08-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713962/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Hamnet",
     "yazar": "Maggie O'Farrell",
     "fiyat": "108,57",
@@ -3105,6 +3114,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196715/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Karanlık Orman",
+    "yazar": "Cixin Liu",
+    "fiyat": "345,60",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9990606/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İnsancıklar",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "47,40",
@@ -3805,6 +3823,15 @@
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980942 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2020-09-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11291174/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ölümün Sonu",
+    "yazar": "Cixin Liu",
+    "fiyat": "315,00",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "死神永生 | 9786257737043 | TÜRKÇE | 782 | Karton Kapak | Kitap Kağıdı 2023-02-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11672479/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ev",
