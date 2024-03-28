@@ -153,6 +153,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11338358/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Değersiz Bir Hayat",
+    "yazar": "Hanya Yanagihara",
+    "fiyat": "233,70",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2024-02-29",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5459930/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
     "fiyat": "97,33",
@@ -2054,7 +2063,7 @@
   {
     "kitap_adi": "Yılanı Öldürseler",
     "yazar": "Yaşar Kemal",
-    "fiyat": "49,97",
+    "fiyat": "50,07",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
