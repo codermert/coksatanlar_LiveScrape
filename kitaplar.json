@@ -2682,6 +2682,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4264898/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Karanlık Orman",
+    "yazar": "Cixin Liu",
+    "fiyat": "345,60",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9990606/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "İçimizdeki Şeytan (Cep Boy) (Tam Metin)",
     "yazar": "Sabahattin Ali",
     "fiyat": "9,90",
@@ -3589,15 +3598,6 @@
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9789752638518 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2019-10-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11735487/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "İtiraflarım",
-    "yazar": "Lev N. Tolstoy",
-    "fiyat": "31,45",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786059489133 | TÜRKÇE | 84 | Karton Kapak | Kitap Kağıdı 2017-01-26",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5971619/wi:500/wh:true"
   },
   {
     "kitap_adi": "İtiraflarım",
