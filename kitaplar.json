@@ -218,7 +218,7 @@
   {
     "kitap_adi": "Fahrenheit 451",
     "yazar": "Ray Bradbury",
-    "fiyat": "91,01",
+    "fiyat": "91,11",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786053757818 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -245,7 +245,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "85,56",
+    "fiyat": "86,08",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -326,7 +326,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "149,60",
+    "fiyat": "149,70",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -830,7 +830,7 @@
   {
     "kitap_adi": "Kürk Mantolu Madonna",
     "yazar": "Sabahattin Ali",
-    "fiyat": "18,40",
+    "fiyat": "18,50",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
@@ -1487,7 +1487,7 @@
   {
     "kitap_adi": "Canım Aliye, Ruhum Filiz",
     "yazar": "Sabahattin Ali",
-    "fiyat": "36,00",
+    "fiyat": "36,10",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826672 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -4192,15 +4192,6 @@
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051922478 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2021-10-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11592015/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Soğuk Deri",
-    "yazar": "Albert Sanchez Pinol",
-    "fiyat": "92,00",
-    "eski_fiyat": "",
-    "yayinevi": "JAGUAR KİTAP",
-    "kitap_hakkinda": "9786056840555 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2019-05-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7277196/wi:500/wh:true"
   },
   {
     "kitap_adi": "Deniz Feneri (Cep Boy) (Tam Metin)",
