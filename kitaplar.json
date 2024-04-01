@@ -108,6 +108,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8539346/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "72,20",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
     "fiyat": "117,80",
@@ -3094,15 +3103,6 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "Murten ın Three Acts | 9789752101890 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2024-03-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787015/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Koleksiyoncu",
-    "yazar": "John Fowles",
-    "fiyat": "155,25",
-    "eski_fiyat": "",
-    "yayinevi": "AYRINTI YAYINLARI",
-    "kitap_hakkinda": "The Collector | 9789755393087 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2024-02-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11850471/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kör Baykuş",
