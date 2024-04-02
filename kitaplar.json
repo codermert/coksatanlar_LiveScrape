@@ -992,7 +992,7 @@
   {
     "kitap_adi": "Gazap Üzümleri",
     "yazar": "John Steinbeck",
-    "fiyat": "203,30",
+    "fiyat": "203,40",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750531170 | TÜRKÇE | 540 | Karton Kapak | Kitap Kağıdı 2021-12-28",
@@ -4219,6 +4219,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786053757207 | TÜRKÇE | 512 | Karton Kapak | Kitap Kağıdı 2019-03-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11361174/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kudüs Yazıları",
+    "yazar": "Taha Kılınç",
+    "fiyat": "106,08",
+    "eski_fiyat": "",
+    "yayinevi": "AŞİNA",
+    "kitap_hakkinda": "9786058245396 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-12-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11812231/wi:500/wh:true"
   },
   {
     "kitap_adi": "Anton Çehov Seti (6 Kitap)",
