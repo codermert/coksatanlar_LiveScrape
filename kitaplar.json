@@ -560,7 +560,7 @@
   {
     "kitap_adi": "Suzan Defter",
     "yazar": "Ayfer Tunç",
-    "fiyat": "77,45",
+    "fiyat": "77,55",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750724220 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-05-12",
@@ -974,7 +974,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "107,62",
+    "fiyat": "107,72",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -3391,6 +3391,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751087 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2020-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332547/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Düşüş",
+    "yazar": "Albert Camus",
+    "fiyat": "74,80",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748745 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2021-05-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11419545/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kahve Soğumadan Önce",
