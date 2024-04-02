@@ -1064,7 +1064,7 @@
   {
     "kitap_adi": "Kayıp Tanrılar Ülkesi",
     "yazar": "Ahmet Ümit",
-    "fiyat": "157,70",
+    "fiyat": "157,80",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750850417 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-08-09",
@@ -1334,7 +1334,7 @@
   {
     "kitap_adi": "Okumaz Yazmaz",
     "yazar": "Agota Kristof",
-    "fiyat": "42,90",
+    "fiyat": "43,00",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750762246 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2023-11-14",
@@ -1802,7 +1802,7 @@
   {
     "kitap_adi": "Seyir",
     "yazar": "Piraye",
-    "fiyat": "175,51",
+    "fiyat": "175,61",
     "eski_fiyat": "",
     "yayinevi": "MONA KİTAP",
     "kitap_hakkinda": "9786052182734 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-01-27",
@@ -2914,6 +2914,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9786256839489 | TÜRKÇE | 168 | Karton Kapak | 3. Hm. Kağıt 2023-11-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793098/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yerdeniz Büyücüsü - Yerdeniz 1",
+    "yazar": "Ursula K. Le Guin",
+    "fiyat": "104,96",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "A Wizard of Earthsea | 9789753420570 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2023-03-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11683424/wi:500/wh:true"
   },
   {
     "kitap_adi": "Koleksiyoncu",
