@@ -731,7 +731,7 @@
   {
     "kitap_adi": "İnce Memed 4",
     "yazar": "Yaşar Kemal",
-    "fiyat": "177,37",
+    "fiyat": "177,47",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806995 | TÜRKÇE | 639 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -1163,7 +1163,7 @@
   {
     "kitap_adi": "Sırça Köşk",
     "yazar": "Sabahattin Ali",
-    "fiyat": "19,35",
+    "fiyat": "19,45",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806629 | TÜRKÇE | 141 | Karton Kapak | 3. Hm. Kağıt 2021-09-24",
@@ -2036,7 +2036,7 @@
   {
     "kitap_adi": "Uğultulu Tepeler",
     "yazar": "Emily Bronte",
-    "fiyat": "72,30",
+    "fiyat": "72,40",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738913 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2019-09-25",
@@ -3573,6 +3573,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11753516/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Şu Çılgın Türkler",
+    "yazar": "Turgut Özakman",
+    "fiyat": "241,50",
+    "eski_fiyat": "",
+    "yayinevi": "BİLGİ YAYINEVİ",
+    "kitap_hakkinda": "975220127x | TÜRKÇE | 748 | Karton Kapak | Kitap Kağıdı 2016-08-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7597684/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Aziz Bey Hadisesi",
     "yazar": "Ayfer Tunç",
     "fiyat": "60,20",
@@ -4345,6 +4354,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258076073 | TÜRKÇE | 79 | Karton Kapak | Kitap Kağıdı 2021-12-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11502134/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Öğrenci Kız",
+    "yazar": "Osamu Dazai",
+    "fiyat": "50,40",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Joseito (女生徒) | 9786258401462 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2023-08-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713735/wi:500/wh:true"
   },
   {
     "kitap_adi": "Küçük Yuvarlak Taşlar",
