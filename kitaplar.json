@@ -1145,7 +1145,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "134,92",
+    "fiyat": "135,02",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -3744,6 +3744,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11373106/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Dem Bu Demdir Saat Bu Saat / Gönül Sadası’ndan Akisler 4",
+    "yazar": "Dr. Kemal Sayar  Sadettin Ökten",
+    "fiyat": "107,10",
+    "eski_fiyat": "",
+    "yayinevi": "TURKUVAZ KİTAP",
+    "kitap_hakkinda": "9786257548519 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2022-05-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11568398/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Toz ve Hayaller Kitapçısı",
     "yazar": "Mindy Thompson",
     "fiyat": "126,00",
@@ -4030,6 +4039,15 @@
     "yayinevi": "TİMAŞ ÇOCUK YAYINLARI",
     "kitap_hakkinda": "9786050845822 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2022-10-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11812416/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Esrar-ı Havas / Sen Benimle Yoldaşlığa Tahammül Edemezsin",
+    "yazar": "İsmail  Bağırtlak",
+    "fiyat": "265,20",
+    "eski_fiyat": "",
+    "yayinevi": "DEMOS YAYINLARI",
+    "kitap_hakkinda": "9786257325264 | TÜRKÇE | 608 | Karton Kapak | Kitap Kağıdı 2022-11-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633993/wi:500/wh:true"
   },
   {
     "kitap_adi": "Galateia: Bir Öykü",
