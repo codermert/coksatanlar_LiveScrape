@@ -38,7 +38,7 @@
   {
     "kitap_adi": "Labirent & Batı ve Hasımları",
     "yazar": "Amin Maalouf",
-    "fiyat": "116,40",
+    "fiyat": "116,50",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750862427 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2024-03-11",
@@ -297,15 +297,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11875306/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Karanlık Orman",
-    "yazar": "Cixin Liu",
-    "fiyat": "345,60",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9990606/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
     "fiyat": "62,16",
@@ -344,7 +335,7 @@
   {
     "kitap_adi": "Simyacı (Ciltsiz)",
     "yazar": "Paulo Coelho",
-    "fiyat": "85,12",
+    "fiyat": "85,64",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
