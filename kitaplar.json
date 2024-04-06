@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "81,08",
+    "fiyat": "81,60",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -2689,6 +2689,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300933 | TÜRKÇE | 78 | Karton Kapak | Kitap Kağıdı 2021-02-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11364478/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Leyla’nın Evi",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "107,42",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751041883 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-06-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11430790/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yalın Tutku",
