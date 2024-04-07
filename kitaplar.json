@@ -83,7 +83,7 @@
   {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
-    "fiyat": "54,80",
+    "fiyat": "54,90",
     "eski_fiyat": "",
     "yayinevi": "POZİTİF YAYINLARI",
     "kitap_hakkinda": "9789756461075 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-06-09",
@@ -110,7 +110,7 @@
   {
     "kitap_adi": "Yaşamak",
     "yazar": "Yu Hua",
-    "fiyat": "84,38",
+    "fiyat": "68,20",
     "eski_fiyat": "",
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "116,16",
+    "fiyat": "116,68",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -254,7 +254,7 @@
   {
     "kitap_adi": "Serenad",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "109,30",
+    "fiyat": "109,40",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042668 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -4048,15 +4048,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258076462 | TÜRKÇE | 232 | Ciltli | Kitap Kağıdı 2022-07-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11592404/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Esrar-ı Havas / Sen Benimle Yoldaşlığa Tahammül Edemezsin",
-    "yazar": "İsmail  Bağırtlak",
-    "fiyat": "244,80",
-    "eski_fiyat": "",
-    "yayinevi": "DEMOS YAYINLARI",
-    "kitap_hakkinda": "9786257325264 | TÜRKÇE | 608 | Karton Kapak | Kitap Kağıdı 2022-11-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633993/wi:500/wh:true"
   },
   {
     "kitap_adi": "Köpek Adam-Toplar Kimin İçin Yuvarlanıyor",
