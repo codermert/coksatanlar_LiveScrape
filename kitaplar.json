@@ -308,7 +308,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "97,60",
+    "fiyat": "97,70",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -3076,6 +3076,15 @@
     "yayinevi": "MONOKL YAYINLARI",
     "kitap_hakkinda": "9786055159719 | TÜRKÇE | 800 | Karton Kapak | Kitap Kağıdı 2023-02-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11675838/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Soğuk Deri",
+    "yazar": "Albert Sanchez Pinol",
+    "fiyat": "104,00",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056840555 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2019-05-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7277196/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kendine Ait Bir Oda (Cep Boy) (Tam Metin)",
