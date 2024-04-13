@@ -1325,7 +1325,7 @@
   {
     "kitap_adi": "Miras",
     "yazar": "Vigdis Hjorth",
-    "fiyat": "151,23",
+    "fiyat": "151,33",
     "eski_fiyat": "",
     "yayinevi": "SİREN YAYINLARI",
     "kitap_hakkinda": "Arv og miljo | 9786055903886 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2024-03-04",
@@ -2198,7 +2198,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "167,21",
+    "fiyat": "167,31",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -2374,15 +2374,6 @@
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786256767102 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2024-04-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11877414/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Acı Kahve",
-    "yazar": "Agatha Christie",
-    "fiyat": "61,95",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Black Coffee | 9789754058789 | TÜRKÇE | 152 | Karton Kapak | 3. Hm. Kağıt 2023-02-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11676580/wi:500/wh:true"
   },
   {
     "kitap_adi": "Zorba (Ciltsiz)",
@@ -3598,6 +3589,15 @@
     "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
     "kitap_hakkinda": "9786254203466 | TÜRKÇE | 236 | Karton Kapak | Kitap Kağıdı 2022-06-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11577610/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Köpek Adam-Toplar Kimin İçin Yuvarlanıyor",
+    "yazar": "Dav Pilkey",
+    "fiyat": "125,50",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "9789752127821 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2022-12-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11634574/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ayaşlı ile Kiracıları",
