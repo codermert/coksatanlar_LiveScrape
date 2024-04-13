@@ -191,7 +191,7 @@
   {
     "kitap_adi": "Simyacı (Ciltsiz)",
     "yazar": "Paulo Coelho",
-    "fiyat": "81,64",
+    "fiyat": "82,16",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
@@ -236,7 +236,7 @@
   {
     "kitap_adi": "Serenad",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "111,00",
+    "fiyat": "111,10",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042668 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -245,7 +245,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "92,22",
+    "fiyat": "92,32",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -1442,7 +1442,7 @@
   {
     "kitap_adi": "Bir Borsa Spekülatörünün Anıları",
     "yazar": "Edvin Lefevre",
-    "fiyat": "83,90",
+    "fiyat": "84,00",
     "eski_fiyat": "",
     "yayinevi": "PANAMA YAYINCILIK",
     "kitap_hakkinda": "9786258488494 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2023-03-28",
@@ -2027,7 +2027,7 @@
   {
     "kitap_adi": "Uğultulu Tepeler",
     "yazar": "Emily Bronte",
-    "fiyat": "72,82",
+    "fiyat": "72,92",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738913 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2019-09-25",
@@ -2527,6 +2527,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300032 | TÜRKÇE | 237 | Karton Kapak | Kitap Kağıdı 2021-04-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11404521/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Düşüş",
+    "yazar": "Albert Camus",
+    "fiyat": "74,80",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748745 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2021-05-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11419545/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beyaz Gemi",
@@ -3314,7 +3323,7 @@
   {
     "kitap_adi": "Huzursuzluğun Kitabı",
     "yazar": "Fernando Pessoa",
-    "fiyat": "149,71",
+    "fiyat": "149,81",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Livro do desassossego | 9789750736865 | TÜRKÇE | 675 | Karton Kapak | Kitap Kağıdı 2021-09-21",
