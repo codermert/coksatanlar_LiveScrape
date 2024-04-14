@@ -182,7 +182,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "101,10",
+    "fiyat": "101,20",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -371,7 +371,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "181,70",
+    "fiyat": "181,80",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -407,7 +407,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "69,50",
+    "fiyat": "69,60",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -461,7 +461,7 @@
   {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
-    "fiyat": "70,32",
+    "fiyat": "70,83",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -551,7 +551,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "110,46",
+    "fiyat": "110,56",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -857,7 +857,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "92,80",
+    "fiyat": "92,90",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -956,7 +956,7 @@
   {
     "kitap_adi": "İnce Memed 4",
     "yazar": "Yaşar Kemal",
-    "fiyat": "175,90",
+    "fiyat": "176,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806995 | TÜRKÇE | 639 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -1433,7 +1433,7 @@
   {
     "kitap_adi": "Sana Gül Bahçesi Vadetmedim",
     "yazar": "Joanne Greenberg",
-    "fiyat": "149,09",
+    "fiyat": "149,19",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "I Never Promised You a Rose Garden | 9789753424080 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-05-04",
@@ -1784,7 +1784,7 @@
   {
     "kitap_adi": "Kayıp Tanrılar Ülkesi",
     "yazar": "Ahmet Ümit",
-    "fiyat": "158,90",
+    "fiyat": "159,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750850417 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-08-09",
@@ -1991,7 +1991,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "167,71",
+    "fiyat": "167,81",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -2734,15 +2734,6 @@
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "O Evangelho Segundo Jesus Cristo | 9786052982778 | TÜRKÇE | 392 | Karton Kapak | Kitap Kağıdı 2019-07-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11840899/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ah'lar Ağacı",
-    "yazar": "Didem Madak",
-    "fiyat": "61,15",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "9789753428750 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2020-09-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11501991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sonsuzluğun Sonu",
