@@ -630,15 +630,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737232/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Algernon'a Çiçekler",
-    "yazar": "Daniel Keyes",
-    "fiyat": "117,80",
-    "eski_fiyat": "",
-    "yayinevi": "KORİDOR YAYINCILIK",
-    "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1013537/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kızıl Veba",
     "yazar": "Jack London",
     "fiyat": "12,88",
@@ -1577,7 +1568,7 @@
   {
     "kitap_adi": "Uğultulu Tepeler",
     "yazar": "Emily Bronte",
-    "fiyat": "73,12",
+    "fiyat": "73,22",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738913 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2019-09-25",
@@ -1915,15 +1906,6 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999190 | TÜRKÇE | 448 | Karton Kapak | Kitap Kağıdı 2022-12-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641415/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Lohusa Şerbeti",
-    "yazar": "Ergün Kazanır",
-    "fiyat": "74,90",
-    "eski_fiyat": "",
-    "yayinevi": "SAHİ KİTAP",
-    "kitap_hakkinda": "9786057232939 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-04-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700871/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sağlıklı, Ahlaklı ve Mutlu Kız Çocuğu Yetiştirmek",
