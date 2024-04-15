@@ -110,7 +110,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "81,60",
+    "fiyat": "82,12",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -1906,6 +1906,15 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999190 | TÜRKÇE | 448 | Karton Kapak | Kitap Kağıdı 2022-12-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641415/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Lohusa Şerbeti",
+    "yazar": "Ergün Kazanır",
+    "fiyat": "74,90",
+    "eski_fiyat": "",
+    "yayinevi": "SAHİ KİTAP",
+    "kitap_hakkinda": "9786057232939 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-04-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700871/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sağlıklı, Ahlaklı ve Mutlu Kız Çocuğu Yetiştirmek",
