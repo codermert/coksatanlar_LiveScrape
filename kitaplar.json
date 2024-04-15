@@ -164,7 +164,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "101,80",
+    "fiyat": "101,90",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -344,7 +344,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "156,80",
+    "fiyat": "155,30",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -578,7 +578,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "174,40",
+    "fiyat": "174,50",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -839,7 +839,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "132,70",
+    "fiyat": "132,80",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -929,7 +929,7 @@
   {
     "kitap_adi": "1984",
     "yazar": "George Orwell",
-    "fiyat": "59,42",
+    "fiyat": "59,52",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -1037,7 +1037,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "93,40",
+    "fiyat": "93,50",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -1604,7 +1604,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "110,92",
+    "fiyat": "111,02",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -2599,15 +2599,6 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Anne Kafamda Bit Var & 12 Eylül Anıları",
-    "yazar": "Tarık Akan",
-    "fiyat": "88,91",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750735974 | TÜRKÇE | 136 | Karton Kapak | 3. Hm. Kağıt 2019-07-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11340821/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sinekli Bakkal",
