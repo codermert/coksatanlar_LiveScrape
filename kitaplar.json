@@ -164,7 +164,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "101,60",
+    "fiyat": "101,70",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -628,15 +628,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257361606 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2021-04-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11398992/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "İnsanlığımı Yitirirken",
-    "yazar": "Osamu Dazai",
-    "fiyat": "48,20",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Ningen Şikkaku (人間失格) | 9786258401479 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-12-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11650050/wi:500/wh:true"
   },
   {
     "kitap_adi": "Açlık",
