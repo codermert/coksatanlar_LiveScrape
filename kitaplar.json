@@ -2,7 +2,7 @@
   {
     "kitap_adi": "Söyleme Bilmesinler",
     "yazar": "Şermin Yaşar",
-    "fiyat": "105,14",
+    "fiyat": "104,84",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786256570597 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-12-22",
@@ -1154,7 +1154,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "105,55",
+    "fiyat": "117,80",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -2995,6 +2995,15 @@
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051924991 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2022-12-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11639001/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Lohusa Şerbeti",
+    "yazar": "Ergün Kazanır",
+    "fiyat": "74,90",
+    "eski_fiyat": "",
+    "yayinevi": "SAHİ KİTAP",
+    "kitap_hakkinda": "9786057232939 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-04-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700871/wi:500/wh:true"
   },
   {
     "kitap_adi": "Abdullah Efendi'nin Rüyaları",
