@@ -153,6 +153,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462950/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yalan Dolan",
+    "yazar": "Veronica Raimo",
+    "fiyat": "106,56",
+    "eski_fiyat": "",
+    "yayinevi": "MEDUSA YAYINLARI",
+    "kitap_hakkinda": "9786259446707 | TÜRKÇE | 167 | Karton Kapak | Kitap Kağıdı 2024-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858009/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Yeraltından Notlar",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "12,88",
@@ -452,11 +461,11 @@
   {
     "kitap_adi": "Çöl Çiçeği",
     "yazar": "Waris Dirie",
-    "fiyat": "103,13",
+    "fiyat": "113,44",
     "eski_fiyat": "",
     "yayinevi": "BİLGE KÜLTÜR SANAT",
     "kitap_hakkinda": "Desert Flower | 9789758509270 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2024-02-16",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11851785/wi:500/wh:true"
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11880003/wi:500/wh:true"
   },
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
