@@ -128,7 +128,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "102,30",
+    "fiyat": "102,40",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "93,02",
+    "fiyat": "93,12",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -308,7 +308,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "21,90",
+    "fiyat": "21,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -416,7 +416,7 @@
   {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
-    "fiyat": "71,85",
+    "fiyat": "72,36",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -2806,6 +2806,15 @@
     "yayinevi": "APRIL YAYINCILIK",
     "kitap_hakkinda": "9786259864334 | TÜRKÇE | 536 | Karton Kapak | Kitap Kağıdı 2024-02-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858887/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Anne Kafamda Bit Var & 12 Eylül Anıları",
+    "yazar": "Tarık Akan",
+    "fiyat": "88,91",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750735974 | TÜRKÇE | 136 | Karton Kapak | 3. Hm. Kağıt 2019-07-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11340821/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Deliler Evinin Yalan Yanlış Anlatılan Kısa Tarihi",
