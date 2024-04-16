@@ -153,6 +153,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462950/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yalan Dolan",
+    "yazar": "Veronica Raimo",
+    "fiyat": "106,56",
+    "eski_fiyat": "",
+    "yayinevi": "MEDUSA YAYINLARI",
+    "kitap_hakkinda": "9786259446707 | TÜRKÇE | 167 | Karton Kapak | Kitap Kağıdı 2024-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858009/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Yeraltından Notlar",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "12,88",
@@ -1235,7 +1244,7 @@
   {
     "kitap_adi": "Okumaz Yazmaz",
     "yazar": "Agota Kristof",
-    "fiyat": "44,91",
+    "fiyat": "45,01",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750762246 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2023-11-14",
