@@ -2,7 +2,7 @@
   {
     "kitap_adi": "Söyleme Bilmesinler",
     "yazar": "Şermin Yaşar",
-    "fiyat": "111,30",
+    "fiyat": "105,14",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786256570597 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-12-22",
@@ -29,7 +29,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "105,02",
+    "fiyat": "105,12",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -3562,6 +3562,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753639101 | TÜRKÇE | 444 | Karton Kapak | 3. Hm. Kağıt 2023-08-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11233932/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Limon Ağacı",
+    "yazar": "Sandy Tolan",
+    "fiyat": "164,45",
+    "eski_fiyat": "",
+    "yayinevi": "PEGASUS YAYINLARI",
+    "kitap_hakkinda": "The Lemon Tree | 9786055943516 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2016-10-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4441920/wi:500/wh:true"
   },
   {
     "kitap_adi": "İsa'ya Göre İncil",
