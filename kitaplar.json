@@ -1737,6 +1737,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11854074/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Algernon'a Çiçekler",
+    "yazar": "Daniel Keyes",
+    "fiyat": "105,55",
+    "eski_fiyat": "",
+    "yayinevi": "KORİDOR YAYINCILIK",
+    "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1013537/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kumarbaz (Cep Boy) (Tam Metin)",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "9,90",
@@ -3562,15 +3571,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750755958 | TÜRKÇE | 56 | Karton Kapak | Kitap Kağıdı 2022-01-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621389/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Hakkari’de  Bir Mevsim",
-    "yazar": "Ferit Edgü",
-    "fiyat": "112,35",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9786051857022 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2023-02-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11671815/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dokuzuncu Hariciye Koğuşu",
