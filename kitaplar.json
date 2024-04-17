@@ -1350,15 +1350,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11794408/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Cümbezin Kızı",
-    "yazar": "Ülkü Demiray",
-    "fiyat": "70,07",
-    "eski_fiyat": "",
-    "yayinevi": "BİLGE KÜLTÜR SANAT",
-    "kitap_hakkinda": "9786258274486 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-01-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11842967/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Beyaz Gemi",
     "yazar": "Cengiz Aytmatov",
     "fiyat": "50,75",
@@ -3571,6 +3562,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750755958 | TÜRKÇE | 56 | Karton Kapak | Kitap Kağıdı 2022-01-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621389/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Hakkari’de  Bir Mevsim",
+    "yazar": "Ferit Edgü",
+    "fiyat": "112,35",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9786051857022 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2023-02-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11671815/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dokuzuncu Hariciye Koğuşu",
