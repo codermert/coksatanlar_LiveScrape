@@ -1350,6 +1350,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11794408/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Cümbezin Kızı",
+    "yazar": "Ülkü Demiray",
+    "fiyat": "70,07",
+    "eski_fiyat": "",
+    "yayinevi": "BİLGE KÜLTÜR SANAT",
+    "kitap_hakkinda": "9786258274486 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-01-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11842967/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Beyaz Gemi",
     "yazar": "Cengiz Aytmatov",
     "fiyat": "50,75",
@@ -1600,15 +1609,6 @@
     "yayinevi": "HAYY KİTAP",
     "kitap_hakkinda": "9786258222890 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2024-02-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11848216/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ejderha ve Yıldız / Hepimiz Gökyüzü Olmak İstedik 2.5",
-    "yazar": "N. G. Kabal",
-    "fiyat": "275,63",
-    "eski_fiyat": "",
-    "yayinevi": "DEX KİTAP",
-    "kitap_hakkinda": "9786256932647 | TÜRKÇE | 296 | Ciltli | Kitap Kağıdı 2024-04-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11873090/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hayvan Çiftliği (Ciltsiz)",
