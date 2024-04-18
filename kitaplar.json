@@ -110,7 +110,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "80,04",
+    "fiyat": "80,56",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -353,7 +353,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "93,62",
+    "fiyat": "93,72",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -362,7 +362,7 @@
   {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
-    "fiyat": "72,87",
+    "fiyat": "73,38",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -2133,6 +2133,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11385542/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Veba",
+    "yazar": "Albert Camus",
+    "fiyat": "167,04",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748707 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2024-01-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11839060/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Lizbon'a Gece Treni",
     "yazar": "Pascal Mercier",
     "fiyat": "80,00",
@@ -2473,6 +2482,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "9786057860439 | TÜRKÇE | 204 | Karton Kapak | Kitap Kağıdı 2019-06-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435947/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Mutlu Olma Sanatı (Kısa Klasik)",
+    "yazar": "Arthur Schopenhauer",
+    "fiyat": "42,78",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750741203 | TÜRKÇE | 56 | Karton Kapak | Kitap Kağıdı 2019-10-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481518/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bu Defa Prenses Kendini Kurtarıyor",
