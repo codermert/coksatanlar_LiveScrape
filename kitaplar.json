@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Cesur Yeni Dünya",
     "yazar": "Aldous Huxley",
-    "fiyat": "104,00",
+    "fiyat": "104,10",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
@@ -200,7 +200,7 @@
   {
     "kitap_adi": "Serenad",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "112,80",
+    "fiyat": "112,90",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042668 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -4300,15 +4300,6 @@
     "yayinevi": "ELMA YAYINEVİ",
     "kitap_hakkinda": "9786257343213 | TÜRKÇE | 40 | Karton Kapak | Kuşe Kağıt 2022-02-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11521045/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Böyle Küçük Şeyler",
-    "yazar": "Claire Keegan",
-    "fiyat": "54,15",
-    "eski_fiyat": "",
-    "yayinevi": "JAGUAR KİTAP",
-    "kitap_hakkinda": "9786257027328 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2022-10-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11826479/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yol Ayrımı",
