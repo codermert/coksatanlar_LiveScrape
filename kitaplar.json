@@ -1109,7 +1109,7 @@
   {
     "kitap_adi": "Olay",
     "yazar": "Annie Ernaux",
-    "fiyat": "47,80",
+    "fiyat": "47,90",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750760587 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2023-04-11",
@@ -4381,15 +4381,6 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "Blended | 9786050831597 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-05-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11417059/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Mutlu Olma Sanatı (Kısa Klasik)",
-    "yazar": "Arthur Schopenhauer",
-    "fiyat": "42,78",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750741203 | TÜRKÇE | 56 | Karton Kapak | Kitap Kağıdı 2019-10-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481518/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kavim",
