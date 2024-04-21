@@ -1523,7 +1523,7 @@
   {
     "kitap_adi": "Son Ada’nın Çocukları",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "74,40",
+    "fiyat": "74,50",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041326 | TÜRKÇE | 164 | Karton Kapak | Kitap Kağıdı 2020-10-12",
@@ -2401,15 +2401,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751544 | TÜRKÇE | 303 | Karton Kapak | Kitap Kağıdı 2021-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345519/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Veba",
-    "yazar": "Albert Camus",
-    "fiyat": "167,04",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750748707 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2024-01-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11839060/wi:500/wh:true"
   },
   {
     "kitap_adi": "Lizbon'a Gece Treni",
