@@ -90,15 +90,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11655631/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yaşamak",
-    "yazar": "Yu Hua",
-    "fiyat": "90,05",
-    "eski_fiyat": "",
-    "yayinevi": "JAGUAR KİTAP",
-    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
     "fiyat": "55,35",
@@ -1676,7 +1667,7 @@
   {
     "kitap_adi": "Son Ada’nın Çocukları",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "74,50",
+    "fiyat": "74,60",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041326 | TÜRKÇE | 164 | Karton Kapak | Kitap Kağıdı 2020-10-12",
@@ -2581,6 +2572,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750722127 | TÜRKÇE | 492 | Karton Kapak | Kitap Kağıdı 2019-10-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487005/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Damızlık Kızın Öyküsü",
+    "yazar": "Margaret Atwood",
+    "fiyat": "168,58",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050940596 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2017-04-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3240120/wi:500/wh:true"
   },
   {
     "kitap_adi": "Franz Kafka Seti (4 Kitap)",
