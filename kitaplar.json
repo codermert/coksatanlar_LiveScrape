@@ -200,7 +200,7 @@
   {
     "kitap_adi": "Serenad",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "114,50",
+    "fiyat": "114,60",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042668 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -227,7 +227,7 @@
   {
     "kitap_adi": "İrade Terbiyesi",
     "yazar": "Dr. Ethem Bakar",
-    "fiyat": "72,56",
+    "fiyat": "73,07",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256495555 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-08-22",
@@ -623,7 +623,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "251,80",
+    "fiyat": "251,90",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -4039,15 +4039,6 @@
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9786253691875 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2024-04-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11881962/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Noelde Cinayet",
-    "yazar": "Agatha Christie",
-    "fiyat": "86,48",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "Murder for Chrıstmas | 9789754052718 | TÜRKÇE | 176 | Karton Kapak | 3. Hm. Kağıt 2023-10-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787010/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kolera Günlerinde Aşk",
