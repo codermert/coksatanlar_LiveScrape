@@ -335,7 +335,7 @@
   {
     "kitap_adi": "Sakar",
     "yazar": "Alexandre Seurat",
-    "fiyat": "99,92",
+    "fiyat": "99,74",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "La maladroite | 9786053162803 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2024-04-03",
@@ -470,7 +470,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "253,30",
+    "fiyat": "253,40",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -803,7 +803,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "70,61",
+    "fiyat": "70,71",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
@@ -857,7 +857,7 @@
   {
     "kitap_adi": "Nar Ağacı",
     "yazar": "Prof. Dr. Nazan Bekiroğlu",
-    "fiyat": "198,04",
+    "fiyat": "198,14",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786050807073 | TÜRKÇE | 536 | Karton Kapak | Kitap Kağıdı 2019-09-05",
@@ -3400,6 +3400,15 @@
     "yayinevi": "CEZVE KİTAP",
     "kitap_hakkinda": "9786256901032 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11710636/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kentukiler",
+    "yazar": "Samanta Schweblin",
+    "fiyat": "118,18",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750762055 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-10-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783396/wi:500/wh:true"
   },
   {
     "kitap_adi": "Muallim",
