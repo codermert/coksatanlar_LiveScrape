@@ -1161,6 +1161,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11341550/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yalan Dolan",
+    "yazar": "Veronica Raimo",
+    "fiyat": "106,56",
+    "eski_fiyat": "",
+    "yayinevi": "MEDUSA YAYINLARI",
+    "kitap_hakkinda": "9786259446707 | TÜRKÇE | 167 | Karton Kapak | Kitap Kağıdı 2024-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858009/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Süt ve Bal",
     "yazar": "Rupi Kaur",
     "fiyat": "130,73",
@@ -3400,15 +3409,6 @@
     "yayinevi": "CEZVE KİTAP",
     "kitap_hakkinda": "9786256901032 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11710636/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kentukiler",
-    "yazar": "Samanta Schweblin",
-    "fiyat": "118,18",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750762055 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-10-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783396/wi:500/wh:true"
   },
   {
     "kitap_adi": "Muallim",
