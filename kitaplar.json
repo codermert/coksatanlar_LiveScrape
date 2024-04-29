@@ -1046,7 +1046,7 @@
   {
     "kitap_adi": "Son Ayı",
     "yazar": "Hannah Gold",
-    "fiyat": "75,40",
+    "fiyat": "89,38",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050843392 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -2095,6 +2095,15 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786256666320 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2024-04-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11876522/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yüzük Kardeşliği Yüzüklerin Efendisi 1",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "251,80",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Fellowship of the Ring | 9789753425988 | TÜRKÇE | 520 | Karton Kapak | 3. Hm. Kağıt 2019-08-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11269315/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yılanı Öldürseler",
