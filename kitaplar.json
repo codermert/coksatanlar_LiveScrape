@@ -155,7 +155,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "129,38",
+    "fiyat": "129,48",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -164,7 +164,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "91,42",
+    "fiyat": "91,52",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -245,7 +245,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "171,20",
+    "fiyat": "171,30",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -605,7 +605,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "254,40",
+    "fiyat": "254,50",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -2502,6 +2502,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11733752/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kirpinin Zarafeti",
+    "yazar": "Muriel Barbery",
+    "fiyat": "110,00",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "9786054927821 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2020-07-29",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11518791/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sonsuzluğun Sonu",
     "yazar": "Isaac Asimov",
     "fiyat": "75,00",
@@ -2707,6 +2716,15 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9789753428750 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2020-09-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11501991/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sırça Fanus",
+    "yazar": "Sylvia Plath",
+    "fiyat": "110,00",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "The Bell Jar | 9786054764716 | TÜRKÇE | 252 | Karton Kapak | Kitap Kağıdı 2022-03-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11842336/wi:500/wh:true"
   },
   {
     "kitap_adi": "Mücella",
