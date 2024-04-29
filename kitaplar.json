@@ -893,7 +893,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "122,72",
+    "fiyat": "122,82",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -4030,15 +4030,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806612 | TÜRKÇE | 124 | Karton Kapak | 3. Hm. Kağıt 2019-05-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:61548/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kuşlar Da Gitti",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "60,09",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807213 | TÜRKÇE | 79 | Karton Kapak | Kitap Kağıdı 2019-06-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:92929/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağrıdağı Efsanesi",
