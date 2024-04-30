@@ -99,6 +99,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11861027/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "96,88",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Bin Dokuz Yüz Seksen Dört - 1984",
     "yazar": "George Orwell",
     "fiyat": "22,85",
@@ -3130,6 +3139,15 @@
     "yayinevi": "TİYO YAYINLARI",
     "kitap_hakkinda": "9786056323942 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2013-06-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:228410/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Damızlık Kızın Öyküsü",
+    "yazar": "Margaret Atwood",
+    "fiyat": "168,58",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050940596 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2017-04-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3240120/wi:500/wh:true"
   },
   {
     "kitap_adi": "Rüzgarın Şarkısını Dinle",
