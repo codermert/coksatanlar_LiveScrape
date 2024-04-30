@@ -137,7 +137,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "129,98",
+    "fiyat": "130,08",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "92,02",
+    "fiyat": "92,12",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -191,7 +191,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "123,57",
+    "fiyat": "123,67",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -218,7 +218,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "171,80",
+    "fiyat": "171,90",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -533,7 +533,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "255,00",
+    "fiyat": "255,10",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -3724,6 +3724,15 @@
     "yayinevi": "KUBBEALTI NEŞRİYAT",
     "kitap_hakkinda": "9789757663430 | TÜRKÇE | 62 | Karton Kapak | Kitap Kağıdı 2019-10-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11654267/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kuşlar Da Gitti",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "60,09",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807213 | TÜRKÇE | 79 | Karton Kapak | Kitap Kağıdı 2019-06-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:92929/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ağrıdağı Efsanesi",
