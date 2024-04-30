@@ -362,7 +362,7 @@
   {
     "kitap_adi": "Kayıp Ağaçlar Adası",
     "yazar": "Elif Şafak",
-    "fiyat": "162,94",
+    "fiyat": "162,64",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "The Island of Missing Trees | 9786256843158 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-07-21",
@@ -614,7 +614,7 @@
   {
     "kitap_adi": "İnce Memed 4",
     "yazar": "Yaşar Kemal",
-    "fiyat": "176,90",
+    "fiyat": "176,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806995 | TÜRKÇE | 639 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -4300,6 +4300,15 @@
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Hamnet | 9786051982304 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-05-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11572005/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Böyle Küçük Şeyler",
+    "yazar": "Claire Keegan",
+    "fiyat": "55,25",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786257027328 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2022-10-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11826479/wi:500/wh:true"
   },
   {
     "kitap_adi": "Uzak Bir Masal",
