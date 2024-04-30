@@ -524,7 +524,7 @@
   {
     "kitap_adi": "Çavdar Tarlasında Çocuklar",
     "yazar": "J. D. Salinger",
-    "fiyat": "50,75",
+    "fiyat": "50,45",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
@@ -853,15 +853,6 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999749 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-03-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11679334/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Algernon'a Çiçekler",
-    "yazar": "Daniel Keyes",
-    "fiyat": "117,80",
-    "eski_fiyat": "",
-    "yayinevi": "KORİDOR YAYINCILIK",
-    "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1013537/wi:500/wh:true"
   },
   {
     "kitap_adi": "Değersiz Bir Hayat",
