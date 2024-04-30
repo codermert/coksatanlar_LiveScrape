@@ -254,7 +254,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "109,62",
+    "fiyat": "109,72",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -569,7 +569,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "70,41",
+    "fiyat": "66,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
@@ -3571,6 +3571,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "9786257357999 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-06-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11427968/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Veba",
+    "yazar": "Albert Camus",
+    "fiyat": "163,40",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748707 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2024-01-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11839060/wi:500/wh:true"
   },
   {
     "kitap_adi": "A’mak-ı Hayal",
