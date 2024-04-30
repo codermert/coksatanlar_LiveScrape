@@ -965,7 +965,7 @@
   {
     "kitap_adi": "Nar Ağacı",
     "yazar": "Prof. Dr. Nazan Bekiroğlu",
-    "fiyat": "198,34",
+    "fiyat": "198,44",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786050807073 | TÜRKÇE | 536 | Karton Kapak | Kitap Kağıdı 2019-09-05",
@@ -1577,7 +1577,7 @@
   {
     "kitap_adi": "Palyatif Toplum & Günümüzde Acı",
     "yazar": "Byung-Chul Han",
-    "fiyat": "62,48",
+    "fiyat": "62,58",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Palliativgesellschaft | 9786053162599 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-01-22",
@@ -3310,15 +3310,6 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256495500 | TÜRKÇE | 392 | Karton Kapak | Kitap Kağıdı 2023-08-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11810503/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ortadan Kaybolan Fil",
-    "yazar": "Haruki Murakami",
-    "fiyat": "175,00",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "The Elephant Vanishes (Zō no Shōmetsu) | 9786256570528 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2023-11-30",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11803611/wi:500/wh:true"
   },
   {
     "kitap_adi": "Otelde Bulunmuş Kitap & Murathan Mungan’ın Seçtikleriyle",
