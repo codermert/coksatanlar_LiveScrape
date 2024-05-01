@@ -38,7 +38,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "107,72",
+    "fiyat": "107,82",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "130,78",
+    "fiyat": "130,88",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -191,7 +191,7 @@
   {
     "kitap_adi": "Simyacı (Ciltsiz)",
     "yazar": "Paulo Coelho",
-    "fiyat": "82,58",
+    "fiyat": "83,10",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
@@ -218,7 +218,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "172,60",
+    "fiyat": "172,70",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -290,7 +290,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "133,90",
+    "fiyat": "134,00",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -326,7 +326,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "109,92",
+    "fiyat": "110,02",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -353,7 +353,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "22,10",
+    "fiyat": "22,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -425,7 +425,7 @@
   {
     "kitap_adi": "Ölüm Bir Varmış Bir Yokmuş",
     "yazar": "Jose Saramago",
-    "fiyat": "126,80",
+    "fiyat": "126,90",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786052982617 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-06-17",
@@ -443,7 +443,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "24,30",
+    "fiyat": "24,40",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -461,7 +461,7 @@
   {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
-    "fiyat": "79,59",
+    "fiyat": "80,11",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -488,7 +488,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "72,90",
+    "fiyat": "73,00",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -614,7 +614,7 @@
   {
     "kitap_adi": "Tatar Çölü",
     "yazar": "Dino Buzzati",
-    "fiyat": "140,50",
+    "fiyat": "140,60",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754701258 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-08-03",
@@ -713,7 +713,7 @@
   {
     "kitap_adi": "Kardeşimin Hikayesi",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "97,00",
+    "fiyat": "97,10",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
@@ -884,7 +884,7 @@
   {
     "kitap_adi": "Sular Üstünde Gökler Altında",
     "yazar": "Kaan Murat Yanık",
-    "fiyat": "84,47",
+    "fiyat": "84,57",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999749 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-03-07",
@@ -956,7 +956,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "91,20",
+    "fiyat": "90,90",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -992,7 +992,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "123,72",
+    "fiyat": "123,82",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -1028,7 +1028,7 @@
   {
     "kitap_adi": "İşin Aslı, Judit ve Sonrası",
     "yazar": "Sandor Marai",
-    "fiyat": "135,08",
+    "fiyat": "135,18",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846304 | TÜRKÇE | 308 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -1091,7 +1091,7 @@
   {
     "kitap_adi": "Hain",
     "yazar": "Dr. Selim Erdoğan",
-    "fiyat": "83,27",
+    "fiyat": "83,37",
     "eski_fiyat": "",
     "yayinevi": "KRONİK KİTAP",
     "kitap_hakkinda": "9786256989962 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-10-16",
@@ -1154,7 +1154,7 @@
   {
     "kitap_adi": "Göçüp Gidenler Koleksiyoncusu",
     "yazar": "Şermin Yaşar",
-    "fiyat": "90,52",
+    "fiyat": "90,62",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050955453 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2018-12-27",
@@ -1172,7 +1172,7 @@
   {
     "kitap_adi": "Gazap Üzümleri",
     "yazar": "John Steinbeck",
-    "fiyat": "210,49",
+    "fiyat": "210,59",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750531170 | TÜRKÇE | 540 | Karton Kapak | Kitap Kağıdı 2021-12-28",
@@ -1208,7 +1208,7 @@
   {
     "kitap_adi": "Sana Gül Bahçesi Vadetmedim",
     "yazar": "Joanne Greenberg",
-    "fiyat": "169,12",
+    "fiyat": "169,22",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "I Never Promised You a Rose Garden | 9789753424080 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-05-04",
@@ -1262,7 +1262,7 @@
   {
     "kitap_adi": "Sıfır Noktasındaki Kadın",
     "yazar": "Neval el-Saadavi",
-    "fiyat": "88,78",
+    "fiyat": "88,88",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Woman at Point Zero | 9789753421959 | TÜRKÇE | 112 | Karton Kapak | 3. Hm. Kağıt 2023-05-09",
@@ -1289,7 +1289,7 @@
   {
     "kitap_adi": "Canım Aliye, Ruhum Filiz",
     "yazar": "Sabahattin Ali",
-    "fiyat": "36,35",
+    "fiyat": "36,45",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826672 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -1298,7 +1298,7 @@
   {
     "kitap_adi": "Oh Ne Ala Memleket",
     "yazar": "Şermin Yaşar",
-    "fiyat": "159,29",
+    "fiyat": "159,39",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN EGMONT ÇOCUK KİTAPLARI",
     "kitap_hakkinda": "9786050980325 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2020-07-22",
@@ -1451,7 +1451,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "51,25",
+    "fiyat": "51,35",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -1469,7 +1469,7 @@
   {
     "kitap_adi": "Tehlikeli Oyunlar / Bütün Eserleri 2",
     "yazar": "Oğuz Atay",
-    "fiyat": "192,39",
+    "fiyat": "192,49",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
@@ -1514,7 +1514,7 @@
   {
     "kitap_adi": "Muhtelif Evhamlar Kitabı",
     "yazar": "Ömür İklim Demir",
-    "fiyat": "38,15",
+    "fiyat": "38,25",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750833533 | TÜRKÇE | 108 | Karton Kapak | Kitap Kağıdı 2022-03-01",
@@ -1631,7 +1631,7 @@
   {
     "kitap_adi": "Bülbül",
     "yazar": "Kristin Hannah",
-    "fiyat": "181,25",
+    "fiyat": "181,35",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "The Nightingale | 9786053438373 | TÜRKÇE | 544 | Karton Kapak | Kitap Kağıdı 2017-02-03",
@@ -1640,7 +1640,7 @@
   {
     "kitap_adi": "Dokunmadan",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "102,45",
+    "fiyat": "102,55",
     "eski_fiyat": "",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920429 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2022-11-15",
@@ -1748,7 +1748,7 @@
   {
     "kitap_adi": "Sırça Köşk",
     "yazar": "Sabahattin Ali",
-    "fiyat": "21,20",
+    "fiyat": "21,30",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806629 | TÜRKÇE | 141 | Karton Kapak | 3. Hm. Kağıt 2021-09-24",
@@ -1802,7 +1802,7 @@
   {
     "kitap_adi": "Mülksüzler",
     "yazar": "Ursula K. Le Guin",
-    "fiyat": "151,51",
+    "fiyat": "151,61",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
@@ -2423,7 +2423,7 @@
   {
     "kitap_adi": "Sınırsız Ülke",
     "yazar": "Patricia Engel",
-    "fiyat": "111,00",
+    "fiyat": "111,10",
     "eski_fiyat": "",
     "yayinevi": "HOLDEN KİTAP",
     "kitap_hakkinda": "Infinite Country | 9786259993027 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2024-02-09",
