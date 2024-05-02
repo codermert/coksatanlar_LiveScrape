@@ -470,7 +470,7 @@
   {
     "kitap_adi": "Çavdar Tarlasında Çocuklar",
     "yazar": "J. D. Salinger",
-    "fiyat": "50,55",
+    "fiyat": "50,65",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
@@ -1433,7 +1433,7 @@
   {
     "kitap_adi": "Toprak Ana",
     "yazar": "Cengiz Aytmatov",
-    "fiyat": "40,95",
+    "fiyat": "41,05",
     "eski_fiyat": "",
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
@@ -1793,7 +1793,7 @@
   {
     "kitap_adi": "Gazap Üzümleri",
     "yazar": "John Steinbeck",
-    "fiyat": "210,59",
+    "fiyat": "210,69",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750531170 | TÜRKÇE | 540 | Karton Kapak | Kitap Kağıdı 2021-12-28",
@@ -3796,6 +3796,15 @@
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259872858 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2024-03-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11860647/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gül Yetiştiren Adam",
+    "yazar": "Rasim Özdenören",
+    "fiyat": "92,40",
+    "eski_fiyat": "",
+    "yayinevi": "İZ YAYINCILIK",
+    "kitap_hakkinda": "9789753551663 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-05-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708603/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kör Baykuş",
