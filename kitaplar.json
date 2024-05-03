@@ -200,7 +200,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "131,78",
+    "fiyat": "131,88",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -227,7 +227,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "173,60",
+    "fiyat": "173,70",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -236,7 +236,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "149,55",
+    "fiyat": "149,65",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -245,7 +245,7 @@
   {
     "kitap_adi": "Simyacı (Ciltsiz)",
     "yazar": "Paulo Coelho",
-    "fiyat": "87,12",
+    "fiyat": "87,22",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
@@ -380,7 +380,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "110,52",
+    "fiyat": "110,62",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -461,7 +461,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "24,10",
+    "fiyat": "24,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -479,7 +479,7 @@
   {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
-    "fiyat": "80,63",
+    "fiyat": "101,50",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -497,7 +497,7 @@
   {
     "kitap_adi": "Kuru Kız",
     "yazar": "Ayfer Tunç",
-    "fiyat": "86,72",
+    "fiyat": "86,82",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750760099 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2023-04-05",
@@ -524,7 +524,7 @@
   {
     "kitap_adi": "Ağustosta Görüşürüz",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "74,70",
+    "fiyat": "74,80",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750763137 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2024-03-05",
@@ -605,7 +605,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "24,70",
+    "fiyat": "24,80",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -711,18 +711,9 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:106052/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Eşekli Kütüphaneci",
-    "yazar": "Fakir Baykurt",
-    "fiyat": "96,30",
-    "eski_fiyat": "",
-    "yayinevi": "LİTERATÜR YAYINLARI",
-    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2024-03-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Yabancı",
     "yazar": "Albert Camus",
-    "fiyat": "65,71",
+    "fiyat": "65,81",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750748677 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2021-04-09",
@@ -776,7 +767,7 @@
   {
     "kitap_adi": "Martı Jonathan Livingston",
     "yazar": "Richard Bach",
-    "fiyat": "88,33",
+    "fiyat": "88,42",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "Jonathan Livingston Seagull | 9789944829670 | TÜRKÇE | 152 | Karton Kapak | 1. Hm. Kağıt 2015-01-01",
@@ -929,7 +920,7 @@
   {
     "kitap_adi": "Kürk Mantolu Madonna",
     "yazar": "Sabahattin Ali",
-    "fiyat": "17,90",
+    "fiyat": "18,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
@@ -947,7 +938,7 @@
   {
     "kitap_adi": "Kardeşimin Hikayesi",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "97,50",
+    "fiyat": "97,60",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
@@ -965,7 +956,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "278,30",
+    "fiyat": "278,40",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -1001,7 +992,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "124,72",
+    "fiyat": "124,82",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -1046,7 +1037,7 @@
   {
     "kitap_adi": "Sular Üstünde Gökler Altında",
     "yazar": "Kaan Murat Yanık",
-    "fiyat": "84,67",
+    "fiyat": "84,77",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999749 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-03-07",
@@ -1064,7 +1055,7 @@
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
-    "fiyat": "72,71",
+    "fiyat": "72,81",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -1082,7 +1073,7 @@
   {
     "kitap_adi": "Nar Ağacı",
     "yazar": "Prof. Dr. Nazan Bekiroğlu",
-    "fiyat": "198,64",
+    "fiyat": "198,74",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786050807073 | TÜRKÇE | 536 | Karton Kapak | Kitap Kağıdı 2019-09-05",
@@ -1109,7 +1100,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "100,90",
+    "fiyat": "101,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -1172,7 +1163,7 @@
   {
     "kitap_adi": "Hain",
     "yazar": "Dr. Selim Erdoğan",
-    "fiyat": "83,47",
+    "fiyat": "83,57",
     "eski_fiyat": "",
     "yayinevi": "KRONİK KİTAP",
     "kitap_hakkinda": "9786256989962 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-10-16",
@@ -1280,7 +1271,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "110,92",
+    "fiyat": "111,02",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -1307,7 +1298,7 @@
   {
     "kitap_adi": "Kapak Kızı",
     "yazar": "Ayfer Tunç",
-    "fiyat": "117,20",
+    "fiyat": "141,38",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750747045 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2021-09-27",
@@ -1361,7 +1352,7 @@
   {
     "kitap_adi": "İşin Aslı, Judit ve Sonrası",
     "yazar": "Sandor Marai",
-    "fiyat": "135,48",
+    "fiyat": "135,58",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846304 | TÜRKÇE | 308 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -1496,7 +1487,7 @@
   {
     "kitap_adi": "Göçüp Gidenler Koleksiyoncusu",
     "yazar": "Şermin Yaşar",
-    "fiyat": "89,85",
+    "fiyat": "110,25",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050955453 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2018-12-27",
@@ -1595,7 +1586,7 @@
   {
     "kitap_adi": "Köpek Adam 3 / İki Kediciğin Hikayesi",
     "yazar": "Dav Pilkey",
-    "fiyat": "145,30",
+    "fiyat": "145,40",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "9789752125735 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2020-09-15",
@@ -1649,7 +1640,7 @@
   {
     "kitap_adi": "Huzursuzluk",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "81,54",
+    "fiyat": "81,64",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042675 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -1658,7 +1649,7 @@
   {
     "kitap_adi": "Bir Borsa Spekülatörünün Anıları",
     "yazar": "Edvin Lefevre",
-    "fiyat": "84,68",
+    "fiyat": "84,78",
     "eski_fiyat": "",
     "yayinevi": "PANAMA YAYINCILIK",
     "kitap_hakkinda": "9786258488494 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2023-03-28",
@@ -2153,7 +2144,7 @@
   {
     "kitap_adi": "Bülbül",
     "yazar": "Kristin Hannah",
-    "fiyat": "181,65",
+    "fiyat": "181,75",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "The Nightingale | 9786053438373 | TÜRKÇE | 544 | Karton Kapak | Kitap Kağıdı 2017-02-03",
@@ -2306,7 +2297,7 @@
   {
     "kitap_adi": "Osman",
     "yazar": "Ayfer Tunç",
-    "fiyat": "171,20",
+    "fiyat": "206,63",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
@@ -2684,7 +2675,7 @@
   {
     "kitap_adi": "Beyaz Gemi",
     "yazar": "Cengiz Aytmatov",
-    "fiyat": "42,63",
+    "fiyat": "42,73",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786257303880 | TÜRKÇE | 180 | Karton Kapak | Kitap Kağıdı 2021-06-02",
