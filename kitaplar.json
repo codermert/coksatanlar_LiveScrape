@@ -254,7 +254,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "174,10",
+    "fiyat": "174,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -965,7 +965,7 @@
   {
     "kitap_adi": "Kardeşimin Hikayesi",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "97,70",
+    "fiyat": "97,80",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
@@ -1852,6 +1852,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439037/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Küçük Ağaç'ın Eğitimi",
+    "yazar": "Forrest Carter",
+    "fiyat": "128,77",
+    "eski_fiyat": "",
+    "yayinevi": "SAY YAYINLARI",
+    "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
   },
   {
     "kitap_adi": "Uzun Hikaye",
