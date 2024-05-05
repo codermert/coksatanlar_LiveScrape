@@ -209,7 +209,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "133,18",
+    "fiyat": "133,28",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -2725,15 +2725,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Gör Beni",
-    "yazar": "Akilah Azra Kohen",
-    "fiyat": "236,25",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9786051853635 | TÜRKÇE | 592 | Karton Kapak | Kitap Kağıdı 2023-08-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755899/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsancıklar (Cep Boy) (Tam Metin)",
