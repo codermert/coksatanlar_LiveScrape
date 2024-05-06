@@ -81,6 +81,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11655631/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "96,10",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
     "fiyat": "143,52",
@@ -587,7 +596,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "25,30",
+    "fiyat": "25,40",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -596,7 +605,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "112,29",
+    "fiyat": "112,39",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -992,7 +1001,7 @@
   {
     "kitap_adi": "Ölüm Bir Varmış Bir Yokmuş",
     "yazar": "Jose Saramago",
-    "fiyat": "127,80",
+    "fiyat": "127,90",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786052982617 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-06-17",
@@ -1352,7 +1361,7 @@
   {
     "kitap_adi": "İşin Aslı, Judit ve Sonrası",
     "yazar": "Sandor Marai",
-    "fiyat": "136,08",
+    "fiyat": "136,18",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846304 | TÜRKÇE | 308 | Karton Kapak | Kitap Kağıdı 2023-09-19",
