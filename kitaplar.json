@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Kaplanın Sırtında",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "95,06",
+    "fiyat": "89,12",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751044600 | TÜRKÇE | 324 | Karton Kapak | Kitap Kağıdı 2023-01-09",
@@ -398,7 +398,7 @@
   {
     "kitap_adi": "Baumgartner",
     "yazar": "Paul Auster",
-    "fiyat": "113,10",
+    "fiyat": "93,80",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750762598 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2024-03-21",
@@ -3085,6 +3085,15 @@
     "yayinevi": "MONOKL YAYINLARI",
     "kitap_hakkinda": "The End of Eternity | 9786055159344 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2020-11-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11304604/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gör Beni",
+    "yazar": "Akilah Azra Kohen",
+    "fiyat": "236,25",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9786051853635 | TÜRKÇE | 592 | Karton Kapak | Kitap Kağıdı 2023-08-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755899/wi:500/wh:true"
   },
   {
     "kitap_adi": "İçimizdeki Şeytan (Cep Boy) (Tam Metin)",
