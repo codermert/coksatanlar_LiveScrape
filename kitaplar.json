@@ -65,7 +65,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "108,92",
+    "fiyat": "109,02",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Labirent & Batı ve Hasımları",
     "yazar": "Amin Maalouf",
-    "fiyat": "108,35",
+    "fiyat": "108,45",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750862427 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2024-03-11",
@@ -524,7 +524,7 @@
   {
     "kitap_adi": "İnce Memed 2",
     "yazar": "Yaşar Kemal",
-    "fiyat": "196,55",
+    "fiyat": "196,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807176 | TÜRKÇE | 459 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -1046,7 +1046,7 @@
   {
     "kitap_adi": "Ölüm Bir Varmış Bir Yokmuş",
     "yazar": "Jose Saramago",
-    "fiyat": "128,00",
+    "fiyat": "128,10",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786052982617 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-06-17",
@@ -2799,6 +2799,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97154/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sırça Fanus",
+    "yazar": "Sylvia Plath",
+    "fiyat": "115,50",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "The Bell Jar | 9786054764716 | TÜRKÇE | 252 | Karton Kapak | Kitap Kağıdı 2022-03-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11842336/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Benim Gibi Makineler",
     "yazar": "Ian McEwan",
     "fiyat": "110,00",
@@ -3310,6 +3319,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806605 | TÜRKÇE | 137 | Karton Kapak | Kitap Kağıdı 2019-10-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:56776/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Şu Çılgın Türkler",
+    "yazar": "Turgut Özakman",
+    "fiyat": "238,64",
+    "eski_fiyat": "",
+    "yayinevi": "BİLGİ YAYINEVİ",
+    "kitap_hakkinda": "975220127x | TÜRKÇE | 748 | Karton Kapak | Kitap Kağıdı 2016-08-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7597684/wi:500/wh:true"
   },
   {
     "kitap_adi": "Karısını Şapka Sanan Adam",
