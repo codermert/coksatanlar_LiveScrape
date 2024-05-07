@@ -740,7 +740,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "112,12",
+    "fiyat": "112,22",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -2815,15 +2815,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97154/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Sırça Fanus",
-    "yazar": "Sylvia Plath",
-    "fiyat": "115,50",
-    "eski_fiyat": "",
-    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
-    "kitap_hakkinda": "The Bell Jar | 9786054764716 | TÜRKÇE | 252 | Karton Kapak | Kitap Kağıdı 2022-03-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11842336/wi:500/wh:true"
   },
   {
     "kitap_adi": "Benim Gibi Makineler",
