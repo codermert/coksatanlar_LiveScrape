@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Yaşamak",
     "yazar": "Yu Hua",
-    "fiyat": "96,10",
+    "fiyat": "95,55",
     "eski_fiyat": "",
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
@@ -4309,6 +4309,15 @@
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054188710 | TÜRKÇE | 480 | Karton Kapak | Kitap Kağıdı 2011-04-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:38806/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kambur",
+    "yazar": "Şule Gürbüz",
+    "fiyat": "74,70",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754703139 | TÜRKÇE | 92 | Karton Kapak | Kitap Kağıdı 2019-02-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:202444/wi:500/wh:true"
   },
   {
     "kitap_adi": "Cemile",
