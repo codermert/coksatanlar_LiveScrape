@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Labirent & Batı ve Hasımları",
     "yazar": "Amin Maalouf",
-    "fiyat": "108,55",
+    "fiyat": "108,65",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750862427 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2024-03-11",
@@ -308,7 +308,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "152,35",
+    "fiyat": "152,45",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -326,7 +326,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "125,17",
+    "fiyat": "125,27",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -389,7 +389,7 @@
   {
     "kitap_adi": "İrade Terbiyesi",
     "yazar": "Dr. Ethem Bakar",
-    "fiyat": "77,52",
+    "fiyat": "77,62",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256495555 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-08-22",
@@ -524,7 +524,7 @@
   {
     "kitap_adi": "Çavdar Tarlasında Çocuklar",
     "yazar": "J. D. Salinger",
-    "fiyat": "51,75",
+    "fiyat": "51,85",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
@@ -668,7 +668,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "74,20",
+    "fiyat": "74,30",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -3607,6 +3607,15 @@
     "yayinevi": "BÜYÜK DOĞU YAYINLARI",
     "kitap_hakkinda": "9789758180127 | TÜRKÇE | 512 | Karton Kapak | Kitap Kağıdı 2013-05-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3103020/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yüzüklerin Efendisi (Tek Cilt)",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "559,60",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Lord of The Rings | 9789753423472 | TÜRKÇE | 1026 | Ciltli | Kitap Kağıdı 2024-03-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11718457/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bozkırkurdu",
