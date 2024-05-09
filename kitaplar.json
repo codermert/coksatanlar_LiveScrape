@@ -749,7 +749,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "91,60",
+    "fiyat": "91,70",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -947,7 +947,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "128,12",
+    "fiyat": "128,22",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -1379,7 +1379,7 @@
   {
     "kitap_adi": "Doğunun Limanları",
     "yazar": "Amin Maalouf",
-    "fiyat": "82,05",
+    "fiyat": "82,15",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750809774 | TÜRKÇE | 183 | Karton Kapak | 3. Hm. Kağıt 2019-12-04",
@@ -2563,15 +2563,6 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "9786057860439 | TÜRKÇE | 204 | Karton Kapak | Kitap Kağıdı 2019-06-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435947/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Benim Gibi Makineler",
-    "yazar": "Ian McEwan",
-    "fiyat": "110,00",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750846175 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-01-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10253508/wi:500/wh:true"
   },
   {
     "kitap_adi": "Malamander",
