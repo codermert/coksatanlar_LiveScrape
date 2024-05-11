@@ -1685,7 +1685,7 @@
   {
     "kitap_adi": "Kayıp Tanrılar Ülkesi",
     "yazar": "Ahmet Ümit",
-    "fiyat": "159,68",
+    "fiyat": "159,78",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750850417 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-08-09",
@@ -2135,7 +2135,7 @@
   {
     "kitap_adi": "Köpek Adam 3 / İki Kediciğin Hikayesi",
     "yazar": "Dav Pilkey",
-    "fiyat": "146,90",
+    "fiyat": "147,00",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "9789752125735 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2020-09-15",
@@ -3103,15 +3103,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751636 | TÜRKÇE | 166 | Karton Kapak | Kitap Kağıdı 2021-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345524/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bir Kedi, Bir Adam, Bir Ölüm",
-    "yazar": "Zülfü Livaneli",
-    "fiyat": "98,95",
-    "eski_fiyat": "",
-    "yayinevi": "İNKILAP KİTABEVİ",
-    "kitap_hakkinda": "9789751041708 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-03-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11385542/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gazap Üzümleri",
