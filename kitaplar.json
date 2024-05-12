@@ -164,7 +164,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "136,68",
+    "fiyat": "136,78",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -398,7 +398,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "154,65",
+    "fiyat": "154,75",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -506,7 +506,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "93,40",
+    "fiyat": "93,50",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -920,7 +920,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "273,70",
+    "fiyat": "273,80",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -1451,7 +1451,7 @@
   {
     "kitap_adi": "Sular Üstünde Gökler Altında",
     "yazar": "Kaan Murat Yanık",
-    "fiyat": "85,57",
+    "fiyat": "85,67",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999749 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-03-07",
@@ -4210,15 +4210,6 @@
     "yayinevi": "MASA KİTAP",
     "kitap_hakkinda": "9786057301802 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2022-10-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11616427/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "İşte Böyle Oldu",
-    "yazar": "Natalia Ginzburg",
-    "fiyat": "56,64",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750758966 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2022-11-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11622196/wi:500/wh:true"
   },
   {
     "kitap_adi": "Galateia: Bir Öykü",
