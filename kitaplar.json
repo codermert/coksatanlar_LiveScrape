@@ -54,6 +54,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11875304/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "94,75",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kaplanın Sırtında",
     "yazar": "Zülfü Livaneli",
     "fiyat": "89,12",
@@ -1555,15 +1564,6 @@
     "yayinevi": "BİLGE KÜLTÜR SANAT",
     "kitap_hakkinda": "Desert Flower | 9789758509270 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2024-02-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11880003/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Sırça Fanus",
-    "yazar": "Sylvia Plath",
-    "fiyat": "115,50",
-    "eski_fiyat": "",
-    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
-    "kitap_hakkinda": "The Bell Jar | 9786054764716 | TÜRKÇE | 252 | Karton Kapak | Kitap Kağıdı 2022-03-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11842336/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kumarbaz (Cep Boy) (Tam Metin)",
