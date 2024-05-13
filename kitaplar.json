@@ -614,7 +614,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "113,42",
+    "fiyat": "113,52",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -3654,15 +3654,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11597124/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Derin Uzay",
-    "yazar": "Govert Schilling",
-    "fiyat": "116,25",
-    "eski_fiyat": "",
-    "yayinevi": "TÜBİTAK YAYINLARI",
-    "kitap_hakkinda": "9786053124900 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2023-06-22",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11735962/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Âsa / Bir Emir Sultan Romanı",
     "yazar": "Fatih Duman",
     "fiyat": "150,00",
@@ -3733,6 +3724,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789755101613 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2019-07-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784603/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Satranç (Ciltsiz)",
+    "yazar": "Stefan Zweig",
+    "fiyat": "36,25",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750725708 | TÜRKÇE | 71 | Karton Kapak | 3. Hm. Kağıt 2019-09-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11468326/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ölümcül Kimlikler",
