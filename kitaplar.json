@@ -1109,7 +1109,7 @@
   {
     "kitap_adi": "Huzursuzluk",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "82,54",
+    "fiyat": "82,64",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042675 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -1145,7 +1145,7 @@
   {
     "kitap_adi": "Uçurtma Avcısı",
     "yazar": "Khaled Hosseini",
-    "fiyat": "173,45",
+    "fiyat": "173,55",
     "eski_fiyat": "",
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9789752891456 | TÜRKÇE | 375 | Karton Kapak | Kitap Kağıdı 2023-05-22",
@@ -1451,7 +1451,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "53,65",
+    "fiyat": "53,75",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -2365,15 +2365,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750735646 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2019-08-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11438831/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Göçüp Gidenler Koleksiyoncusu",
-    "yazar": "Şermin Yaşar",
-    "fiyat": "91,05",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786050955453 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2018-12-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7129911/wi:500/wh:true"
   },
   {
     "kitap_adi": "Köpek Adam 3 / İki Kediciğin Hikayesi",
