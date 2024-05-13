@@ -47,7 +47,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "110,12",
+    "fiyat": "110,22",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -209,7 +209,7 @@
   {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
-    "fiyat": "137,28",
+    "fiyat": "137,38",
     "eski_fiyat": "",
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
@@ -425,7 +425,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "155,25",
+    "fiyat": "155,35",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -560,7 +560,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "102,90",
+    "fiyat": "103,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -3895,15 +3895,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300032 | TÜRKÇE | 237 | Karton Kapak | Kitap Kağıdı 2021-04-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11404521/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Veba",
-    "yazar": "Albert Camus",
-    "fiyat": "163,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750748707 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2024-01-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11839060/wi:500/wh:true"
   },
   {
     "kitap_adi": "Lizbon'a Gece Treni",
