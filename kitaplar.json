@@ -1217,7 +1217,7 @@
   {
     "kitap_adi": "Değersiz Bir Hayat",
     "yazar": "Hanya Yanagihara",
-    "fiyat": "289,50",
+    "fiyat": "289,20",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2024-02-29",
@@ -4201,15 +4201,6 @@
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786050834611 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2021-02-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11616154/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Engereğin Gözü",
-    "yazar": "Zülfü Livaneli",
-    "fiyat": "102,60",
-    "eski_fiyat": "",
-    "yayinevi": "İNKILAP KİTABEVİ",
-    "kitap_hakkinda": "9789751041548 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-01-04",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11337465/wi:500/wh:true"
   },
   {
     "kitap_adi": "Görünmez Adam",
