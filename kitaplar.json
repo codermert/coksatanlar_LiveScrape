@@ -209,7 +209,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "126,47",
+    "fiyat": "126,57",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -443,7 +443,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "113,72",
+    "fiyat": "113,82",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -2590,6 +2590,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754701586 | TÜRKÇE | 202 | Karton Kapak | 3. Hm. Kağıt 2022-01-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11451946/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yüzüklerin Efendisi (Tek Cilt)",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "556,80",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Lord of The Rings | 9789753423472 | TÜRKÇE | 1026 | Ciltli | Kitap Kağıdı 2024-03-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11718457/wi:500/wh:true"
   },
   {
     "kitap_adi": "İncir Kuşları",
