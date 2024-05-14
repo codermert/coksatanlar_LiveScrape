@@ -686,7 +686,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "94,40",
+    "fiyat": "94,50",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -983,7 +983,7 @@
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
-    "fiyat": "74,81",
+    "fiyat": "74,91",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -1298,7 +1298,7 @@
   {
     "kitap_adi": "İşin Aslı, Judit ve Sonrası",
     "yazar": "Sandor Marai",
-    "fiyat": "137,48",
+    "fiyat": "137,58",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750846304 | TÜRKÇE | 308 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -4381,6 +4381,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750835292 | TÜRKÇE | 124 | Karton Kapak | Kitap Kağıdı 2019-05-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1135299/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Cam Kent / New York Üçlemesi 1",
+    "yazar": "Paul Auster",
+    "fiyat": "112,38",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750734656 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2019-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11469503/wi:500/wh:true"
   },
   {
     "kitap_adi": "Genç Werther'in Acıları (Cep Boy) (Tam Metin)",
