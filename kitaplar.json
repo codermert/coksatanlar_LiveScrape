@@ -4160,7 +4160,7 @@
   {
     "kitap_adi": "Butimar",
     "yazar": "Kaan Murat Yanık",
-    "fiyat": "99,30",
+    "fiyat": "134,55",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786258159462 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2022-09-02",
@@ -4345,6 +4345,15 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kambur",
+    "yazar": "Şule Gürbüz",
+    "fiyat": "73,90",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754703139 | TÜRKÇE | 92 | Karton Kapak | Kitap Kağıdı 2019-02-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:202444/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ah'lar Ağacı",
