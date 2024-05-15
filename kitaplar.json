@@ -434,7 +434,7 @@
   {
     "kitap_adi": "Çavdar Tarlasında Çocuklar",
     "yazar": "J. D. Salinger",
-    "fiyat": "53,15",
+    "fiyat": "53,25",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
@@ -479,7 +479,7 @@
   {
     "kitap_adi": "Kardeşimin Hikayesi",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "99,80",
+    "fiyat": "99,90",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
@@ -524,7 +524,7 @@
   {
     "kitap_adi": "On Kişiydiler (On Küçük Zenci)",
     "yazar": "Agatha Christie",
-    "fiyat": "99,24",
+    "fiyat": "99,76",
     "eski_fiyat": "",
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "And Then There None | 9789752126169 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -3301,6 +3301,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300933 | TÜRKÇE | 78 | Karton Kapak | Kitap Kağıdı 2021-02-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11364478/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sevmek Dedikleri",
+    "yazar": "Margit Schreiner",
+    "fiyat": "58,65",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750853333 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2024-02-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11554103/wi:500/wh:true"
   },
   {
     "kitap_adi": "Toz ve Hayaller Kitapçısı",
