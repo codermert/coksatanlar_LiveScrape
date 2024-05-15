@@ -63,15 +63,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11875304/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yaşamak",
-    "yazar": "Yu Hua",
-    "fiyat": "96,60",
-    "eski_fiyat": "",
-    "yayinevi": "JAGUAR KİTAP",
-    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kaplanın Sırtında",
     "yazar": "Zülfü Livaneli",
     "fiyat": "89,12",
@@ -83,7 +74,7 @@
   {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
-    "fiyat": "55,45",
+    "fiyat": "58,44",
     "eski_fiyat": "",
     "yayinevi": "POZİTİF YAYINLARI",
     "kitap_hakkinda": "9789756461075 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-06-09",
@@ -119,7 +110,7 @@
   {
     "kitap_adi": "Saatleri Ayarlama Enstitüsü",
     "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "238,20",
+    "fiyat": "240,00",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955762 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2017-09-15",
@@ -290,7 +281,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "104,55",
+    "fiyat": "105,35",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -893,7 +884,7 @@
   {
     "kitap_adi": "Dansa Davet",
     "yazar": "Jean Teule",
-    "fiyat": "72,60",
+    "fiyat": "82,50",
     "eski_fiyat": "",
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "Entrez dans la danse Yazar: Jean Teulé | 9786057728456 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2022-12-01",
@@ -965,7 +956,7 @@
   {
     "kitap_adi": "Ruhun Yaralı Şifacısı Carl Jung",
     "yazar": "Claire Dunne",
-    "fiyat": "110,88",
+    "fiyat": "126,00",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN NOVUS",
     "kitap_hakkinda": "9786258004953 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-03-11",
@@ -1505,7 +1496,7 @@
   {
     "kitap_adi": "Derviş Kelamı",
     "yazar": "Funda Uçuk Er",
-    "fiyat": "96,25",
+    "fiyat": "109,38",
     "eski_fiyat": "",
     "yayinevi": "HAYY KİTAP",
     "kitap_hakkinda": "9786257479714 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2022-04-13",
@@ -1604,7 +1595,7 @@
   {
     "kitap_adi": "Asude Bahçe",
     "yazar": "Funda Uçuk Er",
-    "fiyat": "88,94",
+    "fiyat": "101,06",
     "eski_fiyat": "",
     "yayinevi": "CEZVE KİTAP",
     "kitap_hakkinda": "9786052297926 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2021-06-09",
@@ -2099,7 +2090,7 @@
   {
     "kitap_adi": "Palyatif Toplum & Günümüzde Acı",
     "yazar": "Byung-Chul Han",
-    "fiyat": "68,10",
+    "fiyat": "68,30",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Palliativgesellschaft | 9786053162599 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-01-22",
@@ -2189,7 +2180,7 @@
   {
     "kitap_adi": "İntihar Dükkanı",
     "yazar": "Jean Teule",
-    "fiyat": "84,70",
+    "fiyat": "96,25",
     "eski_fiyat": "",
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "9789755705460 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2022-09-23",
@@ -2972,7 +2963,7 @@
   {
     "kitap_adi": "Posta Kutusundaki Mızıka",
     "yazar": "A. Ali Ural",
-    "fiyat": "102,20",
+    "fiyat": "103,20",
     "eski_fiyat": "",
     "yayinevi": "ŞULE YAYINLARI",
     "kitap_hakkinda": "9799756841357 | TÜRKÇE | 206 | Karton Kapak | Kitap Kağıdı 2023-09-20",
@@ -3044,7 +3035,7 @@
   {
     "kitap_adi": "Kirpinin Zarafeti",
     "yazar": "Muriel Barbery",
-    "fiyat": "116,65",
+    "fiyat": "117,20",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786054927821 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2020-07-29",
