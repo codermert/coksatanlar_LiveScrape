@@ -54,6 +54,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11852743/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "96,88",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kaplanın Sırtında",
     "yazar": "Zülfü Livaneli",
     "fiyat": "89,12",
@@ -2043,15 +2052,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11887233/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kanlı Mafya Günlükleri #2  Görev",
-    "yazar": "Cora Reilly",
-    "fiyat": "141,43",
-    "eski_fiyat": "",
-    "yayinevi": "NEMESİS KİTAP",
-    "kitap_hakkinda": "9786256755635 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2024-05-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11891677/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Sana Gül Bahçesi Vadetmedim",
     "yazar": "Joanne Greenberg",
     "fiyat": "165,55",
@@ -2311,15 +2311,6 @@
     "yayinevi": "AKILÇELEN KİTAPLAR",
     "kitap_hakkinda": "One-Punch Man | 9786257586740 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2024-05-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11890399/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Pervasız",
-    "yazar": "Elsie Silver",
-    "fiyat": "177,06",
-    "eski_fiyat": "",
-    "yayinevi": "NEMESİS KİTAP",
-    "kitap_hakkinda": "9786256755321 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2024-05-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11893436/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Dinozorun Anıları",
@@ -2599,15 +2590,6 @@
     "yayinevi": "YABANCI YAYINLARI",
     "kitap_hakkinda": "9786256826151 | TÜRKÇE | 544 | Karton Kapak | Kitap Kağıdı 2024-05-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11884639/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Çiçekleri Sevmek Gerek",
-    "yazar": "Debbie Macomber",
-    "fiyat": "141,43",
-    "eski_fiyat": "",
-    "yayinevi": "EPSİLON YAYINEVİ",
-    "kitap_hakkinda": "Must Love Flowers  | 9786254145520 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2024-04-26",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11885640/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gece Yarısı Partileri",
