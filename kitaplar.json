@@ -470,7 +470,7 @@
   {
     "kitap_adi": "Kanada",
     "yazar": "Richard Ford",
-    "fiyat": "224,00",
+    "fiyat": "208,20",
     "eski_fiyat": "",
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786257027472 | TÜRKÇE | 530 | Karton Kapak | Kitap Kağıdı 2024-05-02",
@@ -682,6 +682,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750762055 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-10-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783396/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sevgiler ve Lolipoplar & Büyüklerden Çocuklara Mektup Var!",
+    "yazar": "Bahar Eriş",
+    "fiyat": "149,40",
+    "eski_fiyat": "",
+    "yayinevi": "ALFA YAYINLARI",
+    "kitap_hakkinda": "9786253890056 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2024-05-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11889015/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnce Memed 4",
