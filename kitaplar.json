@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "136,20",
+    "fiyat": "136,30",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -452,7 +452,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "103,50",
+    "fiyat": "103,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -2113,15 +2113,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751087 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2020-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332547/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Surname & Bir Osmanlı Macerası",
-    "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "120,75",
-    "eski_fiyat": "",
-    "yayinevi": "KAPI YAYINLARI",
-    "kitap_hakkinda": "9786258096439 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2022-11-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11683118/wi:500/wh:true"
   },
   {
     "kitap_adi": "Âşıklara Yer Yok",
