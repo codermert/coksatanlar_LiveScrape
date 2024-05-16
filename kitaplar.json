@@ -281,7 +281,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "136,30",
+    "fiyat": "136,40",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -488,7 +488,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "114,39",
+    "fiyat": "114,49",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -1694,7 +1694,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "132,52",
+    "fiyat": "132,62",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
@@ -2446,15 +2446,6 @@
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9789754370539 | TÜRKÇE | 413 | Karton Kapak | 3. Hm. Kağıt 2020-12-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11633742/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Yüzüklerin Efendisi (Tek Cilt)",
-    "yazar": "J. R. R. Tolkien",
-    "fiyat": "552,00",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Lord of The Rings | 9789753423472 | TÜRKÇE | 1026 | Ciltli | Kitap Kağıdı 2024-03-22",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11718457/wi:500/wh:true"
   },
   {
     "kitap_adi": "Huzursuzluğun Kitabı",
