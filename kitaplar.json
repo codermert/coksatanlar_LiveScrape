@@ -443,7 +443,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "29,41",
+    "fiyat": "29,51",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -902,7 +902,7 @@
   {
     "kitap_adi": "Öze Yolculuk",
     "yazar": "İbrahim Kalın",
-    "fiyat": "115,40",
+    "fiyat": "115,50",
     "eski_fiyat": "",
     "yayinevi": "İNSAN YAYINLARI",
     "kitap_hakkinda": "9786258314823 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2023-12-22",
@@ -3076,15 +3076,6 @@
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9786051553900 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2020-06-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11592838/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Gör Beni",
-    "yazar": "Akilah Azra Kohen",
-    "fiyat": "236,25",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9786051853635 | TÜRKÇE | 592 | Karton Kapak | Kitap Kağıdı 2023-08-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755899/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gelirken Ekmek Al",
