@@ -812,7 +812,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "181,60",
+    "fiyat": "181,70",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -3310,6 +3310,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "Les Identites Meurtrieres | 9789750801990 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2022-03-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1010849/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bereketli Topraklar Üzerinde",
+    "yazar": "Orhan Kemal",
+    "fiyat": "185,85",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9789752895546 | TÜRKÇE | 380 | Karton Kapak | Kitap Kağıdı 2024-03-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11753252/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kırmızı Saçlı Kadın",
