@@ -63,6 +63,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11764839/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "96,88",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kaplanın Sırtında",
     "yazar": "Zülfü Livaneli",
     "fiyat": "79,22",
@@ -92,7 +101,7 @@
   {
     "kitap_adi": "4 Gün 3 Gece",
     "yazar": "Ayşe Kulin",
-    "fiyat": "132,60",
+    "fiyat": "136,50",
     "eski_fiyat": "",
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9786253692018 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2024-05-10",
@@ -1487,7 +1496,7 @@
   {
     "kitap_adi": "995 km",
     "yazar": "Murathan Mungan",
-    "fiyat": "134,42",
+    "fiyat": "134,52",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "9786053162933 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2023-10-31",
