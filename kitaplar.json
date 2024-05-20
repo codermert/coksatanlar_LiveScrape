@@ -63,6 +63,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11764839/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "96,88",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kaplanın Sırtında",
     "yazar": "Zülfü Livaneli",
     "fiyat": "79,22",
@@ -2149,6 +2158,15 @@
     "yayinevi": "HOLDEN KİTAP",
     "kitap_hakkinda": "The Cook | 9786259993089 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2024-03-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11872571/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Pervasız",
+    "yazar": "Elsie Silver",
+    "fiyat": "177,06",
+    "eski_fiyat": "",
+    "yayinevi": "NEMESİS KİTAP",
+    "kitap_hakkinda": "9786256755321 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2024-05-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11893436/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kuşlar Da Gitti",
