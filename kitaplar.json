@@ -209,7 +209,7 @@
   {
     "kitap_adi": "Bülbülü Öldürmek",
     "yazar": "Harper Lee",
-    "fiyat": "137,30",
+    "fiyat": "137,40",
     "eski_fiyat": "",
     "yayinevi": "EPSİLON YAYINEVİ",
     "kitap_hakkinda": "To Kill a Mockingbird | 9786051736938 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2020-03-06",
@@ -425,7 +425,7 @@
   {
     "kitap_adi": "Kardeşimin Hikayesi",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "100,80",
+    "fiyat": "100,90",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
@@ -641,7 +641,7 @@
   {
     "kitap_adi": "İnce Memed 4",
     "yazar": "Yaşar Kemal",
-    "fiyat": "180,30",
+    "fiyat": "180,40",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806995 | TÜRKÇE | 639 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -2473,6 +2473,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439037/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kirpinin Zarafeti",
+    "yazar": "Muriel Barbery",
+    "fiyat": "116,70",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "9786054927821 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2020-07-29",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11518791/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gılgamış Destanı (Karton Kapak)",
