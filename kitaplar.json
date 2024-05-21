@@ -81,6 +81,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11893170/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "96,60",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Seçilmiş & Ya Varsın Ya Yoksun",
     "yazar": "Umut Bayrak",
     "fiyat": "62,50",
@@ -4291,6 +4300,15 @@
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050977684 | TÜRKÇE | 392 | Karton Kapak | Kitap Kağıdı 2020-09-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11277312/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Engereğin Gözü",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "98,89",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751041548 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-01-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11337465/wi:500/wh:true"
   },
   {
     "kitap_adi": "Taaşşuk-ı Talat ve Fitnat",
