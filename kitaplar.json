@@ -614,7 +614,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "259,76",
+    "fiyat": "259,86",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -1082,7 +1082,7 @@
   {
     "kitap_adi": "Yabancı",
     "yazar": "Albert Camus",
-    "fiyat": "66,99",
+    "fiyat": "66,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750748677 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2021-04-09",
@@ -1190,7 +1190,7 @@
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
-    "fiyat": "76,51",
+    "fiyat": "76,61",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -3211,15 +3211,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "Buf-i Kur | 9789750803024 | TÜRKÇE | 95 | Karton Kapak | 3. Hm. Kağıt 2019-05-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11209319/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kralın Dönüşü Yüzüklerin Efendisi 3",
-    "yazar": "J. R. R. Tolkien",
-    "fiyat": "198,70",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Return of the King | 9789753422024 | TÜRKÇE | 428 | Karton Kapak | Kitap Kağıdı 2019-02-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11461626/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yüzüklerin Efendisi (Tek Cilt)",
