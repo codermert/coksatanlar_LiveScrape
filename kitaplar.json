@@ -479,7 +479,7 @@
   {
     "kitap_adi": "İçimizdeki Şeytan",
     "yazar": "Sabahattin Ali",
-    "fiyat": "31,11",
+    "fiyat": "31,21",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
@@ -3949,15 +3949,6 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050845723 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2022-10-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11611179/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Pandora’nın Kutusu",
-    "yazar": "Osamu Dazai",
-    "fiyat": "48,00",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Pandora no hako | 9786052650493 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2023-11-16",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713738/wi:500/wh:true"
   },
   {
     "kitap_adi": "Pera Palas'ta Onbir Gece",
