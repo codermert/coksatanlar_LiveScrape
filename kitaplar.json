@@ -785,7 +785,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "107,52",
+    "fiyat": "107,62",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -1001,7 +1001,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "25,56",
+    "fiyat": "25,66",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -2032,15 +2032,6 @@
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783714/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Yüzük Kardeşliği Yüzüklerin Efendisi 1",
-    "yazar": "J. R. R. Tolkien",
-    "fiyat": "238,51",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Fellowship of the Ring | 9789753425988 | TÜRKÇE | 520 | Karton Kapak | 3. Hm. Kağıt 2019-08-22",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11269315/wi:500/wh:true"
   },
   {
     "kitap_adi": "Son Kuşlar",
