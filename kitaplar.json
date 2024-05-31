@@ -362,7 +362,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "129,57",
+    "fiyat": "129,67",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -3796,6 +3796,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300308 | TÜRKÇE | 68 | Karton Kapak | Kitap Kağıdı 2021-01-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11343622/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kervan",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "134,55",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786257706063 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2021-01-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11351954/wi:500/wh:true"
   },
   {
     "kitap_adi": "Papazın Kızı",
