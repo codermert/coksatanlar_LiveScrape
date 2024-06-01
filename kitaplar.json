@@ -443,7 +443,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "129,77",
+    "fiyat": "129,87",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -4471,5 +4471,14 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9786254054372 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-05-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11409634/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ah'lar Ağacı",
+    "yazar": "Didem Madak",
+    "fiyat": "64,70",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "9789753428750 | TÜRKÇE | 76 | Karton Kapak | Kitap Kağıdı 2020-09-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11501991/wi:500/wh:true"
   }
 ]
