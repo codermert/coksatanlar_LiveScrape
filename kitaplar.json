@@ -812,7 +812,7 @@
   {
     "kitap_adi": "Semerkant",
     "yazar": "Amin Maalouf",
-    "fiyat": "106,90",
+    "fiyat": "107,00",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
@@ -1190,20 +1190,11 @@
   {
     "kitap_adi": "Okuma Bilmeyen Kitapçı",
     "yazar": "Sylvia Bishop",
-    "fiyat": "75,83",
+    "fiyat": "75,80",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "9786050835533 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2021-01-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11406059/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Küçük Ağaç'ın Eğitimi",
-    "yazar": "Forrest Carter",
-    "fiyat": "128,77",
-    "eski_fiyat": "",
-    "yayinevi": "SAY YAYINLARI",
-    "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
   },
   {
     "kitap_adi": "Tatar Çölü",
