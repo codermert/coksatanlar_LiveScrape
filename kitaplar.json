@@ -1253,7 +1253,7 @@
   {
     "kitap_adi": "Asude Bahçe",
     "yazar": "Funda Uçuk Er",
-    "fiyat": "95,75",
+    "fiyat": "101,06",
     "eski_fiyat": "",
     "yayinevi": "CEZVE KİTAP",
     "kitap_hakkinda": "9786052297926 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2021-06-09",
@@ -1442,7 +1442,7 @@
   {
     "kitap_adi": "Derviş Kelamı",
     "yazar": "Funda Uçuk Er",
-    "fiyat": "105,05",
+    "fiyat": "109,38",
     "eski_fiyat": "",
     "yayinevi": "HAYY KİTAP",
     "kitap_hakkinda": "9786257479714 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2022-04-13",
@@ -1568,7 +1568,7 @@
   {
     "kitap_adi": "Roket 4 Bilimkurgu Öykü Seçkisi",
     "yazar": "Kolektif",
-    "fiyat": "110,00",
+    "fiyat": "100,00",
     "eski_fiyat": "",
     "yayinevi": "ROKET KİTAP",
     "kitap_hakkinda": "9786259421315 | TÜRKÇE | 74 | Karton Kapak | Kitap Kağıdı 2024-05-27",
@@ -1667,7 +1667,7 @@
   {
     "kitap_adi": "İnce Memed 4",
     "yazar": "Yaşar Kemal",
-    "fiyat": "182,00",
+    "fiyat": "182,10",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806995 | TÜRKÇE | 639 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -2572,6 +2572,15 @@
     "yayinevi": "ALFA YAYINLARI",
     "kitap_hakkinda": "9786254499531 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2024-05-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11891972/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Simülakron 3",
+    "yazar": "Daniel F. Galouye",
+    "fiyat": "128,70",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750863110 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11896381/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sonsuz Mutluluklar",
