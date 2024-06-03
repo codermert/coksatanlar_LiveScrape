@@ -227,7 +227,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "100,35",
+    "fiyat": "100,42",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -1762,15 +1762,6 @@
     "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
     "kitap_hakkinda": "9786253913298 | TÜRKÇE | 130 | Karton Kapak | Kitap Kağıdı 2024-05-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11894137/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Suyu Arayan Adam",
-    "yazar": "Şevket Süreyya Aydemir",
-    "fiyat": "194,35",
-    "eski_fiyat": "",
-    "yayinevi": "REMZİ KİTABEVİ",
-    "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8468433/wi:500/wh:true"
   },
   {
     "kitap_adi": "Fatih'in Gizli Mabedi",
