@@ -722,7 +722,7 @@
   {
     "kitap_adi": "Görmek",
     "yazar": "Jose Saramago",
-    "fiyat": "147,50",
+    "fiyat": "147,60",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "Ensaio sobre a Lucidez | 9786052981320 | TÜRKÇE | 324 | Karton Kapak | Kitap Kağıdı 2019-10-23",
@@ -731,7 +731,7 @@
   {
     "kitap_adi": "Değersiz Bir Hayat",
     "yazar": "Hanya Yanagihara",
-    "fiyat": "284,06",
+    "fiyat": "284,16",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2024-02-29",
@@ -947,7 +947,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "109,92",
+    "fiyat": "110,02",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -4426,6 +4426,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784559 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2020-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332468/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kervan",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "134,55",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786257706063 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2021-01-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11351954/wi:500/wh:true"
   },
   {
     "kitap_adi": "Altıncı Koğuş",
