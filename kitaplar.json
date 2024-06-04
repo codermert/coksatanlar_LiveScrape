@@ -119,7 +119,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "105,12",
+    "fiyat": "105,22",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -3411,6 +3411,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11319009/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Engereğin Gözü",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "98,54",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751041548 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-01-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11337465/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kuyruklu Yıldız Altında Bir İzdivaç",
     "yazar": "Hüseyin Rahmi Gürpınar",
     "fiyat": "14,88",
@@ -4147,6 +4156,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439037/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İki Kule Yüzüklerin Efendisi 2",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "202,03",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Two Towers | 9789753421812 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2021-09-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11758052/wi:500/wh:true"
   },
   {
     "kitap_adi": "Anna Karenina",
