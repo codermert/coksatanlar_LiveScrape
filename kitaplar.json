@@ -90,15 +90,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332315/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yaşamak",
-    "yazar": "Yu Hua",
-    "fiyat": "93,05",
-    "eski_fiyat": "",
-    "yayinevi": "JAGUAR KİTAP",
-    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
     "fiyat": "55,20",
@@ -614,7 +605,7 @@
   {
     "kitap_adi": "Sana Gül Bahçesi Vadetmedim",
     "yazar": "Joanne Greenberg",
-    "fiyat": "161,75",
+    "fiyat": "161,85",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "I Never Promised You a Rose Garden | 9789753424080 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-05-04",
@@ -2068,6 +2059,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955724 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2024-03-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11866916/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Suyu Arayan Adam",
+    "yazar": "Şevket Süreyya Aydemir",
+    "fiyat": "194,35",
+    "eski_fiyat": "",
+    "yayinevi": "REMZİ KİTABEVİ",
+    "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8468433/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sırça Köşk",
@@ -3530,7 +3530,7 @@
   {
     "kitap_adi": "Arkada Yaylılar Çalıyor (Karton Kapak)",
     "yazar": "Melikşah Altuntaş",
-    "fiyat": "103,50",
+    "fiyat": "103,60",
     "eski_fiyat": "",
     "yayinevi": "HOLDEN KİTAP",
     "kitap_hakkinda": "9786259993096 | TÜRKÇE | 154 | Karton Kapak | Kitap Kağıdı 2024-04-05",
