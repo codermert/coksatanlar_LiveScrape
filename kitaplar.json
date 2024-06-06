@@ -1062,15 +1062,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3083064/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Çözüm Bakanlığı",
-    "yazar": "Sanne Rooseboom",
-    "fiyat": "72,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN ÇOCUK YAYINLARI",
-    "kitap_hakkinda": "9789750748608 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2022-05-12",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484459/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Mai ve Siyah",
     "yazar": "Halid Ziya Uşaklıgil",
     "fiyat": "22,85",
@@ -3157,6 +3148,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700060 | TÜRKÇE | 215 | Karton Kapak | Kitap Kağıdı 2019-10-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439037/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yüzük Kardeşliği Yüzüklerin Efendisi 1",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "251,80",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Fellowship of the Ring | 9789753425988 | TÜRKÇE | 520 | Karton Kapak | 3. Hm. Kağıt 2019-08-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11269315/wi:500/wh:true"
   },
   {
     "kitap_adi": "İki Kule Yüzüklerin Efendisi 2",
