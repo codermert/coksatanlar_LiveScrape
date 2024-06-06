@@ -1062,6 +1062,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3083064/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Çözüm Bakanlığı",
+    "yazar": "Sanne Rooseboom",
+    "fiyat": "72,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN ÇOCUK YAYINLARI",
+    "kitap_hakkinda": "9789750748608 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2022-05-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484459/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Mai ve Siyah",
     "yazar": "Halid Ziya Uşaklıgil",
     "fiyat": "22,85",
@@ -3404,7 +3413,7 @@
   {
     "kitap_adi": "Bir Kadının Kavgaları ve Dönüşümleri",
     "yazar": "Edouard Louis",
-    "fiyat": "65,25",
+    "fiyat": "58,70",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750763199 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-04-02",
