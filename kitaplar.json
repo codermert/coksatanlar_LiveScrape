@@ -1046,7 +1046,7 @@
   {
     "kitap_adi": "Kinyas ve Kayra",
     "yazar": "Hakan Günday",
-    "fiyat": "219,20",
+    "fiyat": "219,30",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
@@ -1379,7 +1379,7 @@
   {
     "kitap_adi": "Toprak Ana",
     "yazar": "Cengiz Aytmatov",
-    "fiyat": "40,80",
+    "fiyat": "40,90",
     "eski_fiyat": "",
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
@@ -1469,7 +1469,7 @@
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
-    "fiyat": "78,61",
+    "fiyat": "78,71",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -2734,6 +2734,15 @@
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920849 | TÜRKÇE | 424 | Karton Kapak | Kitap Kağıdı 2022-02-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11518131/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Hachiko (Karton Kapak)",
+    "yazar": "Leslea Newman",
+    "fiyat": "45,10",
+    "eski_fiyat": "",
+    "yayinevi": "YAKAMOZ YAYINCILIK",
+    "kitap_hakkinda": "9786052971871 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2022-01-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11508941/wi:500/wh:true"
   },
   {
     "kitap_adi": "Babalar ve Oğullar (Cep Boy) (Tam Metin)",
