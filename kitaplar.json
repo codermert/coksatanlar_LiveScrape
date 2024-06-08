@@ -470,7 +470,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "94,00",
+    "fiyat": "94,10",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -3472,6 +3472,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750724220 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-05-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784602/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kambur",
+    "yazar": "Şule Gürbüz",
+    "fiyat": "74,66",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754703139 | TÜRKÇE | 92 | Karton Kapak | Kitap Kağıdı 2019-02-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:202444/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsan Nedir?",
