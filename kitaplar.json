@@ -974,7 +974,7 @@
   {
     "kitap_adi": "Huzursuzluk",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "84,44",
+    "fiyat": "84,54",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042675 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-11-16",
@@ -3571,15 +3571,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750754579 | TÜRKÇE | 72 | Karton Kapak | Kitap Kağıdı 2022-01-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621385/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Tiamat (Karton Kapak)",
-    "yazar": "İhsan Oktay Anar",
-    "fiyat": "63,20",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9786051857237 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2022-02-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11521597/wi:500/wh:true"
   },
   {
     "kitap_adi": "Seksen Günde Devrialem",
