@@ -1289,7 +1289,7 @@
   {
     "kitap_adi": "Kinyas ve Kayra",
     "yazar": "Hakan Günday",
-    "fiyat": "219,50",
+    "fiyat": "219,60",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
@@ -1424,7 +1424,7 @@
   {
     "kitap_adi": "Gölgeler",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "106,30",
+    "fiyat": "105,75",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751045355 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2023-08-09",
@@ -1447,15 +1447,6 @@
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259897998 | TÜRKÇE | 72 | Karton Kapak | Kitap Kağıdı 2024-05-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11893170/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Yüzük Kardeşliği Yüzüklerin Efendisi 1",
-    "yazar": "J. R. R. Tolkien",
-    "fiyat": "251,80",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Fellowship of the Ring | 9789753425988 | TÜRKÇE | 520 | Karton Kapak | 3. Hm. Kağıt 2019-08-22",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11269315/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ben, Kirke",
@@ -1568,7 +1559,7 @@
   {
     "kitap_adi": "Toprak Ana",
     "yazar": "Cengiz Aytmatov",
-    "fiyat": "41,00",
+    "fiyat": "41,10",
     "eski_fiyat": "",
     "yayinevi": "ÖTÜKEN NEŞRİYAT",
     "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
@@ -1802,7 +1793,7 @@
   {
     "kitap_adi": "Kapak Kızı",
     "yazar": "Ayfer Tunç",
-    "fiyat": "117,90",
+    "fiyat": "118,00",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750747045 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2021-09-27",
