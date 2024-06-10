@@ -1613,7 +1613,7 @@
   {
     "kitap_adi": "Seyir",
     "yazar": "Piraye",
-    "fiyat": "172,60",
+    "fiyat": "172,70",
     "eski_fiyat": "",
     "yayinevi": "MONA KİTAP",
     "kitap_hakkinda": "9786052182734 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-01-27",
@@ -2950,15 +2950,6 @@
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9786051859859 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-05-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11862293/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Karanlıktakiler",
-    "yazar": "Hana Tooke",
-    "fiyat": "182,14",
-    "eski_fiyat": "",
-    "yayinevi": "TİMAŞ GENÇ",
-    "kitap_hakkinda": "9786259892719 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-11-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11795112/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Kadının Kavgaları ve Dönüşümleri",
