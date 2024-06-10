@@ -767,7 +767,7 @@
   {
     "kitap_adi": "Kardeşimin Hikayesi",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "105,10",
+    "fiyat": "105,20",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
@@ -3535,15 +3535,6 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Two Towers | 9789753421812 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2021-09-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11758052/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kralın Dönüşü Yüzüklerin Efendisi 3",
-    "yazar": "J. R. R. Tolkien",
-    "fiyat": "197,40",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Return of the King | 9789753422024 | TÜRKÇE | 428 | Karton Kapak | Kitap Kağıdı 2019-02-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11461626/wi:500/wh:true"
   },
   {
     "kitap_adi": "Üç Yanlış Üç Ceset",
