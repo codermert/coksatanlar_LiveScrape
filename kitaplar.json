@@ -252,6 +252,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11861027/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Ucuz Romancılar",
+    "yazar": "Murat Menteş",
+    "fiyat": "113,95",
+    "eski_fiyat": "",
+    "yayinevi": "ALFA YAYINLARI",
+    "kitap_hakkinda": "9786253890094 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2024-05-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11889646/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Simyacı (Ciltsiz)",
     "yazar": "Paulo Coelho",
     "fiyat": "91,80",
@@ -857,7 +866,7 @@
   {
     "kitap_adi": "Dördüncü Kanat (Karton Kapak)",
     "yazar": "Rebecca Yarros",
-    "fiyat": "200,54",
+    "fiyat": "200,64",
     "eski_fiyat": "",
     "yayinevi": "OLİMPOS YAYINLARI",
     "kitap_hakkinda": "9786256411609 | TÜRKÇE | 672 | Karton Kapak | Kitap Kağıdı 2023-11-02",
@@ -943,6 +952,15 @@
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259872858 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2024-03-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11860647/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Demir Alev",
+    "yazar": "Rebecca Yarros",
+    "fiyat": "300,10",
+    "eski_fiyat": "",
+    "yayinevi": "OLİMPOS YAYINLARI",
+    "kitap_hakkinda": "9786256029095 | TÜRKÇE | 944 | Karton Kapak | Kitap Kağıdı 2024-05-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11894840/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kinyas ve Kayra",
