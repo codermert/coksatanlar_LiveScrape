@@ -128,7 +128,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "93,20",
+    "fiyat": "93,30",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -162,6 +162,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11857266/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Tağut & Kutsal Aldanışın Soyağacı",
+    "yazar": "Soner Yalçın",
+    "fiyat": "206,25",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "9786254183072 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2024-06-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903932/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Momo",
     "yazar": "Michael Ende",
     "fiyat": "137,15",
@@ -191,7 +200,7 @@
   {
     "kitap_adi": "Eşekli Kütüphaneci",
     "yazar": "Fakir Baykurt",
-    "fiyat": "96,85",
+    "fiyat": "96,35",
     "eski_fiyat": "",
     "yayinevi": "LİTERATÜR YAYINLARI",
     "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2024-03-06",
@@ -232,6 +241,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784757 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2021-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345520/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Labirent & Batı ve Hasımları",
+    "yazar": "Amin Maalouf",
+    "fiyat": "118,90",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750862427 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2024-03-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11861027/wi:500/wh:true"
   },
   {
     "kitap_adi": "Simyacı (Ciltsiz)",
@@ -281,7 +299,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "132,57",
+    "fiyat": "132,67",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -389,7 +407,7 @@
   {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
-    "fiyat": "187,70",
+    "fiyat": "187,80",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
@@ -587,7 +605,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "253,40",
+    "fiyat": "253,50",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -695,7 +713,7 @@
   {
     "kitap_adi": "Karanlık Orman",
     "yazar": "Cixin Liu",
-    "fiyat": "225,20",
+    "fiyat": "214,20",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
@@ -704,7 +722,7 @@
   {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
-    "fiyat": "84,80",
+    "fiyat": "84,90",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
