@@ -45,6 +45,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11656155/wi:500/wh:true"
   },
   {
+    "kitap_adi": "İnsanlığımı Yitirirken",
+    "yazar": "Osamu Dazai",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786256475892 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2023-11-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11801746/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kaplanın Sırtında",
     "yazar": "Zülfü Livaneli",
     "fiyat": "89,12",
@@ -2162,7 +2171,7 @@
   {
     "kitap_adi": "Ölüm Bir Varmış Bir Yokmuş",
     "yazar": "Jose Saramago",
-    "fiyat": "130,20",
+    "fiyat": "130,30",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786052982617 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-06-17",
@@ -3490,6 +3499,15 @@
     "yayinevi": "EKİN YAYINLARI",
     "kitap_hakkinda": "9786258484366 | TÜRKÇE | 480 | Karton Kapak | Kitap Kağıdı 2024-04-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11880048/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Anne Gölgesi",
+    "yazar": "Kolektif",
+    "fiyat": "160,00",
+    "eski_fiyat": "",
+    "yayinevi": "BANLİYÖ KİTAP",
+    "kitap_hakkinda": "9786259848396 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2024-05-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902334/wi:500/wh:true"
   },
   {
     "kitap_adi": "Asırlardır Koşuyor Gibiyim",
