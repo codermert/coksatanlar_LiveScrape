@@ -83,7 +83,7 @@
   {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
-    "fiyat": "55,35",
+    "fiyat": "78,14",
     "eski_fiyat": "",
     "yayinevi": "POZİTİF YAYINLARI",
     "kitap_hakkinda": "9789756461075 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-06-09",
@@ -2995,6 +2995,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9786256839489 | TÜRKÇE | 168 | Karton Kapak | 3. Hm. Kağıt 2023-11-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793098/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yüzük Kardeşliği Yüzüklerin Efendisi 1",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "251,80",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Fellowship of the Ring | 9789753425988 | TÜRKÇE | 520 | Karton Kapak | 3. Hm. Kağıt 2019-08-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11269315/wi:500/wh:true"
   },
   {
     "kitap_adi": "Martin Eden",
