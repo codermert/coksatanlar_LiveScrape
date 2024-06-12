@@ -2520,15 +2520,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:16293/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Güneşe Koşmak",
-    "yazar": "Özgür Balpınar",
-    "fiyat": "105,00",
-    "eski_fiyat": "",
-    "yayinevi": "İNDİGO KİTAP",
-    "kitap_hakkinda": "9786256772700 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11899877/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Demir Alev (Ciltli)",
     "yazar": "Rebecca Yarros",
     "fiyat": "437,50",
@@ -2536,6 +2527,15 @@
     "yayinevi": "OLİMPOS YAYINLARI",
     "kitap_hakkinda": "9786256029101 | TÜRKÇE | 944 | Ciltli | Kitap Kağıdı 2024-06-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903054/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Güneşe Koşmak",
+    "yazar": "Özgür Balpınar",
+    "fiyat": "105,00",
+    "eski_fiyat": "",
+    "yayinevi": "İNDİGO KİTAP",
+    "kitap_hakkinda": "9786256772700 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11899877/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yollar Dönüşe Gider",
