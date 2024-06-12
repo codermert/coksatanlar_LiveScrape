@@ -1287,15 +1287,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708178/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İvan İlyiç’in Ölümü",
-    "yazar": "Lev N. Tolstoy",
-    "fiyat": "12,88",
-    "eski_fiyat": "",
-    "yayinevi": "KAPRA YAYINCILIK",
-    "kitap_hakkinda": "9786257751124 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2020-11-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318944/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Ay Işığı Sokağı",
     "yazar": "Stefan Zweig",
     "fiyat": "12,88",
@@ -1303,6 +1294,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784603 | TÜRKÇE | 72 | Karton Kapak | Kitap Kağıdı 2020-11-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318904/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İvan İlyiç’in Ölümü",
+    "yazar": "Lev N. Tolstoy",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257751124 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2020-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318944/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yol",
