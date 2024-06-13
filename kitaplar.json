@@ -866,7 +866,7 @@
   {
     "kitap_adi": "Beş Şehir",
     "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "120,80",
+    "fiyat": "120,90",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
@@ -2394,15 +2394,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11781199/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Güneşe Koşmak",
-    "yazar": "Özgür Balpınar",
-    "fiyat": "105,00",
-    "eski_fiyat": "",
-    "yayinevi": "İNDİGO KİTAP",
-    "kitap_hakkinda": "9786256772700 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11899877/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Sonun Başlangıcı",
     "yazar": "Mehmet Ali Bulut",
     "fiyat": "137,50",
@@ -2410,6 +2401,15 @@
     "yayinevi": "HAYAT YAYINLARI",
     "kitap_hakkinda": "9786051514758 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2024-05-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902586/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Güneşe Koşmak",
+    "yazar": "Özgür Balpınar",
+    "fiyat": "105,00",
+    "eski_fiyat": "",
+    "yayinevi": "İNDİGO KİTAP",
+    "kitap_hakkinda": "9786256772700 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11899877/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bu Böyledir",
@@ -2619,15 +2619,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318993/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Sular Yükselirken",
-    "yazar": "Anja Kampmann",
-    "fiyat": "166,75",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750763410 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2024-05-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11897441/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Asırlardır Koşuyor Gibiyim",
     "yazar": "Eren Boz",
     "fiyat": "279,00",
@@ -2635,6 +2626,15 @@
     "yayinevi": "BAOBAB YAYINLARI",
     "kitap_hakkinda": "9786259463827 | TÜRKÇE | 144 | Ciltli | 1. Hm. Kağıt 2024-06-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902759/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sular Yükselirken",
+    "yazar": "Anja Kampmann",
+    "fiyat": "166,75",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750763410 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2024-05-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11897441/wi:500/wh:true"
   },
   {
     "kitap_adi": "Oz",
@@ -3305,7 +3305,7 @@
   {
     "kitap_adi": "Suzan Defter",
     "yazar": "Ayfer Tunç",
-    "fiyat": "81,50",
+    "fiyat": "81,60",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750724220 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-05-12",
