@@ -2619,15 +2619,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11866815/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Asırlardır Koşuyor Gibiyim",
-    "yazar": "Eren Boz",
-    "fiyat": "279,00",
-    "eski_fiyat": "",
-    "yayinevi": "BAOBAB YAYINLARI",
-    "kitap_hakkinda": "9786259463827 | TÜRKÇE | 144 | Ciltli | 1. Hm. Kağıt 2024-06-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902759/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Sular Yükselirken",
     "yazar": "Anja Kampmann",
     "fiyat": "166,75",
@@ -2635,6 +2626,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750763410 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2024-05-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11897441/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Asırlardır Koşuyor Gibiyim",
+    "yazar": "Eren Boz",
+    "fiyat": "279,00",
+    "eski_fiyat": "",
+    "yayinevi": "BAOBAB YAYINLARI",
+    "kitap_hakkinda": "9786259463827 | TÜRKÇE | 144 | Ciltli | 1. Hm. Kağıt 2024-06-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902759/wi:500/wh:true"
   },
   {
     "kitap_adi": "Define Adası (Tam Metin, Terimler Sözlüğü ile Birlikte)",
