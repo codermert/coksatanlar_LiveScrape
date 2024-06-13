@@ -2367,15 +2367,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11450732/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Düşler Atlası",
-    "yazar": "Özgür Balpınar",
-    "fiyat": "73,65",
-    "eski_fiyat": "",
-    "yayinevi": "TİMAŞ GENÇ",
-    "kitap_hakkinda": "9786050829181 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2022-03-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11399290/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Evlere Şenlik Kaynanam Nasıl Kudurdu?",
     "yazar": "Hüseyin Rahmi Gürpınar",
     "fiyat": "12,88",
@@ -2383,6 +2374,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300353 | TÜRKÇE | 143 | Karton Kapak | Kitap Kağıdı 2021-01-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11348300/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Düşler Atlası",
+    "yazar": "Özgür Balpınar",
+    "fiyat": "73,65",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050829181 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2022-03-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11399290/wi:500/wh:true"
   },
   {
     "kitap_adi": "Morgue Sokağı Cinayetleri (Cep Boy) (Tam Metin)",
