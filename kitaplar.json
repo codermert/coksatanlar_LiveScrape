@@ -1287,15 +1287,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11708178/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İvan İlyiç’in Ölümü",
-    "yazar": "Lev N. Tolstoy",
-    "fiyat": "12,88",
-    "eski_fiyat": "",
-    "yayinevi": "KAPRA YAYINCILIK",
-    "kitap_hakkinda": "9786257751124 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2020-11-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318944/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Ay Işığı Sokağı",
     "yazar": "Stefan Zweig",
     "fiyat": "12,88",
@@ -1303,6 +1294,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784603 | TÜRKÇE | 72 | Karton Kapak | Kitap Kağıdı 2020-11-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318904/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İvan İlyiç’in Ölümü",
+    "yazar": "Lev N. Tolstoy",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257751124 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2020-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318944/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yol",
@@ -1854,15 +1854,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:38806/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Hiddet",
-    "yazar": "Alex Michaelides",
-    "fiyat": "116,40",
-    "eski_fiyat": "",
-    "yayinevi": "DOMİNGO YAYINEVİ",
-    "kitap_hakkinda": "The Fury | 9786051983363 | TÜRKÇE | 312 | Karton Kapak | Kitap Kağıdı 2024-05-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11896587/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kenz-Ul Alem & Alemin Sırrı",
     "yazar": "Işık Kızıltuğ",
     "fiyat": "288,75",
@@ -1870,6 +1861,15 @@
     "yayinevi": "ŞİRA YAYINLARI",
     "kitap_hakkinda": "9786057977540 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-06-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11901733/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Hiddet",
+    "yazar": "Alex Michaelides",
+    "fiyat": "116,40",
+    "eski_fiyat": "",
+    "yayinevi": "DOMİNGO YAYINEVİ",
+    "kitap_hakkinda": "The Fury | 9786051983363 | TÜRKÇE | 312 | Karton Kapak | Kitap Kağıdı 2024-05-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11896587/wi:500/wh:true"
   },
   {
     "kitap_adi": "Peri  Masalı",
@@ -2520,15 +2520,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:16293/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Güneşe Koşmak",
-    "yazar": "Özgür Balpınar",
-    "fiyat": "105,00",
-    "eski_fiyat": "",
-    "yayinevi": "İNDİGO KİTAP",
-    "kitap_hakkinda": "9786256772700 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11899877/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Demir Alev (Ciltli)",
     "yazar": "Rebecca Yarros",
     "fiyat": "437,50",
@@ -2536,6 +2527,15 @@
     "yayinevi": "OLİMPOS YAYINLARI",
     "kitap_hakkinda": "9786256029101 | TÜRKÇE | 944 | Ciltli | Kitap Kağıdı 2024-06-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903054/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Güneşe Koşmak",
+    "yazar": "Özgür Balpınar",
+    "fiyat": "105,00",
+    "eski_fiyat": "",
+    "yayinevi": "İNDİGO KİTAP",
+    "kitap_hakkinda": "9786256772700 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11899877/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yollar Dönüşe Gider",
@@ -2799,15 +2799,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903875/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yağmur Adam",
-    "yazar": "Yahya Ateş",
-    "fiyat": "",
-    "eski_fiyat": "100,00",
-    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
-    "kitap_hakkinda": "9786253913946 | TÜRKÇE | 94 | Karton Kapak | Kitap Kağıdı 2024-06-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904537/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Beş Varlık İklimi / Firdevsi, Hayyam, Mevlana, Sa’di ve Hafız",
     "yazar": "Daryush Shayegan",
     "fiyat": "136,81",
@@ -2815,6 +2806,15 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256309395 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2024-06-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905004/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yağmur Adam",
+    "yazar": "Yahya Ateş",
+    "fiyat": "",
+    "eski_fiyat": "100,00",
+    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
+    "kitap_hakkinda": "9786253913946 | TÜRKÇE | 94 | Karton Kapak | Kitap Kağıdı 2024-06-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904537/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yaşamak",
