@@ -2790,15 +2790,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11661546/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yağmur Adam",
-    "yazar": "Yahya Ateş",
-    "fiyat": "",
-    "eski_fiyat": "100,00",
-    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
-    "kitap_hakkinda": "9786253913946 | TÜRKÇE | 94 | Karton Kapak | Kitap Kağıdı 2024-06-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904537/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Rabarba",
     "yazar": "Müjde Alganer",
     "fiyat": "88,00",
@@ -2815,6 +2806,15 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256309395 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2024-06-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905004/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yağmur Adam",
+    "yazar": "Yahya Ateş",
+    "fiyat": "",
+    "eski_fiyat": "100,00",
+    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
+    "kitap_hakkinda": "9786253913946 | TÜRKÇE | 94 | Karton Kapak | Kitap Kağıdı 2024-06-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904537/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yaşamak",
