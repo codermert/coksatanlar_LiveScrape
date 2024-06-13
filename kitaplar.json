@@ -1854,15 +1854,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:38806/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kenz-Ul Alem & Alemin Sırrı",
-    "yazar": "Işık Kızıltuğ",
-    "fiyat": "288,75",
-    "eski_fiyat": "",
-    "yayinevi": "ŞİRA YAYINLARI",
-    "kitap_hakkinda": "9786057977540 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-06-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11901733/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Hiddet",
     "yazar": "Alex Michaelides",
     "fiyat": "116,40",
@@ -1870,6 +1861,15 @@
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Fury | 9786051983363 | TÜRKÇE | 312 | Karton Kapak | Kitap Kağıdı 2024-05-23",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11896587/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kenz-Ul Alem & Alemin Sırrı",
+    "yazar": "Işık Kızıltuğ",
+    "fiyat": "288,75",
+    "eski_fiyat": "",
+    "yayinevi": "ŞİRA YAYINLARI",
+    "kitap_hakkinda": "9786057977540 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-06-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11901733/wi:500/wh:true"
   },
   {
     "kitap_adi": "Peri  Masalı",
