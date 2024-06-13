@@ -369,15 +369,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11651599/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Pal Sokağı Çocukları",
-    "yazar": "Ferenc Molnar",
-    "fiyat": "22,85",
-    "eski_fiyat": "",
-    "yayinevi": "KAPRA YAYINCILIK",
-    "kitap_hakkinda": "9786258281378 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-01-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11651602/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Masumiyet Müzesi",
     "yazar": "Orhan Pamuk",
     "fiyat": "188,60",
@@ -403,6 +394,15 @@
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "9789755705866 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2023-11-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11296928/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Pal Sokağı Çocukları",
+    "yazar": "Ferenc Molnar",
+    "fiyat": "22,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786258281378 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-01-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11651602/wi:500/wh:true"
   },
   {
     "kitap_adi": "Herkes O'nu Anlatıyor 1 / Ailesi",
@@ -666,15 +666,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11376436/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Dönüşüm",
-    "yazar": "Franz Kafka",
-    "fiyat": "12,88",
-    "eski_fiyat": "",
-    "yayinevi": "KAPRA YAYINCILIK",
-    "kitap_hakkinda": "9786257751674 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2020-12-21",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332443/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Tavuk Bacaklı Ev",
     "yazar": "Sophie Anderson",
     "fiyat": "129,90",
@@ -682,6 +673,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050847369 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2023-05-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11878069/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257751674 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2020-12-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Toprak Ana",
@@ -1116,15 +1116,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11629463/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Canım Aliye, Ruhum Filiz",
-    "yazar": "Sabahattin Ali",
-    "fiyat": "39,34",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750826672 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2019-06-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:163320/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Çok Hayal Kuran Çocuk",
     "yazar": "Şermin Yaşar",
     "fiyat": "92,31",
@@ -1132,6 +1123,15 @@
     "yayinevi": "ELMA YAYINEVİ",
     "kitap_hakkinda": "9786257343213 | TÜRKÇE | 40 | Karton Kapak | Kuşe Kağıt 2022-02-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11521045/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Canım Aliye, Ruhum Filiz",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "39,34",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750826672 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2019-06-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:163320/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sırça Köşk",
@@ -1584,15 +1584,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4745345/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Sevda Sözleri",
-    "yazar": "Cemal Süreya",
-    "fiyat": "137,03",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750745782 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2024-04-25",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11884980/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Sakın Yalan Söyleme",
     "yazar": "Freida Mcfadden",
     "fiyat": "186,88",
@@ -1645,6 +1636,24 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750763106 | TÜRKÇE | 48 | Karton Kapak | Kitap Kağıdı 2024-03-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11861102/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Siyah İnci",
+    "yazar": "Anna Sewell",
+    "fiyat": "14,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257751209 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2020-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318985/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sevda Sözleri",
+    "yazar": "Cemal Süreya",
+    "fiyat": "137,03",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750745782 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2024-04-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11884980/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beyoğlu Rapsodisi",
@@ -1708,15 +1717,6 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9786256839489 | TÜRKÇE | 168 | Karton Kapak | 3. Hm. Kağıt 2023-11-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793098/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Siyah İnci",
-    "yazar": "Anna Sewell",
-    "fiyat": "14,88",
-    "eski_fiyat": "",
-    "yayinevi": "KAPRA YAYINCILIK",
-    "kitap_hakkinda": "9786257751209 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2020-11-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318985/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ya Tahammül Ya Sefer",
@@ -3159,15 +3159,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:106052/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kuyucaklı Yusuf",
-    "yazar": "Sabahattin Ali",
-    "fiyat": "26,10",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1105919/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Malma İstasyonu",
     "yazar": "Alex Schulman",
     "fiyat": "137,10",
@@ -3177,6 +3168,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11863105/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kuyucaklı Yusuf",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "26,10",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1105919/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Seyir",
     "yazar": "Piraye",
     "fiyat": "173,30",
@@ -3184,15 +3184,6 @@
     "yayinevi": "MONA KİTAP",
     "kitap_hakkinda": "9786052182734 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-01-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870547/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Kinyas ve Kayra",
-    "yazar": "Hakan Günday",
-    "fiyat": "220,70",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784545/wi:500/wh:true"
   },
   {
     "kitap_adi": "Huzursuzluk",
@@ -3229,6 +3220,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754701258 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-08-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10330721/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kinyas ve Kayra",
+    "yazar": "Hakan Günday",
+    "fiyat": "220,80",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784545/wi:500/wh:true"
   },
   {
     "kitap_adi": "Doğu Ekspresinde Cinayet",
