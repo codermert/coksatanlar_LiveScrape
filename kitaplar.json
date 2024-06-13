@@ -126,6 +126,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11338358/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sağlıklı, Ahlaklı ve Mutlu Kız Çocuğu Yetiştirmek",
+    "yazar": "Hatice Kübra Tongar",
+    "fiyat": "67,30",
+    "eski_fiyat": "",
+    "yayinevi": "AİLE YAYINLARI",
+    "kitap_hakkinda": "9786259897912 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-10-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11780949/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
     "fiyat": "99,05",
@@ -151,15 +160,6 @@
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259897998 | TÜRKÇE | 72 | Karton Kapak | Kitap Kağıdı 2024-05-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11893170/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Sağlıklı, Ahlaklı ve Mutlu Kız Çocuğu Yetiştirmek",
-    "yazar": "Hatice Kübra Tongar",
-    "fiyat": "67,20",
-    "eski_fiyat": "",
-    "yayinevi": "AİLE YAYINLARI",
-    "kitap_hakkinda": "9786259897912 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-10-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11780949/wi:500/wh:true"
   },
   {
     "kitap_adi": "Seçilmiş & Ya Varsın Ya Yoksun",
@@ -351,6 +351,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11517812/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Tağut & Kutsal Aldanışın Soyağacı",
+    "yazar": "Soner Yalçın",
+    "fiyat": "206,25",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "9786254183072 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2024-06-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903932/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Açlık",
     "yazar": "Knut Hamsun",
     "fiyat": "14,88",
@@ -430,15 +439,6 @@
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11436084/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Tağut & Kutsal Aldanışın Soyağacı",
-    "yazar": "Soner Yalçın",
-    "fiyat": "206,25",
-    "eski_fiyat": "",
-    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
-    "kitap_hakkinda": "9786254183072 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2024-06-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903932/wi:500/wh:true"
   },
   {
     "kitap_adi": "Afrikalı Leo",
@@ -711,15 +711,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11431526/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Beyaz Zambaklar Ülkesinde (Cep Boy) (Tam Metin)",
-    "yazar": "Grigory Petrov",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057860651 | TÜRKÇE | 110 | Karton Kapak | Kitap Kağıdı 2019-05-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435607/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Satranç",
     "yazar": "Stefan Zweig",
     "fiyat": "12,88",
@@ -736,6 +727,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "9782139712061 | TÜRKÇE | 386 | Karton Kapak | Kitap Kağıdı 2019-04-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8667864/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Beyaz Zambaklar Ülkesinde (Cep Boy) (Tam Metin)",
+    "yazar": "Grigory Petrov",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786057860651 | TÜRKÇE | 110 | Karton Kapak | Kitap Kağıdı 2019-05-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435607/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beyaz Geceler",
@@ -1620,13 +1620,13 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318995/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Gece Yarısı Kütüphanesi",
-    "yazar": "Matt Haig",
-    "fiyat": "112,04",
+    "kitap_adi": "Araba Sevdası (Cep Boy) (Tam Metin)",
+    "yazar": "Recaizade Mahmut Ekrem",
+    "fiyat": "9,90",
     "eski_fiyat": "",
-    "yayinevi": "DOMİNGO YAYINEVİ",
-    "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631602/wi:500/wh:true"
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786057829399 | TÜRKÇE | 259 | Karton Kapak | Kitap Kağıdı 2019-05-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372196/wi:500/wh:true"
   },
   {
     "kitap_adi": "Cerrah",
@@ -1726,15 +1726,6 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953157 | TÜRKÇE | 124 | Karton Kapak | Kitap Kağıdı 2013-02-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:285160/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Araba Sevdası (Cep Boy) (Tam Metin)",
-    "yazar": "Recaizade Mahmut Ekrem",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057829399 | TÜRKÇE | 259 | Karton Kapak | Kitap Kağıdı 2019-05-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372196/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hiddet",
@@ -1969,6 +1960,15 @@
     "yayinevi": "DELİDOLU",
     "kitap_hakkinda": "9786257314695 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2022-10-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11611737/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gece Yarısı Kütüphanesi",
+    "yazar": "Matt Haig",
+    "fiyat": "112,04",
+    "eski_fiyat": "",
+    "yayinevi": "DOMİNGO YAYINEVİ",
+    "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631602/wi:500/wh:true"
   },
   {
     "kitap_adi": "Unutma Beni Apartmanı",
@@ -2331,15 +2331,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332416/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İnsanlığımı Yitirirken (Cep Boy) (Tam Metin)",
-    "yazar": "Osamu Dazai",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786256498761 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2023-12-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11809150/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Bu Böyledir",
     "yazar": "Mustafa Kutlu",
     "fiyat": "57,50",
@@ -2376,13 +2367,13 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11348300/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Düşler Atlası",
-    "yazar": "Özgür Balpınar",
-    "fiyat": "73,65",
+    "kitap_adi": "İnsanlığımı Yitirirken (Cep Boy) (Tam Metin)",
+    "yazar": "Osamu Dazai",
+    "fiyat": "9,90",
     "eski_fiyat": "",
-    "yayinevi": "TİMAŞ GENÇ",
-    "kitap_hakkinda": "9786050829181 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2022-03-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11399290/wi:500/wh:true"
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786256498761 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2023-12-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11809150/wi:500/wh:true"
   },
   {
     "kitap_adi": "Morgue Sokağı Cinayetleri (Cep Boy) (Tam Metin)",
@@ -2394,6 +2385,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11436085/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Düşler Atlası",
+    "yazar": "Özgür Balpınar",
+    "fiyat": "73,65",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050829181 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2022-03-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11399290/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Güneşe Koşmak",
     "yazar": "Özgür Balpınar",
     "fiyat": "105,00",
@@ -2401,6 +2401,15 @@
     "yayinevi": "İNDİGO KİTAP",
     "kitap_hakkinda": "9786256772700 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11899877/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Keşke Burada Olsaydın",
+    "yazar": "Jodi Picoult",
+    "fiyat": "152,75",
+    "eski_fiyat": "",
+    "yayinevi": "APRIL YAYINCILIK",
+    "kitap_hakkinda": "Wish You Were Here  | 9786259864341 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2024-06-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902476/wi:500/wh:true"
   },
   {
     "kitap_adi": "Mürebbiye",
@@ -2412,13 +2421,13 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11469086/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Keşke Burada Olsaydın",
-    "yazar": "Jodi Picoult",
-    "fiyat": "152,75",
+    "kitap_adi": "Demir Alev (Ciltli)",
+    "yazar": "Rebecca Yarros",
+    "fiyat": "437,50",
     "eski_fiyat": "",
-    "yayinevi": "APRIL YAYINCILIK",
-    "kitap_hakkinda": "Wish You Were Here  | 9786259864341 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2024-06-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902476/wi:500/wh:true"
+    "yayinevi": "OLİMPOS YAYINLARI",
+    "kitap_hakkinda": "9786256029101 | TÜRKÇE | 944 | Ciltli | Kitap Kağıdı 2024-06-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903054/wi:500/wh:true"
   },
   {
     "kitap_adi": "Morgue Sokağı Cinayetleri",
@@ -2457,13 +2466,13 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902586/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Demir Alev (Ciltli)",
-    "yazar": "Rebecca Yarros",
-    "fiyat": "437,50",
+    "kitap_adi": "Pal Sokağı Çocukları (Cep Boy) (Tam Metin)",
+    "yazar": "Ferenc Molnar",
+    "fiyat": "9,90",
     "eski_fiyat": "",
-    "yayinevi": "OLİMPOS YAYINLARI",
-    "kitap_hakkinda": "9786256029101 | TÜRKÇE | 944 | Ciltli | Kitap Kağıdı 2024-06-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903054/wi:500/wh:true"
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786256976375 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2023-01-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11657221/wi:500/wh:true"
   },
   {
     "kitap_adi": "Toprak Ana",
@@ -2509,15 +2518,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300605 | TÜRKÇE | 62 | Karton Kapak | Kitap Kağıdı 2021-01-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11354477/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Pal Sokağı Çocukları (Cep Boy) (Tam Metin)",
-    "yazar": "Ferenc Molnar",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786256976375 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2023-01-12",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11657221/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yağmur Altında Yüzmek",
@@ -2637,6 +2637,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11897441/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kralın Laneti",
+    "yazar": "Will Heinrich",
+    "fiyat": "119,00",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786257027496 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2024-06-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903813/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Define Adası (Tam Metin, Terimler Sözlüğü ile Birlikte)",
     "yazar": "Robert Louis Stevenson",
     "fiyat": "22,85",
@@ -2664,13 +2673,13 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11854696/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kralın Laneti",
-    "yazar": "Will Heinrich",
-    "fiyat": "119,00",
-    "eski_fiyat": "",
-    "yayinevi": "JAGUAR KİTAP",
-    "kitap_hakkinda": "9786257027496 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2024-06-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903813/wi:500/wh:true"
+    "kitap_adi": "Onca Şeyin Ardından",
+    "yazar": "Osman Aydoğdu",
+    "fiyat": "",
+    "eski_fiyat": "185,00",
+    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
+    "kitap_hakkinda": "9786253912550 | TÜRKÇE | 260 | Karton Kapak | Kitap Kağıdı 2024-06-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903904/wi:500/wh:true"
   },
   {
     "kitap_adi": "Rüzgara Fısıldayan Kadınlar",
@@ -2689,15 +2698,6 @@
     "yayinevi": "APRIL YAYINCILIK",
     "kitap_hakkinda": "9786055162788 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2024-02-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11854695/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Onca Şeyin Ardından",
-    "yazar": "Osman Aydoğdu",
-    "fiyat": "",
-    "eski_fiyat": "185,00",
-    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
-    "kitap_hakkinda": "9786253912550 | TÜRKÇE | 260 | Karton Kapak | Kitap Kağıdı 2024-06-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903904/wi:500/wh:true"
   },
   {
     "kitap_adi": "Üç Yanlış Üç Ceset",
@@ -2725,6 +2725,15 @@
     "yayinevi": "APRIL YAYINCILIK",
     "kitap_hakkinda": "9786055162597 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2018-07-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11334040/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Beş Varlık İklimi / Firdevsi, Hayyam, Mevlana, Sa’di ve Hafız",
+    "yazar": "Daryush Shayegan",
+    "fiyat": "136,81",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786256309395 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2024-06-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905004/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kavgaz - Pilot",
@@ -2761,15 +2770,6 @@
     "yayinevi": "ÖRGER YAYINLARI",
     "kitap_hakkinda": "9786057325839 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2023-01-23",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11661546/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Beş Varlık İklimi / Firdevsi, Hayyam, Mevlana, Sa’di ve Hafız",
-    "yazar": "Daryush Shayegan",
-    "fiyat": "136,81",
-    "eski_fiyat": "",
-    "yayinevi": "KETEBE YAYINEVİ",
-    "kitap_hakkinda": "9786256309395 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2024-06-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905004/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yağmur Adam",
@@ -2952,15 +2952,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11455589/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
-    "yazar": "Oğuz Atay",
-    "fiyat": "254,20",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462655/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Martin Eden (Beyaz Kapak)",
     "yazar": "Jack London",
     "fiyat": "85,00",
@@ -2977,6 +2968,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1135132/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
+    "yazar": "Oğuz Atay",
+    "fiyat": "254,30",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462655/wi:500/wh:true"
   },
   {
     "kitap_adi": "Fedailerin Kalesi Alamut",
@@ -3267,15 +3267,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711429/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İnsan Nedir? (Cep Boy) (Tam Metin)",
-    "yazar": "Mark Twain",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "What is Man? | 9786057803221 | TÜRKÇE | 137 | Karton Kapak | Kitap Kağıdı 2019-07-19",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11567739/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Beyaz Zambaklar Ülkesinde (Atatürk'ün Askerlere Tavsiye Ettiği Kitap)",
     "yazar": "Grigory Petrov",
     "fiyat": "19,50",
@@ -3319,6 +3310,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753634755 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2019-11-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:12211/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnsan Nedir? (Cep Boy) (Tam Metin)",
+    "yazar": "Mark Twain",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "What is Man? | 9786057803221 | TÜRKÇE | 137 | Karton Kapak | Kitap Kağıdı 2019-07-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11567739/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yalan Dolan",
@@ -3735,15 +3735,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11417065/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yeraltından Notlar (Cep Boy) (Tam Metin)",
-    "yazar": "Fyodor Mihailoviç Dostoyevski",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "Записки Из Подполья | 9786257185400 | TÜRKÇE | 157 | Karton Kapak | Kitap Kağıdı 2020-08-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372281/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Ruh Adam",
     "yazar": "Hüseyin Nihal Atsız",
     "fiyat": "143,26",
@@ -3778,6 +3769,15 @@
     "yayinevi": "KLAN YAYINLARI",
     "kitap_hakkinda": "9789756388020 | TÜRKÇE | 246 | Karton Kapak | Kitap Kağıdı 2013-09-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11882302/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yeraltından Notlar (Cep Boy) (Tam Metin)",
+    "yazar": "Fyodor Mihailoviç Dostoyevski",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "Записки Из Подполья | 9786257185400 | TÜRKÇE | 157 | Karton Kapak | Kitap Kağıdı 2020-08-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372281/wi:500/wh:true"
   },
   {
     "kitap_adi": "Surname & Bir Osmanlı Macerası",
@@ -3816,6 +3816,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435856/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Zaman Makinesi (Cep Boy) (Tam Metin)",
+    "yazar": "Herbert George Wells",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786057829474 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2019-05-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372291/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Yarın Yok",
     "yazar": "Ayşe Kulin",
     "fiyat": "100,17",
@@ -3841,15 +3850,6 @@
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870226/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Zaman Makinesi (Cep Boy) (Tam Metin)",
-    "yazar": "Herbert George Wells",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057829474 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2019-05-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372291/wi:500/wh:true"
   },
   {
     "kitap_adi": "Rüzgarı Dizginleyen Çocuk",
@@ -3996,15 +3996,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11513182/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kızılderili Masalları (Cep Boy) (Tam Metin)",
-    "yazar": "",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786257185189 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2020-08-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11259649/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Pal Sokağı Çocukları (Ciltli, İplik Dikişli)",
     "yazar": "Ferenc Molnar",
     "fiyat": "44,85",
@@ -4041,6 +4032,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11800402/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Kızılderili Masalları (Cep Boy) (Tam Metin)",
+    "yazar": "",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786257185189 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2020-08-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11259649/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Masal Masal İçinde",
     "yazar": "Ahmet Ümit",
     "fiyat": "72,10",
@@ -4066,6 +4066,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753639019 | TÜRKÇE | 161 | Karton Kapak | Kitap Kağıdı 2020-07-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:76484/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Öteki (Cep Boy) (Tam Metin)",
+    "yazar": "Fyodor Mihailoviç Dostoyevski",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786057829382 | TÜRKÇE | 191 | Karton Kapak | Kitap Kağıdı 2019-05-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372200/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yüzüklerin Efendisi (Tek Cilt)",
@@ -4095,15 +4104,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11346973/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Öteki (Cep Boy) (Tam Metin)",
-    "yazar": "Fyodor Mihailoviç Dostoyevski",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057829382 | TÜRKÇE | 191 | Karton Kapak | Kitap Kağıdı 2019-05-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372200/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Göktürk Kitabeleri (Cep Boy)",
     "yazar": "Anonim",
     "fiyat": "9,90",
@@ -4120,6 +4120,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750755958 | TÜRKÇE | 56 | Karton Kapak | Kitap Kağıdı 2022-01-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621389/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Babalar ve Oğullar (Cep Boy) (Tam Metin)",
+    "yazar": "Ivan Sergeyeviç Turgenyev",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786057829511 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2019-05-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372280/wi:500/wh:true"
   },
   {
     "kitap_adi": "Değirmen",
@@ -4140,13 +4149,13 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755781/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Babalar ve Oğullar (Cep Boy) (Tam Metin)",
-    "yazar": "Ivan Sergeyeviç Turgenyev",
+    "kitap_adi": "Dava (Cep Boy) (Tam Metin)",
+    "yazar": "Franz Kafka",
     "fiyat": "9,90",
     "eski_fiyat": "",
     "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057829511 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2019-05-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372280/wi:500/wh:true"
+    "kitap_hakkinda": "9786057829085 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-05-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435686/wi:500/wh:true"
   },
   {
     "kitap_adi": "Taş Kağıt Makas",
@@ -4183,15 +4192,6 @@
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "9786050838374 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-08-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11632269/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Dava (Cep Boy) (Tam Metin)",
-    "yazar": "Franz Kafka",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057829085 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-05-24",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435686/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kendine Ait Bir Oda (Cep Boy) (Tam Metin)",
@@ -4248,15 +4248,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487005/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Genç Werther'in Acıları (Cep Boy) (Tam Metin)",
-    "yazar": "Johann Wolfgang Goethe",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057860873 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2019-05-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435832/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Zürafa Sözü",
     "yazar": "Anıl Basılı",
     "fiyat": "65,49",
@@ -4266,13 +4257,13 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11343936/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Görünmez Adam (Cep Boy) (Tam Metin)",
-    "yazar": "Herbert George Wells",
+    "kitap_adi": "Genç Werther'in Acıları (Cep Boy) (Tam Metin)",
+    "yazar": "Johann Wolfgang Goethe",
     "fiyat": "9,90",
     "eski_fiyat": "",
     "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057860897 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2019-05-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372198/wi:500/wh:true"
+    "kitap_hakkinda": "9786057860873 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2019-05-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435832/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beyoğlu’nun En Güzel Abisi",
@@ -4309,6 +4300,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258076806 | TÜRKÇE | 250 | Ciltli | Kitap Kağıdı 2022-07-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11589493/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Görünmez Adam (Cep Boy) (Tam Metin)",
+    "yazar": "Herbert George Wells",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786057860897 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2019-05-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372198/wi:500/wh:true"
   },
   {
     "kitap_adi": "Az",
@@ -4455,15 +4455,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435946/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Olağanüstü Bir Gece (Cep Boy) (Tam Metin)",
-    "yazar": "Stefan Zweig",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057860408 | TÜRKÇE | 63 | Karton Kapak | Kitap Kağıdı 2019-05-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11436077/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "İnsancıklar (Ciltli, İplik Dikişli)",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "44,85",
@@ -4471,6 +4462,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258076509 | TÜRKÇE | 176 | Ciltli | Kitap Kağıdı 2022-07-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11590395/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Olağanüstü Bir Gece (Cep Boy) (Tam Metin)",
+    "yazar": "Stefan Zweig",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786057860408 | TÜRKÇE | 63 | Karton Kapak | Kitap Kağıdı 2019-05-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11436077/wi:500/wh:true"
   },
   {
     "kitap_adi": "Botter Apartmanı",
