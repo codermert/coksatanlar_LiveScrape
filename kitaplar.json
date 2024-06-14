@@ -785,7 +785,7 @@
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
-    "fiyat": "77,94",
+    "fiyat": "78,04",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -2799,15 +2799,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905514/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Dragos",
-    "yazar": "İpek Özbey",
-    "fiyat": "103,13",
-    "eski_fiyat": "",
-    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
-    "kitap_hakkinda": "9786254183065 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-06-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904860/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Makrokozmos Öyküleri",
     "yazar": "Güray Süngü",
     "fiyat": "129,94",
@@ -2815,6 +2806,15 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256309357 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2024-06-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905005/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dragos",
+    "yazar": "İpek Özbey",
+    "fiyat": "103,13",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "9786254183065 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-06-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904860/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yaşamak",
