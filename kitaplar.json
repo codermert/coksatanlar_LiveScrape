@@ -137,7 +137,7 @@
   {
     "kitap_adi": "Algernon'a Çiçekler",
     "yazar": "Daniel Keyes",
-    "fiyat": "99,05",
+    "fiyat": "98,75",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
@@ -524,7 +524,7 @@
   {
     "kitap_adi": "Cehaletten Kurtulma Sanatı & Kim Kimdir?",
     "yazar": "A. M. Celal Şengör",
-    "fiyat": "129,70",
+    "fiyat": "129,40",
     "eski_fiyat": "",
     "yayinevi": "MASA KİTAP",
     "kitap_hakkinda": "9786259454214 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-04-18",
@@ -2385,15 +2385,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11781199/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Sonun Başlangıcı",
-    "yazar": "Mehmet Ali Bulut",
-    "fiyat": "137,50",
-    "eski_fiyat": "",
-    "yayinevi": "HAYAT YAYINLARI",
-    "kitap_hakkinda": "9786051514758 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2024-05-31",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902586/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Güneşe Koşmak",
     "yazar": "Özgür Balpınar",
     "fiyat": "105,00",
@@ -2401,6 +2392,15 @@
     "yayinevi": "İNDİGO KİTAP",
     "kitap_hakkinda": "9786256772700 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11899877/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sonun Başlangıcı",
+    "yazar": "Mehmet Ali Bulut",
+    "fiyat": "137,50",
+    "eski_fiyat": "",
+    "yayinevi": "HAYAT YAYINLARI",
+    "kitap_hakkinda": "9786051514758 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2024-05-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902586/wi:500/wh:true"
   },
   {
     "kitap_adi": "Anton Çehov Seti (6 Kitap)",
