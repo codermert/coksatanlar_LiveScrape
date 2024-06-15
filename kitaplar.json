@@ -2655,15 +2655,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11486231/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kralın Laneti",
-    "yazar": "Will Heinrich",
-    "fiyat": "119,00",
-    "eski_fiyat": "",
-    "yayinevi": "JAGUAR KİTAP",
-    "kitap_hakkinda": "9786257027496 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2024-06-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903813/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Dragos",
     "yazar": "İpek Özbey",
     "fiyat": "103,13",
@@ -2671,6 +2662,15 @@
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254183065 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-06-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904860/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kralın Laneti",
+    "yazar": "Will Heinrich",
+    "fiyat": "119,00",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786257027496 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2024-06-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903813/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sular Yükselirken",
