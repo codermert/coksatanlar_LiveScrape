@@ -3798,15 +3798,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11360926/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İçimizdeki Şeytan (Cep Boy) (Tam Metin)",
-    "yazar": "Sabahattin Ali",
-    "fiyat": "9,90",
-    "eski_fiyat": "",
-    "yayinevi": "KARBON KİTAPLAR",
-    "kitap_hakkinda": "9786057860859 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-05-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435856/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Yarın Yok",
     "yazar": "Ayşe Kulin",
     "fiyat": "100,17",
@@ -3814,6 +3805,15 @@
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9786051859859 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-05-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11862293/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İçimizdeki Şeytan (Cep Boy) (Tam Metin)",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786057860859 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-05-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435856/wi:500/wh:true"
   },
   {
     "kitap_adi": "Huzursuzluğun Kitabı",
