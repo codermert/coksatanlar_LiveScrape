@@ -2664,6 +2664,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318993/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Çarpık Evdeki Cesetler",
+    "yazar": "Agatha Christie",
+    "fiyat": "116,05",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "9789754052213 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2023-10-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787004/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Esrar-ı Cinayat (Cinayetlerin Sırları)",
     "yazar": "Ahmet Mithat Efendi",
     "fiyat": "22,85",
@@ -2707,6 +2716,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257361576 | TÜRKÇE | 72 | Karton Kapak | Kitap Kağıdı 2021-04-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11396650/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Almodovar Teoremi",
+    "yazar": "Antoni Casas Ros",
+    "fiyat": "96,00",
+    "eski_fiyat": "",
+    "yayinevi": "SEL YAYINCILIK",
+    "kitap_hakkinda": "9789755704067 | TÜRKÇE | 112 | Karton Kapak | 2. Hm. Kağıt 2024-02-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11850610/wi:500/wh:true"
   },
   {
     "kitap_adi": "Karanlıkta Parlayan Pencereler",
@@ -4300,6 +4318,15 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Buch der Enttäuschungen | 9789753426664 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2024-02-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11327377/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yaşamın Ucuna Yolculuk",
+    "yazar": "Tezer Özlü",
+    "fiyat": "56,93",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789753631549 | TÜRKÇE | 126 | Karton Kapak | 3. Hm. Kağıt 2022-06-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:90695/wi:500/wh:true"
   },
   {
     "kitap_adi": "Harika Bir Hayat",
