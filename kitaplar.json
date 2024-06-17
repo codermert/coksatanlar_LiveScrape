@@ -2790,6 +2790,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903857/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sağanak Altında",
+    "yazar": "Jean Teule",
+    "fiyat": "87,00",
+    "eski_fiyat": "",
+    "yayinevi": "SEL YAYINCILIK",
+    "kitap_hakkinda": "9786256462410 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-06-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905499/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Yaşamak",
     "yazar": "Yu Hua",
     "fiyat": "93,05",
@@ -3404,7 +3413,7 @@
   {
     "kitap_adi": "Kapak Kızı",
     "yazar": "Ayfer Tunç",
-    "fiyat": "118,90",
+    "fiyat": "119,00",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750747045 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2021-09-27",
@@ -4156,6 +4165,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "9786057860873 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2019-05-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11435832/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Orta Zekalılar Cenneti",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "117,20",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751041630 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2021-03-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11380333/wi:500/wh:true"
   },
   {
     "kitap_adi": "Körburun",
