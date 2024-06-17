@@ -2385,6 +2385,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11749333/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Parasız Yatılı",
+    "yazar": "Füruzan",
+    "fiyat": "90,60",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789753634830 | TÜRKÇE | 158 | Karton Kapak | Kitap Kağıdı 2024-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1052558/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Gizemli Yeraltı Kütüphanesi - Yapışkan Görev",
     "yazar": "Abie Longstaff",
     "fiyat": "61,25",
@@ -2718,6 +2727,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11426062/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Çocuk Kayık ve Canavar",
+    "yazar": "Samantha M. Clark",
+    "fiyat": "98,20",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "The Boy | 9786050831924 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2020-05-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11439099/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Acaibu'l Makdur (Bozkırdan Gelen Bela)",
     "yazar": "İbni Arabşah",
     "fiyat": "236,81",
@@ -2743,6 +2761,15 @@
     "yayinevi": "MASA KİTAP",
     "kitap_hakkinda": "9786259454238 | TÜRKÇE | 236 | Karton Kapak | Kitap Kağıdı 2024-06-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904842/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ten ve Ateş 2 / Alevdeki Işık",
+    "yazar": "Jennifer L. Armentrout",
+    "fiyat": "245,00",
+    "eski_fiyat": "",
+    "yayinevi": "DEX KİTAP",
+    "kitap_hakkinda": "9786256932692 | TÜRKÇE | 688 | Karton Kapak | Kitap Kağıdı 2024-06-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903857/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yaşamak",
@@ -2774,7 +2801,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "94,03",
+    "fiyat": "94,60",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
