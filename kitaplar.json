@@ -2637,6 +2637,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11900581/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yalnız Efe",
+    "yazar": "Ömer Seyfettin",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786258281439 | TÜRKÇE | 61 | Karton Kapak | Kitap Kağıdı 2023-01-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11657228/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Üç Yıl",
     "yazar": "Anton Çehov",
     "fiyat": "12,88",
@@ -2662,6 +2671,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050844085 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-02-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11807949/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Ölünün Defteri",
+    "yazar": "Halid Ziya Uşaklıgil",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257419451 | TÜRKÇE | 135 | Karton Kapak | Kitap Kağıdı 2021-09-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11451043/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sihirli Ağaç Evi - Çizgi Roman 3: Piramidin Sırrı",
