@@ -596,7 +596,7 @@
   {
     "kitap_adi": "Kalpsizler",
     "yazar": "Kerilynn Wilson",
-    "fiyat": "209,50",
+    "fiyat": "209,60",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050847642 | TÜRKÇE | 304 | Ciltli | Kitap Kağıdı 2023-06-14",
@@ -927,15 +927,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345523/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Her Şeyin Hikayesi",
-    "yazar": "Richard Powers",
-    "fiyat": "210,20",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Overstory | 9786052653357 | TÜRKÇE | 584 | Karton Kapak | Kitap Kağıdı 2024-04-30",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11884614/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Bir Delinin Hatıra Defteri - Portre",
     "yazar": "Nikolay Vasilievich Gogol",
     "fiyat": "12,88",
@@ -1006,6 +997,15 @@
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920429 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2022-11-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11632136/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Her Şeyin Hikayesi",
+    "yazar": "Richard Powers",
+    "fiyat": "210,20",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Overstory | 9786052653357 | TÜRKÇE | 584 | Karton Kapak | Kitap Kağıdı 2024-04-30",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11884614/wi:500/wh:true"
   },
   {
     "kitap_adi": "Aklımda Bir Yer Var",
@@ -3143,7 +3143,7 @@
   {
     "kitap_adi": "Görmek",
     "yazar": "Jose Saramago",
-    "fiyat": "142,13",
+    "fiyat": "178,75",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "Ensaio sobre a Lucidez | 9786052981320 | TÜRKÇE | 324 | Karton Kapak | Kitap Kağıdı 2019-10-23",
@@ -4068,15 +4068,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11634574/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yılanı Öldürseler",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "53,76",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97154/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Babalar ve Oğullar (Cep Boy) (Tam Metin)",
     "yazar": "Ivan Sergeyeviç Turgenyev",
     "fiyat": "9,90",
@@ -4102,6 +4093,15 @@
     "yayinevi": "YAKAMOZ YAYINCILIK",
     "kitap_hakkinda": "9786052971871 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2022-01-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11508941/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yılanı Öldürseler",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "53,76",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807046 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2020-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:97154/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gelecek Ekspresi & Çöp Dünya",
