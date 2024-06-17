@@ -4257,6 +4257,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1010849/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Uygarlıkların Batışı",
+    "yazar": "Amin Maalouf",
+    "fiyat": "75,90",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750845895 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2019-11-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:9989964/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Veba Geceleri",
     "yazar": "Orhan Pamuk",
     "fiyat": "137,71",
@@ -4273,6 +4282,24 @@
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9789758950379 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2023-11-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11777921/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Veba",
+    "yazar": "Albert Camus",
+    "fiyat": "155,70",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748707 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2024-01-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11839060/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Hayal Kırıklıkları Kitabı",
+    "yazar": "Margit Schreiner",
+    "fiyat": "83,90",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "Buch der Enttäuschungen | 9789753426664 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2024-02-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11327377/wi:500/wh:true"
   },
   {
     "kitap_adi": "Harika Bir Hayat",
