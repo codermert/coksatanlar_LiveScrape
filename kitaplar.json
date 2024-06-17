@@ -1503,15 +1503,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11419336/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kızıl Elma",
-    "yazar": "Ziya Gökalp",
-    "fiyat": "14,88",
-    "eski_fiyat": "",
-    "yayinevi": "KAPRA YAYINCILIK",
-    "kitap_hakkinda": "9786257361002 | TÜRKÇE | 166 | Karton Kapak | Kitap Kağıdı 2021-03-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372350/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Araba Sevdası (Cep Boy) (Tam Metin)",
     "yazar": "Recaizade Mahmut Ekrem",
     "fiyat": "9,90",
@@ -1600,6 +1591,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258281323 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2023-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11657843/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kızıl Elma",
+    "yazar": "Ziya Gökalp",
+    "fiyat": "14,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257361002 | TÜRKÇE | 166 | Karton Kapak | Kitap Kağıdı 2021-03-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372350/wi:500/wh:true"
   },
   {
     "kitap_adi": "Nasıl Ölünür",
