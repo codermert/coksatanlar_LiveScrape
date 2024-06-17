@@ -2718,6 +2718,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11396650/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Karamazov Kardeşler 1",
+    "yazar": "Fyodor Mihailoviç Dostoyevski",
+    "fiyat": "67,20",
+    "eski_fiyat": "",
+    "yayinevi": "İSKELE YAYINCILIK",
+    "kitap_hakkinda": "9789759099589 | TÜRKÇE | 455 | Karton Kapak | Kitap Kağıdı 2005-07-31",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10882883/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Almodovar Teoremi",
     "yazar": "Antoni Casas Ros",
     "fiyat": "96,00",
@@ -2763,6 +2772,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11679951/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Aynalar",
+    "yazar": "Eduardo Galeano",
+    "fiyat": "191,90",
+    "eski_fiyat": "",
+    "yayinevi": "SEL YAYINCILIK",
+    "kitap_hakkinda": "9789755704371 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2023-10-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783827/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sultan Mehmet'in Casusları",
     "yazar": "Halil Yaşar Kollu",
     "fiyat": "97,50",
@@ -2790,6 +2808,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903857/wi:500/wh:true"
   },
   {
+    "kitap_adi": "İşaret",
+    "yazar": "Frida Isberg",
+    "fiyat": "106,80",
+    "eski_fiyat": "",
+    "yayinevi": "DOMİNGO YAYINEVİ",
+    "kitap_hakkinda": "9786051983370 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2024-06-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902425/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sağanak Altında",
     "yazar": "Jean Teule",
     "fiyat": "87,00",
@@ -2797,6 +2824,15 @@
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "9786256462410 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-06-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905499/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bana Sarı De",
+    "yazar": "Recep Şurgun",
+    "fiyat": "",
+    "eski_fiyat": "114,00",
+    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
+    "kitap_hakkinda": "9786253914189 | TÜRKÇE | 162 | Karton Kapak | Kitap Kağıdı 2024-06-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905515/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yaşamak",
