@@ -2846,7 +2846,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "96,10",
+    "fiyat": "96,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -2864,7 +2864,7 @@
   {
     "kitap_adi": "Puslu Kıtalar Atlası",
     "yazar": "İhsan Oktay Anar",
-    "fiyat": "133,67",
+    "fiyat": "133,77",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
@@ -4174,15 +4174,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753635103 | TÜRKÇE | 263 | Karton Kapak | Kitap Kağıdı 2020-04-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11205770/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ateşten Gömlek",
-    "yazar": "Halide Edib Adıvar",
-    "fiyat": "110,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750723322 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2019-06-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481508/wi:500/wh:true"
   },
   {
     "kitap_adi": "Müslümanca Düşünme Üzerine Denemeler",
