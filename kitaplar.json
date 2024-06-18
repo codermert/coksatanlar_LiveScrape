@@ -3125,7 +3125,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "204,22",
+    "fiyat": "204,76",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -3233,7 +3233,7 @@
   {
     "kitap_adi": "Tatar Çölü",
     "yazar": "Dino Buzzati",
-    "fiyat": "134,30",
+    "fiyat": "134,40",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754701258 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-08-03",
@@ -4041,15 +4041,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11839050/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Taş Kağıt Makas",
-    "yazar": "Alice Feeney",
-    "fiyat": "126,00",
-    "eski_fiyat": "",
-    "yayinevi": "YABANCI YAYINLARI",
-    "kitap_hakkinda": "9786258387711 | TÜRKÇE | 312 | Karton Kapak | Kitap Kağıdı 2023-03-22",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11799807/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Gül Yetiştiren Adam",
     "yazar": "Rasim Özdenören",
     "fiyat": "114,40",
@@ -4093,15 +4084,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750852084 | TÜRKÇE | 28 | Karton Kapak | Kitap Kağıdı 2022-02-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11518715/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Badem Ağacı",
-    "yazar": "Michele Cohen Corasanti",
-    "fiyat": "164,65",
-    "eski_fiyat": "",
-    "yayinevi": "PEGASUS YAYINLARI",
-    "kitap_hakkinda": "9786053434788 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2015-04-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1016159/wi:500/wh:true"
   },
   {
     "kitap_adi": "Tiamat (Karton Kapak)",
