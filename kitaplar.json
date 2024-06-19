@@ -504,15 +504,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11349917/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İnce Memed 2",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "193,24",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807176 | TÜRKÇE | 459 | Karton Kapak | Kitap Kağıdı 2020-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:100877/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "On Kişiydiler (On Küçük Zenci)",
     "yazar": "Agatha Christie",
     "fiyat": "101,72",
@@ -520,6 +511,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "And Then There None | 9789752126169 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-08-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11356189/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnce Memed 2",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "193,24",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807176 | TÜRKÇE | 459 | Karton Kapak | Kitap Kağıdı 2020-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:100877/wi:500/wh:true"
   },
   {
     "kitap_adi": "Mai ve Siyah",
@@ -1620,15 +1620,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11656216/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Beni Asla Bırakma",
-    "yazar": "Kazuo Ishiguro",
-    "fiyat": "94,88",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750811876 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2024-03-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4745345/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Nasıl Ölünür",
     "yazar": "Emile Zola",
     "fiyat": "12,88",
@@ -1645,6 +1636,15 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256999138 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2022-12-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641420/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Beni Asla Bırakma",
+    "yazar": "Kazuo Ishiguro",
+    "fiyat": "94,88",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750811876 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2024-03-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4745345/wi:500/wh:true"
   },
   {
     "kitap_adi": "Siyah İnci",
@@ -2286,15 +2286,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1052558/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Tom Sawyer’ın Maceraları",
-    "yazar": "Mark Twain",
-    "fiyat": "22,85",
-    "eski_fiyat": "",
-    "yayinevi": "KAPRA YAYINCILIK",
-    "kitap_hakkinda": "9786257784689 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2020-11-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318988/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Fare Kapanı",
     "yazar": "Agatha Christie",
     "fiyat": "86,48",
@@ -2329,6 +2320,15 @@
     "yayinevi": "GÜNIŞIĞI KİTAPLIĞI",
     "kitap_hakkinda": "9789944717656 | TÜRKÇE | 92 | Karton Kapak | Kuşe Kağıt 2019-10-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:16293/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Tom Sawyer’ın Maceraları",
+    "yazar": "Mark Twain",
+    "fiyat": "22,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257784689 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2020-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318988/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çukurlar",
@@ -3051,6 +3051,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11857267/wi:500/wh:true"
   },
   {
+    "kitap_adi": "İnce Memed 3",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "206,38",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:106052/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
     "fiyat": "26,10",
@@ -3067,15 +3076,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Vamós Aquecer o Sol | 9789750739071 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-08-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11854074/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "İnce Memed 3",
-    "yazar": "Yaşar Kemal",
-    "fiyat": "206,38",
-    "eski_fiyat": "",
-    "yayinevi": "YAPI KREDİ YAYINLARI",
-    "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:106052/wi:500/wh:true"
   },
   {
     "kitap_adi": "Seyir",
@@ -3384,15 +3384,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11779396/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Dune",
-    "yazar": "Frank Herbert",
-    "fiyat": "234,20",
-    "eski_fiyat": "",
-    "yayinevi": "İTHAKİ YAYINLARI",
-    "kitap_hakkinda": "Dune | 9786053754794 | TÜRKÇE | 712 | Karton Kapak | Kitap Kağıdı 2021-09-08",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11494736/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Doğunun Limanları",
     "yazar": "Amin Maalouf",
     "fiyat": "85,85",
@@ -3427,6 +3418,15 @@
     "yayinevi": "TİYO YAYINLARI",
     "kitap_hakkinda": "9786056323942 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2013-06-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:228410/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dune",
+    "yazar": "Frank Herbert",
+    "fiyat": "234,20",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "Dune | 9786053754794 | TÜRKÇE | 712 | Karton Kapak | Kitap Kağıdı 2021-09-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11494736/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gülün Adı (Ciltsiz)",
