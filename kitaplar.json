@@ -3251,7 +3251,7 @@
   {
     "kitap_adi": "Sıfır Noktasındaki Kadın",
     "yazar": "Neval el-Saadavi",
-    "fiyat": "87,10",
+    "fiyat": "87,20",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Woman at Point Zero | 9789753421959 | TÜRKÇE | 112 | Karton Kapak | 3. Hm. Kağıt 2023-05-09",
@@ -3897,15 +3897,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10917254/wi:500/wh:true"
   },
   {
-    "kitap_adi": "İki Kule Yüzüklerin Efendisi 2",
-    "yazar": "J. R. R. Tolkien",
-    "fiyat": "202,03",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "The Two Towers | 9789753421812 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2021-09-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11758052/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Zavallılar",
     "yazar": "Alasdair Gray",
     "fiyat": "144,20",
@@ -3913,6 +3904,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Poor Things | 9786052652633 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2024-02-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11840880/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İki Kule Yüzüklerin Efendisi 2",
+    "yazar": "J. R. R. Tolkien",
+    "fiyat": "202,03",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "The Two Towers | 9789753421812 | TÜRKÇE | 432 | Karton Kapak | Kitap Kağıdı 2021-09-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11758052/wi:500/wh:true"
   },
   {
     "kitap_adi": "Masal Masal İçinde",
