@@ -2709,15 +2709,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11899106/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Bana Sarı De",
-    "yazar": "Recep Şurgun",
-    "fiyat": "",
-    "eski_fiyat": "114,00",
-    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
-    "kitap_hakkinda": "9786253914189 | TÜRKÇE | 162 | Karton Kapak | Kitap Kağıdı 2024-06-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905515/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Ateşpare -6 Hediyeli Özel Kutu",
     "yazar": "Ceren Melek",
     "fiyat": "256,69",
@@ -2725,6 +2716,15 @@
     "yayinevi": "EPHESUS YAYINLARI",
     "kitap_hakkinda": "2100000000326 | TÜRKÇE | 576 | Ciltli | Kitap Kağıdı 2024-06-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905814/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bana Sarı De",
+    "yazar": "Recep Şurgun",
+    "fiyat": "",
+    "eski_fiyat": "114,00",
+    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
+    "kitap_hakkinda": "9786253914189 | TÜRKÇE | 162 | Karton Kapak | Kitap Kağıdı 2024-06-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905515/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kabe'ye Mektuplar",
@@ -2772,15 +2772,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905716/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Zamanın İzinde Hikayeler / Mültekatü’l-Hikayat",
-    "yazar": "Ebul Ferec İbnul Cevzi",
-    "fiyat": "57,20",
-    "eski_fiyat": "",
-    "yayinevi": "İNSAN YAYINLARI",
-    "kitap_hakkinda": "9786258314977 | TÜRKÇE | 74 | Karton Kapak | Kitap Kağıdı 2024-06-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905818/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Yetmişlerin İlk Baharı",
     "yazar": "Musa Çatkaya",
     "fiyat": "",
@@ -2788,6 +2779,15 @@
     "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
     "kitap_hakkinda": "9786253913687 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2024-06-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905883/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zamanın İzinde Hikayeler / Mültekatü’l-Hikayat",
+    "yazar": "Ebul Ferec İbnul Cevzi",
+    "fiyat": "57,20",
+    "eski_fiyat": "",
+    "yayinevi": "İNSAN YAYINLARI",
+    "kitap_hakkinda": "9786258314977 | TÜRKÇE | 74 | Karton Kapak | Kitap Kağıdı 2024-06-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905818/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yaşamak",
