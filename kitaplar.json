@@ -101,7 +101,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "106,62",
+    "fiyat": "106,72",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -425,7 +425,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "74,98",
+    "fiyat": "75,08",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -452,7 +452,7 @@
   {
     "kitap_adi": "Seçilmiş & Ya Varsın Ya Yoksun",
     "yazar": "Umut Bayrak",
-    "fiyat": "60,20",
+    "fiyat": "62,50",
     "eski_fiyat": "",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259467801 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2024-05-13",
@@ -2828,7 +2828,7 @@
   {
     "kitap_adi": "Şeker Portakalı (Ciltsiz)",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "96,10",
+    "fiyat": "96,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 182 | Karton Kapak | Kitap Kağıdı 2019-09-06",
@@ -2927,7 +2927,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "171,30",
+    "fiyat": "171,40",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -3787,6 +3787,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750835605 | TÜRKÇE | 204 | Karton Kapak | Kitap Kağıdı 2019-09-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1145418/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kirpinin Zarafeti",
+    "yazar": "Muriel Barbery",
+    "fiyat": "115,50",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "9786054927821 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2020-07-29",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11518791/wi:500/wh:true"
   },
   {
     "kitap_adi": "Zorba (Ciltsiz)",
