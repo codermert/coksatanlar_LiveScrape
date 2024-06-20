@@ -792,15 +792,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11894137/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Olasılıksız",
-    "yazar": "Adam Fawer",
-    "fiyat": "181,13",
-    "eski_fiyat": "",
-    "yayinevi": "APRIL YAYINCILIK",
-    "kitap_hakkinda": "9789756006054 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-09-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11765595/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Beyaz Geceler",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "12,88",
@@ -817,6 +808,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751520 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2021-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345523/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Olasılıksız",
+    "yazar": "Adam Fawer",
+    "fiyat": "181,13",
+    "eski_fiyat": "",
+    "yayinevi": "APRIL YAYINCILIK",
+    "kitap_hakkinda": "9789756006054 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-09-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11765595/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beş Şehir",
