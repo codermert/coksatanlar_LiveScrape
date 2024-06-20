@@ -182,7 +182,7 @@
   {
     "kitap_adi": "Labirent & Batı ve Hasımları",
     "yazar": "Amin Maalouf",
-    "fiyat": "118,50",
+    "fiyat": "118,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750862427 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2024-03-11",
@@ -209,7 +209,7 @@
   {
     "kitap_adi": "Karanlık Orman",
     "yazar": "Cixin Liu",
-    "fiyat": "196,70",
+    "fiyat": "196,80",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
@@ -2628,15 +2628,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11885664/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Çirkin Kadınlar İçin Hayatta Kalma Rehberi",
-    "yazar": "Ceren Ceran",
-    "fiyat": "165,00",
-    "eski_fiyat": "",
-    "yayinevi": "MASA KİTAP",
-    "kitap_hakkinda": "9786259454238 | TÜRKÇE | 236 | Karton Kapak | Kitap Kağıdı 2024-06-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904842/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Sağanak Altında",
     "yazar": "Jean Teule",
     "fiyat": "87,00",
@@ -2644,6 +2635,15 @@
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "9786256462410 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-06-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905499/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Çirkin Kadınlar İçin Hayatta Kalma Rehberi",
+    "yazar": "Ceren Ceran",
+    "fiyat": "165,00",
+    "eski_fiyat": "",
+    "yayinevi": "MASA KİTAP",
+    "kitap_hakkinda": "9786259454238 | TÜRKÇE | 236 | Karton Kapak | Kitap Kağıdı 2024-06-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904842/wi:500/wh:true"
   },
   {
     "kitap_adi": "Arafta",
@@ -2954,7 +2954,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "256,50",
+    "fiyat": "255,20",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
