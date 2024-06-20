@@ -2628,15 +2628,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11885664/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Çirkin Kadınlar İçin Hayatta Kalma Rehberi",
-    "yazar": "Ceren Ceran",
-    "fiyat": "165,00",
-    "eski_fiyat": "",
-    "yayinevi": "MASA KİTAP",
-    "kitap_hakkinda": "9786259454238 | TÜRKÇE | 236 | Karton Kapak | Kitap Kağıdı 2024-06-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904842/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Sağanak Altında",
     "yazar": "Jean Teule",
     "fiyat": "87,00",
@@ -2644,6 +2635,15 @@
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "9786256462410 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-06-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905499/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Çirkin Kadınlar İçin Hayatta Kalma Rehberi",
+    "yazar": "Ceren Ceran",
+    "fiyat": "165,00",
+    "eski_fiyat": "",
+    "yayinevi": "MASA KİTAP",
+    "kitap_hakkinda": "9786259454238 | TÜRKÇE | 236 | Karton Kapak | Kitap Kağıdı 2024-06-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904842/wi:500/wh:true"
   },
   {
     "kitap_adi": "Arafta",
