@@ -3422,7 +3422,7 @@
   {
     "kitap_adi": "Beş Şehir",
     "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "121,30",
+    "fiyat": "121,40",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
@@ -3895,15 +3895,6 @@
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9789752893566 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2024-03-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11865671/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ateşten Gömlek",
-    "yazar": "Halide Edib Adıvar",
-    "fiyat": "110,70",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750723322 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2019-06-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481508/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çarpık Evdeki Cesetler",
