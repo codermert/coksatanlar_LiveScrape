@@ -236,7 +236,7 @@
   {
     "kitap_adi": "Labirent & Batı ve Hasımları",
     "yazar": "Amin Maalouf",
-    "fiyat": "118,70",
+    "fiyat": "118,80",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750862427 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2024-03-11",
@@ -380,7 +380,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "66,40",
+    "fiyat": "66,50",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
@@ -434,7 +434,7 @@
   {
     "kitap_adi": "Karanlık Orman",
     "yazar": "Cixin Liu",
-    "fiyat": "196,80",
+    "fiyat": "196,90",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
@@ -2666,7 +2666,7 @@
   {
     "kitap_adi": "Dokunmadan",
     "yazar": "Nermin Yıldırım",
-    "fiyat": "99,00",
+    "fiyat": "123,75",
     "eski_fiyat": "",
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920429 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2022-11-15",
@@ -3985,6 +3985,15 @@
     "yayinevi": "HEP KİTAP",
     "kitap_hakkinda": "9786051920849 | TÜRKÇE | 424 | Karton Kapak | Kitap Kağıdı 2022-02-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11518131/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kudüs Yazıları",
+    "yazar": "Taha Kılınç",
+    "fiyat": "106,08",
+    "eski_fiyat": "",
+    "yayinevi": "AŞİNA",
+    "kitap_hakkinda": "9786058245396 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-12-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11812231/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sultan Mehmet'in Casusları",
