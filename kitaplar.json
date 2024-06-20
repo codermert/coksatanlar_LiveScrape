@@ -2736,15 +2736,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905820/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yek",
-    "yazar": "Suzan Öztürk",
-    "fiyat": "",
-    "eski_fiyat": "185,00",
-    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
-    "kitap_hakkinda": "9786253913700 | TÜRKÇE | 310 | Karton Kapak | Kitap Kağıdı 2024-06-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905881/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Duy Beni",
     "yazar": "Nimet Erenler Gülkökü",
     "fiyat": "178,75",
@@ -2752,6 +2743,15 @@
     "yayinevi": "CBN YAYINLARI",
     "kitap_hakkinda": "9786057028327 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-06-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905893/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yek",
+    "yazar": "Suzan Öztürk",
+    "fiyat": "",
+    "eski_fiyat": "185,00",
+    "yayinevi": "KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)",
+    "kitap_hakkinda": "9786253913700 | TÜRKÇE | 310 | Karton Kapak | Kitap Kağıdı 2024-06-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905881/wi:500/wh:true"
   },
   {
     "kitap_adi": "Zamanın İzinde Hikayeler / Mültekatü’l-Hikayat",
@@ -3413,7 +3413,7 @@
   {
     "kitap_adi": "Suzan Defter",
     "yazar": "Ayfer Tunç",
-    "fiyat": "82,30",
+    "fiyat": "82,40",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750724220 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-05-12",
