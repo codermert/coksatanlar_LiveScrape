@@ -1586,7 +1586,7 @@
   {
     "kitap_adi": "Suzan Defter",
     "yazar": "Ayfer Tunç",
-    "fiyat": "82,50",
+    "fiyat": "82,60",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750724220 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-05-12",
@@ -3445,15 +3445,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753639019 | TÜRKÇE | 161 | Karton Kapak | Kitap Kağıdı 2020-07-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:76484/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bir Deliler Evinin Yalan Yanlış Anlatılan Kısa Tarihi",
-    "yazar": "Ayfer Tunç",
-    "fiyat": "194,55",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750722127 | TÜRKÇE | 492 | Karton Kapak | Kitap Kağıdı 2019-10-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487005/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kabil",
