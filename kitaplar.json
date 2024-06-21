@@ -668,7 +668,7 @@
   {
     "kitap_adi": "İnce Memed 2",
     "yazar": "Yaşar Kemal",
-    "fiyat": "193,44",
+    "fiyat": "193,54",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807176 | TÜRKÇE | 459 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -740,7 +740,7 @@
   {
     "kitap_adi": "Ölümün Sonu",
     "yazar": "Cixin Liu",
-    "fiyat": "202,00",
+    "fiyat": "202,10",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "死神永生 | 9786257737043 | TÜRKÇE | 782 | Karton Kapak | Kitap Kağıdı 2023-02-14",
@@ -1771,15 +1771,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751513 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2021-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345542/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Cennetin Doğusu",
-    "yazar": "John Steinbeck",
-    "fiyat": "273,30",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789750531200 | TÜRKÇE | 644 | Karton Kapak | Kitap Kağıdı 2021-06-16",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11429327/wi:500/wh:true"
   },
   {
     "kitap_adi": "Shadowghast - Karakasvet",
