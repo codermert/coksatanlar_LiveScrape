@@ -162,15 +162,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1013537/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Eşekli Kütüphaneci",
-    "yazar": "Fakir Baykurt",
-    "fiyat": "97,65",
-    "eski_fiyat": "",
-    "yayinevi": "LİTERATÜR YAYINLARI",
-    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2024-03-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Otomatik Portakal (Ciltsiz)",
     "yazar": "Anthony Burgess",
     "fiyat": "20,00",
@@ -1370,7 +1361,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "49,50",
+    "fiyat": "49,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
