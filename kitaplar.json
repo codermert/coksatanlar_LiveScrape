@@ -252,15 +252,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11643404/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Kırmızı Pazartesi",
-    "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "67,30",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11432147/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Değersiz Bir Hayat",
     "yazar": "Hanya Yanagihara",
     "fiyat": "287,40",
@@ -479,7 +470,7 @@
   {
     "kitap_adi": "Artık Hiçbir Yer Ev Değil (Çizgili Pijamalı Çocuk 2)",
     "yazar": "John Boyne",
-    "fiyat": "149,80",
+    "fiyat": "149,90",
     "eski_fiyat": "",
     "yayinevi": "DELİDOLU",
     "kitap_hakkinda": "9786257314695 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2022-10-21",
