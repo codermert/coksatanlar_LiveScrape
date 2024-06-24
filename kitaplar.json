@@ -785,7 +785,7 @@
   {
     "kitap_adi": "Çok Hayal Kuran Çocuk",
     "yazar": "Şermin Yaşar",
-    "fiyat": "92,41",
+    "fiyat": "92,51",
     "eski_fiyat": "",
     "yayinevi": "ELMA YAYINEVİ",
     "kitap_hakkinda": "9786257343213 | TÜRKÇE | 40 | Karton Kapak | Kuşe Kağıt 2022-02-10",
@@ -965,7 +965,7 @@
   {
     "kitap_adi": "Sevgiler ve Lolipoplar & Büyüklerden Çocuklara Mektup Var!",
     "yazar": "Bahar Eriş",
-    "fiyat": "151,80",
+    "fiyat": "151,90",
     "eski_fiyat": "",
     "yayinevi": "ALFA YAYINLARI",
     "kitap_hakkinda": "9786253890056 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2024-05-03",
@@ -1388,7 +1388,7 @@
   {
     "kitap_adi": "Kayıp Tanrılar Ülkesi",
     "yazar": "Ahmet Ümit",
-    "fiyat": "175,84",
+    "fiyat": "175,94",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750850417 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-08-09",
@@ -1413,18 +1413,9 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11680436/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Bir Kimya Meselesi",
-    "yazar": "Bonnie Garmus",
-    "fiyat": "175,39",
-    "eski_fiyat": "",
-    "yayinevi": "ALTIN KİTAPLAR",
-    "kitap_hakkinda": "9789752128354 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-06-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11781235/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Dördüncü Kanat (Karton Kapak)",
     "yazar": "Rebecca Yarros",
-    "fiyat": "203,44",
+    "fiyat": "203,54",
     "eski_fiyat": "",
     "yayinevi": "OLİMPOS YAYINLARI",
     "kitap_hakkinda": "9786256411609 | TÜRKÇE | 672 | Karton Kapak | Kitap Kağıdı 2023-11-02",
@@ -1613,7 +1604,7 @@
   {
     "kitap_adi": "Uçurtma Avcısı",
     "yazar": "Khaled Hosseini",
-    "fiyat": "174,45",
+    "fiyat": "174,55",
     "eski_fiyat": "",
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9789752891456 | TÜRKÇE | 375 | Karton Kapak | Kitap Kağıdı 2023-05-22",
@@ -1883,7 +1874,7 @@
   {
     "kitap_adi": "Palyatif Toplum & Günümüzde Acı",
     "yazar": "Byung-Chul Han",
-    "fiyat": "67,60",
+    "fiyat": "67,70",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Palliativgesellschaft | 9786053162599 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-01-22",
@@ -3850,15 +3841,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257784962 | TÜRKÇE | 50 | Karton Kapak | Kitap Kağıdı 2020-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332549/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Zürafa Sözü",
-    "yazar": "Anıl Basılı",
-    "fiyat": "69,40",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN EGMONT ÇOCUK KİTAPLARI",
-    "kitap_hakkinda": "9786050979817 | TÜRKÇE | 68 | Karton Kapak | Kitap Kağıdı 2021-01-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11343936/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kuyruklu Yıldız Altında Bir İzdivaç",
