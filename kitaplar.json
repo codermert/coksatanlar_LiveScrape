@@ -218,7 +218,7 @@
   {
     "kitap_adi": "Mırıldanan Çocuk",
     "yazar": "Gabriele Clima",
-    "fiyat": "73,40",
+    "fiyat": "73,50",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "9786050833607 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2020-08-12",
@@ -380,7 +380,7 @@
   {
     "kitap_adi": "Karanlık Orman",
     "yazar": "Cixin Liu",
-    "fiyat": "198,30",
+    "fiyat": "198,40",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
@@ -821,7 +821,7 @@
   {
     "kitap_adi": "Afrikalı Leo",
     "yazar": "Amin Maalouf",
-    "fiyat": "79,81",
+    "fiyat": "80,33",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753631570 | TÜRKÇE | 374 | Karton Kapak | Kitap Kağıdı 2019-10-28",
@@ -3346,6 +3346,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050828993 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2020-07-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11467775/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Rüzgarı Dizginleyen Çocuk",
+    "yazar": "Bryan Mealer  William Kamkwamba",
+    "fiyat": "79,65",
+    "eski_fiyat": "",
+    "yayinevi": "BEYAZ BALİNA YAYINLARI",
+    "kitap_hakkinda": "9786051883878 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2018-11-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10650659/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kürk Mantolu Madonna (Cep Boy) (Tam Metin)",
