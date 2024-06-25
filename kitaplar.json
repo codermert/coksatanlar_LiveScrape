@@ -1415,7 +1415,7 @@
   {
     "kitap_adi": "Mülksüzler",
     "yazar": "Ursula K. Le Guin",
-    "fiyat": "170,76",
+    "fiyat": "170,86",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
@@ -3805,6 +3805,15 @@
     "yayinevi": "DOĞAN NOVUS",
     "kitap_hakkinda": "9786258004953 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-03-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11864714/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yıldızlar Saçıldığında (Fleksi Kapak)",
+    "yazar": "Omar Mohamed  Victoria Jamieson",
+    "fiyat": "225,52",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050844818 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2022-06-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11581233/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bin Dokuz Yüz Seksen Dört 1984 (Ciltli, İplik Dikişli)",
