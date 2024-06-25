@@ -369,6 +369,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11819906/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Eşekli Kütüphaneci",
+    "yazar": "Fakir Baykurt",
+    "fiyat": "106,05",
+    "eski_fiyat": "",
+    "yayinevi": "LİTERATÜR YAYINLARI",
+    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2024-03-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Karanlık Orman",
     "yazar": "Cixin Liu",
     "fiyat": "198,20",
@@ -668,7 +677,7 @@
   {
     "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
     "yazar": "Oğuz Atay",
-    "fiyat": "257,20",
+    "fiyat": "257,30",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -776,7 +785,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "114,52",
+    "fiyat": "114,62",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -1046,7 +1055,7 @@
   {
     "kitap_adi": "Gazap Üzümleri",
     "yazar": "John Steinbeck",
-    "fiyat": "213,75",
+    "fiyat": "213,85",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750531170 | TÜRKÇE | 540 | Karton Kapak | Kitap Kağıdı 2021-12-28",
@@ -1118,7 +1127,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "174,00",
+    "fiyat": "174,10",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -3222,6 +3231,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11630527/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yarın Yok",
+    "yazar": "Ayşe Kulin",
+    "fiyat": "103,55",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9786051859859 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-05-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11862293/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Senin Cahilliğin Benim Yaşamımı Etkiliyor",
     "yazar": "A. M. Celal Şengör",
     "fiyat": "158,70",
@@ -3877,6 +3895,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "For Whom the Bell Tolls | 9789752201699 | TÜRKÇE | 636 | Karton Kapak | Kitap Kağıdı 2018-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7672924/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Aziz Bey Hadisesi",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "60,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750721762 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2019-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11437415/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dün",
