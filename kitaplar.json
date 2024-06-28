@@ -947,7 +947,7 @@
   {
     "kitap_adi": "Malamander",
     "yazar": "Thomas Taylor",
-    "fiyat": "132,50",
+    "fiyat": "132,60",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "Malamander | 9786050833775 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-08-05",
@@ -2284,15 +2284,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751513 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2021-01-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345542/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Yıldızlar Saçıldığında (Fleksi Kapak)",
-    "yazar": "Omar Mohamed  Victoria Jamieson",
-    "fiyat": "218,45",
-    "eski_fiyat": "",
-    "yayinevi": "TİMAŞ GENÇ",
-    "kitap_hakkinda": "9786050844818 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2022-06-21",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11581233/wi:500/wh:true"
   },
   {
     "kitap_adi": "Festergrimm (Karton Kapak)",
