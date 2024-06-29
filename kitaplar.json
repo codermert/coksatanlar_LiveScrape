@@ -776,7 +776,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "75,88",
+    "fiyat": "75,98",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -1280,7 +1280,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "176,30",
+    "fiyat": "176,40",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -2176,6 +2176,15 @@
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "9786050838350 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-04-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11629463/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yıldızlar Saçıldığında (Fleksi Kapak)",
+    "yazar": "Omar Mohamed  Victoria Jamieson",
+    "fiyat": "218,45",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050844818 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2022-06-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11581233/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kurt Kanunu",
@@ -3481,6 +3490,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257751902 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2021-04-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11396414/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gelecek Ekspresi & Çöp Dünya",
+    "yazar": "Özgür Balpınar",
+    "fiyat": "58,90",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ İLK GENÇ",
+    "kitap_hakkinda": "9786050838374 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-08-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11632269/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dava",
