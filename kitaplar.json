@@ -945,6 +945,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11882302/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek (Modern Kapak)",
+    "yazar": "Erich Fromm",
+    "fiyat": "122,60",
+    "eski_fiyat": "",
+    "yayinevi": "SAY YAYINLARI",
+    "kitap_hakkinda": "9786050207958 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-10-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784123/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Hayvan Çiftliği",
     "yazar": "George Orwell",
     "fiyat": "12,88",
@@ -1424,7 +1433,7 @@
   {
     "kitap_adi": "Mülksüzler",
     "yazar": "Ursula K. Le Guin",
-    "fiyat": "171,46",
+    "fiyat": "171,56",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
