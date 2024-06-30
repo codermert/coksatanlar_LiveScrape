@@ -632,7 +632,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "200,08",
+    "fiyat": "200,62",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -2266,15 +2266,6 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "İki Dirhem Bir Çekirdek",
-    "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "86,25",
-    "eski_fiyat": "",
-    "yayinevi": "KAPI YAYINLARI",
-    "kitap_hakkinda": "9789758950379 | TÜRKÇE | 212 | Karton Kapak | Kitap Kağıdı 2023-11-22",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11777921/wi:500/wh:true"
   },
   {
     "kitap_adi": "Aklından Bir Sayı Tut",
