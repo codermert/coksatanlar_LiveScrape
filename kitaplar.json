@@ -542,7 +542,7 @@
   {
     "kitap_adi": "Güneşi Uyandıralım",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "126,22",
+    "fiyat": "126,32",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Vamós Aquecer o Sol | 9789750739071 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -848,7 +848,7 @@
   {
     "kitap_adi": "Kayıp Balina",
     "yazar": "Hannah Gold",
-    "fiyat": "110,00",
+    "fiyat": "107,90",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "The Lost Whale | 9786050847406 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2023-05-08",
@@ -1235,7 +1235,7 @@
   {
     "kitap_adi": "Artık Hiçbir Yer Ev Değil (Çizgili Pijamalı Çocuk 2)",
     "yazar": "John Boyne",
-    "fiyat": "151,80",
+    "fiyat": "151,90",
     "eski_fiyat": "",
     "yayinevi": "DELİDOLU",
     "kitap_hakkinda": "9786257314695 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2022-10-21",
@@ -1613,7 +1613,7 @@
   {
     "kitap_adi": "Mermedusa",
     "yazar": "Thomas Taylor",
-    "fiyat": "165,35",
+    "fiyat": "168,44",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050848274 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2023-10-10",
@@ -1775,7 +1775,7 @@
   {
     "kitap_adi": "Sevgiler ve Lolipoplar & Büyüklerden Çocuklara Mektup Var!",
     "yazar": "Bahar Eriş",
-    "fiyat": "152,50",
+    "fiyat": "152,60",
     "eski_fiyat": "",
     "yayinevi": "ALFA YAYINLARI",
     "kitap_hakkinda": "9786253890056 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2024-05-03",
@@ -2844,6 +2844,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1185587/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sevgili Arsız Ölüm",
+    "yazar": "Latife Tekin",
+    "fiyat": "111,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kürk Mantolu Madonna (Cep Boy) (Tam Metin)",
     "yazar": "Sabahattin Ali",
     "fiyat": "9,90",
@@ -3215,7 +3224,7 @@
   {
     "kitap_adi": "Dördüncü Kanat (Karton Kapak)",
     "yazar": "Rebecca Yarros",
-    "fiyat": "203,44",
+    "fiyat": "203,54",
     "eski_fiyat": "",
     "yayinevi": "OLİMPOS YAYINLARI",
     "kitap_hakkinda": "9786256411609 | TÜRKÇE | 672 | Karton Kapak | Kitap Kağıdı 2023-11-02",
