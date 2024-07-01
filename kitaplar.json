@@ -1235,7 +1235,7 @@
   {
     "kitap_adi": "Artık Hiçbir Yer Ev Değil (Çizgili Pijamalı Çocuk 2)",
     "yazar": "John Boyne",
-    "fiyat": "151,70",
+    "fiyat": "151,80",
     "eski_fiyat": "",
     "yayinevi": "DELİDOLU",
     "kitap_hakkinda": "9786257314695 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2022-10-21",
@@ -1487,7 +1487,7 @@
   {
     "kitap_adi": "Mülksüzler",
     "yazar": "Ursula K. Le Guin",
-    "fiyat": "171,86",
+    "fiyat": "165,20",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
@@ -3373,6 +3373,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "Записки Из Подполья | 9786257185400 | TÜRKÇE | 157 | Karton Kapak | Kitap Kağıdı 2020-08-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372281/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Osman",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "171,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
   },
   {
     "kitap_adi": "Balinanın Karnında",
