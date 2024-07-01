@@ -1190,7 +1190,7 @@
   {
     "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek (Modern Kapak)",
     "yazar": "Erich Fromm",
-    "fiyat": "131,25",
+    "fiyat": "122,70",
     "eski_fiyat": "",
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9786050207958 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-10-18",
@@ -1928,7 +1928,7 @@
   {
     "kitap_adi": "Cehaletten Kurtulma Sanatı & Ne Nedir?",
     "yazar": "A. M. Celal Şengör",
-    "fiyat": "132,20",
+    "fiyat": "132,30",
     "eski_fiyat": "",
     "yayinevi": "MASA KİTAP",
     "kitap_hakkinda": "9786259454221 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-05-27",
@@ -3184,6 +3184,15 @@
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "The Trapdoor Mysteries | 9786050834680 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2021-08-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11441014/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zürafa Sözü",
+    "yazar": "Anıl Basılı",
+    "fiyat": "69,40",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN EGMONT ÇOCUK KİTAPLARI",
+    "kitap_hakkinda": "9786050979817 | TÜRKÇE | 68 | Karton Kapak | Kitap Kağıdı 2021-01-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11343936/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kuyruklu Yıldız Altında Bir İzdivaç",
