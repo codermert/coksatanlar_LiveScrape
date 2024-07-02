@@ -240,7 +240,7 @@
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11857266/wi:500/wh:true"
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11911357/wi:500/wh:true"
   },
   {
     "kitap_adi": "Otomatik Portakal (Ciltsiz)",
@@ -389,7 +389,7 @@
   {
     "kitap_adi": "Mırıldanan Çocuk",
     "yazar": "Gabriele Clima",
-    "fiyat": "74,10",
+    "fiyat": "74,20",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "9786050833607 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2020-08-12",
@@ -1356,7 +1356,7 @@
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254183065 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-06-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904860/wi:500/wh:true"
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11911355/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yaşlı Adam ve Deniz",
@@ -3058,6 +3058,15 @@
     "yayinevi": "İSKELE YAYINCILIK",
     "kitap_hakkinda": "9789759099121 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2005-07-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11854391/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Aziz Bey Hadisesi",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "60,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750721762 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2019-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11437415/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gılgamış Destanı (Karton Kapak)",
