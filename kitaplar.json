@@ -101,7 +101,7 @@
   {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
-    "fiyat": "58,82",
+    "fiyat": "59,33",
     "eski_fiyat": "",
     "yayinevi": "POZİTİF YAYINLARI",
     "kitap_hakkinda": "9789756461075 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-06-09",
@@ -3751,6 +3751,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257361002 | TÜRKÇE | 166 | Karton Kapak | Kitap Kağıdı 2021-03-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11372350/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Miras",
+    "yazar": "Vigdis Hjorth",
+    "fiyat": "181,07",
+    "eski_fiyat": "",
+    "yayinevi": "SİREN YAYINLARI",
+    "kitap_hakkinda": "Arv og miljo | 9786055903886 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2024-03-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11906035/wi:500/wh:true"
   },
   {
     "kitap_adi": "Şeytan",
