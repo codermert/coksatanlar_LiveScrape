@@ -2871,6 +2871,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1185587/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sevgili Arsız Ölüm",
+    "yazar": "Latife Tekin",
+    "fiyat": "111,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kürk Mantolu Madonna (Cep Boy) (Tam Metin)",
     "yazar": "Sabahattin Ali",
     "fiyat": "9,90",
@@ -3242,7 +3251,7 @@
   {
     "kitap_adi": "Dördüncü Kanat (Karton Kapak)",
     "yazar": "Rebecca Yarros",
-    "fiyat": "203,74",
+    "fiyat": "203,84",
     "eski_fiyat": "",
     "yayinevi": "OLİMPOS YAYINLARI",
     "kitap_hakkinda": "9786256411609 | TÜRKÇE | 672 | Karton Kapak | Kitap Kağıdı 2023-11-02",
@@ -3805,6 +3814,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257419352 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2021-08-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11440152/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Babamın Yeri",
+    "yazar": "Annie Ernaux",
+    "fiyat": "58,05",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750754579 | TÜRKÇE | 72 | Karton Kapak | Kitap Kağıdı 2022-01-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621385/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yitik Kızlar",
