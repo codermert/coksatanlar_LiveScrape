@@ -614,7 +614,7 @@
   {
     "kitap_adi": "Değersiz Bir Hayat",
     "yazar": "Hanya Yanagihara",
-    "fiyat": "289,70",
+    "fiyat": "289,80",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2024-02-29",
@@ -677,7 +677,7 @@
   {
     "kitap_adi": "Karanlık Orman",
     "yazar": "Cixin Liu",
-    "fiyat": "202,00",
+    "fiyat": "202,10",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "Hēi'àn senlin | 9786053758921 | TÜRKÇE | 600 | Karton Kapak | Kitap Kağıdı 2024-01-23",
@@ -3715,6 +3715,15 @@
     "yayinevi": "MONOKL YAYINLARI KAMPANYA",
     "kitap_hakkinda": "9786055159467 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2016-11-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:2261346/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ben Malala (Genç Okurlara Özel Baskı)",
+    "yazar": "Patricia McCormick  Malala Yusufzay",
+    "fiyat": "137,70",
+    "eski_fiyat": "",
+    "yayinevi": "PEGASUS YAYINLARI",
+    "kitap_hakkinda": "9786052996195 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2019-04-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8518953/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Şeftali Bin Şeftali",
