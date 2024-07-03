@@ -1181,7 +1181,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "178,40",
+    "fiyat": "178,50",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -2592,6 +2592,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11407854/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Cennetin Doğusu",
+    "yazar": "John Steinbeck",
+    "fiyat": "284,12",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750531200 | TÜRKÇE | 644 | Karton Kapak | Kitap Kağıdı 2021-06-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11429327/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Öteki",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "14,88",
@@ -3580,6 +3589,15 @@
     "yayinevi": "SİA KİTAP",
     "kitap_hakkinda": "9786257266666 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-03-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11810302/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Arkadaşıma Veda",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "123,38",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751042903 | TÜRKÇE | 172 | Karton Kapak | Kitap Kağıdı 2021-12-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11490879/wi:500/wh:true"
   },
   {
     "kitap_adi": "Arkadaşıma Veda",
