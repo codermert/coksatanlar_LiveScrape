@@ -1271,7 +1271,7 @@
   {
     "kitap_adi": "Kayıp Ağaçlar Adası",
     "yazar": "Elif Şafak",
-    "fiyat": "189,54",
+    "fiyat": "189,64",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "The Island of Missing Trees | 9786256843158 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-07-21",
@@ -1816,6 +1816,15 @@
     "yayinevi": "MEDUSA YAYINLARI",
     "kitap_hakkinda": "9786259446707 | TÜRKÇE | 167 | Karton Kapak | Kitap Kağıdı 2024-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858009/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gülün Adı (Ciltsiz)",
+    "yazar": "Umberto Eco",
+    "fiyat": "194,88",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750732737 | TÜRKÇE | 732 | Karton Kapak | Kitap Kağıdı 2019-09-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11373991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Şimdiki Çocuklar Harika",
@@ -2997,6 +3006,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870226/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Bir Deliler Evinin Yalan Yanlış Anlatılan Kısa Tarihi",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "194,55",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750722127 | TÜRKÇE | 492 | Karton Kapak | Kitap Kağıdı 2019-10-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487005/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Gılgamış Destanı (Karton Kapak)",
     "yazar": "Sait Maden",
     "fiyat": "41,25",
@@ -4030,6 +4048,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "For Whom the Bell Tolls | 9789752201699 | TÜRKÇE | 636 | Karton Kapak | Kitap Kağıdı 2018-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7672924/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zorba (Ciltsiz)",
+    "yazar": "Nikos Kazancakis",
+    "fiyat": "149,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789755101613 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2019-07-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784603/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kızıl Nehirler",
