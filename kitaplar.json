@@ -65,7 +65,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "176,40",
+    "fiyat": "176,50",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -1825,15 +1825,6 @@
     "yayinevi": "MEDUSA YAYINLARI",
     "kitap_hakkinda": "9786259446707 | TÜRKÇE | 167 | Karton Kapak | Kitap Kağıdı 2024-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858009/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Gülün Adı (Ciltsiz)",
-    "yazar": "Umberto Eco",
-    "fiyat": "194,88",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750732737 | TÜRKÇE | 732 | Karton Kapak | Kitap Kağıdı 2019-09-12",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11373991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Şimdiki Çocuklar Harika",
