@@ -605,7 +605,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "50,60",
+    "fiyat": "50,70",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -812,7 +812,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "105,20",
+    "fiyat": "105,30",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -821,7 +821,7 @@
   {
     "kitap_adi": "Malamander",
     "yazar": "Thomas Taylor",
-    "fiyat": "133,10",
+    "fiyat": "133,20",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "Malamander | 9786050833775 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-08-05",
@@ -1024,15 +1024,6 @@
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259872810 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2024-05-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11893172/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Nar Ağacı",
-    "yazar": "Prof. Dr. Nazan Bekiroğlu",
-    "fiyat": "201,64",
-    "eski_fiyat": "",
-    "yayinevi": "TİMAŞ YAYINLARI",
-    "kitap_hakkinda": "9786050807073 | TÜRKÇE | 536 | Karton Kapak | Kitap Kağıdı 2019-09-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11517287/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ben, Kirke",
