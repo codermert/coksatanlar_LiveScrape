@@ -324,6 +324,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11651602/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Simyacı (Ciltsiz)",
+    "yazar": "Paulo Coelho",
+    "fiyat": "87,02",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11819904/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Bir İdam Mahkumunun Son Günü",
     "yazar": "Victor Hugo",
     "fiyat": "27,55",
@@ -551,7 +560,7 @@
   {
     "kitap_adi": "Değersiz Bir Hayat",
     "yazar": "Hanya Yanagihara",
-    "fiyat": "290,30",
+    "fiyat": "290,40",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2024-02-29",
