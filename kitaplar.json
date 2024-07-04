@@ -1190,7 +1190,7 @@
   {
     "kitap_adi": "Rüzgarı Dizginleyen Çocuk",
     "yazar": "Bryan Mealer  William Kamkwamba",
-    "fiyat": "79,75",
+    "fiyat": "79,80",
     "eski_fiyat": "",
     "yayinevi": "BEYAZ BALİNA YAYINLARI",
     "kitap_hakkinda": "9786051883878 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2018-11-12",
@@ -4311,6 +4311,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:201031/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Bir Deliler Evinin Yalan Yanlış Anlatılan Kısa Tarihi",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "194,55",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750722127 | TÜRKÇE | 492 | Karton Kapak | Kitap Kağıdı 2019-10-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487005/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Az",
     "yazar": "Hakan Günday",
     "fiyat": "168,58",
@@ -4327,6 +4336,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "9789754052213 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2023-10-24",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11787004/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Varolmanın Dayanılmaz Hafifliği",
+    "yazar": "Milan Kundera",
+    "fiyat": "120,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750726170 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2019-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11473062/wi:500/wh:true"
   },
   {
     "kitap_adi": "Karanlığın Kokusu",
