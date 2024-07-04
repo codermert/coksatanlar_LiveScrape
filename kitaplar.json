@@ -180,6 +180,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11911357/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "93,05",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Bin Dokuz Yüz Seksen Dört - 1984",
     "yazar": "George Orwell",
     "fiyat": "22,85",
@@ -830,7 +839,7 @@
   {
     "kitap_adi": "Ölümün Sonu",
     "yazar": "Cixin Liu",
-    "fiyat": "205,80",
+    "fiyat": "205,90",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "死神永生 | 9786257737043 | TÜRKÇE | 782 | Karton Kapak | Kitap Kağıdı 2023-02-14",
@@ -1222,6 +1231,15 @@
     "yayinevi": "DEDALUS KİTAP",
     "kitap_hakkinda": "What is man? | 9786059203043 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2022-10-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11668214/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek",
+    "yazar": "Erich Fromm",
+    "fiyat": "119,80",
+    "eski_fiyat": "",
+    "yayinevi": "SAY YAYINLARI",
+    "kitap_hakkinda": "9786050207941 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2022-02-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11648370/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sevgiler ve Lolipoplar & Büyüklerden Çocuklara Mektup Var!",
@@ -3724,6 +3742,15 @@
     "yayinevi": "DEDALUS KİTAP",
     "kitap_hakkinda": "9786054708826 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2022-02-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11522939/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kağıt Ev",
+    "yazar": "Carlos Maria Dominguez",
+    "fiyat": "60,10",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056501944 | TÜRKÇE | 94 | Karton Kapak | Kitap Kağıdı 2017-07-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1001934/wi:500/wh:true"
   },
   {
     "kitap_adi": "Lavinia - Aşk Şiirleri",
