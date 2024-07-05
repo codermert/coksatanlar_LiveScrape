@@ -758,7 +758,7 @@
   {
     "kitap_adi": "Ölümün Sonu",
     "yazar": "Cixin Liu",
-    "fiyat": "206,00",
+    "fiyat": "206,10",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "死神永生 | 9786257737043 | TÜRKÇE | 782 | Karton Kapak | Kitap Kağıdı 2023-02-14",
@@ -812,7 +812,7 @@
   {
     "kitap_adi": "İnce Memed 2",
     "yazar": "Yaşar Kemal",
-    "fiyat": "198,74",
+    "fiyat": "198,84",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807176 | TÜRKÇE | 459 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -2158,6 +2158,15 @@
     "yayinevi": "PAN YAYINCILIK",
     "kitap_hakkinda": "Sofies Verden | 9789758434572 | TÜRKÇE | 591 | Karton Kapak | Kitap Kağıdı 2017-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11783714/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gülün Adı (Ciltsiz)",
+    "yazar": "Umberto Eco",
+    "fiyat": "185,64",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750732737 | TÜRKÇE | 732 | Karton Kapak | Kitap Kağıdı 2019-09-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11373991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Erbain & Kırk Yılın Şiirleri",
@@ -3539,7 +3548,7 @@
   {
     "kitap_adi": "Ruhun Yaralı Şifacısı Carl Jung",
     "yazar": "Claire Dunne",
-    "fiyat": "112,05",
+    "fiyat": "105,84",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN NOVUS",
     "kitap_hakkinda": "9786258004953 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-03-11",
