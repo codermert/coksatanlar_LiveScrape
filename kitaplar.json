@@ -515,7 +515,7 @@
   {
     "kitap_adi": "Bir Aşk Masalı",
     "yazar": "Ahmet Ümit",
-    "fiyat": "50,70",
+    "fiyat": "50,80",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
@@ -740,7 +740,7 @@
   {
     "kitap_adi": "Malamander",
     "yazar": "Thomas Taylor",
-    "fiyat": "133,20",
+    "fiyat": "133,30",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "Malamander | 9786050833775 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-08-05",
@@ -875,7 +875,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "105,80",
+    "fiyat": "105,90",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -2680,6 +2680,15 @@
     "yayinevi": "İSKELE YAYINCILIK",
     "kitap_hakkinda": "9789759099121 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2005-07-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11854391/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Aziz Bey Hadisesi",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "60,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750721762 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2019-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11437415/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ölü Ozanlar Derneği",
