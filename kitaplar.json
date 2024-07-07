@@ -632,7 +632,7 @@
   {
     "kitap_adi": "Tatar Çölü",
     "yazar": "Dino Buzzati",
-    "fiyat": "138,20",
+    "fiyat": "138,30",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754701258 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-08-03",
@@ -3688,15 +3688,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750748196 | TÜRKÇE | 472 | Karton Kapak | Kitap Kağıdı 2022-04-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452857/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Az",
-    "yazar": "Hakan Günday",
-    "fiyat": "168,58",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ölü Ozanlar Derneği",
