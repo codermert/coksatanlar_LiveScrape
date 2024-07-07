@@ -758,7 +758,7 @@
   {
     "kitap_adi": "Asude Bahçe",
     "yazar": "Funda Uçuk Er",
-    "fiyat": "123,06",
+    "fiyat": "116,55",
     "eski_fiyat": "",
     "yayinevi": "CEZVE KİTAP",
     "kitap_hakkinda": "9786052297926 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2021-06-09",
@@ -767,7 +767,7 @@
   {
     "kitap_adi": "Derviş Kelamı",
     "yazar": "Funda Uçuk Er",
-    "fiyat": "109,38",
+    "fiyat": "105,05",
     "eski_fiyat": "",
     "yayinevi": "HAYY KİTAP",
     "kitap_hakkinda": "9786257479714 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2022-04-13",
@@ -1442,7 +1442,7 @@
   {
     "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek (Modern Kapak)",
     "yazar": "Erich Fromm",
-    "fiyat": "131,25",
+    "fiyat": "129,70",
     "eski_fiyat": "",
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9786050207958 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-10-18",
@@ -3359,7 +3359,7 @@
   {
     "kitap_adi": "Hayatta Kalanlar",
     "yazar": "Alex Schulman",
-    "fiyat": "135,85",
+    "fiyat": "133,20",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "Överlevarna | 9786050843842 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2022-05-09",
@@ -3872,7 +3872,7 @@
   {
     "kitap_adi": "Çukurlar",
     "yazar": "Louis Sachar",
-    "fiyat": "131,25",
+    "fiyat": "130,45",
     "eski_fiyat": "",
     "yayinevi": "TUDEM YAYINEVİ",
     "kitap_hakkinda": "9786052858097 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2023-09-04",
@@ -4246,15 +4246,6 @@
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9789753621885 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2022-01-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11889484/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Müslümanca Düşünme Üzerine Denemeler",
-    "yazar": "Rasim Özdenören",
-    "fiyat": "109,73",
-    "eski_fiyat": "",
-    "yayinevi": "İZ YAYINCILIK",
-    "kitap_hakkinda": "9786053267959 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11772007/wi:500/wh:true"
   },
   {
     "kitap_adi": "Fare Kapanı",
