@@ -65,7 +65,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "179,40",
+    "fiyat": "179,50",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -3537,6 +3537,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345474/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Gelecek Ekspresi & Çöp Dünya",
+    "yazar": "Özgür Balpınar",
+    "fiyat": "58,90",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ İLK GENÇ",
+    "kitap_hakkinda": "9786050838374 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-08-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11632269/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "A’mak-ı Hayal",
     "yazar": "Şehbenderzade Filibeli Ahmed Hilmi",
     "fiyat": "14,88",
@@ -3625,6 +3634,15 @@
     "yayinevi": "MASA KİTAP",
     "kitap_hakkinda": "9786259454238 | TÜRKÇE | 236 | Karton Kapak | Kitap Kağıdı 2024-06-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11904842/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Müslümanca Düşünme Üzerine Denemeler",
+    "yazar": "Rasim Özdenören",
+    "fiyat": "109,73",
+    "eski_fiyat": "",
+    "yayinevi": "İZ YAYINCILIK",
+    "kitap_hakkinda": "9786053267959 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2023-09-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11772007/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bu Böyledir",
