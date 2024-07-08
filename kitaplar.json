@@ -821,7 +821,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "204,40",
+    "fiyat": "204,94",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -866,7 +866,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "178,70",
+    "fiyat": "178,80",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -1154,7 +1154,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "107,60",
+    "fiyat": "107,70",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
@@ -1523,7 +1523,7 @@
   {
     "kitap_adi": "Kapak Kızı",
     "yazar": "Ayfer Tunç",
-    "fiyat": "123,10",
+    "fiyat": "123,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750747045 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2021-09-27",
@@ -2482,15 +2482,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750811876 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2024-03-18",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4745345/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bin Muhteşem Güneş",
-    "yazar": "Khaled Hosseini",
-    "fiyat": "173,25",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870226/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hay Bin Yakzan",
