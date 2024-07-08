@@ -506,7 +506,7 @@
   {
     "kitap_adi": "Tatar Çölü",
     "yazar": "Dino Buzzati",
-    "fiyat": "138,30",
+    "fiyat": "138,40",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789754701258 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-08-03",
@@ -1474,15 +1474,6 @@
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751044570 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-12-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638366/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Hizmetçi",
-    "yazar": "Freida Mcfadden",
-    "fiyat": "164,35",
-    "eski_fiyat": "",
-    "yayinevi": "OLİMPOS YAYINLARI",
-    "kitap_hakkinda": "9786256411302 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-04-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700949/wi:500/wh:true"
   },
   {
     "kitap_adi": "Beyaz Gemi",
