@@ -983,7 +983,7 @@
   {
     "kitap_adi": "Çöpçüler",
     "yazar": "Darren Simpson",
-    "fiyat": "101,70",
+    "fiyat": "101,80",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050833010 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-10-14",
@@ -4183,15 +4183,6 @@
     "yayinevi": "DOĞAN NOVUS",
     "kitap_hakkinda": "9786258004953 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-03-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11864714/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Surname & Bir Osmanlı Macerası",
-    "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "120,75",
-    "eski_fiyat": "",
-    "yayinevi": "KAPI YAYINLARI",
-    "kitap_hakkinda": "9786258096439 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2022-11-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11683118/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yuva",
