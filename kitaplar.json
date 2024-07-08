@@ -866,7 +866,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "178,60",
+    "fiyat": "178,70",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -1127,7 +1127,7 @@
   {
     "kitap_adi": "Kayıp Ağaçlar Adası",
     "yazar": "Elif Şafak",
-    "fiyat": "190,04",
+    "fiyat": "190,14",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "The Island of Missing Trees | 9786256843158 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-07-21",
@@ -1208,7 +1208,7 @@
   {
     "kitap_adi": "Afrikalı Leo",
     "yazar": "Amin Maalouf",
-    "fiyat": "89,69",
+    "fiyat": "90,21",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753631570 | TÜRKÇE | 374 | Karton Kapak | Kitap Kağıdı 2019-10-28",
@@ -3949,15 +3949,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789755101613 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2019-07-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784603/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Az",
-    "yazar": "Hakan Günday",
-    "fiyat": "168,58",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Son Evdeki Tehlike",
