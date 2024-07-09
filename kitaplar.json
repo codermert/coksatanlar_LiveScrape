@@ -2988,6 +2988,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11459231/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Osman",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "171,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Çocukluk",
     "yazar": "Lev N. Tolstoy",
     "fiyat": "12,88",
@@ -4156,6 +4165,15 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "9789752126947 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-01-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11510348/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Tiamat (Karton Kapak)",
+    "yazar": "İhsan Oktay Anar",
+    "fiyat": "64,70",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9786051857237 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2022-02-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11521597/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bekleyecek Vaktim Kalmadı Artık",
