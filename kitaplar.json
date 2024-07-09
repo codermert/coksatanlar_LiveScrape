@@ -515,7 +515,7 @@
   {
     "kitap_adi": "Kalpsizler",
     "yazar": "Kerilynn Wilson",
-    "fiyat": "210,95",
+    "fiyat": "211,05",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050847642 | TÜRKÇE | 304 | Ciltli | Kitap Kağıdı 2023-06-14",
@@ -4363,6 +4363,15 @@
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750517457 | TÜRKÇE | 1035 | Karton Kapak | 3. Hm. Kağıt 2021-08-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1017487/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Limon Ağacı",
+    "yazar": "Sandy Tolan",
+    "fiyat": "164,55",
+    "eski_fiyat": "",
+    "yayinevi": "PEGASUS YAYINLARI",
+    "kitap_hakkinda": "The Lemon Tree | 9786055943516 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2016-10-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4441920/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çivisi Çıkmış Dünya & Uygarlıklarımız Tükendiğinde",
