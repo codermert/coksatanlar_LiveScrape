@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "180,00",
+    "fiyat": "180,10",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -2977,15 +2977,6 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "The Song of Achilles | 9786057762931 | TÜRKÇE | 376 | Karton Kapak | Kitap Kağıdı 2022-07-13",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11459231/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Osman",
-    "yazar": "Ayfer Tunç",
-    "fiyat": "171,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çocukluk",
