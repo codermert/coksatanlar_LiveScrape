@@ -2115,6 +2115,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:12211/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yeşil Peri Gecesi",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "183,55",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748196 | TÜRKÇE | 472 | Karton Kapak | Kitap Kağıdı 2022-04-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452857/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Canım Aliye, Ruhum Filiz",
     "yazar": "Sabahattin Ali",
     "fiyat": "39,34",
@@ -4318,6 +4327,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953119 | TÜRKÇE | 90 | Karton Kapak | Kitap Kağıdı 2012-08-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:111182/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Koku (Ciltsiz)",
+    "yazar": "Patrick Süskind",
+    "fiyat": "111,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750737992 | TÜRKÇE | 264 | Karton Kapak | 3. Hm. Kağıt 2023-08-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755781/wi:500/wh:true"
   },
   {
     "kitap_adi": "Şeytan ve Genç Kadın",
