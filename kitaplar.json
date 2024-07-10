@@ -1379,7 +1379,7 @@
   {
     "kitap_adi": "Öze Yolculuk",
     "yazar": "İbrahim Kalın",
-    "fiyat": "120,00",
+    "fiyat": "120,10",
     "eski_fiyat": "",
     "yayinevi": "İNSAN YAYINLARI",
     "kitap_hakkinda": "9786258314823 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2023-12-22",
@@ -3742,6 +3742,15 @@
     "yayinevi": "NESİN YAYINEVİ",
     "kitap_hakkinda": "9789759038472 | TÜRKÇE | 343 | Karton Kapak | Kitap Kağıdı 2008-02-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:63431/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Az",
+    "yazar": "Hakan Günday",
+    "fiyat": "168,58",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Gözlerini Sımsıkı Kapat",
