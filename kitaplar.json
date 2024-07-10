@@ -1037,7 +1037,7 @@
   {
     "kitap_adi": "Fedailerin Kalesi Alamut",
     "yazar": "Vladimir Bartol",
-    "fiyat": "117,92",
+    "fiyat": "118,02",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054188970 | TÜRKÇE | 510 | Karton Kapak | Kitap Kağıdı 2012-03-09",
@@ -1352,7 +1352,7 @@
   {
     "kitap_adi": "Gazap Üzümleri",
     "yazar": "John Steinbeck",
-    "fiyat": "216,75",
+    "fiyat": "216,85",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750531170 | TÜRKÇE | 540 | Karton Kapak | Kitap Kağıdı 2021-12-28",
@@ -3607,6 +3607,15 @@
     "yayinevi": "PEGASUS YAYINLARI",
     "kitap_hakkinda": "The Complete Story of Sadako Sasaki: and the Thousand Paper Cranes | 9786254102653 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2022-01-14",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11507316/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Surname & Bir Osmanlı Macerası",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "120,75",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786258096439 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2022-11-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11683118/wi:500/wh:true"
   },
   {
     "kitap_adi": "Olay",
