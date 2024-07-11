@@ -551,7 +551,7 @@
   {
     "kitap_adi": "1984",
     "yazar": "George Orwell",
-    "fiyat": "61,00",
+    "fiyat": "61,10",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
@@ -4264,6 +4264,15 @@
     "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
     "kitap_hakkinda": "9786254054372 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2021-05-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11409634/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Üç Zor Mesele & Teknik-Medeniyet-Yabancılaşma",
+    "yazar": "İsmet Özel",
+    "fiyat": "243,75",
+    "eski_fiyat": "",
+    "yayinevi": "TİYO YAYINLARI",
+    "kitap_hakkinda": "9786054893003 | TÜRKÇE | 584 | Karton Kapak | Kitap Kağıdı 2014-02-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:79832/wi:500/wh:true"
   },
   {
     "kitap_adi": "Başka Türlü Bi’şey",
