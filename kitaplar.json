@@ -92,7 +92,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "181,30",
+    "fiyat": "181,40",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -3375,6 +3375,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4822806/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sevgili Arsız Ölüm",
+    "yazar": "Latife Tekin",
+    "fiyat": "111,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Genç Werther'in Acıları (Cep Boy) (Tam Metin)",
     "yazar": "Johann Wolfgang Goethe",
     "fiyat": "9,90",
@@ -3508,15 +3517,6 @@
     "yayinevi": "SİA KİTAP",
     "kitap_hakkinda": "9786257266666 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-03-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11810302/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bu Bizim Anlaşmamız",
-    "yazar": "Ryan Andrews",
-    "fiyat": "241,99",
-    "eski_fiyat": "",
-    "yayinevi": "TİMAŞ GENÇ",
-    "kitap_hakkinda": "9786050844474 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2022-05-10",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11567991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bütün Şiirleri (Ciltli, İplik Dikişli)",
