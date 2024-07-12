@@ -65,7 +65,7 @@
   {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
-    "fiyat": "66,66",
+    "fiyat": "66,76",
     "eski_fiyat": "",
     "yayinevi": "POZİTİF YAYINLARI",
     "kitap_hakkinda": "9789756461075 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-06-09",
@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "182,10",
+    "fiyat": "182,20",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -497,7 +497,7 @@
   {
     "kitap_adi": "İrade Terbiyesi",
     "yazar": "Dr. Ethem Bakar",
-    "fiyat": "84,02",
+    "fiyat": "84,10",
     "eski_fiyat": "",
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786256495555 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-08-22",
@@ -1933,15 +1933,6 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "Преступление и наказание | 9786057803917 | TÜRKÇE | 768 | Karton Kapak | Kitap Kağıdı 2019-09-04",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11438326/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Osman",
-    "yazar": "Ayfer Tunç",
-    "fiyat": "171,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
   },
   {
     "kitap_adi": "Cennetin Doğusu",
