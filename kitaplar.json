@@ -218,7 +218,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "109,32",
+    "fiyat": "109,42",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -533,7 +533,7 @@
   {
     "kitap_adi": "Asude Bahçe",
     "yazar": "Funda Uçuk Er",
-    "fiyat": "116,55",
+    "fiyat": "123,06",
     "eski_fiyat": "",
     "yayinevi": "CEZVE KİTAP",
     "kitap_hakkinda": "9786052297926 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2021-06-09",
@@ -2045,7 +2045,7 @@
   {
     "kitap_adi": "Artık Hiçbir Yer Ev Değil (Çizgili Pijamalı Çocuk 2)",
     "yazar": "John Boyne",
-    "fiyat": "171,70",
+    "fiyat": "186,75",
     "eski_fiyat": "",
     "yayinevi": "DELİDOLU",
     "kitap_hakkinda": "9786257314695 | TÜRKÇE | Karton Kapak | Kitap Kağıdı 2022-10-21",
@@ -2599,15 +2599,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "Les Identites Meurtrieres | 9789750801990 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2022-03-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1010849/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bin Muhteşem Güneş",
-    "yazar": "Khaled Hosseini",
-    "fiyat": "177,95",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870226/wi:500/wh:true"
   },
   {
     "kitap_adi": "Benden Vazgeçme Ya Rab",
