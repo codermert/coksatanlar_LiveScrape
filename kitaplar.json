@@ -767,7 +767,7 @@
   {
     "kitap_adi": "Kürk Mantolu Madonna",
     "yazar": "Sabahattin Ali",
-    "fiyat": "20,80",
+    "fiyat": "20,90",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
@@ -1361,7 +1361,7 @@
   {
     "kitap_adi": "Buz Canavarı",
     "yazar": "David Walliams",
-    "fiyat": "175,27",
+    "fiyat": "175,37",
     "eski_fiyat": "",
     "yayinevi": "CAN ÇOCUK YAYINLARI",
     "kitap_hakkinda": "9789750742118 | TÜRKÇE | 488 | Karton Kapak | Kitap Kağıdı 2020-09-22",
@@ -1834,15 +1834,6 @@
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786052982617 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-06-17",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11857268/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Rüzgarı Dizginleyen Çocuk",
-    "yazar": "Bryan Mealer  William Kamkwamba",
-    "fiyat": "80,85",
-    "eski_fiyat": "",
-    "yayinevi": "BEYAZ BALİNA YAYINLARI",
-    "kitap_hakkinda": "9786051883878 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2018-11-12",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10650659/wi:500/wh:true"
   },
   {
     "kitap_adi": "Seyir",
