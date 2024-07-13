@@ -569,7 +569,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "216,28",
+    "fiyat": "216,82",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -704,7 +704,7 @@
   {
     "kitap_adi": "Mırıldanan Çocuk",
     "yazar": "Gabriele Clima",
-    "fiyat": "75,20",
+    "fiyat": "75,30",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ İLK GENÇ",
     "kitap_hakkinda": "9786050833607 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2020-08-12",
@@ -938,7 +938,7 @@
   {
     "kitap_adi": "Güneşi Uyandıralım",
     "yazar": "Jose Mauro De Vasconcelos",
-    "fiyat": "127,42",
+    "fiyat": "127,52",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Vamós Aquecer o Sol | 9789750739071 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -2401,6 +2401,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "975220127x | TÜRKÇE | 748 | Karton Kapak | Kitap Kağıdı 2016-08-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7597684/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sevgili Arsız Ölüm",
+    "yazar": "Latife Tekin",
+    "fiyat": "111,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
   },
   {
     "kitap_adi": "Uğultulu Tepeler",
