@@ -2538,6 +2538,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11764838/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Bin Muhteşem Güneş",
+    "yazar": "Khaled Hosseini",
+    "fiyat": "177,95",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870226/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Aylak Adam",
     "yazar": "Yusuf Atılgan",
     "fiyat": "93,20",
@@ -3058,6 +3067,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9789752733732 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2023-12-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11819923/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İncir Kuşları",
+    "yazar": "Sinan Akyüz",
+    "fiyat": "145,45",
+    "eski_fiyat": "",
+    "yayinevi": "ALFA YAYINLARI",
+    "kitap_hakkinda": "9786051064390 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2021-10-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11845057/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnsan Neyle Yaşar?",
