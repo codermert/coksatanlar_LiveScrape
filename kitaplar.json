@@ -794,7 +794,7 @@
   {
     "kitap_adi": "Fedailerin Kalesi Alamut",
     "yazar": "Vladimir Bartol",
-    "fiyat": "119,02",
+    "fiyat": "119,12",
     "eski_fiyat": "",
     "yayinevi": "KORİDOR YAYINCILIK",
     "kitap_hakkinda": "9786054188970 | TÜRKÇE | 510 | Karton Kapak | Kitap Kağıdı 2012-03-09",
@@ -3535,15 +3535,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753639019 | TÜRKÇE | 161 | Karton Kapak | Kitap Kağıdı 2020-07-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:76484/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Hasretinden Prangalar Eskittim",
-    "yazar": "Ahmed Arif",
-    "fiyat": "106,80",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "9789753426527 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2023-06-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11733752/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hay Bin Yakzan",
