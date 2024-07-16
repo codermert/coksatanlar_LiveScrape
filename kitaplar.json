@@ -1755,15 +1755,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8468433/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Tehlikeli Oyunlar / Bütün Eserleri 2",
-    "yazar": "Oğuz Atay",
-    "fiyat": "212,60",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789754702095 | TÜRKÇE | 479 | Karton Kapak | 3. Hm. Kağıt 2020-06-12",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11240842/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Huzursuzluğun Kitabı",
     "yazar": "Fernando Pessoa",
     "fiyat": "149,21",
@@ -1798,6 +1789,15 @@
     "yayinevi": "ERDEM ÇOCUK YAYINLARI",
     "kitap_hakkinda": "9786052791134 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2020-01-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10837616/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Son Ada’nın Çocukları",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "76,70",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751041326 | TÜRKÇE | 164 | Karton Kapak | Kitap Kağıdı 2020-10-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11288220/wi:500/wh:true"
   },
   {
     "kitap_adi": "Alice Harikalar Diyarında",
@@ -2682,15 +2682,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422294/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Ruh Adam",
-    "yazar": "Hüseyin Nihal Atsız",
-    "fiyat": "143,26",
-    "eski_fiyat": "",
-    "yayinevi": "ÖTÜKEN NEŞRİYAT",
-    "kitap_hakkinda": "9786254081613 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-08-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11713962/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Pera Palas'ta Onbir Gece",
     "yazar": "Kayahan Demir",
     "fiyat": "73,15",
@@ -3166,15 +3157,6 @@
     "yayinevi": "ALTIN KİTAPLAR",
     "kitap_hakkinda": "At Bertram's Hotel | 9789754054064 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-02-28",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11858943/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Koku (Ciltsiz)",
-    "yazar": "Patrick Süskind",
-    "fiyat": "111,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750737992 | TÜRKÇE | 264 | Karton Kapak | 3. Hm. Kağıt 2023-08-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755781/wi:500/wh:true"
   },
   {
     "kitap_adi": "Küçük Ağaç'ın Eğitimi",
