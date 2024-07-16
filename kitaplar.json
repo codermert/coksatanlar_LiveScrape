@@ -1064,7 +1064,7 @@
   {
     "kitap_adi": "Ölümün Sonu",
     "yazar": "Cixin Liu",
-    "fiyat": "208,60",
+    "fiyat": "208,70",
     "eski_fiyat": "",
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "死神永生 | 9786257737043 | TÜRKÇE | 782 | Karton Kapak | Kitap Kağıdı 2023-02-14",
@@ -3625,6 +3625,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "The Boy with the Butterfly Mind | 9786050837933 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2022-03-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11629291/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sisifos Söyleni",
+    "yazar": "Albert Camus",
+    "fiyat": "122,45",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748684 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-04-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11400207/wi:500/wh:true"
   },
   {
     "kitap_adi": "Göktürk Kitabeleri",
