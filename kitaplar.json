@@ -389,7 +389,7 @@
   {
     "kitap_adi": "Sessiz Hasta",
     "yazar": "Alex Michaelides",
-    "fiyat": "112,35",
+    "fiyat": "111,35",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Silent Patient | 9786051981482 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2023-08-01",
@@ -605,7 +605,7 @@
   {
     "kitap_adi": "İnce Memed 2",
     "yazar": "Yaşar Kemal",
-    "fiyat": "210,20",
+    "fiyat": "209,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807176 | TÜRKÇE | 459 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -650,7 +650,7 @@
   {
     "kitap_adi": "Kuru Kız",
     "yazar": "Ayfer Tunç",
-    "fiyat": "94,35",
+    "fiyat": "93,45",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750760099 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2023-04-05",
@@ -668,7 +668,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "224,92",
+    "fiyat": "225,47",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -2124,6 +2124,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11424676/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sevgili Arsız Ölüm",
+    "yazar": "Latife Tekin",
+    "fiyat": "111,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kumarbaz (Cep Boy) (Tam Metin)",
     "yazar": "Fyodor Mihailoviç Dostoyevski",
     "fiyat": "9,90",
@@ -2986,6 +2995,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753639019 | TÜRKÇE | 161 | Karton Kapak | Kitap Kağıdı 2020-07-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:76484/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bin Muhteşem Güneş",
+    "yazar": "Khaled Hosseini",
+    "fiyat": "177,95",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870226/wi:500/wh:true"
   },
   {
     "kitap_adi": "Arayışlar",
