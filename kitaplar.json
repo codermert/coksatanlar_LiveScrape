@@ -63,6 +63,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11655631/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "93,05",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Labirent & Batı ve Hasımları",
     "yazar": "Amin Maalouf",
     "fiyat": "107,70",
@@ -3130,6 +3139,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753634755 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2019-11-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:12211/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Erbain & Kırk Yılın Şiirleri",
+    "yazar": "İsmet Özel",
+    "fiyat": "139,75",
+    "eski_fiyat": "",
+    "yayinevi": "TİYO YAYINLARI",
+    "kitap_hakkinda": "9786056323942 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2013-06-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:228410/wi:500/wh:true"
   },
   {
     "kitap_adi": "Arzularımın Listesi",
