@@ -63,15 +63,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11655631/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Yaşamak",
-    "yazar": "Yu Hua",
-    "fiyat": "93,05",
-    "eski_fiyat": "",
-    "yayinevi": "JAGUAR KİTAP",
-    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Labirent & Batı ve Hasımları",
     "yazar": "Amin Maalouf",
     "fiyat": "107,70",
@@ -1359,6 +1350,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11902586/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yeşil Peri Gecesi",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "183,55",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748196 | TÜRKÇE | 472 | Karton Kapak | Kitap Kağıdı 2022-04-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452857/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Nakano Eskici Dükkanı",
     "yazar": "Hiromi Kawakami",
     "fiyat": "94,88",
@@ -2520,6 +2520,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11711429/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Zorba (Ciltsiz)",
+    "yazar": "Nikos Kazancakis",
+    "fiyat": "148,70",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789755101613 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2019-07-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784603/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Gün Olur Asra Bedel",
     "yazar": "Cengiz Aytmatov",
     "fiyat": "101,79",
@@ -2889,6 +2898,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:116825/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Bin Muhteşem Güneş",
+    "yazar": "Khaled Hosseini",
+    "fiyat": "177,95",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870226/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Gılgamış Destanı (Karton Kapak)",
     "yazar": "Sait Maden",
     "fiyat": "41,25",
@@ -3139,6 +3157,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753634755 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2019-11-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:12211/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İncir Kuşları",
+    "yazar": "Sinan Akyüz",
+    "fiyat": "145,45",
+    "eski_fiyat": "",
+    "yayinevi": "ALFA YAYINLARI",
+    "kitap_hakkinda": "9786051064390 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2021-10-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11845057/wi:500/wh:true"
   },
   {
     "kitap_adi": "Erbain & Kırk Yılın Şiirleri",
