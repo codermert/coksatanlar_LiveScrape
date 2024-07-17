@@ -1586,7 +1586,7 @@
   {
     "kitap_adi": "Tavuk Bacaklı Ev",
     "yazar": "Sophie Anderson",
-    "fiyat": "128,38",
+    "fiyat": "128,48",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050847369 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2023-05-08",
@@ -3625,6 +3625,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750832208 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2024-02-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4745404/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Varolmanın Dayanılmaz Hafifliği",
+    "yazar": "Milan Kundera",
+    "fiyat": "120,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750726170 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2019-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11473062/wi:500/wh:true"
   },
   {
     "kitap_adi": "Cemile",
