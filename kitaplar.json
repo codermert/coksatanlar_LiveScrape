@@ -2169,6 +2169,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870173/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Ölüm Bir Varmış Bir Yokmuş",
+    "yazar": "Jose Saramago",
+    "fiyat": "132,50",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "9786052982617 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2019-06-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11857268/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Bülbül",
     "yazar": "Kristin Hannah",
     "fiyat": "181,15",
@@ -2198,7 +2207,7 @@
   {
     "kitap_adi": "Çöpçüler",
     "yazar": "Darren Simpson",
-    "fiyat": "102,60",
+    "fiyat": "102,70",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050833010 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-10-14",
