@@ -299,7 +299,7 @@
   {
     "kitap_adi": "Son Ayı",
     "yazar": "Hannah Gold",
-    "fiyat": "91,28",
+    "fiyat": "91,38",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050843392 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2023-08-08",
@@ -403,15 +403,6 @@
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254183119 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2024-07-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11914901/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Sessiz Hasta",
-    "yazar": "Alex Michaelides",
-    "fiyat": "111,35",
-    "eski_fiyat": "",
-    "yayinevi": "DOMİNGO YAYINEVİ",
-    "kitap_hakkinda": "Silent Patient | 9786051981482 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2023-08-01",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11376436/wi:500/wh:true"
   },
   {
     "kitap_adi": "Pal Sokağı Çocukları",
