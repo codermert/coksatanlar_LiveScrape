@@ -659,7 +659,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "228,22",
+    "fiyat": "220,14",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -2446,15 +2446,6 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050846379 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2022-12-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11637997/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Luna",
-    "yazar": "Buğra Gülsoy",
-    "fiyat": "87,95",
-    "eski_fiyat": "",
-    "yayinevi": "İNKILAP KİTABEVİ",
-    "kitap_hakkinda": "9789751044570 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2022-12-07",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638366/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ayaşlı ile Kiracıları",
