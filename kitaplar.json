@@ -110,7 +110,7 @@
   {
     "kitap_adi": "Zeytindağı",
     "yazar": "Falih Rıfkı Atay",
-    "fiyat": "67,35",
+    "fiyat": "67,45",
     "eski_fiyat": "",
     "yayinevi": "POZİTİF YAYINLARI",
     "kitap_hakkinda": "9789756461075 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-06-09",
@@ -821,7 +821,7 @@
   {
     "kitap_adi": "Göçüp Gidenler Koleksiyoncusu",
     "yazar": "Şermin Yaşar",
-    "fiyat": "125,10",
+    "fiyat": "126,00",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786050955453 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2024-05-20",
@@ -1064,7 +1064,7 @@
   {
     "kitap_adi": "Kapak Kızı",
     "yazar": "Ayfer Tunç",
-    "fiyat": "125,00",
+    "fiyat": "125,10",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750747045 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2021-09-27",
@@ -1208,7 +1208,7 @@
   {
     "kitap_adi": "Palyatif Toplum & Günümüzde Acı",
     "yazar": "Byung-Chul Han",
-    "fiyat": "66,40",
+    "fiyat": "66,50",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Palliativgesellschaft | 9786053162599 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-01-22",
@@ -1442,7 +1442,7 @@
   {
     "kitap_adi": "Son Ada’nın Çocukları",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "76,80",
+    "fiyat": "76,90",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041326 | TÜRKÇE | 164 | Karton Kapak | Kitap Kağıdı 2020-10-12",
@@ -2646,15 +2646,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11893170/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Dün Gece Yar Hanesinde / Gönül Sadası’ndan Akisler 6",
-    "yazar": "Dr. Kemal Sayar  Sadettin Ökten",
-    "fiyat": "150,00",
-    "eski_fiyat": "",
-    "yayinevi": "TK KİTAP",
-    "kitap_hakkinda": "9786259823300 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2024-07-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11911151/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Mahur Beste",
     "yazar": "Ahmet Hamdi Tanpınar",
     "fiyat": "100,80",
@@ -3319,15 +3310,6 @@
     "yayinevi": "JAGUAR KİTAP",
     "kitap_hakkinda": "9786257027472 | TÜRKÇE | 530 | Karton Kapak | Kitap Kağıdı 2024-05-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11886623/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Lazarus",
-    "yazar": "Lars Kepler",
-    "fiyat": "275,63",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786256666672 | TÜRKÇE | 512 | Karton Kapak | Kitap Kağıdı 2024-06-26",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905701/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yoksulluk İçimizde",
