@@ -1406,7 +1406,7 @@
   {
     "kitap_adi": "Nar Ağacı",
     "yazar": "Prof. Dr. Nazan Bekiroğlu",
-    "fiyat": "202,84",
+    "fiyat": "202,94",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ YAYINLARI",
     "kitap_hakkinda": "9786050807073 | TÜRKÇE | 536 | Karton Kapak | Kitap Kağıdı 2019-09-05",
@@ -1854,6 +1854,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11866938/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sayın Bay Rock Yıldızı",
+    "yazar": "Teoman",
+    "fiyat": "190,95",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786256666542 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2024-05-29",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11898368/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Mahur Beste",
     "yazar": "Ahmet Hamdi Tanpınar",
     "fiyat": "100,80",
@@ -1883,7 +1892,7 @@
   {
     "kitap_adi": "Saç Örgüsü",
     "yazar": "Laetitia Colombani",
-    "fiyat": "100,10",
+    "fiyat": "99,60",
     "eski_fiyat": "",
     "yayinevi": "YAN PASAJ",
     "kitap_hakkinda": "9786058276666 | TÜRKÇE | 188 | Karton Kapak | Kitap Kağıdı 2024-02-12",
