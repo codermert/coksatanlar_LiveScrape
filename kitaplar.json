@@ -875,7 +875,7 @@
   {
     "kitap_adi": "Kayıp Tanrılar Ülkesi",
     "yazar": "Ahmet Ümit",
-    "fiyat": "163,40",
+    "fiyat": "162,90",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750850417 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-08-09",
@@ -1253,7 +1253,7 @@
   {
     "kitap_adi": "Sana Gül Bahçesi Vadetmedim",
     "yazar": "Joanne Greenberg",
-    "fiyat": "166,65",
+    "fiyat": "166,75",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "I Never Promised You a Rose Garden | 9789753424080 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2023-05-04",
@@ -1595,7 +1595,7 @@
   {
     "kitap_adi": "Buz Canavarı",
     "yazar": "David Walliams",
-    "fiyat": "175,87",
+    "fiyat": "175,97",
     "eski_fiyat": "",
     "yayinevi": "CAN ÇOCUK YAYINLARI",
     "kitap_hakkinda": "9789750742118 | TÜRKÇE | 488 | Karton Kapak | Kitap Kağıdı 2020-09-22",
@@ -2009,7 +2009,7 @@
   {
     "kitap_adi": "Çöpçüler",
     "yazar": "Darren Simpson",
-    "fiyat": "102,70",
+    "fiyat": "102,80",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050833010 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-10-14",
@@ -4237,6 +4237,15 @@
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "9786256462410 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2024-06-11",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11914325/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Lazarus",
+    "yazar": "Lars Kepler",
+    "fiyat": "275,63",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786256666672 | TÜRKÇE | 512 | Karton Kapak | Kitap Kağıdı 2024-06-26",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905701/wi:500/wh:true"
   },
   {
     "kitap_adi": "Sırr-ı Sinan",
