@@ -1199,7 +1199,7 @@
   {
     "kitap_adi": "Palyatif Toplum & Günümüzde Acı",
     "yazar": "Byung-Chul Han",
-    "fiyat": "66,70",
+    "fiyat": "66,80",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "Palliativgesellschaft | 9786053162599 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-01-22",
@@ -2527,6 +2527,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050838039 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2022-09-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631073/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yıldızlar Saçıldığında (Fleksi Kapak)",
+    "yazar": "Omar Mohamed  Victoria Jamieson",
+    "fiyat": "227,70",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050844818 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2022-06-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11581233/wi:500/wh:true"
   },
   {
     "kitap_adi": "Asi Gökler",
