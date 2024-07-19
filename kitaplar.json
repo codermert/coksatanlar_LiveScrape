@@ -866,7 +866,7 @@
   {
     "kitap_adi": "Kenz-Ul Alem & Alemin Sırrı",
     "yazar": "Işık Kızıltuğ",
-    "fiyat": "309,38",
+    "fiyat": "288,75",
     "eski_fiyat": "",
     "yayinevi": "ŞİRA YAYINLARI",
     "kitap_hakkinda": "9786057977540 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-06-03",
@@ -3699,6 +3699,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11621389/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Tiamat (Karton Kapak)",
+    "yazar": "İhsan Oktay Anar",
+    "fiyat": "65,20",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9786051857237 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2022-02-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11521597/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Çeyiz",
     "yazar": "Hatice Kübra Tongar",
     "fiyat": "95,02",
@@ -4066,6 +4075,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258076547 | TÜRKÇE | 296 | Ciltli | Kitap Kağıdı 2022-07-26",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11590397/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Surname & Bir Osmanlı Macerası",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "120,75",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786258096439 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2022-11-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11683118/wi:500/wh:true"
   },
   {
     "kitap_adi": "Pal Sokağı Çocukları (Cep Boy) (Tam Metin)",
