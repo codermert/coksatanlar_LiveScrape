@@ -803,7 +803,7 @@
   {
     "kitap_adi": "Kinyas ve Kayra",
     "yazar": "Hakan Günday",
-    "fiyat": "214,20",
+    "fiyat": "213,70",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
@@ -1638,6 +1638,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332552/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Ruhun Yaralı Şifacısı Carl Jung",
+    "yazar": "Claire Dunne",
+    "fiyat": "105,84",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN NOVUS",
+    "kitap_hakkinda": "9786258004953 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-03-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11864714/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Kendini Aş Haddini Aşma",
     "yazar": "Mustafa Kutlu",
     "fiyat": "84,50",
@@ -1676,7 +1685,7 @@
   {
     "kitap_adi": "Liste",
     "yazar": "Patricia Forde",
-    "fiyat": "170,70",
+    "fiyat": "170,45",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050828344 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2022-03-26",
@@ -2045,7 +2054,7 @@
   {
     "kitap_adi": "Kayıp Balina",
     "yazar": "Hannah Gold",
-    "fiyat": "108,80",
+    "fiyat": "106,95",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "The Lost Whale | 9786050847406 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2023-05-08",
