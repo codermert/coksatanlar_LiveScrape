@@ -2214,6 +2214,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8114519/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Osman",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "171,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Alice Harikalar Diyarında",
     "yazar": "Lewis Carroll",
     "fiyat": "12,88",
@@ -3553,6 +3562,15 @@
     "yayinevi": "NESİN YAYINEVİ",
     "kitap_hakkinda": "9789759038496 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2005-11-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:116825/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Deliler Evinin Yalan Yanlış Anlatılan Kısa Tarihi",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "194,55",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750722127 | TÜRKÇE | 492 | Karton Kapak | Kitap Kağıdı 2019-10-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487005/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hay Bin Yakzan",
