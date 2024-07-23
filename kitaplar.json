@@ -1073,7 +1073,7 @@
   {
     "kitap_adi": "Bir Kadının Kavgaları ve Dönüşümleri",
     "yazar": "Edouard Louis",
-    "fiyat": "55,63",
+    "fiyat": "55,73",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750763199 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2024-04-02",
@@ -1478,7 +1478,7 @@
   {
     "kitap_adi": "Siddhartha (Ciltsiz)",
     "yazar": "Hermann Hesse",
-    "fiyat": "78,49",
+    "fiyat": "72,57",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719394 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -1960,6 +1960,15 @@
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11612179/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zorba (Ciltsiz)",
+    "yazar": "Nikos Kazancakis",
+    "fiyat": "148,70",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789755101613 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2019-07-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784603/wi:500/wh:true"
   },
   {
     "kitap_adi": "Erbain & Kırk Yılın Şiirleri",
@@ -2810,7 +2819,7 @@
   {
     "kitap_adi": "Kürk Mantolu Madonna",
     "yazar": "Sabahattin Ali",
-    "fiyat": "19,25",
+    "fiyat": "19,35",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
@@ -3537,6 +3546,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905004/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Koku (Ciltsiz)",
+    "yazar": "Patrick Süskind",
+    "fiyat": "111,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750737992 | TÜRKÇE | 264 | Karton Kapak | 3. Hm. Kağıt 2023-08-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755781/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Aşkın Celladı",
     "yazar": "Irvin D. Yalom",
     "fiyat": "175,66",
@@ -3940,6 +3958,15 @@
     "yayinevi": "HAYY KİTAP",
     "kitap_hakkinda": "9789752477056 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2022-03-08",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3473516/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sevgili Arsız Ölüm",
+    "yazar": "Latife Tekin",
+    "fiyat": "111,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
   },
   {
     "kitap_adi": "Stefan Zweig Seti (8 Kitap)",
