@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "176,50",
+    "fiyat": "176,60",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -126,6 +126,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1013537/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Simyacı (Ciltsiz)",
+    "yazar": "Paulo Coelho",
+    "fiyat": "87,02",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11819904/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
     "yazar": "William Golding",
     "fiyat": "43,90",
@@ -164,7 +173,7 @@
   {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
-    "fiyat": "143,03",
+    "fiyat": "143,13",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
@@ -299,7 +308,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "96,20",
+    "fiyat": "96,30",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
