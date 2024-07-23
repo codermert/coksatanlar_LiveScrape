@@ -1820,7 +1820,7 @@
   {
     "kitap_adi": "Çöpçüler",
     "yazar": "Darren Simpson",
-    "fiyat": "103,10",
+    "fiyat": "103,20",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050833010 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-10-14",
@@ -2095,6 +2095,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753639019 | TÜRKÇE | 161 | Karton Kapak | Kitap Kağıdı 2020-07-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:76484/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İncir Kuşları",
+    "yazar": "Sinan Akyüz",
+    "fiyat": "146,45",
+    "eski_fiyat": "",
+    "yayinevi": "ALFA YAYINLARI",
+    "kitap_hakkinda": "9786051064390 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2021-10-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11845057/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kırmızı Saçlı Kadın",
