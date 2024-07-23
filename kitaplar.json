@@ -443,7 +443,7 @@
   {
     "kitap_adi": "Hayvan Çiftliği (Ciltsiz)",
     "yazar": "George Orwell",
-    "fiyat": "37,81",
+    "fiyat": "37,91",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Animall Farm | 9789750719387 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-10-04",
@@ -686,7 +686,7 @@
   {
     "kitap_adi": "Gazap Üzümleri",
     "yazar": "John Steinbeck",
-    "fiyat": "211,39",
+    "fiyat": "211,49",
     "eski_fiyat": "",
     "yayinevi": "İLETİŞİM YAYINLARI",
     "kitap_hakkinda": "9789750531170 | TÜRKÇE | 540 | Karton Kapak | Kitap Kağıdı 2021-12-28",
@@ -884,7 +884,7 @@
   {
     "kitap_adi": "İnce Memed 4",
     "yazar": "Yaşar Kemal",
-    "fiyat": "178,36",
+    "fiyat": "178,46",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806995 | TÜRKÇE | 639 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -2149,6 +2149,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050846591 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-01-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11656216/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Kadın",
+    "yazar": "Annie Ernaux",
+    "fiyat": "57,86",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750760594 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2023-04-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11690626/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yarının Adamı 3 & Ya İstiklal Ya Ölüm",
