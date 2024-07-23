@@ -1316,7 +1316,7 @@
   {
     "kitap_adi": "Beş Şehir",
     "yazar": "Ahmet Hamdi Tanpınar",
-    "fiyat": "122,30",
+    "fiyat": "122,40",
     "eski_fiyat": "",
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
@@ -1955,7 +1955,7 @@
   {
     "kitap_adi": "Mülksüzler",
     "yazar": "Ursula K. Le Guin",
-    "fiyat": "168,80",
+    "fiyat": "168,90",
     "eski_fiyat": "",
     "yayinevi": "METİS YAYINLARI",
     "kitap_hakkinda": "The Dispossessed | 9789753425285 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2021-05-31",
@@ -3454,6 +3454,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257361057 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2021-02-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11373106/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sisifos Söyleni",
+    "yazar": "Albert Camus",
+    "fiyat": "115,70",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748684 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2021-04-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11400207/wi:500/wh:true"
   },
   {
     "kitap_adi": "Suda Kaybolmak",
