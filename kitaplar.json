@@ -155,7 +155,7 @@
   {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
-    "fiyat": "143,83",
+    "fiyat": "143,93",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
@@ -1564,15 +1564,6 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750763137 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2024-03-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11856986/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Taşların Anlattığı",
-    "yazar": "Clara Dupont-Monod",
-    "fiyat": "94,00",
-    "eski_fiyat": "",
-    "yayinevi": "İLETİŞİM YAYINLARI",
-    "kitap_hakkinda": "9789750536373 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2024-03-15",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11862398/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kralın Laneti",
