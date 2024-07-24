@@ -20,7 +20,7 @@
   {
     "kitap_adi": "4 Gün 3 Gece",
     "yazar": "Ayşe Kulin",
-    "fiyat": "107,20",
+    "fiyat": "107,30",
     "eski_fiyat": "",
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9786253692018 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2024-05-10",
@@ -2059,6 +2059,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750763717 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2024-05-20",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11893221/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Badem Ağacı",
+    "yazar": "Michele Cohen Corasanti",
+    "fiyat": "164,65",
+    "eski_fiyat": "",
+    "yayinevi": "PEGASUS YAYINLARI",
+    "kitap_hakkinda": "9786053434788 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2015-04-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1016159/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dune",
