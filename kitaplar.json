@@ -1703,7 +1703,7 @@
   {
     "kitap_adi": "Buz Canavarı",
     "yazar": "David Walliams",
-    "fiyat": "176,27",
+    "fiyat": "176,37",
     "eski_fiyat": "",
     "yayinevi": "CAN ÇOCUK YAYINLARI",
     "kitap_hakkinda": "9789750742118 | TÜRKÇE | 488 | Karton Kapak | Kitap Kağıdı 2020-09-22",
@@ -2212,6 +2212,15 @@
     "yayinevi": "KETEBE YAYINEVİ",
     "kitap_hakkinda": "9786257303880 | TÜRKÇE | 180 | Karton Kapak | Kitap Kağıdı 2021-06-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422255/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Cennetin Doğusu",
+    "yazar": "John Steinbeck",
+    "fiyat": "273,59",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750531200 | TÜRKÇE | 644 | Karton Kapak | Kitap Kağıdı 2021-06-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11429327/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ben, Amir & Savaşın Unutulan Çocuğu",
