@@ -533,7 +533,7 @@
   {
     "kitap_adi": "Kinyas ve Kayra",
     "yazar": "Hakan Günday",
-    "fiyat": "212,70",
+    "fiyat": "211,40",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
@@ -614,7 +614,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "22,50",
+    "fiyat": "22,60",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -2018,7 +2018,7 @@
   {
     "kitap_adi": "Kayıp Balina",
     "yazar": "Hannah Gold",
-    "fiyat": "107,55",
+    "fiyat": "107,65",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "The Lost Whale | 9786050847406 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2023-05-08",
@@ -2509,15 +2509,6 @@
     "yayinevi": "LAPİS YAYINCILIK",
     "kitap_hakkinda": "9786259457130 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2024-07-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11916533/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Koku (Ciltsiz)",
-    "yazar": "Patrick Süskind",
-    "fiyat": "111,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750737992 | TÜRKÇE | 264 | Karton Kapak | 3. Hm. Kağıt 2023-08-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755781/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kuşlar Da Gitti",
