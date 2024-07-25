@@ -1496,7 +1496,7 @@
   {
     "kitap_adi": "Sırça Köşk",
     "yazar": "Sabahattin Ali",
-    "fiyat": "20,10",
+    "fiyat": "20,20",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750806629 | TÜRKÇE | 141 | Karton Kapak | 3. Hm. Kağıt 2021-09-24",
@@ -3004,15 +3004,6 @@
     "yayinevi": "DEDALUS KİTAP",
     "kitap_hakkinda": "What is man? | 9786059203043 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2022-10-25",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11668214/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Sevgili Arsız Ölüm",
-    "yazar": "Latife Tekin",
-    "fiyat": "111,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
   },
   {
     "kitap_adi": "Martin Eden",
