@@ -1341,6 +1341,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11263781/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Osman",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "171,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Satranç",
     "yazar": "Stefan Zweig",
     "fiyat": "13,95",
@@ -2077,6 +2086,15 @@
     "yayinevi": "GÜNIŞIĞI KİTAPLIĞI",
     "kitap_hakkinda": "9786057797520 | TÜRKÇE | 240 | Karton Kapak | Kitap Kağıdı 2021-09-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11450732/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Kadın",
+    "yazar": "Annie Ernaux",
+    "fiyat": "57,86",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750760594 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2023-04-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11690626/wi:500/wh:true"
   },
   {
     "kitap_adi": "Dördüncü Kanat (Karton Kapak)",
