@@ -533,7 +533,7 @@
   {
     "kitap_adi": "Kırmızı Pazartesi",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "72,10",
+    "fiyat": "72,20",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
@@ -857,7 +857,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "231,95",
+    "fiyat": "232,05",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -3148,15 +3148,6 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750804663 | TÜRKÇE | 203 | Karton Kapak | Kitap Kağıdı 2019-10-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6637566/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bin Muhteşem Güneş",
-    "yazar": "Khaled Hosseini",
-    "fiyat": "173,25",
-    "eski_fiyat": "",
-    "yayinevi": "EVEREST YAYINLARI",
-    "kitap_hakkinda": "9789752894846 | TÜRKÇE | 430 | Karton Kapak | Kitap Kağıdı 2020-01-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870226/wi:500/wh:true"
   },
   {
     "kitap_adi": "İçimizdeki Şeytan (Cep Boy) (Tam Metin)",
