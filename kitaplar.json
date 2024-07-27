@@ -614,7 +614,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "22,70",
+    "fiyat": "22,80",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -1672,15 +1672,6 @@
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11638689/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ene & Sus Ey Nefsim!",
-    "yazar": "Fatih Duman",
-    "fiyat": "123,50",
-    "eski_fiyat": "",
-    "yayinevi": "NESİL YAYINLARI",
-    "kitap_hakkinda": "9786051622606 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-08-02",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11588078/wi:500/wh:true"
   },
   {
     "kitap_adi": "Rüzgarı Dizginleyen Çocuk",
