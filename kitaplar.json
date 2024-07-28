@@ -911,7 +911,7 @@
   {
     "kitap_adi": "Seyir",
     "yazar": "Piraye",
-    "fiyat": "177,30",
+    "fiyat": "177,40",
     "eski_fiyat": "",
     "yayinevi": "MONA KİTAP",
     "kitap_hakkinda": "9786052182734 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-01-27",
@@ -1226,7 +1226,7 @@
   {
     "kitap_adi": "Sağlıklı, Ahlaklı ve Mutlu Kız Çocuğu Yetiştirmek",
     "yazar": "Hatice Kübra Tongar",
-    "fiyat": "86,67",
+    "fiyat": "87,19",
     "eski_fiyat": "",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259897912 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-10-11",
@@ -3292,15 +3292,6 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759953119 | TÜRKÇE | 90 | Karton Kapak | Kitap Kağıdı 2012-08-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:111182/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Hasretinden Prangalar Eskittim",
-    "yazar": "Ahmed Arif",
-    "fiyat": "105,36",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "9789753426527 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2023-06-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11733752/wi:500/wh:true"
   },
   {
     "kitap_adi": "Coşkuyla Ölmek",
