@@ -11,7 +11,7 @@
   {
     "kitap_adi": "4 Gün 3 Gece",
     "yazar": "Ayşe Kulin",
-    "fiyat": "103,20",
+    "fiyat": "102,70",
     "eski_fiyat": "",
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9786253692018 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2024-05-10",
@@ -160,6 +160,15 @@
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11911357/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "105,05",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bin Dokuz Yüz Seksen Dört - 1984",
@@ -326,7 +335,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "110,20",
+    "fiyat": "109,70",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -497,7 +506,7 @@
   {
     "kitap_adi": "Sessiz Hasta",
     "yazar": "Alex Michaelides",
-    "fiyat": "107,20",
+    "fiyat": "106,70",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Silent Patient | 9786051981482 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2024-07-22",
@@ -2185,6 +2194,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750721762 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2019-02-27",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11437415/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İncir Kuşları",
+    "yazar": "Sinan Akyüz",
+    "fiyat": "141,95",
+    "eski_fiyat": "",
+    "yayinevi": "ALFA YAYINLARI",
+    "kitap_hakkinda": "9786051064390 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2021-10-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11845057/wi:500/wh:true"
   },
   {
     "kitap_adi": "Erbain & Kırk Yılın Şiirleri",
