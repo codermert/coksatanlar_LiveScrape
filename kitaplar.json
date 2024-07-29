@@ -1440,15 +1440,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11390613/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Osman",
-    "yazar": "Ayfer Tunç",
-    "fiyat": "171,20",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Korku",
     "yazar": "Stefan Zweig",
     "fiyat": "13,95",
@@ -2774,7 +2765,7 @@
   {
     "kitap_adi": "Lüzumsuz Kadın",
     "yazar": "Rabih Alameddine",
-    "fiyat": "104,20",
+    "fiyat": "110,00",
     "eski_fiyat": "",
     "yayinevi": "BUDALA KİTAP",
     "kitap_hakkinda": "9786057054807 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-05-03",
