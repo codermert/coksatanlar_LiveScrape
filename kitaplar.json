@@ -1440,6 +1440,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11390613/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Osman",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "171,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750745522 | TÜRKÇE | 504 | Karton Kapak | Kitap Kağıdı 2023-11-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11793109/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Korku",
     "yazar": "Stefan Zweig",
     "fiyat": "13,95",
@@ -2158,6 +2167,15 @@
     "yayinevi": "OLİMPOS YAYINLARI",
     "kitap_hakkinda": "9786256029095 | TÜRKÇE | 944 | Karton Kapak | Kitap Kağıdı 2024-05-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11894840/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zorba (Ciltsiz)",
+    "yazar": "Nikos Kazancakis",
+    "fiyat": "148,70",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789755101613 | TÜRKÇE | 348 | Karton Kapak | Kitap Kağıdı 2019-07-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784603/wi:500/wh:true"
   },
   {
     "kitap_adi": "Üç Yanlış Üç Ceset",
@@ -3121,6 +3139,15 @@
     "yayinevi": "İTHAKİ YAYINLARI",
     "kitap_hakkinda": "9786052654217 | TÜRKÇE | 260 | Karton Kapak | Kitap Kağıdı 2024-07-17",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11914378/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Varolmanın Dayanılmaz Hafifliği",
+    "yazar": "Milan Kundera",
+    "fiyat": "120,20",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750726170 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2019-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11473062/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bugünü Yaşama Arzusu & Schopenhauer Tedavisi",
