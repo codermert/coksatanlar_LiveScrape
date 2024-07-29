@@ -2637,15 +2637,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641425/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Olay",
-    "yazar": "Annie Ernaux",
-    "fiyat": "47,00",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750760587 | TÜRKÇE | 80 | Karton Kapak | Kitap Kağıdı 2023-04-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11839050/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Bir Kimya Meselesi",
     "yazar": "Bonnie Garmus",
     "fiyat": "205,23",
@@ -4309,6 +4300,15 @@
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750757754 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2024-04-19",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11882133/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Taşları Yemek Yasak",
+    "yazar": "İsmet Özel",
+    "fiyat": "139,75",
+    "eski_fiyat": "",
+    "yayinevi": "TİYO YAYINLARI",
+    "kitap_hakkinda": "9786056323997 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2013-03-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870089/wi:500/wh:true"
   },
   {
     "kitap_adi": "Benim Adım Kırmızı",
