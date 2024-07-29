@@ -65,7 +65,7 @@
   {
     "kitap_adi": "Tağut & Kutsal Aldanışın Soyağacı",
     "yazar": "Soner Yalçın",
-    "fiyat": "206,25",
+    "fiyat": "202,20",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254183072 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2024-06-11",
@@ -155,7 +155,7 @@
   {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
-    "fiyat": "146,63",
+    "fiyat": "146,73",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
@@ -965,7 +965,7 @@
   {
     "kitap_adi": "Sağlıklı, Ahlaklı ve Mutlu Kız Çocuğu Yetiştirmek",
     "yazar": "Hatice Kübra Tongar",
-    "fiyat": "87,19",
+    "fiyat": "87,52",
     "eski_fiyat": "",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259897912 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-10-11",
@@ -3805,6 +3805,15 @@
     "yayinevi": "ALBARAKA YAYINLARI",
     "kitap_hakkinda": "Die Vereindeutigung der Welt: Über den Verlust an Mehrdeutigkeit und Vielfalt | 9786257312561 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2024-01-22",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11837806/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bu Bizim Anlaşmamız",
+    "yazar": "Ryan Andrews",
+    "fiyat": "243,95",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050844474 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2022-05-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11567991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Hamnet",
