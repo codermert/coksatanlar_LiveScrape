@@ -2745,15 +2745,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7277420/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Sevgili Arsız Ölüm",
-    "yazar": "Latife Tekin",
-    "fiyat": "132,24",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Kuyucaklı Yusuf (Cep Boy) (Tam Metin)",
     "yazar": "Sabahattin Ali",
     "fiyat": "9,90",
@@ -2995,6 +2986,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257300018 | TÜRKÇE | 87 | Karton Kapak | Kitap Kağıdı 2021-04-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11401989/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bu Bizim Anlaşmamız",
+    "yazar": "Ryan Andrews",
+    "fiyat": "243,95",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050844474 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2022-05-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11567991/wi:500/wh:true"
   },
   {
     "kitap_adi": "Pal Sokağı Çocukları (Ciltli, İplik Dikişli)",
