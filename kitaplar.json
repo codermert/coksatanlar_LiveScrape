@@ -1307,7 +1307,7 @@
   {
     "kitap_adi": "Canım Aliye, Ruhum Filiz",
     "yazar": "Sabahattin Ali",
-    "fiyat": "36,30",
+    "fiyat": "36,40",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750826672 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2019-06-28",
@@ -2419,6 +2419,15 @@
     "yayinevi": "KARBON KİTAPLAR",
     "kitap_hakkinda": "9781695329515 | TÜRKÇE | 455 | Karton Kapak | Kitap Kağıdı 2018-04-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5795352/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sevgili Arsız Ölüm",
+    "yazar": "Latife Tekin",
+    "fiyat": "132,24",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750738715 | TÜRKÇE | 248 | Karton Kapak | Kitap Kağıdı 2019-10-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11452855/wi:500/wh:true"
   },
   {
     "kitap_adi": "Öteki (Cep Boy) (Tam Metin)",
