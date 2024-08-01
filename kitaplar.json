@@ -1730,7 +1730,7 @@
   {
     "kitap_adi": "İnce Memed 3",
     "yazar": "Yaşar Kemal",
-    "fiyat": "231,35",
+    "fiyat": "231,45",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807039 | TÜRKÇE | 629 | Karton Kapak | Kitap Kağıdı 2020-02-27",
@@ -3580,6 +3580,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786258281385 | TÜRKÇE | 200 | Ciltli | Kitap Kağıdı 2023-01-12",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11658308/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Hizmetçi",
+    "yazar": "Freida Mcfadden",
+    "fiyat": "161,36",
+    "eski_fiyat": "",
+    "yayinevi": "OLİMPOS YAYINLARI",
+    "kitap_hakkinda": "9786256411302 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-04-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700949/wi:500/wh:true"
   },
   {
     "kitap_adi": "İnci",
