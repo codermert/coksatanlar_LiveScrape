@@ -587,7 +587,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "159,74",
+    "fiyat": "160,27",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -956,7 +956,7 @@
   {
     "kitap_adi": "Sevgiler ve Lolipoplar & Büyüklerden Çocuklara Mektup Var!",
     "yazar": "Bahar Eriş",
-    "fiyat": "155,00",
+    "fiyat": "155,10",
     "eski_fiyat": "",
     "yayinevi": "ALFA YAYINLARI",
     "kitap_hakkinda": "9786253890056 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2024-05-03",
@@ -992,7 +992,7 @@
   {
     "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek (Modern Kapak)",
     "yazar": "Erich Fromm",
-    "fiyat": "120,05",
+    "fiyat": "120,15",
     "eski_fiyat": "",
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9786050207958 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-10-18",
@@ -1406,7 +1406,7 @@
   {
     "kitap_adi": "Uçabileceğini Hayal Eden Tavuk",
     "yazar": "Sun-Mı Hwang",
-    "fiyat": "54,55",
+    "fiyat": "54,65",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050833942 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2022-04-15",
@@ -2612,7 +2612,7 @@
   {
     "kitap_adi": "Doğunun Limanları",
     "yazar": "Amin Maalouf",
-    "fiyat": "82,09",
+    "fiyat": "81,09",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750809774 | TÜRKÇE | 183 | Karton Kapak | 3. Hm. Kağıt 2019-12-04",
@@ -3717,6 +3717,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:76484/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Az",
+    "yazar": "Hakan Günday",
+    "fiyat": "168,58",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Dün",
     "yazar": "Agota Kristof",
     "fiyat": "54,22",
@@ -4066,15 +4075,6 @@
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9789752894662 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2024-02-16",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11851699/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Hasretinden Prangalar Eskittim",
-    "yazar": "Ahmed Arif",
-    "fiyat": "105,36",
-    "eski_fiyat": "",
-    "yayinevi": "METİS YAYINLARI",
-    "kitap_hakkinda": "9789753426527 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2023-06-14",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11733752/wi:500/wh:true"
   },
   {
     "kitap_adi": "Bir Deliler Evinin Yalan Yanlış Anlatılan Kısa Tarihi",
