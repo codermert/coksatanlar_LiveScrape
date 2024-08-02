@@ -74,7 +74,7 @@
   {
     "kitap_adi": "Nietzsche Ağladığında",
     "yazar": "Irvin D. Yalom",
-    "fiyat": "179,30",
+    "fiyat": "179,40",
     "eski_fiyat": "",
     "yayinevi": "AYRINTI YAYINLARI",
     "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
@@ -398,7 +398,7 @@
   {
     "kitap_adi": "Balıkçı ve Oğlu",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "80,95",
+    "fiyat": "81,25",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
@@ -470,7 +470,7 @@
   {
     "kitap_adi": "Kalk Yerine Yat",
     "yazar": "Şermin Yaşar",
-    "fiyat": "101,02",
+    "fiyat": "101,12",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786258036107 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2021-11-25",
@@ -2284,15 +2284,6 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "9786257419086 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-06-09",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422538/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Yıldızlar Saçıldığında (Fleksi Kapak)",
-    "yazar": "Omar Mohamed  Victoria Jamieson",
-    "fiyat": "220,20",
-    "eski_fiyat": "",
-    "yayinevi": "TİMAŞ GENÇ",
-    "kitap_hakkinda": "9786050844818 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2022-06-21",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11581233/wi:500/wh:true"
   },
   {
     "kitap_adi": "Pal Sokağı Çocukları",
