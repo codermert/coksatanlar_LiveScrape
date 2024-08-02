@@ -146,7 +146,7 @@
   {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
-    "fiyat": "148,53",
+    "fiyat": "148,63",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
@@ -1843,15 +1843,6 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050838039 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2022-09-02",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631073/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Ruhun Yaralı Şifacısı Carl Jung",
-    "yazar": "Claire Dunne",
-    "fiyat": "105,84",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN NOVUS",
-    "kitap_hakkinda": "9786258004953 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-03-11",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11864714/wi:500/wh:true"
   },
   {
     "kitap_adi": "Kendini Aş Haddini Aşma",
