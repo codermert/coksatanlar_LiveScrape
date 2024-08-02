@@ -1082,7 +1082,7 @@
   {
     "kitap_adi": "Seyir",
     "yazar": "Piraye",
-    "fiyat": "175,70",
+    "fiyat": "174,70",
     "eski_fiyat": "",
     "yayinevi": "MONA KİTAP",
     "kitap_hakkinda": "9786052182734 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-01-27",
@@ -2027,7 +2027,7 @@
   {
     "kitap_adi": "Liste",
     "yazar": "Patricia Forde",
-    "fiyat": "165,30",
+    "fiyat": "165,40",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050828344 | TÜRKÇE | 368 | Karton Kapak | Kitap Kağıdı 2022-03-26",
@@ -2851,6 +2851,15 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9786256839489 | TÜRKÇE | 168 | Karton Kapak | 3. Hm. Kağıt 2023-11-03",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11916376/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Koku (Ciltsiz)",
+    "yazar": "Patrick Süskind",
+    "fiyat": "135,24",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750737992 | TÜRKÇE | 264 | Karton Kapak | 3. Hm. Kağıt 2023-08-17",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11755781/wi:500/wh:true"
   },
   {
     "kitap_adi": "Mavi Kuş",
