@@ -938,7 +938,7 @@
   {
     "kitap_adi": "Sevgiler ve Lolipoplar & Büyüklerden Çocuklara Mektup Var!",
     "yazar": "Bahar Eriş",
-    "fiyat": "155,10",
+    "fiyat": "155,20",
     "eski_fiyat": "",
     "yayinevi": "ALFA YAYINLARI",
     "kitap_hakkinda": "9786253890056 | TÜRKÇE | 344 | Karton Kapak | Kitap Kağıdı 2024-05-03",
@@ -992,7 +992,7 @@
   {
     "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek (Modern Kapak)",
     "yazar": "Erich Fromm",
-    "fiyat": "120,35",
+    "fiyat": "120,45",
     "eski_fiyat": "",
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9786050207958 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-10-18",
@@ -3112,6 +3112,15 @@
     "yayinevi": "İSKELE YAYINCILIK",
     "kitap_hakkinda": "9789759099121 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2005-07-31",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11854391/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Az",
+    "yazar": "Hakan Günday",
+    "fiyat": "168,58",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050900682 | TÜRKÇE | 360 | Karton Kapak | Kitap Kağıdı 2014-05-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:196443/wi:500/wh:true"
   },
   {
     "kitap_adi": "Coşkuyla Ölmek",
