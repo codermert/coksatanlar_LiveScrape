@@ -1460,7 +1460,7 @@
   {
     "kitap_adi": "Huzursuzluğun Kitabı",
     "yazar": "Fernando Pessoa",
-    "fiyat": "171,43",
+    "fiyat": "171,53",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Livro do desassossego | 9789750736865 | TÜRKÇE | 675 | Karton Kapak | Kitap Kağıdı 2021-09-21",
@@ -2455,15 +2455,6 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050846591 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-01-10",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11656216/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Bir Kadın",
-    "yazar": "Annie Ernaux",
-    "fiyat": "76,13",
-    "eski_fiyat": "",
-    "yayinevi": "CAN YAYINLARI",
-    "kitap_hakkinda": "9789750760594 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2023-04-05",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11690626/wi:500/wh:true"
   },
   {
     "kitap_adi": "Mermedusa",
