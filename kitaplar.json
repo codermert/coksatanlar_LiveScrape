@@ -999,15 +999,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784123/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Deli Tarla",
-    "yazar": "Şermin Yaşar",
-    "fiyat": "116,70",
-    "eski_fiyat": "",
-    "yayinevi": "DOĞAN KİTAP",
-    "kitap_hakkinda": "9786050978490 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2020-11-06",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11301315/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Zia Dünyayı Siliyor",
     "yazar": "Bree Barton",
     "fiyat": "125,13",
@@ -1798,6 +1789,15 @@
     "yayinevi": "ALFA YAYINLARI",
     "kitap_hakkinda": "9786254497735 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-10-06",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11808061/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ucuz Romancılar",
+    "yazar": "Murat Menteş",
+    "fiyat": "108,20",
+    "eski_fiyat": "",
+    "yayinevi": "ALFA YAYINLARI",
+    "kitap_hakkinda": "9786253890094 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2024-05-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11889646/wi:500/wh:true"
   },
   {
     "kitap_adi": "Ucuz Romancılar",
