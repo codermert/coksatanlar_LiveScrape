@@ -200,7 +200,7 @@
   {
     "kitap_adi": "Veronika Ölmek İstiyor",
     "yazar": "Paulo Coelho",
-    "fiyat": "91,32",
+    "fiyat": "90,30",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -254,7 +254,7 @@
   {
     "kitap_adi": "İnce Memed 1",
     "yazar": "Yaşar Kemal",
-    "fiyat": "157,89",
+    "fiyat": "157,42",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
@@ -335,7 +335,7 @@
   {
     "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
     "yazar": "Gabriel Garcia Marquez",
-    "fiyat": "162,39",
+    "fiyat": "161,39",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
@@ -650,7 +650,7 @@
   {
     "kitap_adi": "Kuru Kız",
     "yazar": "Ayfer Tunç",
-    "fiyat": "85,01",
+    "fiyat": "84,51",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "9789750760099 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2023-04-05",
@@ -713,7 +713,7 @@
   {
     "kitap_adi": "Kızıl Karma",
     "yazar": "Jean Christophe Grange",
-    "fiyat": "207,04",
+    "fiyat": "206,04",
     "eski_fiyat": "",
     "yayinevi": "DOĞAN KİTAP",
     "kitap_hakkinda": "9786256666061 | TÜRKÇE | 584 | Karton Kapak | Kitap Kağıdı 2024-02-21",
@@ -1091,7 +1091,7 @@
   {
     "kitap_adi": "Malamander",
     "yazar": "Thomas Taylor",
-    "fiyat": "121,04",
+    "fiyat": "120,54",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "Malamander | 9786050833775 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2021-08-05",
@@ -3130,15 +3130,6 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050842937 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2021-10-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11485518/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Hizmetçi",
-    "yazar": "Freida Mcfadden",
-    "fiyat": "160,56",
-    "eski_fiyat": "",
-    "yayinevi": "OLİMPOS YAYINLARI",
-    "kitap_hakkinda": "9786256411302 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-04-18",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700949/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yedi Diyar Geçidi",
