@@ -1028,7 +1028,7 @@
   {
     "kitap_adi": "Uçurtma Avcısı",
     "yazar": "Khaled Hosseini",
-    "fiyat": "173,75",
+    "fiyat": "173,85",
     "eski_fiyat": "",
     "yayinevi": "EVEREST YAYINLARI",
     "kitap_hakkinda": "9789752891456 | TÜRKÇE | 375 | Karton Kapak | Kitap Kağıdı 2023-05-22",
@@ -1046,7 +1046,7 @@
   {
     "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek (Modern Kapak)",
     "yazar": "Erich Fromm",
-    "fiyat": "119,45",
+    "fiyat": "153,58",
     "eski_fiyat": "",
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9786050207958 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-10-18",
@@ -1109,7 +1109,7 @@
   {
     "kitap_adi": "Aklımda Bir Yer Var",
     "yazar": "Hatice Kübra Tongar",
-    "fiyat": "75,00",
+    "fiyat": "100,10",
     "eski_fiyat": "",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259897981 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2023-12-13",
@@ -1379,7 +1379,7 @@
   {
     "kitap_adi": "Küçük Ağaç'ın Eğitimi",
     "yazar": "Forrest Carter",
-    "fiyat": "137,10",
+    "fiyat": "171,38",
     "eski_fiyat": "",
     "yayinevi": "SAY YAYINLARI",
     "kitap_hakkinda": "9789754680942 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2022-12-02",
@@ -2079,6 +2079,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11417059/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Sevme Sanatı / Bir Eylem Olarak Sevmek",
+    "yazar": "Erich Fromm",
+    "fiyat": "158,40",
+    "eski_fiyat": "",
+    "yayinevi": "SAY YAYINLARI",
+    "kitap_hakkinda": "9786050207941 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2022-02-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11648370/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Yol",
     "yazar": "Jack London",
     "fiyat": "14,88",
@@ -2243,7 +2252,7 @@
   {
     "kitap_adi": "Veda Etmiyorum",
     "yazar": "Han Kang",
-    "fiyat": "105,50",
+    "fiyat": "104,60",
     "eski_fiyat": "",
     "yayinevi": "APRIL YAYINCILIK",
     "kitap_hakkinda": "I Do Not Bid Farewell  | 9786259864358 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2024-06-07",
