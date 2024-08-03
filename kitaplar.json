@@ -128,7 +128,7 @@
   {
     "kitap_adi": "Aşk Hikayesi",
     "yazar": "Prof. Dr. İskender Pala",
-    "fiyat": "110,55",
+    "fiyat": "109,65",
     "eski_fiyat": "",
     "yayinevi": "KAPI YAYINLARI",
     "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
@@ -155,7 +155,7 @@
   {
     "kitap_adi": "Körlük",
     "yazar": "Jose Saramago",
-    "fiyat": "148,73",
+    "fiyat": "148,83",
     "eski_fiyat": "",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
     "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
@@ -2043,6 +2043,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422255/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yıldızlar Saçıldığında (Fleksi Kapak)",
+    "yazar": "Omar Mohamed  Victoria Jamieson",
+    "fiyat": "220,20",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050844818 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2022-06-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11581233/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Şu Çılgın Türkler",
     "yazar": "Turgut Özakman",
     "fiyat": "295,84",
@@ -3121,6 +3130,15 @@
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "9786050842937 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2021-10-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11485518/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Hizmetçi",
+    "yazar": "Freida Mcfadden",
+    "fiyat": "161,36",
+    "eski_fiyat": "",
+    "yayinevi": "OLİMPOS YAYINLARI",
+    "kitap_hakkinda": "9786256411302 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2023-04-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11700949/wi:500/wh:true"
   },
   {
     "kitap_adi": "Yedi Diyar Geçidi",
