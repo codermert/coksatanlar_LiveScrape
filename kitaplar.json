@@ -965,7 +965,7 @@
   {
     "kitap_adi": "Dansa Davet",
     "yazar": "Jean Teule",
-    "fiyat": "82,50",
+    "fiyat": "71,10",
     "eski_fiyat": "",
     "yayinevi": "SEL YAYINCILIK",
     "kitap_hakkinda": "Entrez dans la danse Yazar: Jean Teulé | 9786057728456 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2022-12-01",
@@ -4219,6 +4219,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "For Whom the Bell Tolls | 9789752201699 | TÜRKÇE | 636 | Karton Kapak | Kitap Kağıdı 2018-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7672924/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Görme Biçimleri",
+    "yazar": "John Berger",
+    "fiyat": "100,10",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "Ways of Seeing | 9789753420839 | TÜRKÇE | 166 | Karton Kapak | 1. Hm. Kağıt 2019-05-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11247508/wi:500/wh:true"
   },
   {
     "kitap_adi": "Swann'ların Tarafı / Kayıp Zamanın İzinde",
