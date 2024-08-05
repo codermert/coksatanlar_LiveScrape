@@ -1262,7 +1262,7 @@
   {
     "kitap_adi": "Son Ada’nın Çocukları",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "76,30",
+    "fiyat": "112,84",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041326 | TÜRKÇE | 164 | Karton Kapak | Kitap Kağıdı 2020-10-12",
@@ -2495,7 +2495,7 @@
   {
     "kitap_adi": "Orta Zekalılar Cenneti",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "126,75",
+    "fiyat": "157,17",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041630 | TÜRKÇE | 264 | Karton Kapak | Kitap Kağıdı 2021-03-09",
@@ -3679,6 +3679,15 @@
     "yayinevi": "KAPRA YAYINCILIK",
     "kitap_hakkinda": "Turkish Fairy Tales And Folk Tales | 9786258076318 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2022-03-07",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11532064/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Ruhun Yaralı Şifacısı Carl Jung",
+    "yazar": "Claire Dunne",
+    "fiyat": "112,20",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN NOVUS",
+    "kitap_hakkinda": "9786258004953 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2024-03-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11864714/wi:500/wh:true"
   },
   {
     "kitap_adi": "Çocuk Kalbi (Ciltli, İplik Dikişli)",
