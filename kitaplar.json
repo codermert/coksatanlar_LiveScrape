@@ -1827,6 +1827,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422294/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Cennetin Doğusu",
+    "yazar": "John Steinbeck",
+    "fiyat": "273,59",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750531200 | TÜRKÇE | 644 | Karton Kapak | Kitap Kağıdı 2021-06-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11429327/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Pera Palas'ta Onbir Gece",
     "yazar": "Kayahan Demir",
     "fiyat": "73,35",
@@ -2783,7 +2792,7 @@
   {
     "kitap_adi": "Sağlıklı, Ahlaklı ve Mutlu Kız Çocuğu Yetiştirmek",
     "yazar": "Hatice Kübra Tongar",
-    "fiyat": "88,12",
+    "fiyat": "88,22",
     "eski_fiyat": "",
     "yayinevi": "AİLE YAYINLARI",
     "kitap_hakkinda": "9786259897912 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-10-11",
@@ -3256,6 +3265,15 @@
     "yayinevi": "BİLGİ YAYINEVİ",
     "kitap_hakkinda": "For Whom the Bell Tolls | 9789752201699 | TÜRKÇE | 636 | Karton Kapak | Kitap Kağıdı 2018-12-21",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7672924/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Görme Biçimleri",
+    "yazar": "John Berger",
+    "fiyat": "99,10",
+    "eski_fiyat": "",
+    "yayinevi": "METİS YAYINLARI",
+    "kitap_hakkinda": "Ways of Seeing | 9789753420839 | TÜRKÇE | 166 | Karton Kapak | 1. Hm. Kağıt 2019-05-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11247508/wi:500/wh:true"
   },
   {
     "kitap_adi": "Cerrah",
