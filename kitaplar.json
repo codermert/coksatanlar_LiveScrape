@@ -1055,7 +1055,7 @@
   {
     "kitap_adi": "Leyla’nın Evi",
     "yazar": "Zülfü Livaneli",
-    "fiyat": "116,20",
+    "fiyat": "139,50",
     "eski_fiyat": "",
     "yayinevi": "İNKILAP KİTABEVİ",
     "kitap_hakkinda": "9789751041883 | TÜRKÇE | 232 | Karton Kapak | Kitap Kağıdı 2021-06-23",
@@ -2036,7 +2036,7 @@
   {
     "kitap_adi": "Kayıp Balina",
     "yazar": "Hannah Gold",
-    "fiyat": "108,25",
+    "fiyat": "108,35",
     "eski_fiyat": "",
     "yayinevi": "TİMAŞ GENÇ",
     "kitap_hakkinda": "The Lost Whale | 9786050847406 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2023-05-08",
@@ -2095,15 +2095,6 @@
     "yayinevi": "DERGAH YAYINLARI",
     "kitap_hakkinda": "9789759955694 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2017-09-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:500/wh:true"
-  },
-  {
-    "kitap_adi": "Suyu Arayan Adam",
-    "yazar": "Şevket Süreyya Aydemir",
-    "fiyat": "201,83",
-    "eski_fiyat": "",
-    "yayinevi": "REMZİ KİTABEVİ",
-    "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8468433/wi:500/wh:true"
   },
   {
     "kitap_adi": "Aklından Bir Sayı Tut",
