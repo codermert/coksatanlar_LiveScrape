@@ -632,7 +632,7 @@
   {
     "kitap_adi": "Kuyucaklı Yusuf",
     "yazar": "Sabahattin Ali",
-    "fiyat": "27,80",
+    "fiyat": "27,90",
     "eski_fiyat": "",
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
@@ -2097,6 +2097,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Suyu Arayan Adam",
+    "yazar": "Şevket Süreyya Aydemir",
+    "fiyat": "201,83",
+    "eski_fiyat": "",
+    "yayinevi": "REMZİ KİTABEVİ",
+    "kitap_hakkinda": "9789751403810 | TÜRKÇE | 408 | Karton Kapak | 3. Hm. Kağıt 2020-01-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8468433/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Aklından Bir Sayı Tut",
     "yazar": "John Verdon",
     "fiyat": "117,82",
@@ -2536,6 +2545,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789750840333 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2023-12-15",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:10917254/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Aylak Adam",
+    "yazar": "Yusuf Atılgan",
+    "fiyat": "111,24",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750735646 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2019-08-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11438831/wi:500/wh:true"
   },
   {
     "kitap_adi": "İşin Aslı, Judit ve Sonrası",
