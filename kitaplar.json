@@ -72,6 +72,15 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11914346/wi:500/wh:true"
   },
   {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "105,05",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Labirent & Batı ve Hasımları",
     "yazar": "Amin Maalouf",
     "fiyat": "103,41",
@@ -470,7 +479,7 @@
   {
     "kitap_adi": "Hayvan Çiftliği (Ciltsiz)",
     "yazar": "George Orwell",
-    "fiyat": "26,81",
+    "fiyat": "43,51",
     "eski_fiyat": "",
     "yayinevi": "CAN YAYINLARI",
     "kitap_hakkinda": "Animall Farm | 9789750719387 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-10-04",
@@ -3166,6 +3175,15 @@
     "yayinevi": "YAPI KREDİ YAYINLARI",
     "kitap_hakkinda": "9789753634755 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2019-11-29",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:12211/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Coşkuyla Ölmek",
+    "yazar": "Şule Gürbüz",
+    "fiyat": "112,95",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750511080 | TÜRKÇE | 191 | Karton Kapak | Kitap Kağıdı 2024-03-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11360926/wi:500/wh:true"
   },
   {
     "kitap_adi": "Lavinia - Aşk Şiirleri",
