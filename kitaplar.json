@@ -1,5 +1,905 @@
 [
   {
+    "kitap_adi": "Söyleme Bilmesinler",
+    "yazar": "Şermin Yaşar",
+    "fiyat": "123,20",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786256570597 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-12-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11815086/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "4 Gün 3 Gece",
+    "yazar": "Ayşe Kulin",
+    "fiyat": "102,02",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9786253692018 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2024-05-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11917010/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Salkım Sokak No:3",
+    "yazar": "İclal Aydın",
+    "fiyat": "168,19",
+    "eski_fiyat": "",
+    "yayinevi": "ARTEMİS YAYINLARI",
+    "kitap_hakkinda": "9786053049722 | TÜRKÇE | 336 | Karton Kapak | Kitap Kağıdı 2024-07-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11908049/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnsanlığımı Yitirirken",
+    "yazar": "Osamu Dazai",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786256475892 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2023-11-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11801746/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kaplanın Sırtında",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "108,90",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751044600 | TÜRKÇE | 324 | Karton Kapak | Kitap Kağıdı 2023-01-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11655631/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Nietzsche Ağladığında",
+    "yazar": "Irvin D. Yalom",
+    "fiyat": "178,20",
+    "eski_fiyat": "",
+    "yayinevi": "AYRINTI YAYINLARI",
+    "kitap_hakkinda": "9789755391465 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2023-09-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11905843/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Hayatın  Anlamı",
+    "yazar": "Sinan Canan",
+    "fiyat": "121,70",
+    "eski_fiyat": "",
+    "yayinevi": "ALFA YAYINLARI",
+    "kitap_hakkinda": "9786254499562 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2024-05-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11897837/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Labirent & Batı ve Hasımları",
+    "yazar": "Amin Maalouf",
+    "fiyat": "103,41",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750862427 | TÜRKÇE | 288 | Karton Kapak | Kitap Kağıdı 2024-03-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11861027/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Saatleri Ayarlama Enstitüsü",
+    "yazar": "Ahmet Hamdi Tanpınar",
+    "fiyat": "240,00",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9789759955762 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2017-09-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11914346/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zeytindağı",
+    "yazar": "Falih Rıfkı Atay",
+    "fiyat": "82,50",
+    "eski_fiyat": "",
+    "yayinevi": "POZİTİF YAYINLARI",
+    "kitap_hakkinda": "9789756461075 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2023-06-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11764839/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Tağut & Kutsal Aldanışın Soyağacı",
+    "yazar": "Soner Yalçın",
+    "fiyat": "206,25",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "9786254183072 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2024-06-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11903932/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yaşamak",
+    "yazar": "Yu Hua",
+    "fiyat": "109,38",
+    "eski_fiyat": "",
+    "yayinevi": "JAGUAR KİTAP",
+    "kitap_hakkinda": "9786056587887 | TÜRKÇE | 210 | Karton Kapak | Kitap Kağıdı 2019-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Algernon'a Çiçekler",
+    "yazar": "Daniel Keyes",
+    "fiyat": "94,26",
+    "eski_fiyat": "",
+    "yayinevi": "KORİDOR YAYINCILIK",
+    "kitap_hakkinda": "9786054629862 | TÜRKÇE | 325 | Karton Kapak | Kitap Kağıdı 2015-03-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1013537/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sineklerin Tanrısı (Karton Kapak)",
+    "yazar": "William Golding",
+    "fiyat": "53,05",
+    "eski_fiyat": "",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "Lord of the Flies | 9789754582901 | TÜRKÇE | 261 | Karton Kapak | Kitap Kağıdı 2019-07-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4060201/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Şeker Portakalı (Ciltsiz)",
+    "yazar": "Jose Mauro De Vasconcelos",
+    "fiyat": "99,52",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "O Meu Pé de Laranja Lima | 9789750738609 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2019-09-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462950/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Aşk Hikayesi",
+    "yazar": "Prof. Dr. İskender Pala",
+    "fiyat": "109,65",
+    "eski_fiyat": "",
+    "yayinevi": "KAPI YAYINLARI",
+    "kitap_hakkinda": "9786258096910 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2023-10-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11875304/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Momo",
+    "yazar": "Michael Ende",
+    "fiyat": "136,95",
+    "eski_fiyat": "",
+    "yayinevi": "PEGASUS YAYINLARI",
+    "kitap_hakkinda": "9786052993019 | TÜRKÇE | 304 | Karton Kapak | Kitap Kağıdı 2017-09-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4493743/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bin Dokuz Yüz Seksen Dört - 1984",
+    "yazar": "George Orwell",
+    "fiyat": "22,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257300117 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2021-01-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11338358/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Körlük",
+    "yazar": "Jose Saramago",
+    "fiyat": "150,63",
+    "eski_fiyat": "",
+    "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
+    "kitap_hakkinda": "9786254182228 | TÜRKÇE | 320 | Karton Kapak | Kitap Kağıdı 2023-05-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11911357/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Puslu Kıtalar Atlası",
+    "yazar": "İhsan Oktay Anar",
+    "fiyat": "130,85",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754704723 | TÜRKÇE | 238 | Karton Kapak | Kitap Kağıdı 2021-06-02",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11422412/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Başkanın Adamları",
+    "yazar": "Mustafa Kutlu",
+    "fiyat": "128,70",
+    "eski_fiyat": "",
+    "yayinevi": "DERGAH YAYINLARI",
+    "kitap_hakkinda": "9786256839830 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2024-05-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11894722/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir İdam Mahkumunun Son Günü",
+    "yazar": "Victor Hugo",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257751223 | TÜRKÇE | 128 | Karton Kapak | Kitap Kağıdı 2020-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318912/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Simyacı (Ciltsiz)",
+    "yazar": "Paulo Coelho",
+    "fiyat": "110,22",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750726439 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-09-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11819904/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Fareler ve İnsanlar",
+    "yazar": "John Steinbeck",
+    "fiyat": "59,42",
+    "eski_fiyat": "",
+    "yayinevi": "SEL YAYINCILIK",
+    "kitap_hakkinda": "9789755705859 | TÜRKÇE | 111 | Karton Kapak | Kitap Kağıdı 2023-01-26",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11227945/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Masumiyet Müzesi",
+    "yazar": "Orhan Pamuk",
+    "fiyat": "163,90",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750826146 | TÜRKÇE | 524 | Karton Kapak | Kitap Kağıdı 2024-02-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:53812/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Serenad",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "156,00",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751042668 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2021-11-16",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11483001/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Veronika Ölmek İstiyor",
+    "yazar": "Paulo Coelho",
+    "fiyat": "90,30",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750730153 | TÜRKÇE | 198 | Karton Kapak | Kitap Kağıdı 2019-08-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481517/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnsancıklar",
+    "yazar": "Fyodor Mihailoviç Dostoyevski",
+    "fiyat": "14,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257784757 | TÜRKÇE | 176 | Karton Kapak | Kitap Kağıdı 2021-01-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345520/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yeraltından Notlar",
+    "yazar": "Fyodor Mihailoviç Dostoyevski",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257784504 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2020-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11319004/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Balıkçı ve Oğlu",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "81,25",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751042125 | TÜRKÇE | 140 | Karton Kapak | Kitap Kağıdı 2021-06-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11436084/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gece Yarısı Kütüphanesi",
+    "yazar": "Matt Haig",
+    "fiyat": "107,02",
+    "eski_fiyat": "",
+    "yayinevi": "DOMİNGO YAYINEVİ",
+    "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631602/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Çavdar Tarlasında Çocuklar",
+    "yazar": "J. D. Salinger",
+    "fiyat": "47,00",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789753636360 | TÜRKÇE | 198 | Karton Kapak | 3. Hm. Kağıt 2019-08-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6532396/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Son Ayı",
+    "yazar": "Hannah Gold",
+    "fiyat": "91,50",
+    "eski_fiyat": "",
+    "yayinevi": "TİMAŞ GENÇ",
+    "kitap_hakkinda": "9786050843392 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2023-08-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11517812/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Küçük Prens",
+    "yazar": "Antoine De Saint Exupery",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257751353 | TÜRKÇE | 96 | Karton Kapak | Kitap Kağıdı 2021-01-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11345522/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "1984",
+    "yazar": "George Orwell",
+    "fiyat": "55,01",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Nineteen Eighty-four | 9789750718533 | TÜRKÇE | 352 | Karton Kapak | Kitap Kağıdı 2019-04-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484453/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Zamanı Durdurmanın Yolları",
+    "yazar": "Matt Haig",
+    "fiyat": "107,70",
+    "eski_fiyat": "",
+    "yayinevi": "DOMİNGO YAYINEVİ",
+    "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631025/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Japon Masalları & Ejder Sarayı’nın Çanı",
+    "yazar": "Kunio Yanagita",
+    "fiyat": "100,00",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786256309562 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2024-07-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11915397/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Semerkant",
+    "yazar": "Amin Maalouf",
+    "fiyat": "93,62",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750810039 | TÜRKÇE | 318 | Karton Kapak | Kitap Kağıdı 2021-09-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1135132/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnce Memed 1",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "157,42",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807145 | TÜRKÇE | 436 | Karton Kapak | Kitap Kağıdı 2021-12-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6663013/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sessiz Hasta",
+    "yazar": "Alex Michaelides",
+    "fiyat": "105,70",
+    "eski_fiyat": "",
+    "yayinevi": "DOMİNGO YAYINEVİ",
+    "kitap_hakkinda": "Silent Patient | 9786051981482 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2024-07-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11376436/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir İdam Mahkumunun Son Günü",
+    "yazar": "Victor Hugo",
+    "fiyat": "27,55",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9786052194973 | TÜRKÇE | 85 | Karton Kapak | Kitap Kağıdı 2018-08-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:6678075/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Beyaz Zambaklar Ülkesinde",
+    "yazar": "Grigory Petrov",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257784658 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2020-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318908/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kalk Yerine Yat",
+    "yazar": "Şermin Yaşar",
+    "fiyat": "101,12",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786258036107 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2021-11-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11484000/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Otomatik Portakal (Ciltsiz)",
+    "yazar": "Anthony Burgess",
+    "fiyat": "28,43",
+    "eski_fiyat": "",
+    "yayinevi": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+    "kitap_hakkinda": "A Clockwork Orange | 9786052957929 | TÜRKÇE | 171 | Karton Kapak | Kitap Kağıdı 2019-09-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8539346/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Eşekli Kütüphaneci",
+    "yazar": "Fakir Baykurt",
+    "fiyat": "96,70",
+    "eski_fiyat": "",
+    "yayinevi": "LİTERATÜR YAYINLARI",
+    "kitap_hakkinda": "9789750404030 | TÜRKÇE | 148 | Karton Kapak | Kitap Kağıdı 2024-03-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11776101/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnsanlar",
+    "yazar": "Matt Haig",
+    "fiyat": "112,04",
+    "eski_fiyat": "",
+    "yayinevi": "DOMİNGO YAYINEVİ",
+    "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11631604/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yüzyıllık Yalnızlık (Ciltsiz)",
+    "yazar": "Gabriel Garcia Marquez",
+    "fiyat": "164,04",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750719363 | TÜRKÇE | 464 | Karton Kapak | Kitap Kağıdı 2019-09-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11846628/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Hayvan Çiftliği (Ciltsiz)",
+    "yazar": "George Orwell",
+    "fiyat": "43,51",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Animall Farm | 9789750719387 | TÜRKÇE | 152 | Karton Kapak | Kitap Kağıdı 2019-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11447395/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Fahrenheit 451",
+    "yazar": "Ray Bradbury",
+    "fiyat": "108,20",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "9786053757818 | TÜRKÇE | 208 | Karton Kapak | Kitap Kağıdı 2021-08-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11643403/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Açlık",
+    "yazar": "Knut Hamsun",
+    "fiyat": "14,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786258281316 | TÜRKÇE | 192 | Karton Kapak | Kitap Kağıdı 2023-01-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11651599/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kuru Kız",
+    "yazar": "Ayfer Tunç",
+    "fiyat": "84,51",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750760099 | TÜRKÇE | 216 | Karton Kapak | Kitap Kağıdı 2023-04-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11690336/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Cesur Yeni Dünya",
+    "yazar": "Aldous Huxley",
+    "fiyat": "117,20",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "9789756902165 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2021-08-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11643404/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bülbül",
+    "yazar": "Kristin Hannah",
+    "fiyat": "180,95",
+    "eski_fiyat": "",
+    "yayinevi": "PEGASUS YAYINLARI",
+    "kitap_hakkinda": "The Nightingale | 9786053438373 | TÜRKÇE | 544 | Karton Kapak | Kitap Kağıdı 2017-02-03",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:3083064/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Oh Ne Ala Memleket",
+    "yazar": "Şermin Yaşar",
+    "fiyat": "159,20",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN EGMONT ÇOCUK KİTAPLARI",
+    "kitap_hakkinda": "9786050980325 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2020-07-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11481362/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Pal Sokağı Çocukları",
+    "yazar": "Ferenc Molnar",
+    "fiyat": "22,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786258281378 | TÜRKÇE | 200 | Karton Kapak | Kitap Kağıdı 2023-01-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11651602/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Edgar Allan Poe Seti (3 Kitap)",
+    "yazar": "Edgar Allan Poe",
+    "fiyat": "63,75",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "9781695329706 | TÜRKÇE | 189 | Karton Kapak | Kitap Kağıdı 2018-11-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7396958/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kinyas ve Kayra",
+    "yazar": "Hakan Günday",
+    "fiyat": "207,94",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9789759917951 | TÜRKÇE | 531 | Karton Kapak | Kitap Kağıdı 2022-04-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11784545/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İçimizdeki Şeytan",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "27,70",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789753638036 | TÜRKÇE | 267 | Karton Kapak | Kitap Kağıdı 2019-07-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1105911/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Değersiz Bir Hayat",
+    "yazar": "Hanya Yanagihara",
+    "fiyat": "282,88",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786050949889 | TÜRKÇE | 824 | Karton Kapak | Kitap Kağıdı 2024-02-29",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5459930/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Tutunamayanlar / Bütün Eserleri 1",
+    "yazar": "Oğuz Atay",
+    "fiyat": "262,64",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754700114 | TÜRKÇE | 724 | Karton Kapak | Kitap Kağıdı 2023-08-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11462655/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Üç Cisim Problemi",
+    "yazar": "Cixin Liu",
+    "fiyat": "144,14",
+    "eski_fiyat": "",
+    "yayinevi": "İTHAKİ YAYINLARI",
+    "kitap_hakkinda": "9786053754992 | TÜRKÇE | 416 | Karton Kapak | Kitap Kağıdı 2020-12-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11332315/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kızıl Karma",
+    "yazar": "Jean Christophe Grange",
+    "fiyat": "206,04",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "9786256666061 | TÜRKÇE | 584 | Karton Kapak | Kitap Kağıdı 2024-02-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11850394/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bir Aşk Masalı",
+    "yazar": "Ahmet Ümit",
+    "fiyat": "49,10",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750854491 | TÜRKÇE | 256 | Karton Kapak | Kitap Kağıdı 2022-10-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11610438/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kırmızı Pazartesi",
+    "yazar": "Gabriel Garcia Marquez",
+    "fiyat": "87,02",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750721571 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2019-04-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11432147/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Bu Ülke",
+    "yazar": "Cemil Meriç",
+    "fiyat": "164,40",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789754702811 | TÜRKÇE | 339 | Karton Kapak | 3. Hm. Kağıt 2021-10-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11460549/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnci",
+    "yazar": "John Steinbeck",
+    "fiyat": "72,19",
+    "eski_fiyat": "",
+    "yayinevi": "SEL YAYINCILIK",
+    "kitap_hakkinda": "9789755705866 | TÜRKÇE | 102 | Karton Kapak | Kitap Kağıdı 2023-11-13",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11296928/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Martin Eden (Beyaz Kapak)",
+    "yazar": "Jack London",
+    "fiyat": "108,75",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750738326 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2019-04-25",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11819906/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Son Ada",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "94,25",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751041098 | TÜRKÇE | 168 | Karton Kapak | Kitap Kağıdı 2020-09-04",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11263781/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Genç Werther’in Acıları",
+    "yazar": "Johann Wolfgang Goethe",
+    "fiyat": "12,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257300377 | TÜRKÇE | 120 | Karton Kapak | Kitap Kağıdı 2021-01-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11349917/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kardeşimin Hikayesi",
+    "yazar": "Zülfü Livaneli",
+    "fiyat": "124,40",
+    "eski_fiyat": "",
+    "yayinevi": "İNKILAP KİTABEVİ",
+    "kitap_hakkinda": "9789751042521 | TÜRKÇE | 280 | Karton Kapak | Kitap Kağıdı 2021-09-20",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11455589/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İrade Terbiyesi",
+    "yazar": "Dr. Ethem Bakar",
+    "fiyat": "84,10",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786256495555 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2023-08-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11850840/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Arafta Düet",
+    "yazar": "Yiğit Bener  Selahattin Demirtaş",
+    "fiyat": "107,20",
+    "eski_fiyat": "",
+    "yayinevi": "DİPNOT YAYINLARI",
+    "kitap_hakkinda": "9786256742116 | TÜRKÇE | 166 | Karton Kapak | Kitap Kağıdı 2024-07-05",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11909156/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Fedailerin Kalesi Alamut",
+    "yazar": "Vladimir Bartol",
+    "fiyat": "117,82",
+    "eski_fiyat": "",
+    "yayinevi": "KORİDOR YAYINCILIK",
+    "kitap_hakkinda": "9786054188970 | TÜRKÇE | 510 | Karton Kapak | Kitap Kağıdı 2012-03-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:183239/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Böyle Buyurdu Zerdüşt",
+    "yazar": "Friedrich Nietzsche",
+    "fiyat": "24,90",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "Also Sprach Zarathustra | 9786257784634 | TÜRKÇE | 300 | Karton Kapak | Kitap Kağıdı 2020-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318914/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Esir Şehrin İnsanları",
+    "yazar": "Kemal Tahir",
+    "fiyat": "132,20",
+    "eski_fiyat": "",
+    "yayinevi": "KETEBE YAYINEVİ",
+    "kitap_hakkinda": "9786256999190 | TÜRKÇE | 448 | Karton Kapak | Kitap Kağıdı 2022-12-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11641415/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kayıp Ağaçlar Adası",
+    "yazar": "Elif Şafak",
+    "fiyat": "166,63",
+    "eski_fiyat": "",
+    "yayinevi": "DOĞAN KİTAP",
+    "kitap_hakkinda": "The Island of Missing Trees | 9786256843158 | TÜRKÇE | 408 | Karton Kapak | Kitap Kağıdı 2023-07-21",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11739865/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnce Memed 2",
+    "yazar": "Yaşar Kemal",
+    "fiyat": "197,90",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750807176 | TÜRKÇE | 459 | Karton Kapak | Kitap Kağıdı 2020-02-27",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:100877/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kuyucaklı Yusuf",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "28,10",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750800016 | TÜRKÇE | 221 | Karton Kapak | Kitap Kağıdı 2019-08-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1105919/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Suç ve Ceza (2 Cilt Takım) (Ciltli, İplik Dikişli)",
+    "yazar": "Fyodor Mihailoviç Dostoyevski",
+    "fiyat": "89,70",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786258076622 | TÜRKÇE | 636 | Ciltli | Kitap Kağıdı 2022-07-26",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11592410/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Olasılıksız",
+    "yazar": "Adam Fawer",
+    "fiyat": "103,56",
+    "eski_fiyat": "",
+    "yayinevi": "APRIL YAYINCILIK",
+    "kitap_hakkinda": "9789756006054 | TÜRKÇE | 496 | Karton Kapak | Kitap Kağıdı 2023-09-07",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11765595/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kızıl Veba",
+    "yazar": "Jack London",
+    "fiyat": "13,95",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257361606 | TÜRKÇE | 64 | Karton Kapak | Kitap Kağıdı 2021-04-10",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11398992/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kürk Mantolu Madonna",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "19,25",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789753638029 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2023-08-15",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1207631/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yaşlı Adam ve Deniz",
+    "yazar": "Ernest Hemingway",
+    "fiyat": "107,81",
+    "eski_fiyat": "",
+    "yayinevi": "BİLGİ YAYINEVİ",
+    "kitap_hakkinda": "9789752201682 | TÜRKÇE | 88 | Karton Kapak | Kitap Kağıdı 2019-04-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:7672921/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Çocuk Kalbi",
+    "yazar": "Edmondo De Amicis",
+    "fiyat": "22,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "Cuore | 9786257784085 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2020-11-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11318916/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Mai ve Siyah",
+    "yazar": "Halid Ziya Uşaklıgil",
+    "fiyat": "22,85",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257300926 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2021-02-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11364228/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Doğu Ekspresinde Cinayet",
+    "yazar": "Agatha Christie",
+    "fiyat": "134,59",
+    "eski_fiyat": "",
+    "yayinevi": "ALTIN KİTAPLAR",
+    "kitap_hakkinda": "Murder on the Orient Express | 9789754050943 | TÜRKÇE | 256 | Karton Kapak | 3. Hm. Kağıt 2023-08-08",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:5558946/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gülün Adı (Ciltsiz)",
+    "yazar": "Umberto Eco",
+    "fiyat": "190,60",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750732737 | TÜRKÇE | 732 | Karton Kapak | Kitap Kağıdı 2019-09-12",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11373991/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İntihar Dükkanı",
+    "yazar": "Jean Teule",
+    "fiyat": "84,20",
+    "eski_fiyat": "",
+    "yayinevi": "SEL YAYINCILIK",
+    "kitap_hakkinda": "9789755705460 | TÜRKÇE | 144 | Karton Kapak | Kitap Kağıdı 2022-09-23",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11888264/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Toprak Ana",
+    "yazar": "Cengiz Aytmatov",
+    "fiyat": "44,44",
+    "eski_fiyat": "",
+    "yayinevi": "ÖTÜKEN NEŞRİYAT",
+    "kitap_hakkinda": "9789754371543 | TÜRKÇE | 136 | Karton Kapak | Kitap Kağıdı 2023-01-11",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11737232/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Gazap Üzümleri",
+    "yazar": "John Steinbeck",
+    "fiyat": "211,05",
+    "eski_fiyat": "",
+    "yayinevi": "İLETİŞİM YAYINLARI",
+    "kitap_hakkinda": "9789750531170 | TÜRKÇE | 540 | Karton Kapak | Kitap Kağıdı 2021-12-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11429321/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Kumarbaz",
+    "yazar": "Fyodor Mihailoviç Dostoyevski",
+    "fiyat": "14,88",
+    "eski_fiyat": "",
+    "yayinevi": "KAPRA YAYINCILIK",
+    "kitap_hakkinda": "9786257751742 | TÜRKÇE | 184 | Karton Kapak | Kitap Kağıdı 2021-11-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11487269/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Uçurtma Avcısı",
+    "yazar": "Khaled Hosseini",
+    "fiyat": "173,45",
+    "eski_fiyat": "",
+    "yayinevi": "EVEREST YAYINLARI",
+    "kitap_hakkinda": "9789752891456 | TÜRKÇE | 375 | Karton Kapak | Kitap Kağıdı 2023-05-22",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11870173/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Canım Aliye, Ruhum Filiz",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "36,58",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750826672 | TÜRKÇE | 160 | Karton Kapak | Kitap Kağıdı 2019-06-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:163320/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "İnsan Nedir? (Cep Boy) (Tam Metin)",
+    "yazar": "Mark Twain",
+    "fiyat": "9,90",
+    "eski_fiyat": "",
+    "yayinevi": "KARBON KİTAPLAR",
+    "kitap_hakkinda": "What is Man? | 9786057803221 | TÜRKÇE | 137 | Karton Kapak | Kitap Kağıdı 2019-07-19",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11567739/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Dansa Davet",
+    "yazar": "Jean Teule",
+    "fiyat": "82,50",
+    "eski_fiyat": "",
+    "yayinevi": "SEL YAYINCILIK",
+    "kitap_hakkinda": "Entrez dans la danse Yazar: Jean Teulé | 9786057728456 | TÜRKÇE | 104 | Karton Kapak | Kitap Kağıdı 2022-12-01",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11881210/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Yabancı",
+    "yazar": "Albert Camus",
+    "fiyat": "108,75",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "9789750748677 | TÜRKÇE | 112 | Karton Kapak | Kitap Kağıdı 2021-04-09",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11398685/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Güneşi Uyandıralım",
+    "yazar": "Jose Mauro De Vasconcelos",
+    "fiyat": "162,43",
+    "eski_fiyat": "",
+    "yayinevi": "CAN YAYINLARI",
+    "kitap_hakkinda": "Vamós Aquecer o Sol | 9789750739071 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2019-08-06",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11854074/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Sırça Köşk",
+    "yazar": "Sabahattin Ali",
+    "fiyat": "20,14",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750806629 | TÜRKÇE | 141 | Karton Kapak | 3. Hm. Kağıt 2021-09-24",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:1105934/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Beni Asla Bırakma",
+    "yazar": "Kazuo Ishiguro",
+    "fiyat": "89,80",
+    "eski_fiyat": "",
+    "yayinevi": "YAPI KREDİ YAYINLARI",
+    "kitap_hakkinda": "9789750811876 | TÜRKÇE | 272 | Karton Kapak | Kitap Kağıdı 2024-03-18",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4745345/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Pia Mater",
+    "yazar": "Serkan Karaismailoğlu",
+    "fiyat": "183,64",
+    "eski_fiyat": "",
+    "yayinevi": "ELMA YAYINEVİ",
+    "kitap_hakkinda": "9786059367509 | TÜRKÇE | 424 | Karton Kapak | Kitap Kağıdı 2019-05-28",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:8863916/wi:500/wh:true"
+  },
+  {
     "kitap_adi": "Arachnoid Mater",
     "yazar": "Serkan Karaismailoğlu",
     "fiyat": "178,24",
