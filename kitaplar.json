@@ -218,7 +218,7 @@
   {
     "kitap_adi": "Zamanı Durdurmanın Yolları",
     "yazar": "Matt Haig",
-    "fiyat": "107,70",
+    "fiyat": "122,13",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980560 | TÜRKÇE | 328 | Karton Kapak | Kitap Kağıdı 2018-11-05",
@@ -236,7 +236,7 @@
   {
     "kitap_adi": "Gece Yarısı Kütüphanesi",
     "yazar": "Matt Haig",
-    "fiyat": "107,09",
+    "fiyat": "121,44",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Midnight Library | 9786051981833 | TÜRKÇE | 283 | Karton Kapak | Kitap Kağıdı 2022-02-23",
@@ -335,7 +335,7 @@
   {
     "kitap_adi": "İnsanlar",
     "yazar": "Matt Haig",
-    "fiyat": "112,04",
+    "fiyat": "127,05",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Humans | 9786051982199 | TÜRKÇE | 296 | Karton Kapak | Kitap Kağıdı 2022-04-01",
@@ -398,7 +398,7 @@
   {
     "kitap_adi": "Sessiz Hasta",
     "yazar": "Alex Michaelides",
-    "fiyat": "105,70",
+    "fiyat": "121,44",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Silent Patient | 9786051981482 | TÜRKÇE | 309 | Karton Kapak | Kitap Kağıdı 2024-07-22",
@@ -1334,7 +1334,7 @@
   {
     "kitap_adi": "Nakano Eskici Dükkanı",
     "yazar": "Hiromi Kawakami",
-    "fiyat": "91,33",
+    "fiyat": "113,02",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "Furudogu Nakano Shoten | 9786051980973 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2024-04-22",
@@ -1935,15 +1935,6 @@
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:11260682/wi:500/wh:true"
   },
   {
-    "kitap_adi": "Ateşböceği Yolu",
-    "yazar": "Kristin Hannah",
-    "fiyat": "188,48",
-    "eski_fiyat": "",
-    "yayinevi": "PEGASUS YAYINLARI",
-    "kitap_hakkinda": "Firefly Lane | 9786054263707 | TÜRKÇE | 624 | Karton Kapak | Kitap Kağıdı 2016-09-20",
-    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4441908/wi:500/wh:true"
-  },
-  {
     "kitap_adi": "Vejetaryen",
     "yazar": "Han Kang",
     "fiyat": "86,63",
@@ -2486,7 +2477,7 @@
   {
     "kitap_adi": "Talebe",
     "yazar": "Tara Westover",
-    "fiyat": "129,25",
+    "fiyat": "148,50",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "9786051980942 | TÜRKÇE | 384 | Karton Kapak | Kitap Kağıdı 2020-09-03",
@@ -2972,7 +2963,7 @@
   {
     "kitap_adi": "Hiddet",
     "yazar": "Alex Michaelides",
-    "fiyat": "133,38",
+    "fiyat": "148,50",
     "eski_fiyat": "",
     "yayinevi": "DOMİNGO YAYINEVİ",
     "kitap_hakkinda": "The Fury | 9786051983363 | TÜRKÇE | 312 | Karton Kapak | Kitap Kağıdı 2024-05-23",
@@ -3895,6 +3886,15 @@
     "yayinevi": "NESİN YAYINEVİ",
     "kitap_hakkinda": "9789759038458 | TÜRKÇE | 224 | Karton Kapak | Kitap Kağıdı 2013-10-01",
     "resim": "https://img.kitapyurdu.com/v1/getImage/fn:102431/wi:500/wh:true"
+  },
+  {
+    "kitap_adi": "Limon Ağacı",
+    "yazar": "Sandy Tolan",
+    "fiyat": "164,45",
+    "eski_fiyat": "",
+    "yayinevi": "PEGASUS YAYINLARI",
+    "kitap_hakkinda": "The Lemon Tree | 9786055943516 | TÜRKÇE | 400 | Karton Kapak | Kitap Kağıdı 2016-10-14",
+    "resim": "https://img.kitapyurdu.com/v1/getImage/fn:4441920/wi:500/wh:true"
   },
   {
     "kitap_adi": "Savaşları Kralları ve Filleri Anlat Onlara",
